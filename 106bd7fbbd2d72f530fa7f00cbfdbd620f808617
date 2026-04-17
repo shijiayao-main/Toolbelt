@@ -1,0 +1,39 @@
+.github/workflows/release.yml
+  2e6eb84f699ddc30 9-12,14-15,17-18,20-35,38-39,41,45-46,48,51-52,54-58,60-61,63-65,67-71,74-77,79,82,85-87,90-99
+  6080efb1623e64a4 1-8,13,16,19,36-37,40,42-44,47,49-50,53,59,62,66,72-73,78,80-81,83-84,88-89,100
+composeApp/build.gradle.kts
+  2e6eb84f699ddc30 51-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.12",
+  "base_commit_sha": "106bd7fbbd2d72f530fa7f00cbfdbd620f808617",
+  "prompts": {
+    "2e6eb84f699ddc30": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776419405099",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 164,
+      "total_deletions": 81,
+      "accepted_lines": 161,
+      "overriden_lines": 0
+    },
+    "6080efb1623e64a4": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776396609897",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 112,
+      "total_deletions": 0,
+      "accepted_lines": 34,
+      "overriden_lines": 0
+    }
+  }
+}
