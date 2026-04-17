@@ -1,0 +1,38 @@
+log-tools/build.gradle.kts
+  6080efb1623e64a4 3,10-25,33-36
+gradle.properties
+  85895a0092838ce7 10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.12",
+  "base_commit_sha": "8f9a065ce1e9d5474811d39b7150cc883e98f407",
+  "prompts": {
+    "6080efb1623e64a4": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776396609897",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 2,
+      "accepted_lines": 21,
+      "overriden_lines": 0
+    },
+    "85895a0092838ce7": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776393542208",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
