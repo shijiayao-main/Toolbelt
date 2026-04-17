@@ -1,0 +1,23 @@
+composeApp/build.gradle.kts
+  2e6eb84f699ddc30 55-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.12",
+  "base_commit_sha": "d6e2a3f2c66407ecbda1c49717afa192baf1f24f",
+  "prompts": {
+    "2e6eb84f699ddc30": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776419405099",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 96,
+      "overriden_lines": 0
+    }
+  }
+}
