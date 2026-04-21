@@ -1,0 +1,42 @@
+log-tools/src/main/kotlin/com/jiaoay/log/cli/LogUtilsOptions.kt
+  714be74f5e9edd68 9,42-52
+log-tools/src/main/kotlin/com/jiaoay/log/cli/LogUtilsCommand.kt
+  714be74f5e9edd68 10,23,55-57,75,91-97
+openspec/specs/file-split-by-size/spec.md
+  714be74f5e9edd68 1-45
+openspec/config.yaml
+  714be74f5e9edd68 12-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.12",
+  "base_commit_sha": "b46246d561034c312b4b94375495a394f5e55c34",
+  "prompts": {
+    "2e6eb84f699ddc30": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776419405099",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "714be74f5e9edd68": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776653108297",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 288,
+      "total_deletions": 16,
+      "accepted_lines": 73,
+      "overriden_lines": 0
+    }
+  }
+}
