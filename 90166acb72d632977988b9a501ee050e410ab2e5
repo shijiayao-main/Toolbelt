@@ -1,0 +1,34 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.22",
+  "base_commit_sha": "90166acb72d632977988b9a501ee050e410ab2e5",
+  "prompts": {
+    "2e6eb84f699ddc30": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776419405099",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "6080efb1623e64a4": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776396609897",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 112,
+      "total_deletions": 0,
+      "accepted_lines": 34,
+      "overriden_lines": 0
+    }
+  }
+}
