@@ -1,0 +1,27 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryItem.kt
+  36fcda0b14a9f0ce 1-74
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  36fcda0b14a9f0ce 1-118
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistorySerializer.kt
+  36fcda0b14a9f0ce 1-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.22",
+  "base_commit_sha": "17078dfd5c18979943e94d817bc0425e5767b4cb",
+  "prompts": {
+    "36fcda0b14a9f0ce": {
+      "agent_id": {
+        "tool": "qoder",
+        "id": "ff5fb679-a26c-467d-aaa2-4e099eb83edd",
+        "model": "qoder-model"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 293,
+      "total_deletions": 0,
+      "accepted_lines": 293,
+      "overriden_lines": 0
+    }
+  }
+}
