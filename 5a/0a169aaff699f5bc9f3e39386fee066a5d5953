@@ -1,0 +1,21 @@
+log-tools/src/main/kotlin/com/jiaoay/xlog/LogDecode.kt
+  s_98a9b4a81b7e33::t_ff217c138fe94d 252-275,278-282
+  s_98a9b4a81b7e33::t_0b024b2ed015d6 8-12
+  s_98a9b4a81b7e33::t_5383be9f70c738 113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5a0a169aaff699f5bc9f3e39386fee066a5d5953",
+  "prompts": {},
+  "sessions": {
+    "s_98a9b4a81b7e33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a7ce0fca-5d32-4eb5-88df-d60e18f71756",
+        "model": "GLM-5.2"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
