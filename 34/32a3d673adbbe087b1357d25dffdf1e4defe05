@@ -1,0 +1,31 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_59a97de07231fe::t_f2413ca7d32635 3-4,7,9-12,14-15,19,22-24,31,33,54-71,83-89
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/HomeNavRegistry.kt
+  s_abc1f1072b83b8::t_721fc176ca8af9 7,74
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_abc1f1072b83b8::t_4ef59f57d1b118 25-27,36,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "3432a3d673adbbe087b1357d25dffdf1e4defe05",
+  "prompts": {},
+  "sessions": {
+    "s_59a97de07231fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d96fcfad-095d-4c82-8b64-85399521bf9b",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_abc1f1072b83b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f358540-028b-4e4c-b45e-660753c412f1",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
