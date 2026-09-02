@@ -1,0 +1,73 @@
+composeApp/build.gradle.kts
+  s_a111598cdf9b62::t_3ce8ee214b1948 51-53
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_c660572b112ce3::t_83c8c4050f9c0f 42-45,57-58,120-126
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManager.kt
+  s_c660572b112ce3::t_15e34fe1d7b51d 24,27-29,32,42-54,84-87,119-122,152-170
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/log/GlobalUncaughtExceptionHandler.kt
+  s_a111598cdf9b62::t_6977b488f47c44 1-46
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/log/JLogInitializer.kt
+  s_a111598cdf9b62::t_e2451b12b4691c 3,25-33
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/log/KotlinLoggingLogImpl.kt
+  s_a111598cdf9b62::t_cb67e2531aa114 26
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/AdbCommandRewriter.kt
+  s_c660572b112ce3::t_82c4efb2871bdf 1-55
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/ShellExecModels.kt
+  s_12d1399420bdfd::t_51663b73219c28 1-59
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampConverter.kt
+  s_c660572b112ce3::t_d45e8fc9a42a3e 1-111
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  s_c660572b112ce3::t_1dbf7719799548 3-16,18,20-22,28-31,33-34,36-37,39,43-47,51,53-57,60-61,66,68-69,75-129,132,137-170,172-177,179
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampViewModel.kt
+  s_c660572b112ce3::t_8392ab4a0bac8d 5,7,11,13-21,26-27,29-30,32-38,44-47,49-55,64
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerLogFileEnabledTest.kt
+  s_a111598cdf9b62::t_47f0142f40623d 1-70
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/initializer/JInitializerManagerTest.kt
+  s_a111598cdf9b62::t_c5a28dd6d41bc3 1-117
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/log/GlobalUncaughtExceptionHandlerTest.kt
+  s_a111598cdf9b62::t_4463d8430ce8f7 1-143
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/log/KotlinLoggingLogImplTest.kt
+  s_a111598cdf9b62::t_f9fbe04e3aba16 1-74
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/AdbCommandRewriterTest.kt
+  s_c660572b112ce3::t_d68349f701f415 1-135
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDeviceSelectionTest.kt
+  s_c660572b112ce3::t_73ccb5ee973791 1-136
+openspec/specs/command-show-output-toggle/spec.md
+  s_a111598cdf9b62::t_fe251a4bfba2c9 1-73
+openspec/specs/lark-bridge-module/spec.md
+  s_a111598cdf9b62::t_3433b03a0f71dc 1-81
+openspec/specs/lark-bridge-page/spec.md
+  s_a111598cdf9b62::t_61f32ce1892b22 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "e54b48a146fccfce043450a2f6b39b0a4d972554",
+  "prompts": {},
+  "sessions": {
+    "s_12d1399420bdfd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ece39f2b-a145-4eb2-bfed-84aefd322432",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_a111598cdf9b62": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6ac82026-81f1-49f3-9ae8-f49d85c4c708",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_c660572b112ce3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4cf3d688-19dc-4776-987e-946121915917",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
