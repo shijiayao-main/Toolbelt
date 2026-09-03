@@ -1,0 +1,18 @@
+docs/core/theme.md
+  h_7dc1bf3887130d 125,133
+docs/index.md
+  h_7dc1bf3887130d 27,48
+docs/ui-style-guide.md
+  h_7dc1bf3887130d 1-624
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "40fe0d5bd0db78a3c1d419bb51f669685a6189b6",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
