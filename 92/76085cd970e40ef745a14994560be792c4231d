@@ -1,0 +1,20 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ColorPickerDialog.kt
+  h_7dc1bf3887130d 41-42,75,89,106,111,180
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  h_7dc1bf3887130d 33,55,58-59,97,105,137
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  h_7dc1bf3887130d 18-21,26-27,73-81,98-100,105-162,209-213,218,226,248-272,339-373,378-404,412-420,429-430,557
+docs/core/theme.md
+  h_7dc1bf3887130d 106,166-167,170-171,174-176,182,187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "9276085cd970e40ef745a14994560be792c4231d",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
