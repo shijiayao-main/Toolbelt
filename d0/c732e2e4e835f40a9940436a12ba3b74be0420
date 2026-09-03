@@ -1,0 +1,30 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  h_7dc1bf3887130d 48,92-96,225,232,238,250-253,255-259,261,266-268,271,273,275,279,284,295-314,321-340,343-344
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  h_7dc1bf3887130d 49,503-504,510
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  h_7dc1bf3887130d 36,200-217,219-225
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsChildNode.kt
+  h_7dc1bf3887130d 6,24,26,35-36,123,129-130,132-136
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsParentNode.kt
+  h_7dc1bf3887130d 8,26,30,41-42,97,103-104,106-110
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  h_7dc1bf3887130d 62,170-171,259-264
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  h_7dc1bf3887130d 23,101,117
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/CopyButton.kt
+  h_7dc1bf3887130d 1-171
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/HoverActions.kt
+  h_7dc1bf3887130d 1-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "d0c732e2e4e835f40a9940436a12ba3b74be0420",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
