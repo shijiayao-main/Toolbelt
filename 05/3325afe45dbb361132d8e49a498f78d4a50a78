@@ -1,0 +1,26 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  h_7dc1bf3887130d 50-52,75-81,85-91,96-103
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeLogConsole.kt
+  h_7dc1bf3887130d 23-25,32-33,44-50,54-60
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  h_7dc1bf3887130d 69-71,260-261,263,340-347,351-357
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/CopyButton.kt
+  h_7dc1bf3887130d 135-138,142,149,158
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  h_7dc1bf3887130d 20-21,31-32,72-77,82,84,86,173,181-185,193-207,212-215,218,227,241,286-291,295-296,300-359,361-373
+docs/core/theme.md
+  h_7dc1bf3887130d 209
+docs/pages/shell-tools.md
+  h_7dc1bf3887130d 257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "053325afe45dbb361132d8e49a498f78d4a50a78",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
