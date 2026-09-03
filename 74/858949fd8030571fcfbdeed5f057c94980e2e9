@@ -1,0 +1,14 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  h_7dc1bf3887130d 4,7,10,15-17,34-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "74858949fd8030571fcfbdeed5f057c94980e2e9",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
