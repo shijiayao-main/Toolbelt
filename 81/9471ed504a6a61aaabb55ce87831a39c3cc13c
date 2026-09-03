@@ -1,0 +1,19 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsParentNode.kt
+  s_abc1f1072b83b8::t_37b5f11bcb1fad 3-4,22,27,62-68,77-82,86-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "819471ed504a6a61aaabb55ce87831a39c3cc13c",
+  "prompts": {},
+  "sessions": {
+    "s_abc1f1072b83b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f358540-028b-4e4c-b45e-660753c412f1",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
