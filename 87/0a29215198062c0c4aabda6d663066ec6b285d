@@ -1,0 +1,22 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  h_7dc1bf3887130d 12-13,53-64
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  h_7dc1bf3887130d 3-5,22-26,31,40-44,50-63,65,67-71,73,75-81,87-88,93-100
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeContent.kt
+  h_7dc1bf3887130d 25-32,42-56
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/config/ShellToolsConfigParserTest.kt
+  h_7dc1bf3887130d 7,89,93-98,101,104
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/MotionTest.kt
+  h_7dc1bf3887130d 34-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "870a29215198062c0c4aabda6d663066ec6b285d",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
