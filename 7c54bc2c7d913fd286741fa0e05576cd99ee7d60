@@ -1,0 +1,26 @@
+composeApp/build.gradle.kts
+  h_7dc1bf3887130d 71
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  h_7dc1bf3887130d 72-73,75-79
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  h_7dc1bf3887130d 1-293
+docs/core/theme.md
+  h_7dc1bf3887130d 17,169-173,176-180,184,189-212,215,259
+docs/pages/lark-bridge.md
+  h_7dc1bf3887130d 58-59,63-70
+docs/pages/settings.md
+  h_7dc1bf3887130d 21,34-36
+docs/pages/shell-tools.md
+  h_7dc1bf3887130d 16,24,72-73,138,235-236,257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "7c54bc2c7d913fd286741fa0e05576cd99ee7d60",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

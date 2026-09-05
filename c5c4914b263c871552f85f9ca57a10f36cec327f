@@ -1,0 +1,117 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  h_7dc1bf3887130d 1-36
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  h_7dc1bf3887130d 1-11,12-13,14-52,53-64,65-67
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  h_7dc1bf3887130d 1-30
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/MotionTest.kt
+  h_7dc1bf3887130d 1-33,34-44,45-50
+docs/core/theme.md
+  h_7dc1bf3887130d 17,18-19,106,125,133,167-168,170,171-172,173-174,175-177,179-182,183,184,188,189,191-193,194-213,214,215-217,218-219,220,221-263,264
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_c660572b112ce3::t_8994a158b5ecb6 30,46,83,126,141
+  s_abc1f1072b83b8::t_4ef59f57d1b118 34-36
+  h_7dc1bf3887130d 3-5,22-26,31,40-44,50-63,65,67-71,73,75-81,87-88,93-100
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_59a97de07231fe::t_f2413ca7d32635 3-4,7,9-12,14-15,19,22-24,31,33,54-71,83-89
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/HomeNavRegistry.kt
+  s_abc1f1072b83b8::t_721fc176ca8af9 7,74
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  h_7dc1bf3887130d 48,92-96,225,232,238,250-253,255-259,261,266-268,271,273,275,279,284,295-314,321-340,343-344
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  h_7dc1bf3887130d 59,551-552,558
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  h_7dc1bf3887130d 36,200-217,219-225
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsChildNode.kt
+  h_7dc1bf3887130d 7,26,28,37-38,125,131-132,134-138
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsParentNode.kt
+  h_7dc1bf3887130d 10,30,34,45-46,115,121-122,124-128
+  s_abc1f1072b83b8::t_37b5f11bcb1fad 3-4,22,27,62-68,77-82,86-88
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  h_7dc1bf3887130d 62,69-71,260-261,262,263,264-267,340-347,351-357,367-372
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  h_7dc1bf3887130d 23,101,117
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/CopyButton.kt
+  h_7dc1bf3887130d 1-134,135-138,139-141,142,143-148,149,150-157,158,159-175
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/HoverActions.kt
+  h_7dc1bf3887130d 1-78
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeContent.kt
+  h_7dc1bf3887130d 25-32,42-56
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/ShellExecModels.kt
+  h_7dc1bf3887130d 3-4,39,44
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/config/ShellToolsNode.kt
+  h_7dc1bf3887130d 3-4,9-10,15,28,70-71,73,79,83,91,96,103
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeLogConsole.kt
+  h_7dc1bf3887130d 23-25,26-31,32-33,34,44-50,52-53,54-60,61,76-81
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  h_7dc1bf3887130d 4,22-31,38,47-50,164,303
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/ShellToolsList.kt
+  h_7dc1bf3887130d 25-30
+composeApp/build.gradle.kts
+  h_7dc1bf3887130d 71
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  h_7dc1bf3887130d 50-52,75-81,83-84,85-91,92,96-103
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  h_7dc1bf3887130d 1-17,18-21,22,23-24,25,26-27,28-34,35-36,37-72,73-81,82-84,85-90,91-94,95,96,97,98-100,101,102,105-162,161-170,171-208,209-213,214-217,218,219-225,226,227-247,248-272,273-277,278,279-285,286-290,291-297,298-312,313-316,317-320,321-322,323,324-331,332,333-338,339-373,374-377,378-404,405-407,408,409-411,412-420,421-428,429-430,431-455,456-461,462-464,465-466,467-469,470-529,530,531-543,544,545,546-556,557,558-559
+docs/pages/lark-bridge.md
+  h_7dc1bf3887130d 58-59,63-70
+docs/pages/settings.md
+  h_7dc1bf3887130d 21,34-36
+docs/pages/shell-tools.md
+  h_7dc1bf3887130d 16,24,72-73,138,235-236,257
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ColorPickerDialog.kt
+  h_7dc1bf3887130d 41-42,75,89,106,111,180
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  h_7dc1bf3887130d 33,55,58-59,97,105,137
+docs/index.md
+  h_7dc1bf3887130d 27,48
+docs/ui-style-guide.md
+  h_7dc1bf3887130d 1-624
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  h_7dc1bf3887130d 4,7,10,15-17,34-42
+composeApp/src/jvmMain/composeResources/files/shell_tools_default.json
+  h_7dc1bf3887130d 4,8-9,12-13,18,21-22,27,30,33-35,38-40,43-45,52,55-56,59-64,73,77-78,81-82,85-86,89-90,97,100-101,104-105,112,115-116,119-120,127,130-131,134-135,142-143,145-146,148-150,158,162,165-166,169-170,177,180-181,184-185,188-189,196,199-200,203-204,207-208,215
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/config/ShellToolsConfigParserTest.kt
+  h_7dc1bf3887130d 7,89,93-98,101,104
+docs/architecture.md
+  h_7dc1bf3887130d 83
+docs/shell_tools.md
+  h_7dc1bf3887130d 10,13-15,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "c5c4914b263c871552f85f9ca57a10f36cec327f",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_59a97de07231fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d96fcfad-095d-4c82-8b64-85399521bf9b",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_abc1f1072b83b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f358540-028b-4e4c-b45e-660753c412f1",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_c660572b112ce3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4cf3d688-19dc-4776-987e-946121915917",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

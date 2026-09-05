@@ -1,0 +1,117 @@
+log-tools/src/test/kotlin/com/jiaoay/xlog/stream/XLogChunkReaderTest.kt
+  s_7a88dc3ba9457f::t_adc3bce7ecbba5 1-130
+log-tools/src/test/kotlin/com/jiaoay/xlog/codec/EcdhKeyAgreementTest.kt
+  s_7a88dc3ba9457f::t_9c4505c3638544 1-39
+log-tools/src/test/kotlin/com/jiaoay/xlog/codec/LogCodecRegistryTest.kt
+  s_7a88dc3ba9457f::t_315b0dff99054e 4,9
+  s_7a88dc3ba9457f::t_75027172922fac 17,20-21,29-31
+  s_7a88dc3ba9457f::t_a97929b938c47d 1-3,5-8,10-14,18-19,22-28,32-60,62-67
+  s_7a88dc3ba9457f::t_9c287becea53b3 15
+  s_7a88dc3ba9457f::t_7c13646b135249 61
+  s_7a88dc3ba9457f::t_2a3bfb08ff5219 16
+log-tools/src/main/kotlin/com/jiaoay/xlog/parser/MagicStartMark.kt
+  s_7a88dc3ba9457f::t_a96cfd0bdc8216 1-67
+log-tools/src/test/kotlin/com/jiaoay/xlog/postprocess/TimestampNormalizerTest.kt
+  s_7a88dc3ba9457f::t_7ebc3446953205 1-75
+log-tools/src/test/kotlin/com/jiaoay/xlog/LogDecodeCharacterizationTest.kt
+  s_7a88dc3ba9457f::t_2acce1781fe4bb 1-4,7-20,24-28,30-32,160-161
+  s_7a88dc3ba9457f::t_a01e8ce14f694f 98
+  s_7a88dc3ba9457f::t_be0317b8fb24b8 54-55,58,66-84
+  s_7a88dc3ba9457f::t_d596f3b631e357 42
+  s_7a88dc3ba9457f::t_17919ecce31ea2 100,103
+  s_7a88dc3ba9457f::t_8a4463c76abeeb 118
+  s_7a88dc3ba9457f::t_e231eed4ccf8dd 155
+  s_7a88dc3ba9457f::t_6a79ba8b47539e 107
+  s_7a88dc3ba9457f::t_614a9d9d7e5d20 57
+  s_7a88dc3ba9457f::t_ef4d8b589cd60b 136
+  s_7a88dc3ba9457f::t_d0a6a9aa9eaa88 148
+  s_7a88dc3ba9457f::t_876a24879c0b44 126
+  s_7a88dc3ba9457f::t_3120765fed2946 34
+  s_7a88dc3ba9457f::t_b3cd7f59291fe4 90
+  s_7a88dc3ba9457f::t_cb16c832d78805 5-6
+  s_7a88dc3ba9457f::t_2b59b07a0681fc 21-23,29,33,35-41,43-53,56,59-65,85-89,91-97,99,101-102,104-106,108-117,119-125,127-135,137-147,149-154,156-159,162
+log-tools/src/main/kotlin/com/jiaoay/xlog/postprocess/TimestampNormalizer.kt
+  s_7a88dc3ba9457f::t_e3159b4aba2c61 1-46
+log-tools/src/main/kotlin/com/jiaoay/xlog/parser/LogSpaceSlice.kt
+  s_7a88dc3ba9457f::t_f6182a22b6bf4d 1-29
+log-tools/src/test/kotlin/com/jiaoay/xlog/parser/LogSpaceParserTest.kt
+  s_7a88dc3ba9457f::t_92d66433c46054 126
+  s_7a88dc3ba9457f::t_a57e8423e5022e 1-125,127-203
+log-tools/src/test/kotlin/com/jiaoay/xlog/postprocess/PostProcessorPipelineTest.kt
+  s_7a88dc3ba9457f::t_20ee9f673612ba 58,60,64
+  s_7a88dc3ba9457f::t_27dad001b56f2f 1-57,59,61-63,65-145
+log-tools/src/main/kotlin/com/jiaoay/xlog/stream/XLogChunkReader.kt
+  s_7a88dc3ba9457f::t_6fbebac44a4284 89
+  s_7a88dc3ba9457f::t_8b77e549911f8f 53-55,57
+  s_7a88dc3ba9457f::t_58be7e3a99f211 1-2,4-5,7-33,36-42,49-52,56,58-88,90-94,100-120
+  s_7a88dc3ba9457f::t_c3842083560bd2 3
+  s_7a88dc3ba9457f::t_bacb30dd5a0552 6
+  s_7a88dc3ba9457f::t_a7040c945e06fc 43-48
+  s_7a88dc3ba9457f::t_97998846e08469 95-99
+  s_7a88dc3ba9457f::t_2ea0e84b9dad1b 34-35
+log-tools/src/test/kotlin/com/jiaoay/xlog/codec/TeaKeyResolverTest.kt
+  s_7a88dc3ba9457f::t_2cbf7ff5c6c0f2 1-49
+log-tools/src/test/kotlin/com/jiaoay/xlog/ZstdDecompressorTest.kt
+  s_7a88dc3ba9457f::t_5e45c3384addbc 1-3,5-15,17-23,25-30,32-37,39-41
+  s_7a88dc3ba9457f::t_3d55a286366e28 4,16,24,31,38,42
+log-tools/src/main/kotlin/com/jiaoay/xlog/codec/TeaKeyResolver.kt
+  s_7a88dc3ba9457f::t_8f4af7a8cd5254 1-23
+log-tools/src/main/kotlin/com/jiaoay/xlog/parser/LogSpaceParser.kt
+  s_7a88dc3ba9457f::t_61b885be426f42 37-39,81,91-93
+  s_7a88dc3ba9457f::t_923ef78e0d84ab 54-55,57-58
+  s_7a88dc3ba9457f::t_faf083142246c7 1-36,40-53,56,59-62,66-68,82-90,94-129
+  s_7a88dc3ba9457f::t_14b54753a0137e 70-79
+  s_7a88dc3ba9457f::t_a34f6609350f5d 63-65,69
+  s_7a88dc3ba9457f::t_1f89a302e64ce8 80
+log-tools/src/test/kotlin/com/jiaoay/xlog/helpers/XLogTestFactory.kt
+  s_7a88dc3ba9457f::t_e2dd51cbec5463 1-30,32-74,78-128
+  s_7a88dc3ba9457f::t_637c0beaac06c6 75-77
+  s_7a88dc3ba9457f::t_81edcda6e89302 31
+log-tools/src/main/kotlin/com/jiaoay/xlog/LogDecode.kt
+  s_7a88dc3ba9457f::t_655f63c1ea5a56 3-4,25,56-57,61,63
+  s_7a88dc3ba9457f::t_670f44cafb9b3b 59
+  s_7a88dc3ba9457f::t_60dea201ae6c76 26,28,52
+  s_7a88dc3ba9457f::t_5e3ddb05a017b7 9,14-15,17-18,27,29-39,41-47,50
+  s_7a88dc3ba9457f::t_ed995cd75c55f0 6,16,60,65
+  s_7a88dc3ba9457f::t_604aaf3d363045 7-8
+  s_7a88dc3ba9457f::t_b21edbf26c0400 58
+  s_7a88dc3ba9457f::t_29dacd4b2df8e1 5
+log-tools/src/main/kotlin/com/jiaoay/xlog/codec/TeaCipher.kt
+  s_7a88dc3ba9457f::t_31b5f08f1c5337 1-60
+log-tools/src/main/kotlin/com/jiaoay/xlog/codec/EcdhKeyAgreement.kt
+  s_7a88dc3ba9457f::t_028aa93afe3044 42,48-49,54
+  s_7a88dc3ba9457f::t_d3b1202173f0e2 1-41,43-47,50-53,55-70
+log-tools/src/main/kotlin/com/jiaoay/xlog/codec/Decompressors.kt
+  s_7a88dc3ba9457f::t_bb4a719325a018 1,9-10,12,19,21-24,27-36,39
+log-tools/src/main/kotlin/com/jiaoay/xlog/codec/LogCodecRegistry.kt
+  s_7a88dc3ba9457f::t_c2331a4ce5a015 3-4
+  s_7a88dc3ba9457f::t_5b017a998e0947 1-2,5-36,39-42,46-54
+  s_7a88dc3ba9457f::t_1a380994368b92 37-38,43-45
+log-tools/src/test/kotlin/com/jiaoay/xlog/LogDecodeFileTest.kt
+  s_7a88dc3ba9457f::t_66ed1895318445 1-137
+log-tools/src/main/kotlin/com/jiaoay/xlog/postprocess/PostProcessorPipeline.kt
+  s_7a88dc3ba9457f::t_238a5dcb71ef90 79-80
+  s_7a88dc3ba9457f::t_71fa7bb48ec77a 32-33,36-37,45,54,62-76
+  s_7a88dc3ba9457f::t_ed29875e26f927 1-31,34-35,59,78,81-93
+  s_7a88dc3ba9457f::t_c3aa800c4583ac 38-44,46-53,55-58,60-61,77
+log-tools/src/test/kotlin/com/jiaoay/xlog/codec/TeaCipherTest.kt
+  s_7a88dc3ba9457f::t_c9d5cd03fac100 1-58
+log-tools/src/main/kotlin/com/jiaoay/xlog/postprocess/LogPostProcessor.kt
+  s_7a88dc3ba9457f::t_3ed6f17e626e5f 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "f3243aeba5967e6db2c4e3f2eadddd6aae23279a",
+  "prompts": {},
+  "sessions": {
+    "s_7a88dc3ba9457f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "991f904d-f618-4728-8a11-b024e3634980",
+        "model": "glm-5.3-flash-pd"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+composeApp/src/jvmMain/composeResources/files/shell_tools_default.json
+  h_7dc1bf3887130d 4,8-9,12-13,18,21-22,27,30,33-35,38-40,43-45,52,55-56,59-64,73,77-78,81-82,85-86,89-90,97,100-101,104-105,112,115-116,119-120,127,130-131,134-135,142-143,145-146,148-150,158,162,165-166,169-170,177,180-181,184-185,188-189,196,199-200,203-204,207-208,215
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/config/ShellToolsConfigParserTest.kt
+  h_7dc1bf3887130d 7,89,93-98,101,104
+docs/architecture.md
+  h_7dc1bf3887130d 83
+docs/shell_tools.md
+  h_7dc1bf3887130d 10,13-15,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5601077fca57189591bc28584a74eef98c81ee2f",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

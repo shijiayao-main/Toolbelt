@@ -1,0 +1,78 @@
+.github/workflows/release.yml
+  h_7dc1bf3887130d 39,47,76,87
+composeApp/build.gradle.kts
+  h_7dc1bf3887130d 70-72
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManager.kt
+  h_7dc1bf3887130d 42-48,160-188
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/larkbridge/LarkBridgeManager.kt
+  h_7dc1bf3887130d 46,59-67,69-73
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeConfigCard.kt
+  h_7dc1bf3887130d 20-22,25,28,137-138,148-151,154-266
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  h_7dc1bf3887130d 6-8,16,31,34,47-49,71-72,77
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  h_7dc1bf3887130d 100-122,152-158,294-358
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  h_7dc1bf3887130d 127-128
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerLarkAgentTest.kt
+  h_7dc1bf3887130d 1-71
+docs/core/theme.md
+  h_7dc1bf3887130d 171
+docs/pages/lark-bridge.md
+  h_7dc1bf3887130d 26-28,59,61,82-115,129-130
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/LarkBridge.kt
+  h_7dc1bf3887130d 6,41,57,90-104,108-114
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/agent/AgentBackend.kt
+  h_7dc1bf3887130d 1-152
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/agent/AgentSessionStore.kt
+  h_7dc1bf3887130d 1-35
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/cli/CommonOptions.kt
+  h_7dc1bf3887130d 37-47,63-71
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/cli/HandleEventCommand.kt
+  h_7dc1bf3887130d 9-10,47-50
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/engine/BridgeEngine.kt
+  h_7dc1bf3887130d 90-91,93,97
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/engine/TaskExecutor.kt
+  h_7dc1bf3887130d 17-22
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/AgentExecutor.kt
+  h_7dc1bf3887130d 1-248
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/BuiltinExecutors.kt
+  h_7dc1bf3887130d 1-27
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/model/BridgeConfig.kt
+  h_7dc1bf3887130d 27-28,42-69
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/LarkHosts.kt
+  h_7dc1bf3887130d 16-18
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/LarkOpenApiTransport.kt
+  h_7dc1bf3887130d 25-26,31,53,66,81,94
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/OpenApiClient.kt
+  h_7dc1bf3887130d 34-35,38,50,52,68,70-72,93-95
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/ws/WsEndpointClient.kt
+  h_7dc1bf3887130d 40-41
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/LarkBridgeAgentIntegrationTest.kt
+  h_7dc1bf3887130d 1-138
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/LarkBridgeStartConfigTest.kt
+  h_7dc1bf3887130d 1-146
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/agent/AgentBackendTest.kt
+  h_7dc1bf3887130d 1-103
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/agent/AgentSessionStoreTest.kt
+  h_7dc1bf3887130d 1-40
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/engine/BridgeEngineTimeoutTest.kt
+  h_7dc1bf3887130d 1-98
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/executors/AgentExecutorTest.kt
+  h_7dc1bf3887130d 1-328
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/openapi/LarkOpenApiTransportUrlTest.kt
+  h_7dc1bf3887130d 1-142
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/openapi/ws/WsEndpointClientTest.kt
+  h_7dc1bf3887130d 1-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "40541ea053e86ed123b200c90f1ac134e0b0a3ba",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

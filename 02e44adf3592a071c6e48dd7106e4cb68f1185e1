@@ -1,0 +1,46 @@
+gradle.properties
+  85895a0092838ce7 10-11
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/xlog/XLogTaskItem.kt
+  6080efb1623e64a4 25,107
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  6080efb1623e64a4 19-24,27-29,31-47
+log-tools/build.gradle.kts
+  6080efb1623e64a4 3,10-25,33-36
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppColorScheme.kt
+  6080efb1623e64a4 16,30-36,52-58,74-80
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterPage.kt
+  6080efb1623e64a4 203,208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.12",
+  "base_commit_sha": "02e44adf3592a071c6e48dd7106e4cb68f1185e1",
+  "prompts": {
+    "6080efb1623e64a4": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776396609897",
+        "model": "unknown"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 81,
+      "total_deletions": 15,
+      "accepted_lines": 73,
+      "overriden_lines": 0
+    },
+    "85895a0092838ce7": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776393542208",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}

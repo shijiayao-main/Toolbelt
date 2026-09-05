@@ -1,0 +1,36 @@
+.github/workflows/release.yml
+  714be74f5e9edd68 61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.12",
+  "base_commit_sha": "e5d43ca5e5ab03fa64f96112ed0ab004b9f341b4",
+  "prompts": {
+    "2e6eb84f699ddc30": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776419405099",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 92,
+      "overriden_lines": 0
+    },
+    "714be74f5e9edd68": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1776653108297",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao",
+      "messages": [],
+      "total_additions": 76,
+      "total_deletions": 3,
+      "accepted_lines": 74,
+      "overriden_lines": 0
+    }
+  }
+}
