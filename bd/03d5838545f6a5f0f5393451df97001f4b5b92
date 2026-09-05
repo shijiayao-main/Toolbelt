@@ -1,0 +1,245 @@
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerLarkSkillsWhitelistTest.kt
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 47,53,55,60-61,63,68,71,78,95,97,111,114,121,126-129,134,139-140
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 31,33,38,69,112
+settings.gradle.kts
+  s_a4b913b85bd7c0::t_f23f44a5f5a4a2 37
+  s_a4b913b85bd7c0::t_5cb4074e1622e4 5
+  s_a4b913b85bd7c0::t_4e5cc977290f1c 38
+  s_a4b913b85bd7c0::t_550e70b5c4d3de 41
+  s_a4b913b85bd7c0::t_e5e47818f28063 42
+  s_a4b913b85bd7c0::t_75f61228ec4dd9 43
+  s_a4b913b85bd7c0::t_759528852eb57c 44
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerStaticRepliesTest.kt
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 30,32,37,79
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 44,54,56,67,70,72,78,81
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_a4b913b85bd7c0::t_12cf1d3f544bc5 8
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 292-311,324,425-426,449,476,497,512,556,564,595,603,620,630,639,648,656,665,674,683,703,721,728
+build.gradle.kts
+  s_a4b913b85bd7c0::t_afbf9f5ca2ca0d 9-10
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/LogKitContributions.kt
+  s_a4b913b85bd7c0::t_d3a856b0376b30 1-45
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LarkBridgeConfigStore.kt
+  s_a4b913b85bd7c0::t_942dc56fbebf42 1-8,10-11,13-34,36-71,75,77-78,80-81,83-186,188-223
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 35
+  s_a4b913b85bd7c0::t_12cf1d3f544bc5 9,12
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 72-74,76,79,82,187
+build-logic/README.md
+  s_a4b913b85bd7c0::t_8a7c1a4b7b6da6 1-5
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_a4b913b85bd7c0::t_c16a2ceca0e0f0 169-170,177
+  s_a4b913b85bd7c0::t_b07263eb8a9f0a 498-501,506,510-514,517-519,523
+  s_a4b913b85bd7c0::t_a7215e074b59b9 229-230,233,236-238,240,244,249,256,258,263-273
+  s_a4b913b85bd7c0::t_26320fcb125fb8 35-36
+  s_a4b913b85bd7c0::t_7084bb73e52612 502-504,515-516
+  s_a4b913b85bd7c0::t_7766052f715d1c 189-193
+  s_a4b913b85bd7c0::t_178324a0f12e24 165,167-168,171-176,178-181,183-188
+  s_a4b913b85bd7c0::t_492ca62beda3a7 231-232,234-235,239,241-243,245-248,250-255,257,259-262
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/EmptyStateView.kt
+  s_a4b913b85bd7c0::t_9ab1da68346f70 33
+  s_a4b913b85bd7c0::t_3fd7b8aad54410 1-9,12-32,34-57
+  s_a4b913b85bd7c0::t_f14954794f5263 10-11
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageRegistration.kt
+  s_a4b913b85bd7c0::t_c2eafae4c89553 11-14
+  s_a4b913b85bd7c0::t_076883b9712414 4
+  s_a4b913b85bd7c0::t_b785f4f108e0c2 1-3,5-10,15-20
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeQuickCommandCardLogicTest.kt
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 102,112,155,172,175,179
+  s_a4b913b85bd7c0::t_12cf1d3f544bc5 3
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 41-42,49
+feature-timestamp/build.gradle.kts
+  s_a4b913b85bd7c0::t_d5eb29b4c4c04f 1-6
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/ListConfigCommitTest.kt
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 1-135
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/AppDataStore.kt
+  s_a4b913b85bd7c0::t_e33fc9623bf016 13-30
+  s_a4b913b85bd7c0::t_202f00884553dd 10-12
+  s_a4b913b85bd7c0::t_13a0266e34a4e5 31
+  s_a4b913b85bd7c0::t_e705c77128d6af 1-9
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CardHeader.kt
+  s_a4b913b85bd7c0::t_e68f634b796d3e 1-35
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppConfirmDialog.kt
+  s_a4b913b85bd7c0::t_546a854c2ef97d 1-7,9-49
+  s_a4b913b85bd7c0::t_453984ae688de9 8
+build-logic/src/main/kotlin/KmpComposeConventionPlugin.kt
+  s_a4b913b85bd7c0::t_2a6b8b562c9dba 1-11,14-16,18-32,37-56,59-64
+  s_a4b913b85bd7c0::t_18248e177bdfd9 12-13,17
+  s_a4b913b85bd7c0::t_dfb9ed40c7afc1 33-36
+  s_a4b913b85bd7c0::t_7053b54bfb5ff3 57-58
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampContributions.kt
+  s_a4b913b85bd7c0::t_69c77e6d9e3006 6
+  s_a4b913b85bd7c0::t_39b214c279575d 11-13,24-28
+  s_a4b913b85bd7c0::t_523aca884ad210 1-5,7-10,14-23,29
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/FileTaskViewModel.kt
+  s_a4b913b85bd7c0::t_53051e6f09c8bf 103,111-115
+  s_a4b913b85bd7c0::t_aec3e614594bf6 24,105-110
+  s_a4b913b85bd7c0::t_7f408b7dad5f0d 1,18-23,25-28,33-36,42-46,56,67,70,74,76-77
+  s_a4b913b85bd7c0::t_152b5025c37c18 49-55
+  s_a4b913b85bd7c0::t_fa442a20cd8423 39-40
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/initializer/LogFileRestoreInitializer.kt
+  s_a4b913b85bd7c0::t_40355ac39de688 1-4,6-7,9-10,13-15,17-18,20-37
+  s_a4b913b85bd7c0::t_bbc0692b6afdab 5,8,11-12,16,19
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/ShellToolsDataStore.kt
+  s_a4b913b85bd7c0::t_83a39e004c6a35 4-20
+  s_a4b913b85bd7c0::t_5f7fb95a8c2792 1-3
+  s_a4b913b85bd7c0::t_483e11e1c996db 21-23
+  s_a4b913b85bd7c0::t_21e6e76c0e2b90 24-42
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDeviceSelectionTest.kt
+  s_a4b913b85bd7c0::t_672047c8604da1 1-136
+feature-larkbridge/build.gradle.kts
+  s_a4b913b85bd7c0::t_27719879c2f90b 1-17
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerLarkAgentTest.kt
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 47-54,59-66,68-75,81-83,85-87,89-91
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 33,35,40
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_a4b913b85bd7c0::t_40e3b6a6798c35 42-43
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManager.kt
+  s_a4b913b85bd7c0::t_e8812f50af4968 7,11-14,19,70
+  s_a4b913b85bd7c0::t_cb3cad7a69bbf4 30-31,33-34,36
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampConfigStore.kt
+  s_a4b913b85bd7c0::t_2354acdf4e3fca 1-22
+  s_a4b913b85bd7c0::t_3c8ebc9bff2e63 23-25
+  s_a4b913b85bd7c0::t_60d317452e1587 26-30
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_a4b913b85bd7c0::t_553ae7f48f2dc4 16
+  s_a4b913b85bd7c0::t_90d4e4f066db73 28-29
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/config/ShellToolsConfigParserTest.kt
+  s_a4b913b85bd7c0::t_cc1cb0db42476e 1-128
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeContributions.kt
+  s_a4b913b85bd7c0::t_2e3975e9f4793a 1-24
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/larkbridge/LarkBridgeManager.kt
+  s_a4b913b85bd7c0::t_12cf1d3f544bc5 3
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 86,89,97-100,102,107,110-111,114,119-127,129,131-134,136-137,139,141,143,146-148,178,185-186,188-189
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/xlog/XLogDecoderViewModel.kt
+  s_a4b913b85bd7c0::t_e542dfc720f9d7 8,25,32
+  s_a4b913b85bd7c0::t_22c2a6d0447167 7,9,18,36-45
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/larkbridge/LarkBridgeManagerMigrationTest.kt
+  s_a4b913b85bd7c0::t_5a8c2403fc3514 47,49,58
+  s_a4b913b85bd7c0::t_9d6bdce69fc398 66,73-74,79,83,109,115
+  s_a4b913b85bd7c0::t_12cf1d3f544bc5 3
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterViewModel.kt
+  s_a4b913b85bd7c0::t_d2fa2da5261a30 36,38
+  s_a4b913b85bd7c0::t_60eda7d5cbde53 7
+  s_a4b913b85bd7c0::t_c3eda00f7819d9 9
+  s_a4b913b85bd7c0::t_541bc0aad6903a 5,8,18,37,41-45
+  s_a4b913b85bd7c0::t_e542dfc720f9d7 1-4,6,10-17,19-35,39-40,46-53
+build-logic/src/main/kotlin/JvmCliConventionPlugin.kt
+  s_a4b913b85bd7c0::t_11a7287549ff9b 13,35
+  s_a4b913b85bd7c0::t_cb09a1c6d50c5e 3
+  s_a4b913b85bd7c0::t_59da94b6dbb974 1-2,4-12,14-34,37-39
+  s_a4b913b85bd7c0::t_530907fdc0bebd 36
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SectionCard.kt
+  s_a4b913b85bd7c0::t_dd3942a1a77c98 1-97
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/BottomFollowScroll.kt
+  s_a4b913b85bd7c0::t_9e1a1f06c57901 1-41
+feature-shelltools/build.gradle.kts
+  s_a4b913b85bd7c0::t_52e0a6db210507 1-23
+lark-bridge/build.gradle.kts
+  s_a4b913b85bd7c0::t_78aec61f7b76b0 4-5,8-10
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/LogKitConfigStore.kt
+  s_a4b913b85bd7c0::t_e542dfc720f9d7 1-44
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/config/DefaultShellToolsConfigProvider.kt
+  s_a4b913b85bd7c0::t_75f61228ec4dd9 1-48
+gradle/libs.versions.toml
+  s_a4b913b85bd7c0::t_d1653c708a0c18 17
+  s_a4b913b85bd7c0::t_3d5b6696f1c818 44-45,53-54
+  s_a4b913b85bd7c0::t_c2760a745923ee 2,4,11-12,18-19
+build-logic/settings.gradle.kts
+  s_a4b913b85bd7c0::t_a71215081ca522 1-13
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_a4b913b85bd7c0::t_ed875c6441871e 1-3,5-15,17-23,25-81,84-93,102,104-105,108,129,134-135
+  s_a4b913b85bd7c0::t_e6c1b7737b67ab 4,16,24,82-83,94-101,103,106-107,109-128,130-133
+core/build.gradle.kts
+  s_a4b913b85bd7c0::t_a085dba1ba4bcf 15-16
+  s_a4b913b85bd7c0::t_fd65072f17e5a9 1-14,17-19
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_a4b913b85bd7c0::t_3e8218be3d29ab 12
+  s_a4b913b85bd7c0::t_497104d7246889 10
+  s_a4b913b85bd7c0::t_8162740a95dd68 23
+  s_a4b913b85bd7c0::t_278c0b9a81715a 1-3,6,8,11,13-16,18,26-28,38-40,65,67
+  s_a4b913b85bd7c0::t_9a0dc1a35c09e5 4-5,17,19-22,24-25,29-31,33-37,41-64,66
+  s_a4b913b85bd7c0::t_60088dd4ec13fb 7
+  s_a4b913b85bd7c0::t_1c58758ab5ca43 9,32
+composeApp/build.gradle.kts
+  s_a4b913b85bd7c0::t_03898171409545 31
+  s_a4b913b85bd7c0::t_641bd6e21a2d20 41
+  s_a4b913b85bd7c0::t_eef3268d429124 33
+  s_a4b913b85bd7c0::t_7fdea5cbfc3b47 6,9-11,13,24
+  s_a4b913b85bd7c0::t_aa1030d7d2a5b8 34
+  s_a4b913b85bd7c0::t_75f61228ec4dd9 35
+  s_a4b913b85bd7c0::t_b5e0ec935859ba 27
+  s_a4b913b85bd7c0::t_9558221095653c 32
+  s_a4b913b85bd7c0::t_0c179870f888c8 30
+  s_a4b913b85bd7c0::t_b87edb298d6b77 36
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_a4b913b85bd7c0::t_24126ff261856c 56,122
+  s_a4b913b85bd7c0::t_64e73adc5ad2e1 8
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsContributions.kt
+  s_a4b913b85bd7c0::t_5b16cf6b41e929 1-24
+ui/build.gradle.kts
+  s_a4b913b85bd7c0::t_f28ceb9cbfa44d 11
+  s_a4b913b85bd7c0::t_80cad7371ef82a 1-10,12-15
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppSwitchRow.kt
+  s_a4b913b85bd7c0::t_81ee5e96a2773f 1-68
+feature-logkit/build.gradle.kts
+  s_a4b913b85bd7c0::t_6ce0d251ffa6d6 1-14
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_a4b913b85bd7c0::t_9ef06590af3714 94
+  s_a4b913b85bd7c0::t_8d7f1e7d7ee6c0 30,110
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_a4b913b85bd7c0::t_4ac25caa6b3d60 36
+log-tools/build.gradle.kts
+  s_a4b913b85bd7c0::t_8f5f938241d84b 3-4,7-8,10,14,18,20,25
+build-logic/build.gradle.kts
+  s_a4b913b85bd7c0::t_f2a58d6119cbc1 28-35,37-42
+  s_a4b913b85bd7c0::t_5b660e1f8ff4c0 1-4,22-27,36
+  s_a4b913b85bd7c0::t_6b3ba2bcbdc4a7 5-21
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampViewModel.kt
+  s_a4b913b85bd7c0::t_9eefc4496e6516 7
+  s_a4b913b85bd7c0::t_7bd6bc652b7b32 16
+  s_a4b913b85bd7c0::t_69c77e6d9e3006 34,47
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeContent.kt
+  s_a4b913b85bd7c0::t_b2bb11d67239eb 19,24
+  s_a4b913b85bd7c0::t_51098a1951fe12 56
+  s_a4b913b85bd7c0::t_1fe08e5c449a7c 14,31,54
+  s_a4b913b85bd7c0::t_b6a562cee56f24 55
+build-logic/src/main/kotlin/KmpFeatureConventionPlugin.kt
+  s_a4b913b85bd7c0::t_77a058f0f38659 1-37
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterViewModel.kt
+  s_a4b913b85bd7c0::t_4d6a5ed396288b 7,9-10,20,22-24,26,57,61-63,66-74
+  s_a4b913b85bd7c0::t_e542dfc720f9d7 8,36-37,45,53
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/DataStoreExtensions.kt
+  s_a4b913b85bd7c0::t_85f8e46bd6b481 17,42,52,68-69
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  s_a4b913b85bd7c0::t_419ed2b0c1a9bd 49-51,53-54,56-60,69,71,73-74,89,102-103,114
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/initializer/JInitializerManager.kt
+  s_a4b913b85bd7c0::t_5fa895be051a56 31-40,45-47
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/log/JLogInitializer.kt
+  s_a4b913b85bd7c0::t_7767ef4100e8c8 1-31
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolNavModels.kt
+  s_a4b913b85bd7c0::t_853f41399b3b80 1,5-6,8,16,18
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModel.kt
+  s_a4b913b85bd7c0::t_5a9efd35fa6c9f 9,104-106,121,297,305
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManager.kt
+  s_a4b913b85bd7c0::t_43d26714a8bab4 4,30,74,79,118,124,139
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManagerFlushTest.kt
+  s_a4b913b85bd7c0::t_3730f20ae5b062 3,76,98
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManagerRemoveClearTest.kt
+  s_a4b913b85bd7c0::t_1559d4c4efeda7 3,76,119,137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "bd03d5838545f6a5f0f5393451df97001f4b5b92",
+  "prompts": {},
+  "sessions": {
+    "s_a4b913b85bd7c0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c69d9146-2127-4716-9c6b-f419b2ed076c",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
