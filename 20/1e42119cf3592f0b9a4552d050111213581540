@@ -1,0 +1,81 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/filemsg/FileExtractor.kt
+  s_e6f544c69583c2::t_c63a98856705a1 115-122
+  s_e6f544c69583c2::t_ab1456577f4f98 3
+  s_e6f544c69583c2::t_41326a8268aeec 56,94
+  s_e6f544c69583c2::t_67fabc32bca54b 6-7,11,13-15,17,19,23,64-67,69,72-73,75-81,83-93,95-99,103-114,123-152,155,159
+  s_e6f544c69583c2::t_47fb35338fbb43 82
+  s_e6f544c69583c2::t_4a39149160f99c 1-2,4-5,8-10,12,16,18,20-22,24-55,57-63,68,70-71,74,100-102,153-154,156-158,160-179
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/model/BridgeConfig.kt
+  s_e6f544c69583c2::t_a4b4658f327236 49-50,73-93
+  s_e6f544c69583c2::t_df7e76bb872771 94-95
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/engine/SkillRoutingDryRunTest.kt
+  s_e6f544c69583c2::t_e284a01b5458c0 164,172
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/filemsg/FileMessageExecutorTest.kt
+  s_e6f544c69583c2::t_a8da3470ae2a74 1-2,5-12,14-29,44,46-50,70-90,92-108,110-131,134-136,143-144,146-160,162-164,171-174,179-180,216,218-225,227-232,234-241,243-247,249-256,258-261,263-265,267-270,272-276,281,283-284
+  s_e6f544c69583c2::t_3091fddac5575b 3-4,13,30,42-43,45,51-55,61-65,67-69,132-133,145,161,165-170,175,177,181-186,188-215,226,242,257,266,271,277-280
+  s_e6f544c69583c2::t_7d1ce34be8b32c 31-41,66,137
+  s_e6f544c69583c2::t_e97125965ab6cc 56-60,138-142
+  s_e6f544c69583c2::t_41326a8268aeec 176,178
+  s_e6f544c69583c2::t_9c9f2b493cb74c 91,109,187,217,233,248,262,282
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/model/LarkEvent.kt
+  s_e6f544c69583c2::t_b5e61addcf5b5a 45-48
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/ws/V2EventParser.kt
+  s_e6f544c69583c2::t_3b7dbfd304e8b9 75-77,83-93
+  s_e6f544c69583c2::t_19dcbce5572c44 94-95
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeFileMessageCard.kt
+  s_e6f544c69583c2::t_221972867a86e1 1-88
+docs/index.md
+  s_e6f544c69583c2::t_e9e3b975f47f65 57
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/lark/LarkCliTransport.kt
+  s_e6f544c69583c2::t_ffd768bef52ae0 145-152,201-203
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeRoutingSection.kt
+  s_e6f544c69583c2::t_79ded5f0db54c6 26
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/OpenApiClient.kt
+  s_e6f544c69583c2::t_9ddf6e9c0f9bf5 66
+  s_e6f544c69583c2::t_1ca3413b2b9465 54-65,67-84,128-129
+  s_e6f544c69583c2::t_18c7b0fc7b7669 130
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/LarkOpenApiTransport.kt
+  s_e6f544c69583c2::t_2017316d6439e3 162-166,170
+  s_e6f544c69583c2::t_c9845d3da2d1bc 244-246
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/larkbridge/LarkBridgeManager.kt
+  s_e6f544c69583c2::t_708aac21ab3975 144-149
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManager.kt
+  s_e6f544c69583c2::t_113e50300a9e67 80-82,300-308
+  s_e6f544c69583c2::t_5e0bc44a9797ba 309
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/BuiltinExecutors.kt
+  s_e6f544c69583c2::t_7750c117197d9b 4
+  s_e6f544c69583c2::t_96838ab9ae717a 65-72,95-96,100-106
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/LarkBridge.kt
+  s_e6f544c69583c2::t_7750c117197d9b 6-7,299-304
+  s_e6f544c69583c2::t_776b3562fa24cc 415-416
+  s_e6f544c69583c2::t_cac4c5916cbda5 305
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/filemsg/FileMessageExecutor.kt
+  s_e6f544c69583c2::t_58daa819cb2882 18,21-26,28,56-59,65,67-68,80,95-100,102,104,110-119,121-134,137-138,140,145-149,151,158-160,166,181-184,189-190,193,205,213
+  s_e6f544c69583c2::t_56363e91c90214 1-17,19-20,27,29-55,60-64,66,69-79,81-94,101,103,105-109,120,135-136,139,141-144,150,152-157,161-165,167-180,185-188,191-192,194-204,206-212,214-219
+docs/pages/lark-bridge.md
+  s_e6f544c69583c2::t_73c055e83bd610 86
+  s_e6f544c69583c2::t_4fb76512692f98 29
+  s_e6f544c69583c2::t_b51c68ab78dc5c 260,262
+  s_e6f544c69583c2::t_c478e639e05d82 308-349
+  s_e6f544c69583c2::t_29947f3f6e0d53 98
+  s_e6f544c69583c2::t_fc3acb1f54ef34 107
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_e6f544c69583c2::t_708aac21ab3975 198-205,303-305,616-642
+  s_e6f544c69583c2::t_82a17757918316 643
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "201e42119cf3592f0b9a4552d050111213581540",
+  "prompts": {},
+  "sessions": {
+    "s_e6f544c69583c2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4bd75c0-fef3-414a-b001-267d4bfe1a74",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
