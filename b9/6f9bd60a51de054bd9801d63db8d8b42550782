@@ -1,0 +1,377 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/UsageStatsByDayTest.kt
+  s_e6f544c69583c2::t_09bae3956f2c2c 1-104
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/executors/CardActionExecutorTest.kt
+  s_e6f544c69583c2::t_04269efb576631 23-29
+  s_e6f544c69583c2::t_b016ab2830cc11 10-11
+  s_e6f544c69583c2::t_3e5d0be1da0e85 31,87
+  s_e6f544c69583c2::t_d7780c1a68da49 1-8,12-22,30,32-41,43,45,47-59,61-64,66-70,72-79,81-86,88-94,96-101,103-107,109-123,125-139,141,155-159
+  s_e6f544c69583c2::t_d79ec0e27da1bc 80,102
+  s_e6f544c69583c2::t_f7d0910709de8a 9,60,71,95,108,124
+  s_e6f544c69583c2::t_5842e6aa032e03 65
+  s_e6f544c69583c2::t_cc6ac37c83a01f 42,44,46
+  s_e6f544c69583c2::t_c769f5816dd1d2 140,142-154
+.claude/skills/docs-sync/SKILL.md
+  s_a4f46d2c4947bf::t_ba6f2e17f66c4e 3,19,37,39-41,61,76-80,96-97,104,112-113
+  s_a4f46d2c4947bf::t_298c39bfdb0bbf 1-2,4-18,20-36,38,42-60,62-75,81-95,98-103,105-111,114
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/reply/LarkResponder.kt
+  s_e6f544c69583c2::t_5a53c7db7054b5 25-35
+  s_e6f544c69583c2::t_095b88713ca9e3 70
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_e6f544c69583c2::t_d8103bca02f875 52-68
+  s_e6f544c69583c2::t_95e07d93309b5b 69-71
+CLAUDE.md
+  s_a4f46d2c4947bf::t_02e8568030e2ae 9,11
+  s_a4f46d2c4947bf::t_30d098f59dfe95 1-8,10
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/quickcommand/QuickCommandRegistryTest.kt
+  s_e6f544c69583c2::t_fe8765c5f4ddc4 194,198-200,204
+  s_e6f544c69583c2::t_5842e6aa032e03 195,197,205,207
+  s_e6f544c69583c2::t_3e5d0be1da0e85 19,34,223,253
+  s_e6f544c69583c2::t_d79ec0e27da1bc 196,206
+  s_e6f544c69583c2::t_5fcdc9e5595823 1,31,35,37,222,233,242,257,382,389,392,394,400,425,440,454,466,469,475-511
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/CardActionExecutor.kt
+  s_e6f544c69583c2::t_618e0944074663 76-77,83-89,91-92,94,99-100,110,118-119,124
+  s_e6f544c69583c2::t_f7d0910709de8a 39
+  s_e6f544c69583c2::t_f43111427066a5 170
+  s_e6f544c69583c2::t_9ccf0268578350 1-18,20-27,29-30,33-38,40-75,78-82,90,93,95-98,101-105,107-109,111-117,120-123,125-129,131-169,171-174
+  s_e6f544c69583c2::t_5fcdc9e5595823 28,106,130
+  s_e6f544c69583c2::t_095b88713ca9e3 19,31-32
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_e6f544c69583c2::t_7dd89f3cc8a5eb 32,35,40,42-43,45-46
+  s_e6f544c69583c2::t_ef210e688bf36a 7
+  s_e6f544c69583c2::t_74272e1377b7d4 59,62,84-104,106-107
+  s_e6f544c69583c2::t_34ff7dc07d8cca 117-118
+  s_e6f544c69583c2::t_8c6d9afbfd3bba 105
+  s_e6f544c69583c2::t_a050e5d8bb80c6 133
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerLarkSkillsWhitelistTest.kt
+  s_e6f544c69583c2::t_3612cb78b65b31 78,95,97,111,114
+  s_e6f544c69583c2::t_3e5d0be1da0e85 84,93
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/lark/LarkCliTransport.kt
+  s_e6f544c69583c2::t_f05f6b97190b0c 179-180,192
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/quickcommand/QuickCommandRegistry.kt
+  s_e6f544c69583c2::t_3e5d0be1da0e85 18,22,26,189-190
+  s_e6f544c69583c2::t_5fcdc9e5595823 19,166
+  s_e6f544c69583c2::t_fe8765c5f4ddc4 207,210,212,216,218-219
+  s_e6f544c69583c2::t_f7d0910709de8a 1,13,21,33,36,42,50,68,70-72,75,78,82,88-89,91,95,103-107,121,155,161,178,191,197,200
+  s_e6f544c69583c2::t_94e6518fc44431 6,9,11,16,25,31,47,67,73,76,109,114,117,139,154,168,173,182,184-186,194,198,206
+  s_e6f544c69583c2::t_5842e6aa032e03 158,209,215
+AGENTS.md
+  s_a4f46d2c4947bf::t_6315b6983a40f3 49,53,57
+  s_a4f46d2c4947bf::t_6d17e20840b801 51
+  s_a4f46d2c4947bf::t_a5f3b1eb4f6005 1-48,50,52,54-56,58,60,68-70,77-85
+  s_a4f46d2c4947bf::t_b361edc3cfdb6e 59,61-67
+  s_a4f46d2c4947bf::t_c1fe782aa95e97 71-76
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeQuickCommandCard.kt
+  s_e6f544c69583c2::t_a7584986a3a529 235
+  s_e6f544c69583c2::t_de0b14058a9d78 189,195,203,207,216-218
+  s_e6f544c69583c2::t_6aeb25ace0a4cd 312-317,320-323,327-330
+  s_e6f544c69583c2::t_021a4a6c491d2b 445
+  s_e6f544c69583c2::t_feb3abbc594325 60,67,84,128,131,139,142,144
+  s_e6f544c69583c2::t_1e489c9bedfd3b 363
+  s_e6f544c69583c2::t_6576564c4f4739 106-107,111
+  s_e6f544c69583c2::t_2a46f33b6c035b 55,75-76,115-116,129-130,135-136,140-141,148-149,153-154,158,167-168,249-251
+  s_e6f544c69583c2::t_3af1a2d77a182f 36,38-39,46,54,64,73,77-78,82,91-93,100,104,147,157,177,221-225,227-229,231,237-239,244,254-279,302,344,404,441-442
+  s_e6f544c69583c2::t_ca93bdb51fdc0f 20,25-27
+  s_e6f544c69583c2::t_aaa3d730a64251 86
+  s_e6f544c69583c2::t_f626f3b8710077 280-291,306-311,318-319,324-326,331-332,339-341,352-355,357-362,364-365,374,389-403,407,411-429,431-440,443-444,446-449,451-453
+  s_e6f544c69583c2::t_0972861122150e 450
+  s_e6f544c69583c2::t_b809dba290532a 333-338
+  s_e6f544c69583c2::t_bd650422f3d62e 43,45,47,63,90,98,102-103,162
+  s_e6f544c69583c2::t_b84caf786633e7 175,186-188,190-194,196-202,204-206,208-215,219-220
+  s_e6f544c69583c2::t_af1cc9f7d8de55 121
+  s_e6f544c69583c2::t_63847ce016f1f2 72
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/UsageStatsKindTest.kt
+  s_e6f544c69583c2::t_5669b70f7604cf 38,44-45
+  s_e6f544c69583c2::t_d210b308920af9 43
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/UsageStats.kt
+  s_e6f544c69583c2::t_7740a7edd3d495 23,199
+  s_e6f544c69583c2::t_81d2e7b68f13ac 6
+  s_e6f544c69583c2::t_b0bbc761099b6c 51
+  s_e6f544c69583c2::t_bc302401845652 185
+  s_e6f544c69583c2::t_ecfc898b2c6f09 203-255
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/openapi/ws/V2EventParserTest.kt
+  s_e6f544c69583c2::t_401ada3d430347 136-167,204-215,217
+  s_e6f544c69583c2::t_8116b963cf533c 168-203
+  s_e6f544c69583c2::t_d32025efcb56a7 43-66
+  s_e6f544c69583c2::t_440270968925a9 6-7
+docs/index.md
+  s_a4f46d2c4947bf::t_c1a05a21d879cd 61-74
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/ListConfigCommit.kt
+  s_e6f544c69583c2::t_b0bbc761099b6c 9,12
+  s_e6f544c69583c2::t_3612cb78b65b31 13
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/reply/LarkResponderKindTest.kt
+  s_e6f544c69583c2::t_d210b308920af9 53,73-74,76,92
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/quickcommand/BuiltInQuickCommands.kt
+  s_e6f544c69583c2::t_94e6518fc44431 6,11,17,26,33,39,42
+  s_e6f544c69583c2::t_f7d0910709de8a 1,12,14,20-25,32,34
+  s_e6f544c69583c2::t_3e5d0be1da0e85 29,40
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/chart/UsageHBarChart.kt
+  s_e6f544c69583c2::t_6f74dcd1990ef4 17,30
+  s_e6f544c69583c2::t_27014f59c327d1 51
+  s_e6f544c69583c2::t_da524840e099c3 1-16,18-29,31-50,52-68
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/LarkConfirmNotifier.kt
+  s_e6f544c69583c2::t_c8e852b0385098 46,68,72-76
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/agent/AgentBackend.kt
+  s_e6f544c69583c2::t_a724e9a4274ee2 39-45,61-67,91,103-109,111-119,136-142
+  s_e6f544c69583c2::t_6f6fff665a5469 143
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_e6f544c69583c2::t_50e256b2f1dabc 148-151
+  s_e6f544c69583c2::t_7740a7edd3d495 214-215,299,670,673-674,677-678,680-682
+  s_e6f544c69583c2::t_e005136da6c3d8 194-197,294,605-612
+  s_e6f544c69583c2::t_b0bbc761099b6c 213,667,669,672,676
+  s_e6f544c69583c2::t_c38611dc38224e 524,528,530-534
+  s_e6f544c69583c2::t_9315f31fd27794 613
+.claude/skills/user-manual/SKILL.md
+  s_a4f46d2c4947bf::t_7f1bca60fcc957 25
+  s_a4f46d2c4947bf::t_5f3b00fa83a0c0 37
+  s_a4f46d2c4947bf::t_93b6878bb8d2b9 34
+  s_a4f46d2c4947bf::t_583e98f38bec49 1-24,26-33,36,38-93,95-96
+  s_a4f46d2c4947bf::t_40846b1e77c0ee 35
+  s_a4f46d2c4947bf::t_a474d34b3dd0f2 94
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/chart/ChartCanvas.kt
+  s_e6f544c69583c2::t_7e2498a8acdecc 8,28,30,36
+  s_e6f544c69583c2::t_fd98e007e79ee5 1-3,5-7,10-13,15-20,22-27,29,31-35,37-40
+  s_e6f544c69583c2::t_8f5cb4e55e9818 4,9,14,21
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/model/LarkEvent.kt
+  s_e6f544c69583c2::t_c074f62e9f1778 9-23,49-50
+  s_e6f544c69583c2::t_681de73b0fb424 43-44
+  s_e6f544c69583c2::t_91bfd111951909 8
+.github/copilot-instructions.md
+  s_a4f46d2c4947bf::t_e76249c830867c 3,7
+  s_a4f46d2c4947bf::t_c7533bf5c18a62 1-2,4-6,8-9
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/larkbridge/LarkBridgeManager.kt
+  s_e6f544c69583c2::t_4c54ea84dcdb50 140,150
+  s_e6f544c69583c2::t_3612cb78b65b31 141
+  s_e6f544c69583c2::t_e005136da6c3d8 142-143
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/executors/QuickCommandExecutorAccessControlTest.kt
+  s_e6f544c69583c2::t_c66f0a90e9576f 259,273,329
+  s_e6f544c69583c2::t_d79ec0e27da1bc 120,155,203,303
+  s_e6f544c69583c2::t_5842e6aa032e03 61,90,93,103-104,119,135,153,172-173,186-187,202,213,218,231,243,260,274,287,299,314,330,344
+  s_e6f544c69583c2::t_1f1aebdf9225b0 248,264,320
+docs/pages/lark-bridge.md
+  s_e6f544c69583c2::t_4049d3e6a9ace1 299
+  s_e6f544c69583c2::t_bab2681ee858d8 21,28,33,81-82,84-85,96
+  s_e6f544c69583c2::t_888866d89e1515 86
+  s_e6f544c69583c2::t_26fe250c455ceb 280-282,284,286,288,294,301-303,377,380,410,414,424
+  s_e6f544c69583c2::t_ff8f565b12d340 110
+  s_e6f544c69583c2::t_256655bd2728f1 247,250,258,262,264,266,268-271,273-275
+  s_e6f544c69583c2::t_ec135b2ff912bd 105,290
+  s_e6f544c69583c2::t_a47433030ff214 276,312
+  s_e6f544c69583c2::t_c4a6a3d8280e94 289,291-293,295-298
+  s_e6f544c69583c2::t_a595a015e2400d 307
+  s_e6f544c69583c2::t_f14246467adeff 300
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/chart/UsageBarChart.kt
+  s_e6f544c69583c2::t_74c49778c9ffc8 1-4,6-18,20-25,29-32,34-37,39-47,60,73,76-83,85-103,105
+  s_e6f544c69583c2::t_0a14b2f91346a1 5,19,26-28,33,38,48-59,61-72,74-75,84,104
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/ws/V2EventParser.kt
+  s_e6f544c69583c2::t_fc7ad999980b94 47-48,74,80-82,86-90,92-95
+  s_e6f544c69583c2::t_1470b40dfd849c 103-107,121-123,130,136,139-154
+  s_e6f544c69583c2::t_b9a2805cd5f485 128-129
+  s_e6f544c69583c2::t_5325afba6f1764 177-179
+  s_e6f544c69583c2::t_9d987f7bcb2711 83-85,91
+  s_e6f544c69583c2::t_0424d0432a8864 54-55,57-61,63-64
+  s_e6f544c69583c2::t_059babf25b27d4 3,17-20,24-26,34-38,96-102,108-120,124-127,131-135,137,155-158
+  s_e6f544c69583c2::t_b7844f096bf310 56
+  s_e6f544c69583c2::t_b43ce3cdf09102 138
+  s_e6f544c69583c2::t_8492e4a49e194b 159
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeSenderStatsCard.kt
+  s_e6f544c69583c2::t_4fc345565896f5 71-72,75-87
+  s_e6f544c69583c2::t_32e80ef2e2cf79 102,104-108,110-111
+  s_e6f544c69583c2::t_865271244a7b29 103
+  s_e6f544c69583c2::t_d17b2b709ee449 17
+  s_e6f544c69583c2::t_b9cdb105d66601 46
+  s_e6f544c69583c2::t_13cea99a17cf39 109
+  s_e6f544c69583c2::t_7185ef3f325c56 7,18
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeRoutingSection.kt
+  s_e6f544c69583c2::t_b604561893d5e5 5
+  s_e6f544c69583c2::t_e3c13155079474 1-4,6-29
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeSettingsSection.kt
+  s_e6f544c69583c2::t_da2720a07ce879 56
+  s_e6f544c69583c2::t_a6435e156faad2 12-14,33,35-36,38,43-44,54,60,63,67,75
+  s_e6f544c69583c2::t_1aa3a1141ebf38 32,34,37,40-42,59
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/engine/SkillRoutingDryRunTest.kt
+  s_e6f544c69583c2::t_8901228777c36a 5
+  s_e6f544c69583c2::t_0e9af9d1ac0dfd 164,167-170,172-173
+  s_e6f544c69583c2::t_5842e6aa032e03 106,181,272
+  s_e6f544c69583c2::t_eec49f0edd3dc4 263
+  s_e6f544c69583c2::t_cd4144c3b73e6d 189-190
+  s_e6f544c69583c2::t_c65d02515d5f3e 207,209-227,229,232
+  s_e6f544c69583c2::t_a6bba3c8a4903d 228,230-231,233-234
+  s_e6f544c69583c2::t_5fcdc9e5595823 6,102,171,183,199,256,277-278,280
+  s_e6f544c69583c2::t_b6623993357fba 206
+  s_e6f544c69583c2::t_2bf7388af8b8dd 26
+  s_e6f544c69583c2::t_d79a9c6553e279 208
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/BuiltinExecutors.kt
+  s_e6f544c69583c2::t_5fcdc9e5595823 45,56,60,62,83
+  s_e6f544c69583c2::t_f3760a4103c989 63,66-75,85
+  s_e6f544c69583c2::t_5842e6aa032e03 19,61
+  s_e6f544c69583c2::t_b4e73fb15c1867 12,15
+.github/skills/user-manual/SKILL.md
+  s_a4f46d2c4947bf::t_ed6139149a10ef 1-24,26-33,36,38-93,95-96
+  s_a4f46d2c4947bf::t_139d862aca95c7 25,34-35,37,94
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/executors/QuickCommandExecutorTest.kt
+  s_e6f544c69583c2::t_37a5388322cab0 246-249,253-254,258,261
+  s_e6f544c69583c2::t_5842e6aa032e03 58,69,119,127,149,158,167,183,185-186,209,227,237,239,242-243,256,259,267,270,276,285,295,309,320,337,355,364,376,396,412,429,447,457,467,483,492-493,504,510,518
+  s_e6f544c69583c2::t_d79ec0e27da1bc 211-212,229,241,512
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/LarkBridge.kt
+  s_e6f544c69583c2::t_79ffa7f7363697 306-313,316-318
+  s_e6f544c69583c2::t_8fdea356ac2066 388-391,428-431
+  s_e6f544c69583c2::t_fe7113855b4b31 4
+  s_e6f544c69583c2::t_accea454c35f17 132-133
+  s_e6f544c69583c2::t_042559272729f3 122,452,455
+  s_e6f544c69583c2::t_7ca20bb9d634ba 362-369,371-380
+  s_e6f544c69583c2::t_4227181b2f14d6 314-315
+  s_e6f544c69583c2::t_455ba76134ccd4 370
+  s_e6f544c69583c2::t_804f726b591b74 131,134,139-140,143-145
+  s_e6f544c69583c2::t_5fe158ca8dd016 146
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeAgentCards.kt
+  s_e6f544c69583c2::t_f90184b8a58c6c 100-101
+  s_e6f544c69583c2::t_3f56ce03f7e9d5 234-235,246
+  s_e6f544c69583c2::t_b0bbc761099b6c 174
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/model/BridgeConfig.kt
+  s_e6f544c69583c2::t_413a204148f2e0 49-55
+  s_e6f544c69583c2::t_3e5d0be1da0e85 46,190
+  s_e6f544c69583c2::t_df4c597ad07a14 183-186,191,193,195,197,203,207-208
+  s_e6f544c69583c2::t_df8f99c32faa77 209
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/CardElements.kt
+  s_e6f544c69583c2::t_7f5ee884c69ed0 27,29-31,58,78,117-120,135
+  s_e6f544c69583c2::t_94e6518fc44431 26,116,134
+  s_e6f544c69583c2::t_73118c4637dccb 38-44,46-47,50-51,64-74,76,79
+  s_e6f544c69583c2::t_2d1b56509abed8 140,148-154
+  s_e6f544c69583c2::t_260967d545b86a 114,121,123,126
+  s_e6f544c69583c2::t_bf88e0ae387eac 1-9,11-14,16-17,20-25,28,32-37,45,48-49,52-57,59-63,75,77,80-113,115,122,124-125,127-133,136-139,141-147,155-157
+  s_e6f544c69583c2::t_fee78ec35ae22d 10,15,18-19
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/executors/AgentExecutorTest.kt
+  s_e6f544c69583c2::t_16504471b9c7b0 816,819,823-824,831-839
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeAccessControlCard.kt
+  s_e6f544c69583c2::t_3b3757e08cf9a8 49,56-71
+  s_e6f544c69583c2::t_f868cc65bdffd2 72
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeStaticReplyCard.kt
+  s_e6f544c69583c2::t_b0bbc761099b6c 81
+  s_e6f544c69583c2::t_0abd19f1904742 34
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/cli/CommonOptionsBridgeConfigTest.kt
+  s_e6f544c69583c2::t_3e5d0be1da0e85 240
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeRoutingFlowHint.kt
+  s_e6f544c69583c2::t_b0bbc761099b6c 23,51,57
+  s_e6f544c69583c2::t_c54e2435070e01 1-2,4-22,24-50,52-56,58-64
+  s_e6f544c69583c2::t_7f18db0ae9245c 3
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmChainIntegrationTest.kt
+  s_e6f544c69583c2::t_ea183e404e234f 127
+  s_e6f544c69583c2::t_f14b007af556be 26
+  s_e6f544c69583c2::t_81c07572f217fb 68,71-74,77,80-87,90-115,117-119,132
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PageScaffold.kt
+  s_e6f544c69583c2::t_867083137567b6 27-29,37,47-51
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/model/TaskResult.kt
+  s_e6f544c69583c2::t_bd172b71f71094 37,43,50
+  s_e6f544c69583c2::t_3e5d0be1da0e85 9
+  s_e6f544c69583c2::t_34aaa8bb5c55a7 30-34
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/executors/BuiltinExecutorsAssemblyTest.kt
+  s_e6f544c69583c2::t_5fcdc9e5595823 53,57,72,76,83,87,96-97,100,108,118,120,126,136,138,155,166,187,191,201,206,224-225,255,257,270,294
+  s_e6f544c69583c2::t_3e5d0be1da0e85 62,112,130,149,170,195,210,241
+  s_e6f544c69583c2::t_5842e6aa032e03 104,143,159
+  s_e6f544c69583c2::t_cafb37cf644ff9 291-293,295-296
+  s_e6f544c69583c2::t_d79ec0e27da1bc 84
+.github/skills/docs-sync/SKILL.md
+  s_a4f46d2c4947bf::t_ed6139149a10ef 1-2,4-18,20-36,38,42-60,62-75,81-95,98-103,105-111,114
+  s_a4f46d2c4947bf::t_139d862aca95c7 3,19,37,39-41,61,76-80,96-97,104,112-113
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManager.kt
+  s_e6f544c69583c2::t_18a19b7db1c19e 28,252,255,259-260
+  s_e6f544c69583c2::t_79d886f2d94748 79,297-299
+  s_e6f544c69583c2::t_3087a1b8405b6d 14-15,18,84,249-250
+  s_e6f544c69583c2::t_57ddf022acaae3 300
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeQuickCommandCardLogicTest.kt
+  s_e6f544c69583c2::t_bdd8ba30f80f8d 117-143
+  s_e6f544c69583c2::t_cb4151e19ff2f6 144-145
+  s_e6f544c69583c2::t_1c008ced515dbc 6,23,25-27,30,39,42,54,57-59,65,67,71,74-75,82-85,91-92,97,100-104,108,110,112-116
+  s_e6f544c69583c2::t_9e0b98ae4d3934 146-184
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/EasyDataManagerStaticRepliesTest.kt
+  s_e6f544c69583c2::t_5842e6aa032e03 51,61
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/progress/ProgressReporter.kt
+  s_e6f544c69583c2::t_93c8d9fceb7568 5,7
+  s_e6f544c69583c2::t_4878448d75713f 47-52
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/cli/CommonOptions.kt
+  s_e6f544c69583c2::t_3e5d0be1da0e85 84,188,196
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/AgentExecutor.kt
+  s_e6f544c69583c2::t_e2605be003b2a6 73-80
+  s_e6f544c69583c2::t_1d20cedf23d3f2 145
+  s_e6f544c69583c2::t_49606b8c74dd2e 376-377,380-382
+  s_e6f544c69583c2::t_5fcdc9e5595823 88,137,183,257,262
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/openapi/MessageContent.kt
+  s_e6f544c69583c2::t_ac3d4493bcd9ae 73,75
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/SenderAccessControl.kt
+  s_e6f544c69583c2::t_5842e6aa032e03 9-10
+  s_e6f544c69583c2::t_5fcdc9e5595823 8
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/quickcommand/QuickCommandDescriptor.kt
+  s_e6f544c69583c2::t_f7d0910709de8a 1-5,8,10-12,14,16-18,20-26,28-31,33-43
+  s_e6f544c69583c2::t_45c42fdd1b9f6f 6,13,15,19,27
+  s_e6f544c69583c2::t_3e5d0be1da0e85 9,32
+  s_e6f544c69583c2::t_5fcdc9e5595823 7
+docs/core/theme.md
+  s_e6f544c69583c2::t_4ad02517807600 143-151,153
+  s_e6f544c69583c2::t_2d62049d90bd9b 152
+docs/ui-style-guide.md
+  s_e6f544c69583c2::t_6d99430a37fd95 230
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/ListConfigCommitTest.kt
+  s_e6f544c69583c2::t_3e5d0be1da0e85 108,125
+  s_e6f544c69583c2::t_3612cb78b65b31 30-31,99,102,109,114,120,126,131
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/model/BridgeConfigTest.kt
+  s_e6f544c69583c2::t_3e5d0be1da0e85 42-43,87,119-120
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/executors/QuickCommandExecutor.kt
+  s_e6f544c69583c2::t_cd4144c3b73e6d 198
+  s_e6f544c69583c2::t_bb86aab0c0f4ce 14,17-18,20-21,25-26,30,33,35,37,47,50
+  s_e6f544c69583c2::t_6a135f53279db1 115,126,135,239
+  s_e6f544c69583c2::t_fe8765c5f4ddc4 75,98,149,282
+  s_e6f544c69583c2::t_5322f48b791caa 265
+  s_e6f544c69583c2::t_679c5b2ccd950f 274
+  s_e6f544c69583c2::t_79a1c65d4d0b3b 226-228,237-238
+  s_e6f544c69583c2::t_ec8035491d1a69 193-197,204
+  s_e6f544c69583c2::t_5fcdc9e5595823 10-11,39,48,180,188-189,192,206,208-210,276,279,286-293
+  s_e6f544c69583c2::t_98aa77685dd4c7 199-201
+  s_e6f544c69583c2::t_419a12e6537a0c 229-236
+  s_e6f544c69583c2::t_63f530f60280c2 71,78,88,104,107,114,121,125,134,145-146,157,214,217,224,243,245-249,251,256,261,263
+  s_e6f544c69583c2::t_5842e6aa032e03 29,61,74,97,144
+  s_e6f544c69583c2::t_af686313513395 166-172,174,178,181-187,190-191,207
+  s_e6f544c69583c2::t_d6f0e83ff3a886 159-160,162,173,176
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/chart/UsageDonutChart.kt
+  s_e6f544c69583c2::t_be1a8ab31f8a4d 3,5,9,15,28-30,46-50,54,82,102,105,108-109
+  s_e6f544c69583c2::t_b0bbc761099b6c 26
+  s_e6f544c69583c2::t_a65ad4d74dbc82 1-2,4,6-8,10-14,16-25,27,31-45,51-53,55-81,83-101,103-104,106-107,110-111
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/openapi/CardElementsTest.kt
+  s_e6f544c69583c2::t_c1b62cd4139937 24-30,34-36
+  s_e6f544c69583c2::t_404f42e2bf6ccc 1-23,31-33,37-63
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeWorkspaceUnifiedCard.kt
+  s_e6f544c69583c2::t_8dc62a460b64ad 1-25,28-29,31-32,35-36,38-269
+  s_e6f544c69583c2::t_c2f48b1f150041 30,33-34,37
+  s_e6f544c69583c2::t_660996663166c9 26-27
+GEMINI.md
+  s_a4f46d2c4947bf::t_ce4fb0d79f0774 8
+  s_a4f46d2c4947bf::t_5871993fd9b5d2 1-7,9-10
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeUsageStatsCard.kt
+  s_e6f544c69583c2::t_45476b78d59e22 27-28
+  s_e6f544c69583c2::t_ac1541e5ac3dbe 40,57
+  s_e6f544c69583c2::t_a3ff98e13e0539 86,88,102-109,114
+  s_e6f544c69583c2::t_b0bbc761099b6c 110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "b96f9bd60a51de054bd9801d63db8d8b42550782",
+  "prompts": {},
+  "sessions": {
+    "s_a4f46d2c4947bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "db7ea2fb-4f95-4e1a-8799-916519d9a562",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_e6f544c69583c2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4bd75c0-fef3-414a-b001-267d4bfe1a74",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
