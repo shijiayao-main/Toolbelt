@@ -1,0 +1,51 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_3e5350b5d78d3b::t_576407d8c14042 305-307,314-323
+  s_3e5350b5d78d3b::t_2d23c71806e0f4 309-311,313,324-325
+  s_3e5350b5d78d3b::t_4e8a56fe590510 340-342
+  s_3e5350b5d78d3b::t_c7fa84dafbf092 37
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/BuiltinHandlers.kt
+  s_3e5350b5d78d3b::t_7e90e27a4fd0ab 606
+  s_3e5350b5d78d3b::t_c0889eca2e95c3 754-809
+  s_3e5350b5d78d3b::t_1ae8b941e9297e 662,671-681,701,717,742-745
+  s_3e5350b5d78d3b::t_253833626aa508 663-670
+  s_3e5350b5d78d3b::t_0ed915402a6c61 595,598,605,607-611,623,639-660
+  s_3e5350b5d78d3b::t_dced1af041ab8a 596-597,599,602-604,612,617-622
+  s_3e5350b5d78d3b::t_3e425155ae35a7 661
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/FileGateTest.kt
+  s_3e5350b5d78d3b::t_258b1c51f15c7e 82-84,86
+  s_3e5350b5d78d3b::t_a1cd543db9ab31 75,117
+  s_3e5350b5d78d3b::t_326c6eb54256dc 1-13,15-32,35-74,76-81,87-116,118-192
+  s_3e5350b5d78d3b::t_f772298382f43b 33-34,85
+  s_3e5350b5d78d3b::t_e08cd38962ea01 14
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/HandlerGateAndWeightTest.kt
+  s_3e5350b5d78d3b::t_06ded61b101af8 187,209,258,363
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeConfig.kt
+  s_3e5350b5d78d3b::t_70c7f9c9d44819 116
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/cli/CheckCommandTest.kt
+  s_3e5350b5d78d3b::t_eb4a9d12f5d847 43
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeFields.kt
+  s_3e5350b5d78d3b::t_3e7bcebf0c03b6 451,456-461
+  s_3e5350b5d78d3b::t_9fc1735e6d7d11 462-463
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeFieldsTest.kt
+  s_3e5350b5d78d3b::t_5f63cedd992717 45-46,50-51,74,79-80
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeAssemblerParityTest.kt
+  s_3e5350b5d78d3b::t_31119ed86007a3 72,98,269,302,756
+  s_3e5350b5d78d3b::t_44daed96265838 283
+  s_3e5350b5d78d3b::t_f0b8f2571c0f8e 303
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "06295996f62ccfa92241c16934e3a0164c1b470c",
+  "prompts": {},
+  "sessions": {
+    "s_3e5350b5d78d3b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "031624ed-7ff4-46b4-bc37-8dcaadab52a8",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
