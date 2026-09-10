@@ -1,0 +1,163 @@
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/observe/ObserveStatusTest.kt
+  s_84cef84770061a::t_13e53b18266922 1
+  s_84cef84770061a::t_734d40ba67924e 2-3
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/observe/JsonlSinkDropCountTest.kt
+  s_84cef84770061a::t_9a2a01208959f3 3
+  s_84cef84770061a::t_236f3c0aa99410 188
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/Admission.kt
+  s_84cef84770061a::t_faca4846678fcc 152
+  s_84cef84770061a::t_423320fc5e85f6 94
+  s_84cef84770061a::t_17c16b0a3c37bc 181-182
+docs/reports/architecture-analysis-2026-09-10.md
+  s_84cef84770061a::t_0444e9d2df8003 1-34,36-48,50-69,71-77,79,81-97,100-106,108-130
+  s_84cef84770061a::t_3b048df627ea96 70
+  s_84cef84770061a::t_bcfc0271979c86 35
+  s_84cef84770061a::t_b4024732f192b0 80
+  s_84cef84770061a::t_0f5405080e655f 98
+  s_84cef84770061a::t_956c56c2ab0988 107
+  s_84cef84770061a::t_17926e8c0caf7c 49
+  s_84cef84770061a::t_11ef092e100300 78
+  s_84cef84770061a::t_601dc5375a9df0 99
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_84cef84770061a::t_18a3a3372b306a 177,181-187
+  s_84cef84770061a::t_3c6e072271c398 46
+  s_84cef84770061a::t_ce41aa6ff25ca4 152,162-168
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsParentNode.kt
+  s_84cef84770061a::t_262d8a36de6728 34
+  s_84cef84770061a::t_4e1896fdad8d78 220-227,229
+  s_84cef84770061a::t_cb876ae8253c80 29,31
+docs/core/data.md
+  s_84cef84770061a::t_8ae51f4a4017bd 77-78
+  s_84cef84770061a::t_942bb0700d9250 80-82
+  s_84cef84770061a::t_7e5a9ab645d47e 9-23,25
+  s_84cef84770061a::t_16c1d364cd4c57 54-76
+  s_84cef84770061a::t_c3885e9b70e96b 3
+  s_84cef84770061a::t_0c7b2dff725b0e 79
+  s_84cef84770061a::t_5a69bb023aac61 24
+AGENTS.md
+  s_84cef84770061a::t_08c6af0bf05664 84
+  s_84cef84770061a::t_29d50c38a57cf8 67
+docs/architecture.md
+  s_84cef84770061a::t_c353765660e0f6 119
+  s_84cef84770061a::t_c7b228e35e4f73 59,61-62,65,76-78
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsChildNode.kt
+  s_84cef84770061a::t_b13e7e27693400 192-199,201
+  s_84cef84770061a::t_d5cbbb16bb22db 28
+  s_84cef84770061a::t_2010d6fe6ce4ae 26-27
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  s_84cef84770061a::t_a2f59c74db5bac 34-35
+  s_84cef84770061a::t_a3f262ea6605f4 111
+  s_84cef84770061a::t_78c2678f00dcf1 135-142,144
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppSwitchRow.kt
+  s_84cef84770061a::t_c31cd827428f76 7,16-18,20,23,25-35,46-48,51-64,66,81-93
+  s_84cef84770061a::t_ba5eb21d826fcf 94
+docs/index.md
+  s_84cef84770061a::t_72afd1a7caa18d 75
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/MessageHandler.kt
+  s_84cef84770061a::t_9420140f33aa6d 16-17
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellToolsGroupDialogs.kt
+  s_84cef84770061a::t_5a1d377acc1c9f 35
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ShellToolsConfigParserTest.kt
+  s_84cef84770061a::t_c5f0629ca129ba 1-128
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/DefaultShellToolsConfigProvider.kt
+  s_84cef84770061a::t_20dd8104d8104d 1-4
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDeviceSelectionTest.kt
+  s_84cef84770061a::t_0b0106c654c611 4
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LegacyConfigImporter.kt
+  s_84cef84770061a::t_c09881053fa93a 19
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ShellToolsNode.kt
+  s_84cef84770061a::t_55f145f98f8954 1
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_84cef84770061a::t_8c3ea6447d5f22 18
+docs/pages/shell-tools.md
+  s_84cef84770061a::t_59492fd38bd34d 284
+  s_84cef84770061a::t_9ed54136691a6a 82
+  s_84cef84770061a::t_e2454a7b731d63 246
+  s_84cef84770061a::t_a868ccbd7a13a0 26,30-43
+  s_84cef84770061a::t_05b0e4b46587f1 296
+  s_84cef84770061a::t_c2af72b14fdf1c 151
+  s_84cef84770061a::t_3b2f2d3c538a41 347
+  s_84cef84770061a::t_4e1a8a1d1998e0 166
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeStore.kt
+  s_84cef84770061a::t_40c1226ae61b38 1
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsConfigRepositoryTest.kt
+  s_84cef84770061a::t_1d3355554c3855 1-7
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/TaskErrorHint.kt
+  s_84cef84770061a::t_ca7be4f0422faa 1
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeErrorMappingTest.kt
+  s_84cef84770061a::t_5d602aebe0c8ce 1
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_84cef84770061a::t_c559e88c303eed 17
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_84cef84770061a::t_a292eed0aa07c3 44
+docs/pages/lark-bridge.md
+  s_84cef84770061a::t_b411efbdb0ec7c 20
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_84cef84770061a::t_f4cb9e805cab52 57-60
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ShellToolsConfig.kt
+  s_84cef84770061a::t_4127262f745930 1
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsRuntimeTest.kt
+  s_84cef84770061a::t_c5f0629ca129ba 1-85
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellExecModels.kt
+  s_84cef84770061a::t_ed301253217b1b 1
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManager.kt
+  s_84cef84770061a::t_3ce56ea256c0f6 5
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellCustomEditorDialog.kt
+  s_84cef84770061a::t_376e9c0b65c953 49,51-54
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/TaskErrorHintTest.kt
+  s_84cef84770061a::t_adff55e595b7c4 1
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ShellToolsConfigLoader.kt
+  s_84cef84770061a::t_eda03e9d45752a 1-7
+docs/shell_tools.md
+  s_84cef84770061a::t_1df960434d728f 16
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModel.kt
+  s_84cef84770061a::t_62a35174450daa 13-15
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/CustomToolsController.kt
+  s_84cef84770061a::t_012754d1ff1c1a 4-6
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellExecutionEngineRobustnessTest.kt
+  s_84cef84770061a::t_c5f0629ca129ba 1-102
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeErrorMapping.kt
+  s_84cef84770061a::t_191f2034747aed 1
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/ShellToolsList.kt
+  s_84cef84770061a::t_8089beb392856f 8
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsConfigRepository.kt
+  s_84cef84770061a::t_ffbf501d37f0df 1-10
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsRuntime.kt
+  s_84cef84770061a::t_e484139dab87a0 1
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsDataStore.kt
+  s_84cef84770061a::t_f80c80d47e44c8 1-4
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellExecutionEngineOutputTest.kt
+  s_84cef84770061a::t_c5f0629ca129ba 1-187
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManagerRemoveClearTest.kt
+  s_84cef84770061a::t_61a56a7eb96859 4
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ToolNodeSearchFilterTest.kt
+  s_84cef84770061a::t_c5f0629ca129ba 1-99
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellExecutionEngine.kt
+  s_84cef84770061a::t_b33285600f7f15 1
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManagerFlushTest.kt
+  s_84cef84770061a::t_b22effc9aba174 5
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_84cef84770061a::t_6792625d89b5f2 1
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ShellToolsConfigParser.kt
+  s_84cef84770061a::t_52003b8e48ee53 1
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LegacyConfigImporterTest.kt
+  s_84cef84770061a::t_3d9eada235af86 1
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeAssemblerParityTest.kt
+  s_84cef84770061a::t_a83def43c55625 601
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "cb00ab0d5980dce8075d9e06b15f7dfe12e6e099",
+  "prompts": {},
+  "sessions": {
+    "s_84cef84770061a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2aedbb50-b674-4f44-93e7-c99020d08310",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
