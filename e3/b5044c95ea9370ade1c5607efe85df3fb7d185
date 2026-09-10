@@ -1,0 +1,126 @@
+docs/core/viewmodel.md
+  s_84cef84770061a::t_2606e469f1e5e2 94
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/HandlerKinds.kt
+  s_84cef84770061a::t_a0755d65c3cadb 46
+docs/core/data.md
+  s_84cef84770061a::t_f6b184b945d8da 3
+  s_84cef84770061a::t_151d3fc657d947 12
+docs/core/theme.md
+  s_84cef84770061a::t_33f1b81d3a03b2 209
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/MessageHandler.kt
+  s_84cef84770061a::t_2ab8f479141e26 17
+.gitignore
+  s_84cef84770061a::t_20ffe98cd9a58a 22
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_84cef84770061a::t_3cc8e19a50d229 230-234
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManager.kt
+  s_84cef84770061a::t_dead4ed22077bd 3-4
+  s_84cef84770061a::t_beae312002f9ab 1
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/Responder.kt
+  s_84cef84770061a::t_f7b89850ab2a7e 79
+AGENTS.md
+  s_84cef84770061a::t_4fab655c6e6c45 59
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/Admission.kt
+  s_84cef84770061a::t_50933bc9fe8f95 182
+docs/pages/navigation.md
+  s_84cef84770061a::t_fd8e494880fbd6 45
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_84cef84770061a::t_893cef024c2e15 38
+.github/skills/docs-sync/SKILL.md
+  s_84cef84770061a::t_488b074bd8e770 33
+  s_84cef84770061a::t_f2c6e1c68cfc85 37
+  s_84cef84770061a::t_01162e3512a9bf 31
+docs/pages/shell-tools.md
+  s_84cef84770061a::t_b162a2de7dfe25 21
+  s_84cef84770061a::t_ee83d982b79dc4 239
+  s_84cef84770061a::t_5aa1bec5e5ae1a 254
+  s_84cef84770061a::t_ce024ca4297149 15-16
+docs/pages/settings.md
+  s_84cef84770061a::t_84c5ceefe45f6a 67
+  s_84cef84770061a::t_8be9baf73d2f60 61
+  s_84cef84770061a::t_06925baad64314 35
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_84cef84770061a::t_b055199c101a49 16
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/initializer/LogFileRestoreInitializer.kt
+  s_84cef84770061a::t_c6e4b3a47913cc 1-4
+docs/pages/lark-bridge.md
+  s_84cef84770061a::t_73112e58da0a76 202
+  s_84cef84770061a::t_60a3b5d4321db0 280
+  s_84cef84770061a::t_de443c253d7861 216
+  s_84cef84770061a::t_9af68d53acd661 312
+  s_84cef84770061a::t_70195c682d814f 3
+docs/index.md
+  s_84cef84770061a::t_a97a668520c7ef 75
+  s_84cef84770061a::t_1e22d4d7d8f76c 34-40
+  s_84cef84770061a::t_2a382d53b855fb 64,69-70,73
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManagerLogFileEnabledTest.kt
+  s_84cef84770061a::t_20ae88aa0acf23 1-4
+.claude/skills/docs-sync/SKILL.md
+  s_84cef84770061a::t_c05e18307066dc 33
+  s_84cef84770061a::t_4a6a11b1d0e4ab 31
+  s_84cef84770061a::t_8b378ea16953d8 37
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_84cef84770061a::t_2642b361418d4e 16
+docs/ui-style-guide.md
+  s_84cef84770061a::t_722f4f6763207c 744
+  s_84cef84770061a::t_9f4dfb5ad1151a 698,703
+  s_84cef84770061a::t_5f42559dce257d 459-557
+docs/architecture.md
+  s_84cef84770061a::t_9f305734b31b2a 119
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/tasks.md
+  s_84cef84770061a::t_c0bb8d8a49c078 1-46
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/.openspec.yaml
+  s_84cef84770061a::t_9cc152b4d782f3 1-4
+openspec/changes/archive/2026-09-10-govern-split-packages/.openspec.yaml
+  s_84cef84770061a::t_380b27229d3be7 1-4
+openspec/changes/archive/2026-09-10-govern-split-packages/tasks.md
+  s_84cef84770061a::t_51bcb32db4b09d 1-29
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/tasks.md
+  s_84cef84770061a::t_dcb63192ca55e1 1-32
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/.openspec.yaml
+  s_84cef84770061a::t_0ef7946f2c575d 1-4
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/tasks.md
+  s_84cef84770061a::t_ffe500c46337a0 1-43
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/README.md
+  s_84cef84770061a::t_dbb9b8767631e2 1-3
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/design.md
+  s_84cef84770061a::t_8ec1f42f54231c 1-49
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/proposal.md
+  s_84cef84770061a::t_01bf5d9e0c9925 1-24
+openspec/changes/archive/2026-09-10-govern-split-packages/README.md
+  s_84cef84770061a::t_189ed82bf9ab8c 1-3
+openspec/changes/archive/2026-09-10-govern-split-packages/design.md
+  s_84cef84770061a::t_6db66020c737bd 1-46
+openspec/changes/archive/2026-09-10-govern-split-packages/proposal.md
+  s_84cef84770061a::t_931aa9d3ecef23 1-22
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/.openspec.yaml
+  s_84cef84770061a::t_6e9b7ae3b1e91e 1-4
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/README.md
+  s_84cef84770061a::t_3c58b06799cca7 1-3
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/design.md
+  s_84cef84770061a::t_e113cab2d70b47 1-40
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/proposal.md
+  s_84cef84770061a::t_4de40860d7b82c 1-33
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/README.md
+  s_84cef84770061a::t_f18c902a442437 1-3
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/design.md
+  s_84cef84770061a::t_26c3d98d758c32 1-60
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/proposal.md
+  s_84cef84770061a::t_e761d4b91acc42 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e3b5044c95ea9370ade1c5607efe85df3fb7d185",
+  "prompts": {},
+  "sessions": {
+    "s_84cef84770061a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2aedbb50-b674-4f44-93e7-c99020d08310",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
