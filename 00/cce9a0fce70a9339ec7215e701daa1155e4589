@@ -1,0 +1,45 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_84cef84770061a::t_18a3a3372b306a 178,182-188
+  s_84cef84770061a::t_3c6e072271c398 47
+  s_84cef84770061a::t_ce41aa6ff25ca4 153,163-169
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsParentNode.kt
+  s_84cef84770061a::t_262d8a36de6728 34
+  s_84cef84770061a::t_4e1896fdad8d78 220-227,229
+docs/core/data.md
+  s_84cef84770061a::t_8ae51f4a4017bd 77-78
+  s_84cef84770061a::t_942bb0700d9250 80-82
+  s_84cef84770061a::t_7e5a9ab645d47e 9-25
+  s_84cef84770061a::t_16c1d364cd4c57 54-76
+  s_84cef84770061a::t_c3885e9b70e96b 3
+  s_84cef84770061a::t_0c7b2dff725b0e 79
+AGENTS.md
+  s_84cef84770061a::t_08c6af0bf05664 84
+docs/architecture.md
+  s_84cef84770061a::t_c353765660e0f6 119
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/node/ShellToolsChildNode.kt
+  s_84cef84770061a::t_b13e7e27693400 192-199,201
+  s_84cef84770061a::t_d5cbbb16bb22db 28
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  s_84cef84770061a::t_a2f59c74db5bac 34-35
+  s_84cef84770061a::t_a3f262ea6605f4 111
+  s_84cef84770061a::t_78c2678f00dcf1 135-142,144
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppSwitchRow.kt
+  s_84cef84770061a::t_c31cd827428f76 7,16-18,20,23,25-35,46-48,51-64,66,81-93
+  s_84cef84770061a::t_ba5eb21d826fcf 94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "00cce9a0fce70a9339ec7215e701daa1155e4589",
+  "prompts": {},
+  "sessions": {
+    "s_84cef84770061a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2aedbb50-b674-4f44-93e7-c99020d08310",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
