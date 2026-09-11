@@ -1,0 +1,46 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_d1d7a64fa261c7::t_964b2782de939b 46-51,73-84,87-89,93,101,113-114,122
+  s_d1d7a64fa261c7::t_6c98fa711f2eb6 40
+  s_d1d7a64fa261c7::t_00687ce7456d5f 41
+  s_d1d7a64fa261c7::t_74686381253009 133-138
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_d1d7a64fa261c7::t_126bfcc5fb7b66 74-80,82-87,89-91
+  s_d1d7a64fa261c7::t_315865681de06f 125-126,128,134,137,147-148,150-151
+  s_d1d7a64fa261c7::t_bb949a48d1e449 5,8-11,14-20,27,31-32,51-53,61-64,70-73,81,88,92-93,105-110,123-124,127,129-133,135-136,138-146,149,154,160-161,168
+  s_d1d7a64fa261c7::t_fd5d9d6fb3c2af 152-153
+  s_d1d7a64fa261c7::t_ca07211f3e08d7 155
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_d1d7a64fa261c7::t_dfc00705263b65 84-87,97,124,127
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterPage.kt
+  s_d1d7a64fa261c7::t_a959745467cff2 44
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  s_d1d7a64fa261c7::t_d8a5759a0be990 121
+  s_d1d7a64fa261c7::t_57ca844e71cbb6 132-137
+  s_d1d7a64fa261c7::t_54cd9dc3d01ea9 117-120,122-131,138-143
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_d1d7a64fa261c7::t_75b6bbd9a09ec5 110-113,122
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_d1d7a64fa261c7::t_800c4e4f46094b 36,39
+  s_d1d7a64fa261c7::t_007ec0d23c05c4 119-123,137-142
+  s_d1d7a64fa261c7::t_6e5505d71df0a2 143-145
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_d1d7a64fa261c7::t_7dd617ed77b968 11-18,20-25,28,35-36
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManager.kt
+  s_d1d7a64fa261c7::t_23a2c75681aeda 78,83-84,86-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0461ba92c612c279ae50f83d963837427ef3968b",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
