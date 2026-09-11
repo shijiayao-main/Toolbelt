@@ -1,0 +1,26 @@
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterViewModel.kt
+  s_d1d7a64fa261c7::t_eb571f28023082 30,38-44
+docs/core/theme.md
+  s_d1d7a64fa261c7::t_b768df8ce6a99c 191
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterPage.kt
+  s_d1d7a64fa261c7::t_1514d040f0da66 23,33,36-44
+  s_d1d7a64fa261c7::t_4991e9f28aa585 55-63
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_d1d7a64fa261c7::t_82239e1fe31339 121-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eab87c7a8dbbe985e0e4f71642041c25ec3ba5a6",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
