@@ -1,0 +1,28 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_d1d7a64fa261c7::t_9728953bdf6c07 8-10,12-18,20,24-57,61-67
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_d1d7a64fa261c7::t_19c4b0a74bd747 81,91,104
+  s_d1d7a64fa261c7::t_0441ef084d3829 36,42-44
+  s_d1d7a64fa261c7::t_ba8233ec91492d 6
+  s_d1d7a64fa261c7::t_f34c2bbd5574ac 111-115,119,151-152
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_d1d7a64fa261c7::t_defd6f237f760c 38-40
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_d1d7a64fa261c7::t_a85fb758c0f4f7 1-225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6842d9a37504365801d7413247ad123d8bd1d2c8",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
