@@ -1,0 +1,22 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_d1d7a64fa261c7::t_5c93ba21b87ee8 279-280,283-285
+  s_d1d7a64fa261c7::t_2d5efb79d30192 228,231-234,236-238,243-245,250,254,257-259,269-278,281-282,286
+  s_d1d7a64fa261c7::t_3bcd4943e91c64 193-195
+  s_d1d7a64fa261c7::t_fcd911e8aa2a73 246-249,251-253,255-256,260,264,268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "59d99ec926c3f36e8acab895c53880d0cd186308",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
