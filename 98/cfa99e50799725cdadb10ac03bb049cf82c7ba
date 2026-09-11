@@ -1,0 +1,26 @@
+docs/ui-style-guide.md
+  s_d1d7a64fa261c7::t_e455f4ce1bc198 603-605
+  s_d1d7a64fa261c7::t_7ca40d9fec7ada 761,766,769
+  s_d1d7a64fa261c7::t_9d68f128e14316 558-568,570-573,576-602,606
+  s_d1d7a64fa261c7::t_fb18900e2cd719 569,574-575
+docs/core/theme.md
+  s_d1d7a64fa261c7::t_9ae98388987104 95,97,100
+  s_d1d7a64fa261c7::t_a3e85c9b559bf9 161
+  s_d1d7a64fa261c7::t_01757f62d4aaa7 165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "98cfa99e50799725cdadb10ac03bb049cf82c7ba",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
