@@ -1,0 +1,169 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_d1d7a64fa261c7::t_5c93ba21b87ee8 279-280,283-285
+  s_d1d7a64fa261c7::t_2d5efb79d30192 228,231-234,236-238,243-245,250,254,257-259,269-278,281-282,286
+  s_d1d7a64fa261c7::t_3bcd4943e91c64 193-195
+  s_d1d7a64fa261c7::t_fcd911e8aa2a73 246-249,251-253,255-256,260,264,268
+  s_d1d7a64fa261c7::t_82239e1fe31339 121-122
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterViewModel.kt
+  s_d1d7a64fa261c7::t_eb571f28023082 30,38-44
+docs/core/theme.md
+  s_d1d7a64fa261c7::t_b768df8ce6a99c 195
+  s_d1d7a64fa261c7::t_9ae98388987104 95,97,100
+  s_d1d7a64fa261c7::t_a3e85c9b559bf9 161
+  s_d1d7a64fa261c7::t_01757f62d4aaa7 165
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterPage.kt
+  s_d1d7a64fa261c7::t_1514d040f0da66 23,33,36-43,45
+  s_d1d7a64fa261c7::t_4991e9f28aa585 56-64
+  s_d1d7a64fa261c7::t_a959745467cff2 44
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  s_d1d7a64fa261c7::t_ba183ccee99945 180-184
+  s_d1d7a64fa261c7::t_ef25c00c2e1b1f 38
+  s_d1d7a64fa261c7::t_80cf79cc3dcfd4 20
+  s_d1d7a64fa261c7::t_05cced4c17e1da 117,119-123,128-131,137-141
+  s_d1d7a64fa261c7::t_836e4a38f78625 48-52,55-56,69,72-73,100-101,107-111
+  s_d1d7a64fa261c7::t_34758e21ea07f9 112-114
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/EasyToolboxColors.kt
+  s_d1d7a64fa261c7::t_7ed7182ff6cd35 43-45
+  s_d1d7a64fa261c7::t_ff4b96525fb452 30-31
+  s_d1d7a64fa261c7::t_25605ffbccc5fa 49-59
+  s_d1d7a64fa261c7::t_d158b5a07e2da2 75-85
+  s_d1d7a64fa261c7::t_0f074253978cd6 19-20
+  s_d1d7a64fa261c7::t_90ee41d5166175 39-40,67-68
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_d1d7a64fa261c7::t_9728953bdf6c07 26,27,32-34,37-38
+  s_d1d7a64fa261c7::t_7dd617ed77b968 11-18,20-25,28,35-36
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_d1d7a64fa261c7::t_19c4b0a74bd747 81,91,104
+  s_d1d7a64fa261c7::t_0441ef084d3829 36,42-44
+  s_d1d7a64fa261c7::t_ba8233ec91492d 6
+  s_d1d7a64fa261c7::t_f34c2bbd5574ac 111-115,119,151-152
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_d1d7a64fa261c7::t_defd6f237f760c 38-40
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_d1d7a64fa261c7::t_a85fb758c0f4f7 1-35,37-38,40-118,124-136,146-239
+  s_d1d7a64fa261c7::t_800c4e4f46094b 36,39
+  s_d1d7a64fa261c7::t_007ec0d23c05c4 119-123,137-142
+  s_d1d7a64fa261c7::t_6e5505d71df0a2 143-145
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManager.kt
+  s_d1d7a64fa261c7::t_e0fc3d51771c54 30-33
+  s_d1d7a64fa261c7::t_85078dc20841c4 76-77,79-82,85,94
+  s_d1d7a64fa261c7::t_08ab71923be672 95
+  s_d1d7a64fa261c7::t_23a2c75681aeda 78,83-84,86-93
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_d1d7a64fa261c7::t_b79eb10496355f 68
+  s_d1d7a64fa261c7::t_d4dd607ef3210b 29,39,41,49-50,54,56-58,122,156-159,162-167,169-179
+  s_d1d7a64fa261c7::t_126bfcc5fb7b66 74-80,82-87,89-91
+  s_d1d7a64fa261c7::t_315865681de06f 125-126,128,134,137,147-148,150-151
+  s_d1d7a64fa261c7::t_bb949a48d1e449 5,8-11,14-20,27,31-32,51-53,61-64,70-73,81,88,92-93,105-110,123-124,127,129-133,135-136,138-146,149,154,160-161,168
+  s_d1d7a64fa261c7::t_fd5d9d6fb3c2af 152-153
+  s_d1d7a64fa261c7::t_ca07211f3e08d7 155
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_d1d7a64fa261c7::t_5bf2dacf43fe41 59,62,70-72,85-86,90-92,103,109-111,117-121,123
+  s_d1d7a64fa261c7::t_e774dfb128e5bd 94-100,102,104-108,112,115-116
+  s_d1d7a64fa261c7::t_ec8d9ea8cc4000 57-58,60-61,63-69,124
+  s_d1d7a64fa261c7::t_208262c2bdfaf8 37,39
+  s_d1d7a64fa261c7::t_3917de31b77b97 36,42-43
+  s_d1d7a64fa261c7::t_165869fff30ac8 19,28
+  s_d1d7a64fa261c7::t_9141e59191b343 125
+  s_d1d7a64fa261c7::t_964b2782de939b 46-51,73-84,87-89,93,101,113-114,122
+  s_d1d7a64fa261c7::t_6c98fa711f2eb6 40
+  s_d1d7a64fa261c7::t_00687ce7456d5f 41
+  s_d1d7a64fa261c7::t_74686381253009 133-138
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_d1d7a64fa261c7::t_96f2a8618b3736 47
+  s_d1d7a64fa261c7::t_84787bddca7a0d 123
+  s_d1d7a64fa261c7::t_1128a5d8a94652 5-6,18,22-23,26-28,31-38,46,51,64-76,78,114-121,124-126,133-141
+  s_d1d7a64fa261c7::t_75b6bbd9a09ec5 110-113,122
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampViewModel.kt
+  s_d1d7a64fa261c7::t_99d8bb8d08cd31 7,11,17,21,34-36,43-48
+  s_d1d7a64fa261c7::t_dbf15f4f64749d 49
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampConverter.kt
+  s_d1d7a64fa261c7::t_6bd863a5b58398 121,124
+  s_d1d7a64fa261c7::t_7544a6f218dd12 111-118,122,125-132
+  s_d1d7a64fa261c7::t_bb8802445aeeab 119-120,123
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  s_d1d7a64fa261c7::t_bb49d780ec61f1 23,25,33-37,47,50-51,83-87,92,115-163
+  s_d1d7a64fa261c7::t_1780d0a2635d23 164
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_d1d7a64fa261c7::t_dfc00705263b65 84-87,97,124,127
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  s_d1d7a64fa261c7::t_d8a5759a0be990 121
+  s_d1d7a64fa261c7::t_57ca844e71cbb6 132-137
+  s_d1d7a64fa261c7::t_54cd9dc3d01ea9 117-120,122-131,138-143
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/StatusBanner.kt
+  s_d1d7a64fa261c7::t_dfff24afe5f756 1-2,5-37,41-47,49-85,89-91,93,96-99,130-138
+  s_d1d7a64fa261c7::t_c99ed41a4d743a 86-88,92,95
+  s_d1d7a64fa261c7::t_be4f801983cfb8 3-4
+  s_d1d7a64fa261c7::t_602849c6af24bd 94,100-126
+  s_d1d7a64fa261c7::t_c106f1ff316295 38-40,48
+  s_d1d7a64fa261c7::t_4d4a1c418dce19 127-129
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/security/SecurityHintsCard.kt
+  s_d1d7a64fa261c7::t_7091f7843b0a29 12-13,19-20,27,30,63,68,73-74,87-88,97-104
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_d1d7a64fa261c7::t_b4922521f311ae 91-93
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  s_d1d7a64fa261c7::t_4f42acc9d268e5 159-167
+  s_d1d7a64fa261c7::t_965a4c39a0fb94 214-215
+  s_d1d7a64fa261c7::t_91374829c3e2bd 5,36
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ScrollableListRow.kt
+  s_d1d7a64fa261c7::t_d052d4fb79b45f 1-2,5-13,15-37,39-57,67-68
+  s_d1d7a64fa261c7::t_150c24ef093dc3 38
+  s_d1d7a64fa261c7::t_e7ce59eb97eeb6 3-4,14
+  s_d1d7a64fa261c7::t_155c07d5d68498 58-66
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/OperationBar.kt
+  s_d1d7a64fa261c7::t_f7f9b4c11cedcf 168,170-171,175-176,180-181,189-190
+  s_d1d7a64fa261c7::t_81412e16f85575 224-225,245-246,253-254
+  s_d1d7a64fa261c7::t_bf188eda316b2c 35-36
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  s_d1d7a64fa261c7::t_83d56e096c855e 15
+  s_d1d7a64fa261c7::t_e525abb1e192bf 188-197,199
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_d1d7a64fa261c7::t_0ecaa5ef024b81 62,365
+  s_d1d7a64fa261c7::t_7d4ddb07a1b2e1 363-364,366-380,382
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsPanel.kt
+  s_d1d7a64fa261c7::t_cb367b58438113 357-358,361,368,376-378
+  s_d1d7a64fa261c7::t_d0632d5912fe17 403,419,425,429
+  s_d1d7a64fa261c7::t_24d063edeb2f67 318-324
+  s_d1d7a64fa261c7::t_61d22200ff1518 163,166-167
+  s_d1d7a64fa261c7::t_963df83411c95a 274,284-288,290,292-311
+  s_d1d7a64fa261c7::t_ab8acfcbd3bca5 165
+  s_d1d7a64fa261c7::t_705cd684a25b45 275-283,289,291
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  s_d1d7a64fa261c7::t_2b6039c2e29b93 14,16,21,36,44,56-61,95-114,132-137,149,168-193,200-201,204,206-209,211-249,256-258,269
+  s_d1d7a64fa261c7::t_b16754a09e9748 7
+  s_d1d7a64fa261c7::t_469a609f390c85 194-199,210
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/status/BridgeStatusPanel.kt
+  s_d1d7a64fa261c7::t_96de4751fefdfd 91-96
+  s_d1d7a64fa261c7::t_aa6563a8101b95 27-28
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/status/ConfigCheckPanel.kt
+  s_d1d7a64fa261c7::t_de4c7a90dd2269 61,63-66
+  s_d1d7a64fa261c7::t_233803550ccabd 36-37
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_d1d7a64fa261c7::t_ad7284340bbd51 294-297,301-302
+  s_d1d7a64fa261c7::t_1db8afdd7f595e 58-59
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_d1d7a64fa261c7::t_92c1056b969281 39-40
+  s_d1d7a64fa261c7::t_2bd440dcf01319 172-174,184
+  s_d1d7a64fa261c7::t_06b842924efa95 169-171,175-183
+docs/ui-style-guide.md
+  s_d1d7a64fa261c7::t_e455f4ce1bc198 603-605
+  s_d1d7a64fa261c7::t_7ca40d9fec7ada 761,766,769
+  s_d1d7a64fa261c7::t_9d68f128e14316 558-568,570-573,576-602,606
+  s_d1d7a64fa261c7::t_fb18900e2cd719 569,574-575
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "008aad7bed077c3ed2ba4250b40a9eade20b16dc",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
