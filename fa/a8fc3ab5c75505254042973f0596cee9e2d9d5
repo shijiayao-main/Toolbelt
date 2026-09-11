@@ -1,0 +1,31 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_d1d7a64fa261c7::t_06b842924efa95 169-171,175-183
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/StatusBanner.kt
+  s_d1d7a64fa261c7::t_c99ed41a4d743a 86-88,92,95
+  s_d1d7a64fa261c7::t_be4f801983cfb8 3-4
+  s_d1d7a64fa261c7::t_602849c6af24bd 94,100-126
+  s_d1d7a64fa261c7::t_c106f1ff316295 38-40,48
+  s_d1d7a64fa261c7::t_4d4a1c418dce19 127-129
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  s_d1d7a64fa261c7::t_b16754a09e9748 7
+  s_d1d7a64fa261c7::t_469a609f390c85 194-199,210
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsPanel.kt
+  s_d1d7a64fa261c7::t_ab8acfcbd3bca5 165
+  s_d1d7a64fa261c7::t_705cd684a25b45 275-283,289,291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "faa8fc3ab5c75505254042973f0596cee9e2d9d5",
+  "prompts": {},
+  "sessions": {
+    "s_d1d7a64fa261c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6c3dc2d-73ac-4849-922d-2d58d2f2b0b3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
