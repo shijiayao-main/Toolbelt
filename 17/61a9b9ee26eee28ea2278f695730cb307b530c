@@ -1,0 +1,28 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_ee84cc0fa9b8d2::t_0adc0bdb694650 16
+feature-ai/build.gradle.kts
+  s_ee84cc0fa9b8d2::t_94b157e677983c 1-21
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiContributions.kt
+  s_ee84cc0fa9b8d2::t_f57ca766fed470 1-15
+gradle/libs.versions.toml
+  s_ee84cc0fa9b8d2::t_8bb610401d4f61 21
+  s_ee84cc0fa9b8d2::t_a50c16ddd91802 49-50
+settings.gradle.kts
+  s_ee84cc0fa9b8d2::t_6569738633c5b1 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1761a9b9ee26eee28ea2278f695730cb307b530c",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
