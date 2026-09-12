@@ -1,0 +1,162 @@
+openspec/specs/log-tag-filter/spec.md
+  s_ee84cc0fa9b8d2::t_9a256b12160c71 40,43-44,46,51,56,61,65-73
+  s_ee84cc0fa9b8d2::t_f2bbefd1070c08 74
+openspec/specs/lark-bridge-page/spec.md
+  s_ee84cc0fa9b8d2::t_34395b916320dd 238-266
+  s_ee84cc0fa9b8d2::t_9ed782e57a2b6a 59-60,76-84
+  s_ee84cc0fa9b8d2::t_bdb63d3325f964 85
+openspec/specs/lark-bridge-module/spec.md
+  s_ee84cc0fa9b8d2::t_3b71b1ccabd3be 579,581,590-599,613,615,617-618,624-628
+  s_ee84cc0fa9b8d2::t_34395b916320dd 566-578,580,582-589,600-612,614,616,619-623,629-665
+  s_ee84cc0fa9b8d2::t_9a256b12160c71 359-360,365,367,376-380,401-404
+  s_ee84cc0fa9b8d2::t_9ed782e57a2b6a 270,297-311,366,386-389
+  s_ee84cc0fa9b8d2::t_e90686a5e7ecad 496-500,502,507,509,511,538,542-544,551-556,558,561-564
+  s_ee84cc0fa9b8d2::t_ca4fe14dce7852 501,503-506,508,510,512-537,539-541,545-550,557,559-560,565
+  s_ee84cc0fa9b8d2::t_dc53f04300a592 390,405
+openspec/changes/archive/2026-09-12-agent-artifact-return/tasks.md
+  s_ee84cc0fa9b8d2::t_34395b916320dd 1-37
+openspec/specs/interactive-shell/spec.md
+  s_ee84cc0fa9b8d2::t_9a256b12160c71 10,13-14,16,21,25-29,31,35,40
+openspec/specs/app-settings/spec.md
+  s_ee84cc0fa9b8d2::t_9ed782e57a2b6a 40,43-44,46,52,58,64,68-77
+openspec/changes/archive/2026-09-12-fix-windows-usability/tasks.md
+  s_ee84cc0fa9b8d2::t_9ed782e57a2b6a 1-34
+openspec/changes/archive/2026-09-12-conclusion-reply-anchor/tasks.md
+  s_ee84cc0fa9b8d2::t_34395b916320dd 1-22
+openspec/specs/file-split-by-size/spec.md
+  s_ee84cc0fa9b8d2::t_9a256b12160c71 10,13-14,16,21,26,30-33
+  s_ee84cc0fa9b8d2::t_99f15d3878ef5c 34
+openspec/specs/simple-shell/spec.md
+  s_ee84cc0fa9b8d2::t_9a256b12160c71 10,13-14,16,21,26,30-33
+  s_ee84cc0fa9b8d2::t_7c7d59432431d9 34
+openspec/changes/archive/2026-09-12-config-tier-split/tasks.md
+  s_ee84cc0fa9b8d2::t_34395b916320dd 1-19
+openspec/changes/archive/2026-09-12-agent-artifact-return/README.md
+  s_d611a7af3ef49f::t_834766a66a4c53 1-3
+openspec/changes/archive/2026-09-12-agent-artifact-return/design.md
+  s_d611a7af3ef49f::t_6ef498d724dcad 1-71
+openspec/changes/archive/2026-09-12-agent-artifact-return/proposal.md
+  s_198b15447340c9::t_19bf6c2a99305c 1-25
+openspec/changes/archive/2026-09-12-agent-artifact-return/specs/lark-bridge-module/spec.md
+  s_d611a7af3ef49f::t_5d8fb2a861d3a0 1-51
+openspec/changes/archive/2026-09-12-artifact-cap-default-and-rejected-audit/README.md
+  s_ee84cc0fa9b8d2::t_77a9c26807a0c1 1-3
+openspec/changes/archive/2026-09-12-artifact-cap-default-and-rejected-audit/design.md
+  s_ee84cc0fa9b8d2::t_0f86d804f7d72b 1-33
+openspec/changes/archive/2026-09-12-artifact-cap-default-and-rejected-audit/proposal.md
+  s_ee84cc0fa9b8d2::t_9c96e18f5f9da4 1-22
+openspec/changes/archive/2026-09-12-artifact-cap-default-and-rejected-audit/tasks.md
+  s_ee84cc0fa9b8d2::t_908a12319adf60 1-19
+openspec/changes/archive/2026-09-12-conclusion-reply-anchor/README.md
+  s_ee84cc0fa9b8d2::t_715cbefa8991b3 1-3
+openspec/changes/archive/2026-09-12-conclusion-reply-anchor/design.md
+  s_ee84cc0fa9b8d2::t_14d5b41d0a75b1 1-38
+openspec/changes/archive/2026-09-12-conclusion-reply-anchor/proposal.md
+  s_ee84cc0fa9b8d2::t_81826d4cf65995 1-23
+openspec/changes/archive/2026-09-12-config-tier-split/README.md
+  s_d611a7af3ef49f::t_28151f433a7dbb 1-3
+openspec/changes/archive/2026-09-12-config-tier-split/design.md
+  s_198b15447340c9::t_1b806bdc15b8ef 1-61
+openspec/changes/archive/2026-09-12-fix-windows-usability/.openspec.yaml
+  s_abb6fa48daf5cb::t_dba8a3cd94554f 1-3
+openspec/changes/archive/2026-09-12-fix-windows-usability/README.md
+  s_abb6fa48daf5cb::t_ed48ea8724e0fe 1-3
+openspec/changes/archive/2026-09-12-shrink-progress-card-window/README.md
+  s_d611a7af3ef49f::t_02fb8a533334b1 1-3
+openspec/changes/archive/2026-09-12-shrink-progress-card-window/tasks.md
+  s_d611a7af3ef49f::t_c77758dc482f49 1-27
+openspec/changes/archive/2026-09-12-single-card-no-rotation/README.md
+  s_ee84cc0fa9b8d2::t_e9ce21996b1bbf 1-3
+openspec/changes/archive/2026-09-12-single-card-no-rotation/design.md
+  s_ee84cc0fa9b8d2::t_936ac667967a84 1-45
+openspec/changes/archive/2026-09-12-single-card-no-rotation/proposal.md
+  s_ee84cc0fa9b8d2::t_048f8e3aa523e2 1-22
+openspec/changes/archive/2026-09-12-single-card-no-rotation/tasks.md
+  s_ee84cc0fa9b8d2::t_b6fe689aeb2de9 1-30
+openspec/changes/archive/2026-09-12-unify-process-encoding/.openspec.yaml
+  s_abb6fa48daf5cb::t_0b5e64b6140580 1-4
+openspec/changes/archive/2026-09-12-unify-process-encoding/README.md
+  s_abb6fa48daf5cb::t_3923efd9b409fa 1-3
+openspec/changes/archive/2026-09-12-unify-process-encoding/tasks.md
+  s_ee84cc0fa9b8d2::t_a12d1cc2089118 1-26
+openspec/changes/archive/2026-09-12-artifact-cap-default-and-rejected-audit/specs/lark-bridge-module/spec.md
+  s_ee84cc0fa9b8d2::t_67fbb1bf70577b 1-66
+openspec/changes/archive/2026-09-12-conclusion-reply-anchor/specs/lark-bridge-module/spec.md
+  s_d611a7af3ef49f::t_faf2be2c9bc8ad 1-40
+openspec/changes/archive/2026-09-12-config-tier-split/proposal.md
+  s_d611a7af3ef49f::t_2c08907606778b 1-24
+openspec/changes/archive/2026-09-12-config-tier-split/specs/lark-bridge-page/spec.md
+  s_d611a7af3ef49f::t_6739916d1de92a 1-32
+openspec/changes/archive/2026-09-12-fix-windows-usability/design.md
+  s_abb6fa48daf5cb::t_7a11a8ca5705fa 1-50
+openspec/changes/archive/2026-09-12-fix-windows-usability/specs/app-settings/spec.md
+  s_abb6fa48daf5cb::t_01fbc136f07b5f 1-43
+openspec/changes/archive/2026-09-12-fix-windows-usability/specs/lark-bridge-module/spec.md
+  s_abb6fa48daf5cb::t_2c43ce92ba7b81 1-106
+openspec/changes/archive/2026-09-12-fix-windows-usability/specs/lark-bridge-page/spec.md
+  s_abb6fa48daf5cb::t_4768f3c7d0dedd 1-63
+openspec/changes/archive/2026-09-12-shrink-progress-card-window/design.md
+  s_d611a7af3ef49f::t_793ceb329134ec 1-57
+openspec/changes/archive/2026-09-12-shrink-progress-card-window/proposal.md
+  s_d611a7af3ef49f::t_d9e435b1816221 1-27
+openspec/changes/archive/2026-09-12-shrink-progress-card-window/specs/lark-bridge-module/spec.md
+  s_d611a7af3ef49f::t_beb4c16007e198 1-43
+openspec/changes/archive/2026-09-12-single-card-no-rotation/specs/lark-bridge-module/spec.md
+  s_ee84cc0fa9b8d2::t_f38958ec9a2fad 1-73
+openspec/changes/archive/2026-09-12-unify-process-encoding/design.md
+  s_abb6fa48daf5cb::t_676a2f8b3b30f6 1-48
+openspec/changes/archive/2026-09-12-unify-process-encoding/specs/file-split-by-size/spec.md
+  s_abb6fa48daf5cb::t_0eb5a8018ae890 1-29
+openspec/changes/archive/2026-09-12-unify-process-encoding/specs/interactive-shell/spec.md
+  s_abb6fa48daf5cb::t_a664e07a4203d9 1-38
+openspec/changes/archive/2026-09-12-unify-process-encoding/specs/lark-bridge-module/spec.md
+  s_ee84cc0fa9b8d2::t_46fdf44bfefcee 1-74
+openspec/changes/archive/2026-09-12-unify-process-encoding/specs/log-tag-filter/spec.md
+  s_abb6fa48daf5cb::t_416d61b58ab7a4 1-39
+openspec/changes/archive/2026-09-12-unify-process-encoding/specs/simple-shell/spec.md
+  s_abb6fa48daf5cb::t_1c9c2da14ae8be 1-29
+openspec/changes/archive/2026-09-12-fix-windows-usability/proposal.md
+  s_ee84cc0fa9b8d2::t_c82da81b596d4a 1-31
+openspec/changes/archive/2026-09-12-unify-process-encoding/proposal.md
+  s_ee84cc0fa9b8d2::t_0484f4ee8a8871 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "30d64ecb4dd83180929fd1be559ed0c65e87bdf0",
+  "prompts": {},
+  "sessions": {
+    "s_198b15447340c9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2e23f9e4-38cf-4a08-b95c-2976d4afeecc",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_abb6fa48daf5cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7c50fb5-2a4f-4f85-b76a-03d46c6ecc0d",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_d611a7af3ef49f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e77ccb81-7a3d-4c18-9986-f985cd5b84d9",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
