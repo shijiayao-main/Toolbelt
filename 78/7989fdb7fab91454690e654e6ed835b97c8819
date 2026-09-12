@@ -1,0 +1,35 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/PreprocessPipeline.kt
+  s_ee84cc0fa9b8d2::t_e5765c9db86994 10
+log-tools/src/main/kotlin/com/jiaoay/utils/SafeExtract.kt
+  s_ee84cc0fa9b8d2::t_463512e5521372 25-26
+  s_ee84cc0fa9b8d2::t_45d5e36937659b 4-8
+log-tools/src/test/kotlin/com/jiaoay/utils/SafeExtractTest.kt
+  s_ee84cc0fa9b8d2::t_b6bbef082f1a78 5-6
+  s_c3fe02931ae0e4::t_fe3b9eb4a2ebf1 442-444,447,451,461-523
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/DownloadPolicyTest.kt
+  s_ee84cc0fa9b8d2::t_9d197b711da8ed 200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "787989fdb7fab91454690e654e6ed835b97c8819",
+  "prompts": {},
+  "sessions": {
+    "s_c3fe02931ae0e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b46008a-1c22-402c-92b1-d600147c44a2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
