@@ -1,0 +1,23 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_ee84cc0fa9b8d2::t_43df25c0b099b6 55-78
+  s_ee84cc0fa9b8d2::t_d92c1981f8861f 6,17,19,22
+  s_ee84cc0fa9b8d2::t_87d1c9c5ce05b2 45
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModel.kt
+  s_ee84cc0fa9b8d2::t_7e84e8e5b12f49 44-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5a2e161f3613fd215918ab86b7d2b432720e4639",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
