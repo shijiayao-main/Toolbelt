@@ -1,0 +1,29 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmConfigStore.kt
+  s_ee84cc0fa9b8d2::t_0c911b92d26fb6 1-51
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmClientFactory.kt
+  s_ee84cc0fa9b8d2::t_e84ee8773d8e78 1-54,56-61,63-66,68,70-90
+  s_ee84cc0fa9b8d2::t_950ccd4461dc29 62,69
+  s_ee84cc0fa9b8d2::t_2fe6a503088f0e 55,67
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmConfigStoreTest.kt
+  s_ee84cc0fa9b8d2::t_aef4b02d4985b5 1-66
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmClientFactoryTest.kt
+  s_ee84cc0fa9b8d2::t_185487e0745f27 61-62,69,72
+  s_ee84cc0fa9b8d2::t_113ea49883d761 1-18,21-60,63-68,70-71,73-93
+  s_ee84cc0fa9b8d2::t_69c8fdd6dcc009 19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "24a2e930aef3c508ef5f8d5710a3d6c50739662f",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
