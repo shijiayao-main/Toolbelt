@@ -1,0 +1,29 @@
+log-tools/src/test/kotlin/com/jiaoay/xlog/LogProbeTest.kt
+  s_ee84cc0fa9b8d2::t_d687be131d4c27 1-103
+log-tools/src/main/kotlin/com/jiaoay/xlog/stream/XLogChunkReader.kt
+  s_ee84cc0fa9b8d2::t_ca130ad66defbb 90-93
+log-tools/src/main/kotlin/com/jiaoay/xlog/parser/LogSpaceParser.kt
+  s_ee84cc0fa9b8d2::t_422f19d7f4474f 25-32
+  s_ee84cc0fa9b8d2::t_15a7e9b9f95705 129-130
+log-tools/src/main/kotlin/com/jiaoay/xlog/LogProbe.kt
+  s_ee84cc0fa9b8d2::t_7f4e0cd5aa6cc9 78-79
+  s_ee84cc0fa9b8d2::t_f664a843211a12 63
+  s_ee84cc0fa9b8d2::t_a6eafa5c450dfd 55-62,64-66,76-77
+  s_ee84cc0fa9b8d2::t_fc8c33cf11368b 1-54,67-75,80-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "09a605db4ac0cd0f35795afa5b979155e85ad17a",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
