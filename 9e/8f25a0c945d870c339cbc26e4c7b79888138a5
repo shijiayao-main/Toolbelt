@@ -1,0 +1,30 @@
+composeApp/build.gradle.kts
+  s_ee84cc0fa9b8d2::t_6a144c9d5bb05a 37
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_ee84cc0fa9b8d2::t_b10f938ddcf94e 8
+  s_ee84cc0fa9b8d2::t_1f726244006d62 67-70
+  s_ee84cc0fa9b8d2::t_003dcc95495be6 35
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiContributions.kt
+  s_ee84cc0fa9b8d2::t_ff39517bd2977e 3-5,7,12,17-28
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_ee84cc0fa9b8d2::t_a9ead707894e77 53,55
+  s_ee84cc0fa9b8d2::t_1b7304ad7d5b58 37
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_ee84cc0fa9b8d2::t_29228418724da1 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9e8f25a0c945d870c339cbc26e4c7b79888138a5",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
