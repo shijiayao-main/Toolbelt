@@ -1,0 +1,60 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/BuiltinHandlers.kt
+  s_89c33cd02d0eb1::t_f9e71048dd35d1 151-153
+  s_89c33cd02d0eb1::t_13044b4537ed5b 248-258
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/JLogBridgeDelegate.kt
+  s_89c33cd02d0eb1::t_fdae0e77e5ab20 46
+  s_89c33cd02d0eb1::t_2e781522157cf0 1-45,47-51
+log-tools/src/main/kotlin/com/jiaoay/log/ToolsLog.kt
+  s_89c33cd02d0eb1::t_afb51085a26bf0 1-33
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_89c33cd02d0eb1::t_f01aabc9a141cc 5
+  s_89c33cd02d0eb1::t_11085ee0eeed60 101-103
+log-tools/src/main/kotlin/com/jiaoay/log/LogTimeFilter.kt
+  s_89c33cd02d0eb1::t_511293e20a0875 47-48
+gradle/libs.versions.toml
+  s_89c33cd02d0eb1::t_2c1a3d8ddc0898 12
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/FileTaskViewModel.kt
+  s_89c33cd02d0eb1::t_3c9758ab482f31 87-91
+  s_89c33cd02d0eb1::t_c0a01de030548f 114-117
+  s_89c33cd02d0eb1::t_d505a33dc8253c 6
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  s_89c33cd02d0eb1::t_0cd101690d1dca 7-8,23,27-32,41-42
+  s_89c33cd02d0eb1::t_2bbfefaee19cb9 34-37
+  s_89c33cd02d0eb1::t_ca5a213616a5cf 38-40
+  s_89c33cd02d0eb1::t_5fe3597a6bed99 33
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiToolsToggle.kt
+  s_89c33cd02d0eb1::t_d42fcc0fb9b5a1 41-42,44-49
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModel.kt
+  s_89c33cd02d0eb1::t_fe628fe9792403 162-163
+  s_89c33cd02d0eb1::t_28b14387f1402d 221
+  s_89c33cd02d0eb1::t_e39b783648816b 10
+  s_89c33cd02d0eb1::t_6115d5713402b8 205-207,212
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_89c33cd02d0eb1::t_a3fa852b80c9b4 635
+  s_89c33cd02d0eb1::t_21a8a02c561bd0 657-662
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiDecryptViewModel.kt
+  s_89c33cd02d0eb1::t_32ae37dad2b4df 95-96
+  s_89c33cd02d0eb1::t_ff798b8038b665 9
+  s_89c33cd02d0eb1::t_d9506e46e8c258 119-120
+  s_89c33cd02d0eb1::t_95b8615d40dccc 282
+log-tools/src/main/kotlin/com/jiaoay/log/LogTagFilter.kt
+  s_89c33cd02d0eb1::t_ed9e17fcd97120 48-51
+log-tools/src/main/kotlin/com/jiaoay/log/LogSplitter.kt
+  s_89c33cd02d0eb1::t_bcfa7b4cd0b9f4 59-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7fa18f544c3cf8a5b39ef6e0ee8d3c98ea0d7162",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
