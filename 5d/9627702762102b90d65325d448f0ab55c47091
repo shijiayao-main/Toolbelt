@@ -1,0 +1,34 @@
+feature-archive/build.gradle.kts
+  s_ee84cc0fa9b8d2::t_5334490e4a3bee 1-9
+  s_ee84cc0fa9b8d2::t_0afd25595cb59e 10-17
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/FileTaskViewModel.kt
+  s_ee84cc0fa9b8d2::t_4bc415977fdeab 1
+  s_ee84cc0fa9b8d2::t_c4d403608c6560 19-31
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterViewModel.kt
+  s_ee84cc0fa9b8d2::t_faf4c2ef46e33c 9-10
+  s_ee84cc0fa9b8d2::t_1c76af2fcf2968 7
+settings.gradle.kts
+  s_ee84cc0fa9b8d2::t_9e773a43fea87a 45
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterViewModel.kt
+  s_ee84cc0fa9b8d2::t_faf4c2ef46e33c 8-9
+  s_ee84cc0fa9b8d2::t_1c76af2fcf2968 5
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/xlog/XLogDecoderViewModel.kt
+  s_ee84cc0fa9b8d2::t_faf4c2ef46e33c 9
+  s_ee84cc0fa9b8d2::t_1c76af2fcf2968 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5d9627702762102b90d65325d448f0ab55c47091",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
