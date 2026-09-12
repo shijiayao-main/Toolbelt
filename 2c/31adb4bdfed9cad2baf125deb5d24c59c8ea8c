@@ -1,0 +1,27 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmClientFactory.kt
+  s_ee84cc0fa9b8d2::t_7358ef7b2384b3 60-68,74
+  s_ee84cc0fa9b8d2::t_307b303289bc55 93-96
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/JsonContentTypeFixHttpClientTest.kt
+  s_ee84cc0fa9b8d2::t_55fbccbc144783 1-115,126-137
+  s_ee84cc0fa9b8d2::t_761ee994d63f4e 116-125
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/JsonContentTypeFixHttpClient.kt
+  s_ee84cc0fa9b8d2::t_6b25919b885613 3
+  s_ee84cc0fa9b8d2::t_a67647ce811f2e 1-2,4-73,75-92
+  s_ee84cc0fa9b8d2::t_42504e429e9c6c 74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2c31adb4bdfed9cad2baf125deb5d24c59c8ea8c",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
