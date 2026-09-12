@@ -1,0 +1,38 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_ee84cc0fa9b8d2::t_e2160681212505 62,70-71,73
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_ee84cc0fa9b8d2::t_53688122d46653 50-60,68,72-73
+  s_ee84cc0fa9b8d2::t_738585e5b26d2e 18
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_ee84cc0fa9b8d2::t_1d3c2acbc84596 40
+  s_ee84cc0fa9b8d2::t_c0d1846485f6c7 81-90
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiToolsToggle.kt
+  s_ee84cc0fa9b8d2::t_b31c497325de72 48-57
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_ee84cc0fa9b8d2::t_afc064b8a24c06 50-52
+  s_ee84cc0fa9b8d2::t_88fd9439994628 101
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_ee84cc0fa9b8d2::t_77d6754146cf7c 27-28,31,40
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ee84cc0fa9b8d2::t_c4ff0119450483 86-88
+  s_ee84cc0fa9b8d2::t_098b1ea9c84625 89
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_ee84cc0fa9b8d2::t_0eee6abb8081c7 4
+  s_ee84cc0fa9b8d2::t_eb0b899083be93 142-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b02b7fe7310fbd9e1d617e6f24a5380f8b7cd39d",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
