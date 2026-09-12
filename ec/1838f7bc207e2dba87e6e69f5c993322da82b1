@@ -1,0 +1,26 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/FileTypeDecision.kt
+  s_ee84cc0fa9b8d2::t_d84d9c40c8fcf5 1-34
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/FileSnifferTest.kt
+  s_ee84cc0fa9b8d2::t_a819b15cc06985 52
+  s_ee84cc0fa9b8d2::t_7d6ff65a622e79 1-51,53-55,71-83,88-91,93-125
+  s_ee84cc0fa9b8d2::t_ad15810cbb6cce 56-70
+  s_ee84cc0fa9b8d2::t_bad694c8983560 84-87,92
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/FileSniffer.kt
+  s_ee84cc0fa9b8d2::t_11cf6bf1c6a067 1-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ec1838f7bc207e2dba87e6e69f5c993322da82b1",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
