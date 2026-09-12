@@ -1,0 +1,45 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmModelCatalog.kt
+  s_ee84cc0fa9b8d2::t_cabf53099482a8 1-6,9,11-62,64-67,69-72,85
+  s_ee84cc0fa9b8d2::t_440cd52cd7d54e 63,80-81
+  s_ee84cc0fa9b8d2::t_508aab56541156 7-8,10
+  s_ee84cc0fa9b8d2::t_84a9d87ba525e8 68,73-79,82-84
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModel.kt
+  s_ee84cc0fa9b8d2::t_320710c7428f4b 100-134
+  s_ee84cc0fa9b8d2::t_da551899752643 73-82
+  s_ee84cc0fa9b8d2::t_8d1f6494a29547 197-209
+  s_ee84cc0fa9b8d2::t_65439218302817 37-43
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmEndpointUrlsTest.kt
+  s_ee84cc0fa9b8d2::t_1012beb160fdfc 1-58
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_ee84cc0fa9b8d2::t_01accc4a4e2acd 39-40
+  s_ee84cc0fa9b8d2::t_80e556c5634580 107-109,111
+  s_ee84cc0fa9b8d2::t_a5fa092241d564 75,77-106,110,112-116
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmModelCatalogTest.kt
+  s_ee84cc0fa9b8d2::t_8828100ff62920 1-77
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/ModelCatalogList.kt
+  s_ee84cc0fa9b8d2::t_9050a6e0f2f119 1-95
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmEndpointUrls.kt
+  s_ee84cc0fa9b8d2::t_27e9ba83973a1a 1-45
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmClientFactory.kt
+  s_ee84cc0fa9b8d2::t_fc39845c7b2611 53-55,64-74
+  s_ee84cc0fa9b8d2::t_254be06a416d60 3,11
+  s_ee84cc0fa9b8d2::t_210ed32a927c71 104-105,108-122,126-127,136-137
+  s_ee84cc0fa9b8d2::t_c8dbd1f79544a1 51
+  s_ee84cc0fa9b8d2::t_8e4baff6d4ea77 75-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "efba48c6d7a213071095a82aab483376ea78664d",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
