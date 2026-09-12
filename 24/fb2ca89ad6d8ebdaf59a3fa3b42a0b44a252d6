@@ -1,0 +1,26 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_ee84cc0fa9b8d2::t_65d1e84856ebb9 49-72,77-81,83-84,102
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/NavVisibility.kt
+  s_ee84cc0fa9b8d2::t_5d3dd7de627ed9 36
+  s_ee84cc0fa9b8d2::t_44c62535becef2 1-35,37
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageRegistration.kt
+  s_ee84cc0fa9b8d2::t_aef70c5c2f4ff6 5-7,14-15,18-23,30,33-39
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_ee84cc0fa9b8d2::t_ab373be71a09ed 90-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "24fb2ca89ad6d8ebdaf59a3fa3b42a0b44a252d6",
+  "prompts": {},
+  "sessions": {
+    "s_ee84cc0fa9b8d2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "791e2b6e-c027-4645-a319-331d05deea65",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
