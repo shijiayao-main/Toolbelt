@@ -1,0 +1,19 @@
+gradle/libs.versions.toml
+  s_89c33cd02d0eb1::t_b146a5e74df997 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a81b4d3a12626c7d492ba6e370ab17fc03d8d36a",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
