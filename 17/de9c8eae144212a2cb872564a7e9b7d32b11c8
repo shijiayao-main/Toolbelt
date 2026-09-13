@@ -1,0 +1,40 @@
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/ArchivePage.kt
+  s_89c33cd02d0eb1::t_e6ddd4ca2d79cd 34,38-41
+feature-archive/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/SplitArchiveTest.kt
+  s_89c33cd02d0eb1::t_0e01c8a28c6605 3,111
+  s_89c33cd02d0eb1::t_ef1bbd2e54dcf0 1-2,4-109,120-125,136-147,153-167,169-170,174-186
+  s_89c33cd02d0eb1::t_6b0244ec3c6146 110,112-119,126-135,148-152
+  s_89c33cd02d0eb1::t_fc3153c8ef4f43 168,171-173
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/FileTaskViewModel.kt
+  s_89c33cd02d0eb1::t_da93397d2a2b0a 54-60
+  s_89c33cd02d0eb1::t_4e178bbe7d2174 69-70,72-89
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/ArchiveViewModel.kt
+  s_89c33cd02d0eb1::t_526d19b277487b 169,171
+  s_89c33cd02d0eb1::t_53c5448101d2ce 18,25,57,62,65-68,70,73,81,99,119-123,125-131,161
+  s_89c33cd02d0eb1::t_d8ccf2e3e74daa 33,35-36,53-54
+  s_89c33cd02d0eb1::t_4f1e49cfb7cb64 108-116
+  s_89c33cd02d0eb1::t_1ab437318fac75 8-9,12,19-24,26-28,51-52,55-56,58-61,63-64,69,71-72,74-80,82-96,98,101-103,106-107,117-118,137-160,162-168,170,172-174,179-180
+  s_89c33cd02d0eb1::t_b822e91bb87867 97
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/SplitArchive.kt
+  s_89c33cd02d0eb1::t_fb67f312a08a2a 109-111,114-118
+  s_89c33cd02d0eb1::t_ca768683aa81b5 1-47,54-87,90-104,112-113,121-158
+  s_89c33cd02d0eb1::t_2d999ec421c663 88-89
+  s_89c33cd02d0eb1::t_cb46529716ebc1 48-53
+  s_89c33cd02d0eb1::t_b407ae8c30fe1f 105-108,119-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "17de9c8eae144212a2cb872564a7e9b7d32b11c8",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
