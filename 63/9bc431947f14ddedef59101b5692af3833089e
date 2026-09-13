@@ -1,0 +1,40 @@
+gradle/libs.versions.toml
+  s_89c33cd02d0eb1::t_304a7800a30b2e 20-23
+  s_89c33cd02d0eb1::t_65e2dd0846880c 24-25,54
+  s_89c33cd02d0eb1::t_e905740900b466 53
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/VolumeAndSevenZip.kt
+  s_89c33cd02d0eb1::t_344afbd3a98e18 1-81,84-86,88-143
+  s_89c33cd02d0eb1::t_3779f1c002662a 82-83,87
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/ArchivePage.kt
+  s_89c33cd02d0eb1::t_c3775a8c8b7500 40-46
+feature-archive/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/VolumeAndSevenZipTest.kt
+  s_89c33cd02d0eb1::t_dbb7d5102541bd 112
+  s_89c33cd02d0eb1::t_915274b027e99f 58-59,72-73,75-76
+  s_89c33cd02d0eb1::t_85ed6ecd946b6f 1-57,60-71,74,77-111,113-117
+feature-archive/build.gradle.kts
+  s_89c33cd02d0eb1::t_959603ac187d6c 18-19
+  s_89c33cd02d0eb1::t_5f7ed5cc4bfc4d 5,10-12,17
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/ArchiveViewModel.kt
+  s_89c33cd02d0eb1::t_ccca322576809d 116,131,133-137
+  s_89c33cd02d0eb1::t_e7c30526b2d6a6 12,14,18-19,21-23,25-29
+  s_89c33cd02d0eb1::t_6eff28b6c00b3d 260-261
+  s_89c33cd02d0eb1::t_6fb8bf60968c82 44-48
+  s_89c33cd02d0eb1::t_76d810485af3e9 115,117-126,128-130,132,144-216
+  s_89c33cd02d0eb1::t_38f3fabda75c4a 217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "639bc431947f14ddedef59101b5692af3833089e",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
