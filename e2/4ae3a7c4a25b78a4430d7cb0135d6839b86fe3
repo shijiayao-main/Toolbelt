@@ -1,0 +1,34 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_89c33cd02d0eb1::t_911e27b58edf06 94-104
+  s_89c33cd02d0eb1::t_4403c602adb2ef 105-107
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_89c33cd02d0eb1::t_553034e23ec0c0 3-8,13-16,24,26,30,47,56,62,84,94-99,101-110,112-119,121,123-128,130-134,137-140,146-147,149-152,155,162-163,165-171,173-188,190-198,218-222,227-233,237-246,248-260,269-272,274,276-277,284-302,305-308,310-352,354-356,358-359,362-363
+  s_89c33cd02d0eb1::t_194162a8939ea3 41-43,58-60,63-71,111,120,122,141-145,160,164,189,204,206-217,234-236,273,275,278-281,283,309,353
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageAppCenter.kt
+  s_89c33cd02d0eb1::t_a184825c080746 52-53,65-70,78,91-95,97-141,153-154,159-170,172-193,195-208,217-226,228-229,231,237-242,244-253
+  s_89c33cd02d0eb1::t_e633e9820f32b4 6
+  s_89c33cd02d0eb1::t_1f21a582e49204 155-158
+  s_89c33cd02d0eb1::t_54d6802b20450a 243
+  s_89c33cd02d0eb1::t_6c238cda9def61 9,13,15-17,21-22,38
+  s_89c33cd02d0eb1::t_01841bb7bd07b6 171,194,230,340
+  s_89c33cd02d0eb1::t_1e8fcdd39777bb 330-339,341-350,352,354-395
+  s_89c33cd02d0eb1::t_8eae17e19e233d 351,353
+  s_89c33cd02d0eb1::t_5f9aea91e337f1 227,232-236
+  s_89c33cd02d0eb1::t_d4cd2e716e2de7 308
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e24ae3a7c4a25b78a4430d7cb0135d6839b86fe3",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
