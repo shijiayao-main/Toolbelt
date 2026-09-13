@@ -1,0 +1,21 @@
+docs/pages/navigation.md
+  s_89c33cd02d0eb1::t_1baff43e30a5ca 7,13,15-16,19,39,43-44,50,52-55,59-67,71,73-74,79-95,99-100,102-110,112,114,116-133,141,149-150,153-154
+docs/index.md
+  s_89c33cd02d0eb1::t_97f83fd915c0d7 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "19f57c1e6c7724dad29b03c7701ea19d59c2ca63",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
