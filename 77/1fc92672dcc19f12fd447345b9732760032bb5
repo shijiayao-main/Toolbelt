@@ -1,0 +1,30 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_5eb71346d9aa78::t_8430734b17c0cf 780-784
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/BuiltinHandlers.kt
+  s_5eb71346d9aa78::t_c83ab0cfd75eeb 10
+  s_5eb71346d9aa78::t_c91be05872b94b 918-922,924-927
+  s_5eb71346d9aa78::t_94c655f69f2285 896-897
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeAssemblerParityTest.kt
+  s_5eb71346d9aa78::t_64e54c18e2c874 638-670
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/PipelineTestSupport.kt
+  s_5eb71346d9aa78::t_514c3cf1108f52 396-401
+  s_5eb71346d9aa78::t_0d5d2d07044a75 427-428
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/DispatchAgentRouteTest.kt
+  s_5eb71346d9aa78::t_1838906ca16998 5-12,14,17,67,76-77,84,90-131,138,152,175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "771fc92672dcc19f12fd447345b9732760032bb5",
+  "prompts": {},
+  "sessions": {
+    "s_5eb71346d9aa78": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8a518ae-6471-4673-86a6-38815dd1950e",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
