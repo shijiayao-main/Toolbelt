@@ -1,0 +1,79 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_89c33cd02d0eb1::t_5a3346d8c0fce0 248,270
+  s_89c33cd02d0eb1::t_df46c661d0f1e2 17
+  s_89c33cd02d0eb1::t_640e99f680d4de 64,71-74,76-85
+  s_89c33cd02d0eb1::t_7dab813d7d4467 203,209
+  s_89c33cd02d0eb1::t_c8ccf913d91655 151-152,155
+  s_89c33cd02d0eb1::t_c08bdc5ff05148 212,235-244,246-247,249-269,271-276
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_89c33cd02d0eb1::t_231cbf9ad42fc9 57
+  s_89c33cd02d0eb1::t_507ae2b21c38ac 33-35,37-40
+  s_89c33cd02d0eb1::t_4c36c76bcf983a 87-98
+  s_89c33cd02d0eb1::t_952fae0c491503 56,58
+  s_89c33cd02d0eb1::t_fb538510ab54c8 36
+  s_89c33cd02d0eb1::t_d5a73959c1d632 3-4
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_89c33cd02d0eb1::t_1d10c94bb30bc3 16
+  s_89c33cd02d0eb1::t_c1aa3f51031c7c 50-52,72
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_89c33cd02d0eb1::t_ed790f5b08f793 86-89
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_89c33cd02d0eb1::t_eec93073a638cc 121-122
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageAppCenter.kt
+  s_89c33cd02d0eb1::t_8967a04399961c 1-29,31-38,40,45-55,57-61,63-72,76-111,113-133,135-148,150-157,166-215
+  s_89c33cd02d0eb1::t_82bb229af43daf 30,39,41-44,56,62,73-75,112,134,149,158-165
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/DockManager.kt
+  s_89c33cd02d0eb1::t_29e899d0edacc0 4-6,10
+  s_89c33cd02d0eb1::t_0771b2faf2750e 1-3,7-9,11-44,46-62
+  s_89c33cd02d0eb1::t_609e540c39bfa2 45
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageRegistration.kt
+  s_89c33cd02d0eb1::t_83dc2ecf0131b5 13-14,17-20,28-29,38
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/NavVisibility.kt
+  s_89c33cd02d0eb1::t_2dc1a00811abf1 10-12,14,18-27,41-50,52-56
+  s_89c33cd02d0eb1::t_c640d5d6061f0b 51
+  s_89c33cd02d0eb1::t_14ff5196c79c66 57
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_89c33cd02d0eb1::t_c838c8b88c2a18 189
+  s_89c33cd02d0eb1::t_aa8c01ddd2602d 8
+  s_89c33cd02d0eb1::t_d752402192dd55 213,215-219,226-230
+  s_89c33cd02d0eb1::t_42516d7b283398 9,13-14,17,25,27,32,35,42,44-54,66,70-81,94-95,97-99,102-113,115-141,143-154,156-165,175-176,183-184,187-188,190-191,193-197,205,211-212,214,221-225,231-243
+  s_89c33cd02d0eb1::t_3eacf964d60efb 10,12
+  s_89c33cd02d0eb1::t_eb1e72e124b38e 96,114,142,174,182,192,220
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_89c33cd02d0eb1::t_66aa4ba3b6a6a2 10
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_89c33cd02d0eb1::t_bcba31c42630df 17-23,44-60,80,108,153,157,160,163-167,170-176,184,187,189-197
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/PageUsageTracker.kt
+  s_89c33cd02d0eb1::t_c5813a81a8804e 37-39,44,57
+  s_89c33cd02d0eb1::t_f72cc0da1f52a8 4-6
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/PageUsageTrackerTest.kt
+  s_89c33cd02d0eb1::t_93c4790b2286ae 57
+  s_89c33cd02d0eb1::t_2194f4d6b8a8ed 8
+  s_89c33cd02d0eb1::t_50850e1d9095a8 52-56
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiContributions.kt
+  s_89c33cd02d0eb1::t_6b710c3524c86e 8
+  s_89c33cd02d0eb1::t_9878ad5fce7e2c 18-21,30,44-46
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_89c33cd02d0eb1::t_8f245a77835663 27,29,32,42
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManager.kt
+  s_89c33cd02d0eb1::t_2567b76813f139 109-124
+  s_89c33cd02d0eb1::t_2110c045641e45 27
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeContent.kt
+  s_89c33cd02d0eb1::t_08dac82576b826 22-23,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eae37c6efa84d70e635665499a1e4088c5ce7b4a",
+  "prompts": {},
+  "sessions": {
+    "s_89c33cd02d0eb1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4e0f42d-8e5f-4c61-8c33-0f1de39c0a18",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
