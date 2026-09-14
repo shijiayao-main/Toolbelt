@@ -1,0 +1,25 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_667b4be305d2c7::t_4c5b52f51e2544 6
+  s_667b4be305d2c7::t_0c4514e7d42cb3 189,192,198-199,201-202,209-211
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogAgentPromptPresetsTest.kt
+  s_667b4be305d2c7::t_3a8a8af1a4b38c 95-121
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogAgentPromptPresets.kt
+  s_667b4be305d2c7::t_4e5e991dabb597 49
+  s_667b4be305d2c7::t_3d059a1e96377e 4,20-24,27,31-34,39-42,47-48,50-90,95-98,119-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f47ea1998cf932528dae36b7f379fc63bd84f6ce",
+  "prompts": {},
+  "sessions": {
+    "s_667b4be305d2c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "922709d9-1c95-4bd7-98d4-461f85fabe7c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
