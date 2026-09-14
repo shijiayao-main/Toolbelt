@@ -1,0 +1,65 @@
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModelTest.kt
+  s_667b4be305d2c7::t_c3d639aa03173d 259,264-265
+  s_667b4be305d2c7::t_bad4199b5c8bcd 252,257,268-269
+  s_667b4be305d2c7::t_8e7eb3176b7673 323,329
+  s_667b4be305d2c7::t_127df0f80cbe1e 331-332
+  s_667b4be305d2c7::t_2c78ae16c62cc8 253-256,258,260-263,266-267
+  s_667b4be305d2c7::t_afde0ea1d704da 328,350,352,356,370
+  s_667b4be305d2c7::t_612964128151aa 316-322,324-327,330,333-349,351,353-355,357-369,371-375
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_667b4be305d2c7::t_9497494d47833d 22-23,25,32
+  s_667b4be305d2c7::t_9a149c94ad35d2 36-37,41-42
+  s_667b4be305d2c7::t_04af05aae03166 187-264
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_667b4be305d2c7::t_fcfb8ca8a6b9e9 14
+  s_667b4be305d2c7::t_28d5884cfbf182 585-593
+  s_667b4be305d2c7::t_38620d0e7e7814 653-655
+  s_667b4be305d2c7::t_6286d7da716b69 102-114,124-133
+  s_667b4be305d2c7::t_fa1750b0c36af6 321-322
+  s_667b4be305d2c7::t_a732eadde4c5d0 135,289-297,334-408
+  s_667b4be305d2c7::t_eeb3e1397aa372 134
+  s_667b4be305d2c7::t_14e72d577ced79 409-410
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeFields.kt
+  s_667b4be305d2c7::t_4e987003617adf 352-353
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModel.kt
+  s_667b4be305d2c7::t_be2627dada383e 196-240
+  s_667b4be305d2c7::t_58df4758ba3e6b 146-150
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogAgentPromptPresets.kt
+  s_667b4be305d2c7::t_ab043a54861b9e 1-14,17-21,72-89,92,96-97,102-103
+  s_667b4be305d2c7::t_9144395ded3b65 15-16,22-71,90-91,93-95,98-101
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_667b4be305d2c7::t_8e778b886e185e 134-139,146-147
+  s_667b4be305d2c7::t_6c17c9003ec063 29
+  s_667b4be305d2c7::t_6e6b9eb3fdef0e 227-306,314
+  s_667b4be305d2c7::t_bca0df89fc214f 328
+  s_667b4be305d2c7::t_cae321c6cfeade 354-358
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStore.kt
+  s_667b4be305d2c7::t_e6188c89c1fd6a 85-110
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStoreTest.kt
+  s_667b4be305d2c7::t_9eb0d9b33c06dd 84-106
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogAgentPromptPresetsTest.kt
+  s_667b4be305d2c7::t_f8739bf80025ef 1-19,23-26,30-95
+  s_667b4be305d2c7::t_b3868289db0aa1 20-22,27-29
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_667b4be305d2c7::t_ba53939ec2c7a6 18
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ChoiceField.kt
+  s_667b4be305d2c7::t_b9bbeff2d22e76 1-32
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/route/RouteRuleEditor.kt
+  s_667b4be305d2c7::t_655c630e234f33 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6d6cbcf1988e8b9cf2461c12e75e8496d561e9a5",
+  "prompts": {},
+  "sessions": {
+    "s_667b4be305d2c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "922709d9-1c95-4bd7-98d4-461f85fabe7c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
