@@ -1,0 +1,41 @@
+docs/pages/ai-decrypt.md
+  s_667b4be305d2c7::t_278dea3528ec6c 18,20
+  s_667b4be305d2c7::t_f6eb8cf4362ca8 28-29,35-36
+  s_667b4be305d2c7::t_e9c927beebb5ad 121
+docs/pages/lark-bridge.md
+  s_667b4be305d2c7::t_9f53176addf52a 58
+  s_667b4be305d2c7::t_8b6bc98a3525dd 241
+  s_667b4be305d2c7::t_ada8438e3a7b4d 20-35
+  s_667b4be305d2c7::t_5269c9681255fe 264
+  s_667b4be305d2c7::t_bb60f9c4408c75 293,295-297
+  s_667b4be305d2c7::t_2ffe3d4cc52617 70-124
+  s_667b4be305d2c7::t_afd836a49d2991 46,54
+docs/manual/lark-bridge.md
+  s_667b4be305d2c7::t_3097ca19e468f3 57-58,62-75
+  s_667b4be305d2c7::t_020db753e027df 34
+  s_667b4be305d2c7::t_c69c38e341ca63 94
+  s_667b4be305d2c7::t_b45d2bbfd25387 102-103
+  s_667b4be305d2c7::t_915171d0970a65 76
+docs/core/data.md
+  s_667b4be305d2c7::t_bbb0a080608d29 26
+docs/architecture.md
+  s_667b4be305d2c7::t_d226c7ad27724c 44-45
+docs/index.md
+  s_667b4be305d2c7::t_aeb6e8cbbc88c6 63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8c09afe54c43f31372c69d77418760e015baa9a7",
+  "prompts": {},
+  "sessions": {
+    "s_667b4be305d2c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "922709d9-1c95-4bd7-98d4-461f85fabe7c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
