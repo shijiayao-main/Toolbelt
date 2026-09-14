@@ -1,0 +1,32 @@
+docs/pages/ai-decrypt.md
+  s_667b4be305d2c7::t_14e1834fe0ef0e 164-166
+  s_667b4be305d2c7::t_9f2279508ab03a 47-50,54
+  s_667b4be305d2c7::t_1bedcf83f97979 105-106
+  s_667b4be305d2c7::t_5fdf7b8b9fac42 55
+docs/manual/ai-settings.md
+  s_667b4be305d2c7::t_4a7ebb7a90275d 1-57
+docs/manual/lark-bridge.md
+  s_667b4be305d2c7::t_5c811c7da42de4 56,61
+docs/pages/lark-bridge.md
+  s_667b4be305d2c7::t_c1e8ce979466f1 300
+  s_667b4be305d2c7::t_30603573069ef1 127
+  s_667b4be305d2c7::t_1a844429826fda 91-93
+docs/manual/index.md
+  s_667b4be305d2c7::t_7290dc08228f88 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bd0835a5d779c44ef8366a57b7e8c5792c5d6928",
+  "prompts": {},
+  "sessions": {
+    "s_667b4be305d2c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "922709d9-1c95-4bd7-98d4-461f85fabe7c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
