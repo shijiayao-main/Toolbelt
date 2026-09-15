@@ -1,0 +1,42 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/NavVisibility.kt
+  s_de6e45c39d55cf::t_021f9d91ad9db1 7
+  s_de6e45c39d55cf::t_28483013b6c4a6 59-75
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_de6e45c39d55cf::t_5e54c8e542b93e 39,77,152,240,327-341
+  s_de6e45c39d55cf::t_4e1cf87d6a00e6 342-343
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_de6e45c39d55cf::t_2f19dfa23e8749 283
+  s_de6e45c39d55cf::t_4ee62dbb0d9332 19,33
+  s_de6e45c39d55cf::t_9e698ae4d6b7ef 113-116,118-128
+  s_de6e45c39d55cf::t_124c84d8eb3889 183-184,192-198
+  s_de6e45c39d55cf::t_2d98a04d864450 112,117,129-130
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_de6e45c39d55cf::t_15b4d5a457e358 202-231
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_de6e45c39d55cf::t_e4380f8eacf30c 90-93
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_de6e45c39d55cf::t_5e54c8e542b93e 30-31,34-39
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageRegistration.kt
+  s_de6e45c39d55cf::t_cc5b00f541ef67 21-24,33-34,44,48-54
+  s_de6e45c39d55cf::t_eeef58e1202c72 55
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_de6e45c39d55cf::t_8d68bb2368aed2 98-100
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeContributions.kt
+  s_de6e45c39d55cf::t_495c51989d869a 3,7-10,20-24,35-38,40-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7cbae0cce96e602a8373634e5c3f5c0d6fbe0809",
+  "prompts": {},
+  "sessions": {
+    "s_de6e45c39d55cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75e172d8-801c-4ca5-8d0a-5eaa709dbb75",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
