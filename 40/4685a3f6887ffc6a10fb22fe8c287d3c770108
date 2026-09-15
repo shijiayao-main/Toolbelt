@@ -1,0 +1,22 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_de6e45c39d55cf::t_5157da20df6583 175-177,184,293
+  s_de6e45c39d55cf::t_8576481de9162b 105-107
+  s_de6e45c39d55cf::t_a8354f94371b15 162-167,172-173,179-181,183,185-186,191,200-219,292
+  s_de6e45c39d55cf::t_6dc33d8c6486c6 174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "404685a3f6887ffc6a10fb22fe8c287d3c770108",
+  "prompts": {},
+  "sessions": {
+    "s_de6e45c39d55cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75e172d8-801c-4ca5-8d0a-5eaa709dbb75",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
