@@ -1,0 +1,36 @@
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/ReplySinkUniquenessTest.kt
+  s_de6e45c39d55cf::t_41ef955c52cb92 93-97
+  s_de6e45c39d55cf::t_48c71b8882fed8 53
+  s_de6e45c39d55cf::t_482f9a292f5159 1-52,54-69,77-92,98-115
+  s_de6e45c39d55cf::t_10d58222e961c7 70-76
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ModuleGraphGuardTest.kt
+  s_de6e45c39d55cf::t_7c9f31ad940522 1-41,45-177
+  s_de6e45c39d55cf::t_5eff95a8fc54c2 42-44
+feature-larkbridge/build.gradle.kts
+  s_de6e45c39d55cf::t_f004490053a90a 15-21
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/LarkSdkIsolationTest.kt
+  s_de6e45c39d55cf::t_90f8b0f1cd552c 285-289,338-340,377-379
+  s_de6e45c39d55cf::t_25f1435337a82e 38,40-43
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ScanSurfaceSelfCheckTest.kt
+  s_de6e45c39d55cf::t_394a584929e873 56
+  s_de6e45c39d55cf::t_55be24b78ae0c1 92-95
+  s_de6e45c39d55cf::t_8ce8a75198f7e0 1-44,49-50,52-55,57-91,96-173,178-179
+  s_de6e45c39d55cf::t_38a28e56480b56 45-48,51
+  s_de6e45c39d55cf::t_a65c36ac658e04 174-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "326416bf086b7320c79f2e2c01c798244c4baa2b",
+  "prompts": {},
+  "sessions": {
+    "s_de6e45c39d55cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75e172d8-801c-4ca5-8d0a-5eaa709dbb75",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
