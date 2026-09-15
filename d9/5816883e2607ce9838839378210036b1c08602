@@ -1,0 +1,20 @@
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModelTest.kt
+  s_667b4be305d2c7::t_80f022c82b749c 247-252,265-267
+  s_667b4be305d2c7::t_85bf1f83cc4d10 235-246,261,264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d95816883e2607ce9838839378210036b1c08602",
+  "prompts": {},
+  "sessions": {
+    "s_667b4be305d2c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "922709d9-1c95-4bd7-98d4-461f85fabe7c",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
