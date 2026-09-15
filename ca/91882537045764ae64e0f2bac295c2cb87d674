@@ -1,0 +1,68 @@
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/SdkLarkGateway.kt
+  s_de6e45c39d55cf::t_49415d87bd0c13 461,559,572-573,576,581,583,612-613,616,644-645,648
+  s_de6e45c39d55cf::t_4da8eb19c2e011 116-128
+  s_de6e45c39d55cf::t_d98929e51d1d0c 1427-1455
+  s_de6e45c39d55cf::t_cb7e2896e70ca2 301-319
+  s_de6e45c39d55cf::t_e22392ab37febb 661-662,665
+  s_de6e45c39d55cf::t_9fe79d32af2bac 1366-1369
+  s_de6e45c39d55cf::t_3f22b5813392de 1426
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/AdmissionReplyCancellationTest.kt
+  s_de6e45c39d55cf::t_1ec8b9f7bebd2c 124-126,128-237
+  s_de6e45c39d55cf::t_a875c3c2d20f98 127
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/FileReferenceFlowTest.kt
+  s_de6e45c39d55cf::t_ef56f5bb804710 736-819
+lark-gateway/src/test/kotlin/com/jiaoay/lark/gateway/SdkDownloadTransportTest.kt
+  s_de6e45c39d55cf::t_0cdbd7f70af629 305-331
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/MessageGateway.kt
+  s_de6e45c39d55cf::t_895f2bde3a2e12 32-44
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/Admission.kt
+  s_de6e45c39d55cf::t_fc192b84875b01 216-221
+  s_de6e45c39d55cf::t_3e85886b20f833 528-530
+  s_de6e45c39d55cf::t_9ac0ab8403448b 215
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/FileRegistry.kt
+  s_de6e45c39d55cf::t_176b916508b3df 74-100
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_de6e45c39d55cf::t_aba2926d6cc4f2 482-483
+  s_de6e45c39d55cf::t_2066f21851b0c8 477-481,484,486-487,489-491
+  s_de6e45c39d55cf::t_df38bf9c3b8894 485,488,492
+  s_de6e45c39d55cf::t_c7ceddcd595139 493-495
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/FileRegistryTest.kt
+  s_de6e45c39d55cf::t_29393d97d4d2bc 201-203,206
+  s_de6e45c39d55cf::t_23b69001e17991 186,188-191
+  s_de6e45c39d55cf::t_16e396fe3973ec 138-181,183-185,187,192-200,204-205,207-209
+  s_de6e45c39d55cf::t_2b47a3aca58af5 134
+  s_de6e45c39d55cf::t_56b84dc3d58e6d 182
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/Bridge.kt
+  s_de6e45c39d55cf::t_eb8c8e87388a77 506-510
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/SyntheticGatewayTest.kt
+  s_de6e45c39d55cf::t_0368ed444d243a 50,52,56,62,67
+lark-gateway/src/test/kotlin/com/jiaoay/lark/gateway/QuotedParseTest.kt
+  s_de6e45c39d55cf::t_61e1b6c9702b00 149-182,184-185,189
+  s_de6e45c39d55cf::t_56fdc09fd7db49 183,186-188
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeConfig.kt
+  s_de6e45c39d55cf::t_39f3c7e6f1e6b0 178-183
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_de6e45c39d55cf::t_399653ac52d8b2 595-658
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_de6e45c39d55cf::t_ebd54f4e34bc3a 543-557,559-563
+  s_de6e45c39d55cf::t_d3d73d9cb44fb0 614
+  s_de6e45c39d55cf::t_54a45a171d102c 558
+  s_de6e45c39d55cf::t_ca7695bbe340c5 704
+  s_de6e45c39d55cf::t_21caf7b622ae29 652
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ca91882537045764ae64e0f2bac295c2cb87d674",
+  "prompts": {},
+  "sessions": {
+    "s_de6e45c39d55cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75e172d8-801c-4ca5-8d0a-5eaa709dbb75",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
