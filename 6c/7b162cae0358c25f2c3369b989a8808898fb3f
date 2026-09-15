@@ -1,0 +1,26 @@
+docs/architecture.md
+  s_de6e45c39d55cf::t_3624a55b846f60 128-148,150-160
+  s_de6e45c39d55cf::t_6dd3952d8c0e8d 149
+docs/pages/lark-bridge.md
+  s_de6e45c39d55cf::t_a1ef06b0d6e2d9 870,918
+  s_de6e45c39d55cf::t_273c9001d5dc5b 308-344
+  s_de6e45c39d55cf::t_46ba31108ee42b 294-307
+docs/index.md
+  s_de6e45c39d55cf::t_506d3595df58a6 88-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6c7b162cae0358c25f2c3369b989a8808898fb3f",
+  "prompts": {},
+  "sessions": {
+    "s_de6e45c39d55cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "75e172d8-801c-4ca5-8d0a-5eaa709dbb75",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
