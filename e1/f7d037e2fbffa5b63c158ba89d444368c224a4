@@ -1,0 +1,31 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_837dfe65b7c17a::t_3874852770b2a8 138-140
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_837dfe65b7c17a::t_9b3aa3336a571c 96-101,209-210,359-361
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_837dfe65b7c17a::t_13e4319db91d92 251-252,268-293
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeConfig.kt
+  s_837dfe65b7c17a::t_ea8a5ac259367d 95-103
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeFields.kt
+  s_837dfe65b7c17a::t_e5a308afb6aec5 359-370
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/cli/CheckCommandTest.kt
+  s_837dfe65b7c17a::t_994dd57610d6ac 40,43
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeFieldsTest.kt
+  s_837dfe65b7c17a::t_afb7d2846663f8 45-46,50-51,73,79-80,159,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e1f7d037e2fbffa5b63c158ba89d444368c224a4",
+  "prompts": {},
+  "sessions": {
+    "s_837dfe65b7c17a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab1a7be3-cba5-4773-adcc-e503bd5e3c97",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
