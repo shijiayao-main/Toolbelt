@@ -1,0 +1,50 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/HandlerOutcome.kt
+  s_837dfe65b7c17a::t_f0fa7a8bbd0eb2 47-53
+  s_837dfe65b7c17a::t_2ef4e35928dee8 79
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_837dfe65b7c17a::t_6536b5c74167a4 18
+  s_837dfe65b7c17a::t_dc32fefb5c72ae 299
+  s_837dfe65b7c17a::t_fabb83f4275a01 303
+  s_837dfe65b7c17a::t_c4fd35463577d2 12
+  s_837dfe65b7c17a::t_60889ee9e48fc2 292-298,301-302
+  s_837dfe65b7c17a::t_79879aab30c225 794-798,801-804
+  s_837dfe65b7c17a::t_0bc57cf7bdc5a4 350-352,363-370,372
+  s_837dfe65b7c17a::t_0a1d5abfd5775e 805
+  s_837dfe65b7c17a::t_9b3aa3336a571c 96-101,209-210,359-361
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/TaskErrorHint.kt
+  s_837dfe65b7c17a::t_77e81434bf53ef 55-61
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_837dfe65b7c17a::t_3bf1c096863a58 134-158
+  s_837dfe65b7c17a::t_dd8f04723bd93e 242-250,253-267
+  s_837dfe65b7c17a::t_13e4319db91d92 251-252,268-293
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/agent/BackendAgentRunnerTest.kt
+  s_837dfe65b7c17a::t_6bc1b670846065 176,190-191
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/KoogToolLoop.kt
+  s_837dfe65b7c17a::t_64fed93b27b649 35-37
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_837dfe65b7c17a::t_3874852770b2a8 138-140
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeConfig.kt
+  s_837dfe65b7c17a::t_ea8a5ac259367d 95-103
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeFields.kt
+  s_837dfe65b7c17a::t_e5a308afb6aec5 359-370
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/cli/CheckCommandTest.kt
+  s_837dfe65b7c17a::t_994dd57610d6ac 40,43
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeFieldsTest.kt
+  s_837dfe65b7c17a::t_afb7d2846663f8 45-46,50-51,73,79-80,159,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f46ab7b4e292877475c658019e8f55ebb8157df3",
+  "prompts": {},
+  "sessions": {
+    "s_837dfe65b7c17a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab1a7be3-cba5-4773-adcc-e503bd5e3c97",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
