@@ -1,0 +1,90 @@
+AGENTS.md
+  s_8264193f27f9a6::t_a6efda0b0b4462 37
+  s_8264193f27f9a6::t_b39e9de6166e5b 24
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsRuntimeTest.kt
+  s_8264193f27f9a6::t_691f93a509b087 31-55
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/TaskErrorHint.kt
+  s_8264193f27f9a6::t_f2755ea63e25b1 10
+feature-larkbridge/build.gradle.kts
+  s_8264193f27f9a6::t_f2755ea63e25b1 7
+feature-ai/build.gradle.kts
+  s_8264193f27f9a6::t_87b49734f7b937 10
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_8264193f27f9a6::t_84cf782be34b17 720
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/MessageGateway.kt
+  s_8264193f27f9a6::t_84cf782be34b17 2
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/DownloadStoreTest.kt
+  s_8264193f27f9a6::t_d0fd468c5fdf95 63-66,82-100
+  s_8264193f27f9a6::t_fc3479ec9efde3 110-132
+  s_8264193f27f9a6::t_e01e5be626bfcf 72
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/DownloadStore.kt
+  s_8264193f27f9a6::t_99d72fdcfcaed9 105-109,116-119
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModel.kt
+  s_8264193f27f9a6::t_f0e73c647d2e54 594-601
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/DownloadPolicy.kt
+  s_8264193f27f9a6::t_e5719dd0154056 64,67-75,87,91-94,104-109,113-114,126-130
+  s_8264193f27f9a6::t_34ca47331d58f7 76-80,99-103,110,115,121,125
+  s_8264193f27f9a6::t_fa8d0a26f76c6c 95-97
+  s_8264193f27f9a6::t_b5941c4df91293 98
+  s_8264193f27f9a6::t_e9558ff6bdcd99 48,50,52-54,56
+  s_8264193f27f9a6::t_9e7d40a48ae937 111-112,116-120,122
+  s_8264193f27f9a6::t_330441f58ff9f7 178-184,186-188,190-192,195-196
+  s_8264193f27f9a6::t_07af2421cfc81e 197
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/exec/DrainJoinTimeoutTest.kt
+  s_8264193f27f9a6::t_7035e3662a5316 10,13-28,30,33,36-37,40-54,56-60
+lark-bridge/build.gradle.kts
+  s_8264193f27f9a6::t_87b49734f7b937 3
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/ReferencedMessageResolver.kt
+  s_8264193f27f9a6::t_3e1f77338fb97d 182-184,186
+docs/pages/lark-bridge.md
+  s_8264193f27f9a6::t_84cf782be34b17 19,279
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/DownloadPolicyTest.kt
+  s_8264193f27f9a6::t_34b5b13025ac33 89-149
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsRuntime.kt
+  s_8264193f27f9a6::t_fa14a9c6da45c1 8,10-12
+  s_8264193f27f9a6::t_8adec70f4e2981 39-56,58-59,63-75,79-81
+  s_8264193f27f9a6::t_bb9cc3a770347f 57
+.github/workflows/release.yml
+  s_8264193f27f9a6::t_87b49734f7b937 46
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeErrorMapping.kt
+  s_8264193f27f9a6::t_f2755ea63e25b1 9
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LegacyConfigImporter.kt
+  s_8264193f27f9a6::t_f2755ea63e25b1 63
+composeApp/build.gradle.kts
+  s_8264193f27f9a6::t_84cf782be34b17 9
+  s_8264193f27f9a6::t_87b49734f7b937 102
+docs/pages/ai-decrypt.md
+  s_8264193f27f9a6::t_84cf782be34b17 18
+docs/architecture.md
+  s_8264193f27f9a6::t_84cf782be34b17 42,52
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/ProgramLauncher.kt
+  s_8264193f27f9a6::t_fd7b70ede70bba 106-114,121
+  s_8264193f27f9a6::t_14f7230688d55b 3,6-7
+  s_8264193f27f9a6::t_8c9aa606ce260a 163
+  s_8264193f27f9a6::t_f65f2b9fe3e295 122-123
+  s_8264193f27f9a6::t_a8464d0fe1a79f 147,152
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/JLogBridgeDelegate.kt
+  s_8264193f27f9a6::t_f2755ea63e25b1 14
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/WindowsFileNameContractTest.kt
+  s_8264193f27f9a6::t_8a1296777863e4 131,134,137-139,141-147
+core/build.gradle.kts
+  s_8264193f27f9a6::t_87b49734f7b937 16
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/GatewayModel.kt
+  s_8264193f27f9a6::t_84cf782be34b17 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2e959ede21dfdf984e8b9b751619311c91b0c81b",
+  "prompts": {},
+  "sessions": {
+    "s_8264193f27f9a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8e12af2-b983-4be4-a5c8-5157461c5f3e",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
