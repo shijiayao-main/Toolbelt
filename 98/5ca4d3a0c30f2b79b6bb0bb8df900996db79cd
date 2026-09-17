@@ -1,0 +1,23 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/MacBundleIdGuardTest.kt
+  s_bb5fee53b19b3a::t_448be976b12912 1-74
+composeApp/build.gradle.kts
+  s_bb5fee53b19b3a::t_1e32bd87dad991 145-150
+.github/workflows/release.yml
+  s_bb5fee53b19b3a::t_eacc94f56ff034 57-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "985ca4d3a0c30f2b79b6bb0bb8df900996db79cd",
+  "prompts": {},
+  "sessions": {
+    "s_bb5fee53b19b3a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4322721e-4644-4c9d-8ad4-875b61100f75",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
