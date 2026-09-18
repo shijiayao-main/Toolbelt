@@ -1,0 +1,34 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatSession.kt
+  s_aad40ae29d2bf3::t_c83ff858ab9afe 378,391,403,415-421
+  s_aad40ae29d2bf3::t_05eae26e36412e 429-431
+  s_aad40ae29d2bf3::t_29a33700766154 108-110
+  s_aad40ae29d2bf3::t_5bcec6137ab6ce 64-67
+  s_aad40ae29d2bf3::t_be80e30d8599f9 92-101
+  s_aad40ae29d2bf3::t_e3643c5df2df42 329-337,340
+  s_aad40ae29d2bf3::t_b7ace00a51af82 141-142
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatViewModel.kt
+  s_aad40ae29d2bf3::t_469c094ea003ae 24-32,38-39
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/SessionLedgerTest.kt
+  s_aad40ae29d2bf3::t_692113deeaba9d 1-173
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/SessionLedger.kt
+  s_aad40ae29d2bf3::t_8e9984b0fa79cf 1-2,4-10,12-17,24-32,35-50,52-87,89-90,92,94-95,97-99,106-114,119,122-126,128-131,133-142,151-156,159-192,196-197,199-210,214-221,223-231,233-240
+  s_aad40ae29d2bf3::t_58b8865161df3a 3,11,18-23,33-34,51,88,91,93,96,115-118,120-121,127,132,143-150,157-158,195,211-213,222,232
+  s_aad40ae29d2bf3::t_860cbfeb29a9f2 193-194,198
+  s_aad40ae29d2bf3::t_9a3201a847f489 100-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "897dfa0f9df8e32e929eed2c2fa23e76d37236c8",
+  "prompts": {},
+  "sessions": {
+    "s_aad40ae29d2bf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d7acf63b-8514-4853-92dd-d22387c76a53",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
