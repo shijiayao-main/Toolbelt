@@ -1,0 +1,28 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeLogTools.kt
+  s_aad40ae29d2bf3::t_4f54050cf0e7ca 227-230,235-259
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_aad40ae29d2bf3::t_342d8febd28d49 347-348,350-351,353-357
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_aad40ae29d2bf3::t_c70e4a6e6e6d31 800
+  s_aad40ae29d2bf3::t_be81ed72b09ab1 535,537-538
+  s_aad40ae29d2bf3::t_6767a32ef59388 290-296,298-305
+  s_aad40ae29d2bf3::t_2f0c66b9d8c36e 722-724,726-728,732-735
+  s_aad40ae29d2bf3::t_6af2d69ff766ed 524-534
+  s_aad40ae29d2bf3::t_bd63d897e3189b 725
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a8584c8de08a24d7115293e7cb9c379fd391e0ef",
+  "prompts": {},
+  "sessions": {
+    "s_aad40ae29d2bf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d7acf63b-8514-4853-92dd-d22387c76a53",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
