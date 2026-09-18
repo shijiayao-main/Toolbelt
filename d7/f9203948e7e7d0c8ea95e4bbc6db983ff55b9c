@@ -1,0 +1,30 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TonalCard.kt
+  s_aad40ae29d2bf3::t_6cfeee04c6d266 3,19,36-39,49,52,58
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapes.kt
+  s_aad40ae29d2bf3::t_1fbe9ed7aa845a 14-15
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/CardStyles.kt
+  s_aad40ae29d2bf3::t_9dc2cdc0bdbe00 10-14,24-25,29,32-38
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/HoverActions.kt
+  s_aad40ae29d2bf3::t_353c25016703ad 21
+  s_aad40ae29d2bf3::t_b9ca0f57534a9d 65-68
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColors.kt
+  s_aad40ae29d2bf3::t_49be4a3481d94b 1-80
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_aad40ae29d2bf3::t_3fc2c4cc0b3184 32-33,35-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d7f9203948e7e7d0c8ea95e4bbc6db983ff55b9c",
+  "prompts": {},
+  "sessions": {
+    "s_aad40ae29d2bf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d7acf63b-8514-4853-92dd-d22387c76a53",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
