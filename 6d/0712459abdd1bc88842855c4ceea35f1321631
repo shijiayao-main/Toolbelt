@@ -1,0 +1,40 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/OutputCapMiddleware.kt
+  s_aad40ae29d2bf3::t_f1c43519c705f4 1-2,5-35,37-80
+  s_aad40ae29d2bf3::t_83af222c311746 36
+  s_aad40ae29d2bf3::t_eeb10053110947 3-4
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ToolExecutionContext.kt
+  s_aad40ae29d2bf3::t_38a4c9e2d212e4 17-22,26,60-79,83-88,90,96-102
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/AgentToolMiddlewareTest.kt
+  s_aad40ae29d2bf3::t_ed024d2cfa4beb 57
+  s_aad40ae29d2bf3::t_1b929d272097f9 220-223
+  s_aad40ae29d2bf3::t_0de43af3c648ed 41
+  s_aad40ae29d2bf3::t_d47817265e7f7d 71
+  s_aad40ae29d2bf3::t_17eee561bf19f3 177,193
+  s_aad40ae29d2bf3::t_333953af5eda20 1-2,5-40,42-56,58-70,72-176,178-192,194-219,224-234
+  s_aad40ae29d2bf3::t_267ff6e64111f5 3-4
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ToolStructuredDisciplineTest.kt
+  s_aad40ae29d2bf3::t_0621a3024689ed 34,43
+  s_aad40ae29d2bf3::t_8cdacdfbb8fd6a 1-33,35-42,44-169
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/AgentToolMiddleware.kt
+  s_aad40ae29d2bf3::t_d79b566399c91f 1-87,89-91
+  s_aad40ae29d2bf3::t_834c66f2d910e7 88
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptTools.kt
+  s_aad40ae29d2bf3::t_412505198e7ae2 54,102,160,221
+  s_aad40ae29d2bf3::t_6eb2df3f52d0c0 238-239,244-253
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6d0712459abdd1bc88842855c4ceea35f1321631",
+  "prompts": {},
+  "sessions": {
+    "s_aad40ae29d2bf3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d7acf63b-8514-4853-92dd-d22387c76a53",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
