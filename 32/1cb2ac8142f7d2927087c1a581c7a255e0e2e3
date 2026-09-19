@@ -1,0 +1,87 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_859185dca84241::t_48c817c5a6c9aa 19
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_859185dca84241::t_fe68b90be74830 232
+  s_859185dca84241::t_99107de12f814b 122
+  s_859185dca84241::t_7c41fe182416bf 63
+  s_859185dca84241::t_fbbbaa65e298f4 312-318
+  s_859185dca84241::t_56e4ecc21a6520 329
+  s_859185dca84241::t_f8e0f6a2ab1306 73
+  s_859185dca84241::t_1b1a11cd59edf0 8,11-12,14-15,20,22,24-26,29,33-36
+  s_859185dca84241::t_75a9a5c8448227 1-4,6-7,9-10,13,16-17,21,27,37-38,41,51-53,69-72,184,205,214,401-402,409,438-439
+  s_859185dca84241::t_48914dc9ca0940 370
+  s_859185dca84241::t_d8f725445b2dba 292-293,330-362
+  s_859185dca84241::t_aeb13acb005d1d 294
+  s_859185dca84241::t_5dab96516bdff8 68
+  s_859185dca84241::t_2b94e4dcf64eda 435
+  s_859185dca84241::t_5f11c84b488e30 133-136,139-140,142-143
+  s_859185dca84241::t_b663be04691e56 74
+  s_859185dca84241::t_b0269f6d848adf 62
+  s_859185dca84241::t_8ed8ac509f7a7c 120-121
+  s_859185dca84241::t_c37e5d57b41074 5,18-19,23,28,30-32,39-40,42-50,54-61,64-67,75-119,123-131,144-183,185-204,206-213,215-231,233-274,276-291,295-311,319-328,363-369,371-400,403-408,410-434,436-437
+  s_859185dca84241::t_80a756e790f7bd 132,137-138,141
+  s_859185dca84241::t_faad422f716c00 275
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_859185dca84241::t_d294b752b4fa68 164-165,167
+  s_859185dca84241::t_edb0fa988991b4 184-185,188-189
+  s_859185dca84241::t_9598a9b7d5bdbe 18,20,38
+  s_859185dca84241::t_c8fb78d67bc077 72,74
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/DistillIngestTest.kt
+  s_859185dca84241::t_78374e7e9a643f 1-135
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiContributions.kt
+  s_859185dca84241::t_48c817c5a6c9aa 5,13,27-32,41-43,45-49,52-59
+  s_859185dca84241::t_31655854dc0a68 11-12,18-25
+  s_859185dca84241::t_c0fe3ade61e1ed 26
+  s_859185dca84241::t_64b67849c1b4c7 60
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillSession.kt
+  s_859185dca84241::t_ecb019325957a2 58-59
+  s_859185dca84241::t_d5d0bc5fac2e0b 3-5,17,19,23,29,39,42,49,51,56-57,65,73,78,83,86-94,99,120,122,124,131-133,162-167,180,187,194,204-208,221,224,228,233-241,247,249,255,258,260,262,268,271-277,279,283,306-316,320,330-358
+  s_859185dca84241::t_6a0053ac7de2fd 143
+  s_859185dca84241::t_3c22fc0e37e45f 7,10,13,18,21,24,27,31,35,37-38,40-41,44-48,50,60,75,79-80,82,84-85,95-98,100-102,104,108,111-115,117,125-128,130,134,137,140-141,146-148,168-171,173-178,181,183,186,190-191,193,195,198-199,202-203,211,213,215-220,223,225-227,229-232,242-246,248,250-253,259,261,263-265,269-270,278,280-282,284-285,294-299,301-305,317,321-323,325-329
+  s_859185dca84241::t_902d3cd9ccb7b6 1-2,6,8-9,11-12,14-16,20,22,25-26,28,30,32-34,36,43,52-55,61-64,66-72,74,76-77,81,103,105-107,109-110,116,118-119,121,123,129,135-136,138-139,142,144-145,149-161,172,179,182,184-185,188-189,192,196-197,200-201,209-210,212,214,222,254,256-257,266-267,286-293,300,318-319,324,359-360
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillViewModelTest.kt
+  s_859185dca84241::t_7d77693df3d30a 5,12-13,48
+  s_859185dca84241::t_3dc5ffed228d6d 9-10,17-18,57-63
+  s_859185dca84241::t_aa1edc4bce29e1 1-4,6-8,11,14-16,19-47,49-56,64-65
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/DistillIngest.kt
+  s_859185dca84241::t_b43f8ae85cb7ad 3,12-17,19-21,23-25,29,31,37,40-41,45,48-54,56-59,63,68-69,78-79,88-135
+  s_859185dca84241::t_391b8d72f2830a 1-2,4-11,18,22,26-28,30,32-36,38-39,42-44,46-47,55,60-62,64-67,70-77,80-87
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeLogToolsTest.kt
+  s_859185dca84241::t_a9f2385e795438 34-41,43-45,53-55,64
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillViewModel.kt
+  s_859185dca84241::t_f9b1821cee85f0 117,119
+  s_859185dca84241::t_1d644c4aa29e5f 183-187
+  s_859185dca84241::t_04220c1f9202f1 146
+  s_859185dca84241::t_7ab56ae4a6fcd9 7
+  s_859185dca84241::t_f188ad95167087 86-89
+  s_859185dca84241::t_a563567eab0275 1-6,8-14,20-85,90-93,97-116,118,120-145,148,150-182,189,191,207-215,220-233,237-241,273-279
+  s_859185dca84241::t_c8a48e7de2b3f9 216-219
+  s_859185dca84241::t_6dc48724082f52 15-19
+  s_859185dca84241::t_3cd86572c3553b 188,190,192-206
+  s_859185dca84241::t_49f23b359ff587 234-236,242-253,261-272
+  s_859185dca84241::t_c2497d97c3d891 254-260
+  s_859185dca84241::t_9976866f32c97f 94-96
+  s_859185dca84241::t_437f8db7a22efb 147,149
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillSessionTest.kt
+  s_859185dca84241::t_81d10e7b10f16f 77
+  s_859185dca84241::t_15a30edf77cac1 1-76,78-114,116-128
+  s_859185dca84241::t_25232a555fcd7d 115
+openspec/changes/distill-knowledge-engine/tasks.md
+  s_859185dca84241::t_eb5006501daee1 28-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "321cb2ac8142f7d2927087c1a581c7a255e0e2e3",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
