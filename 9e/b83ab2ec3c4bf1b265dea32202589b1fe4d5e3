@@ -1,0 +1,55 @@
+.github/workflows/release.yml
+  s_859185dca84241::t_0f75e586cb4ccd 68,71,74
+  s_859185dca84241::t_a4d50b47c37df5 104
+composeApp/build.gradle.kts
+  s_859185dca84241::t_6281412c0ad73c 150-151
+  s_859185dca84241::t_133464d1481b77 68,70
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/MacBundleIdGuardTest.kt
+  s_859185dca84241::t_7e853dfdb0f750 52
+docs/manual/index.md
+  s_859185dca84241::t_6b5637f755f68f 1
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_859185dca84241::t_847b4a0e8a38df 40-41
+  s_859185dca84241::t_4cdc1bd9821974 76
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/OperationBar.kt
+  s_859185dca84241::t_892513be2a3c15 86
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_859185dca84241::t_7a84db1a01fbbd 995
+settings.gradle.kts
+  s_859185dca84241::t_85081a747bce55 1
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_859185dca84241::t_847b4a0e8a38df 38-39
+  s_859185dca84241::t_fc62bad28e543f 77
+docs/index.md
+  s_859185dca84241::t_6b5637f755f68f 1
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_859185dca84241::t_847b4a0e8a38df 48-49
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/PermissionServerLauncher.kt
+  s_859185dca84241::t_630347025f5cd6 145,155
+AGENTS.md
+  s_859185dca84241::t_ae138aa27403d1 54
+  s_859185dca84241::t_f7b1acdfd48385 39-47
+  s_859185dca84241::t_6b5637f755f68f 1,9
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_859185dca84241::t_cda764322d3815 72
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmClientFactory.kt
+  s_859185dca84241::t_b1ba87298838bb 156
+README.md
+  s_859185dca84241::t_6b5637f755f68f 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9eb83ab2ec3c4bf1b265dea32202589b1fe4d5e3",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
