@@ -1,0 +1,37 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatPage.kt
+  s_859185dca84241::t_f7fee57b2f95f0 10-11,24-25
+  s_859185dca84241::t_3eb0b74573a09f 42,46-48,72-92
+  s_859185dca84241::t_03608aab20e647 135-203
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/SessionManagementTest.kt
+  s_859185dca84241::t_3ac40895655000 91-93
+  s_859185dca84241::t_92605c2953b6a4 1-37,39-90,94-132
+  s_859185dca84241::t_5476647d7f2e09 38
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatSession.kt
+  s_859185dca84241::t_b7278991a00776 147-162
+  s_859185dca84241::t_92973685243f84 90
+  s_859185dca84241::t_d4fb77153478d6 164-176
+  s_859185dca84241::t_8f7cfb85e9431e 163
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatViewModel.kt
+  s_859185dca84241::t_71ec6780215d26 71
+  s_859185dca84241::t_0efb3a130502af 66-70,72-88
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/SqliteSessionStore.kt
+  s_859185dca84241::t_5bfb5652d5b178 109-128,133-143
+  s_859185dca84241::t_8aa67143dd7271 49-53
+  s_859185dca84241::t_3d66c55e0ddc4f 129-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fcd8aefd005cb167ca1d644f210f550590942464",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
