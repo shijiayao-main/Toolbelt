@@ -1,0 +1,42 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolbeltMenuBar.kt
+  s_859185dca84241::t_dc85f771df5c31 21,24-25,32,35-39,41-50,60
+  s_859185dca84241::t_a091691fc0f805 19-20,23,26,29,57,65-66,71,75
+  s_859185dca84241::t_d8229d41fd3c65 1-14,22,27-28,30-31,33-34,40,51-52,56,58-59,61-64,72-74,81
+  s_859185dca84241::t_150d1f30b2cadf 15-18,53-55,67-70,76-80
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_859185dca84241::t_71ff5e2f96d047 35
+  s_859185dca84241::t_efdd71afcdc8d5 83-87
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppContextMenu.kt
+  s_859185dca84241::t_c25664f57e109d 4-5,25-26,35,88
+  s_859185dca84241::t_169b0565a5406b 62
+  s_859185dca84241::t_3f770894d15da1 6,14-16,27,48,58,72-75,86
+  s_859185dca84241::t_d27cf577dde5f6 1-2,8,10-13,17-18,21,24,36,39,42,89-92,94-102
+  s_859185dca84241::t_749a9a4ce27133 49-57
+  s_859185dca84241::t_2b142ef044186d 3,7,9,19-20,22-23,28-34,37-38,40-41,43-47,59-61,63-71,76-85,87,93
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_859185dca84241::t_f9c00578847311 93-94
+  s_859185dca84241::t_9db84b69d0a5ad 91-92,96,98-100,102-111
+  s_859185dca84241::t_aa012df1adf73e 84-90
+  s_859185dca84241::t_139cc81fcee48e 101
+  s_859185dca84241::t_66a8f4d6a50e52 30-31
+  s_859185dca84241::t_f7d27a0160c92d 95,97
+  s_859185dca84241::t_f0739906ccbe09 20-21
+  s_859185dca84241::t_d8466e790c424a 125-127
+  s_859185dca84241::t_b96a9b3beac240 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "49ebea52baf339d421e186890360aa8de72eacb3",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
