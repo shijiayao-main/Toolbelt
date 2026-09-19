@@ -1,0 +1,23 @@
+openspec/specs/knowledge-distill/spec.md
+  s_859185dca84241::t_8363feb2f19aed 1-95
+openspec/specs/knowledge-import/spec.md
+  s_859185dca84241::t_c451110a52f4e4 1-49
+openspec/specs/source-roots-fence/spec.md
+  s_859185dca84241::t_98b3a4895d11fa 1-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9e953fdbebf1e7daa901c01934d2eb7432adfe73",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
