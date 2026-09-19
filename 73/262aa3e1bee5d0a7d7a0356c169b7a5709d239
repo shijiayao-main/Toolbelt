@@ -1,0 +1,22 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/DockManagerToggleTest.kt
+  s_859185dca84241::t_47d2772d853c02 140-141,143,145,147,157
+  s_859185dca84241::t_79cfec3abcce3f 137-138,149,154
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/DockManager.kt
+  s_859185dca84241::t_79cfec3abcce3f 31-35,37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "73262aa3e1bee5d0a7d7a0356c169b7a5709d239",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
