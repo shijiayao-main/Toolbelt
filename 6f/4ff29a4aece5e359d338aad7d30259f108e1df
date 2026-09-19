@@ -1,0 +1,21 @@
+openspec/specs/navigation-grouping/spec.md
+  s_859185dca84241::t_9ece6501313c0a 1,3-7
+openspec/specs/ai-settings-console/spec.md
+  s_859185dca84241::t_9ece6501313c0a 1,3-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6f4ff29a4aece5e359d338aad7d30259f108e1df",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
