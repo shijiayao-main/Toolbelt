@@ -1,0 +1,48 @@
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeSourceRootsIsolationTest.kt
+  s_859185dca84241::t_f630c476eb269c 22-31,35-36,38-39,49,69
+  s_859185dca84241::t_e589cca6006b11 1-21,32-34,37,40-48,50-68,70-77
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/route/RouteRuleEditor.kt
+  s_859185dca84241::t_ea5bbdd4755227 18
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_859185dca84241::t_44f47b030225e2 48,301-314
+  s_859185dca84241::t_a2550cc8555aae 315-316
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStore.kt
+  s_859185dca84241::t_6621d30c6fa160 87-111,182-183
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ToolExecutionContext.kt
+  s_859185dca84241::t_83734f4d10812e 48,149,156-160,166,168-170,173-181
+  s_859185dca84241::t_c1dfbb9c3b90d7 161-165,167
+  s_859185dca84241::t_1228fbfeeb250e 19-27,36,41-47,49-54,62-79,81-82,106,124,127-128
+  s_859185dca84241::t_7c84a7d59fdc2f 129,182
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ToolExecutionContextAllowedRootsTest.kt
+  s_859185dca84241::t_723e4bb75a6991 1-28,30-37,39-46,48-58,60-71,73-80,82-97,101-103,105-129,134
+  s_859185dca84241::t_26a97610617eb7 99-100,130-133
+  s_859185dca84241::t_c1dfbb9c3b90d7 29,38,47,59,72,81,98,104
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModel.kt
+  s_859185dca84241::t_8a4ce9f865f3a1 51-71
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TagsField.kt
+  s_859185dca84241::t_ea5bbdd4755227 1-160
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/SourceRootsMapTest.kt
+  s_859185dca84241::t_9669e17d80182e 48-52,54-56,68-69
+  s_859185dca84241::t_b93a04122f8150 1-47,53,57-67,70-72
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/SourceRootsMap.kt
+  s_859185dca84241::t_191236119f3787 1-3,5-26,28-44
+  s_859185dca84241::t_fd0352d41190ff 4,27
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_859185dca84241::t_ea5bbdd4755227 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "11368e441b4757c8e95c7600aba4e65b453dd42d",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
