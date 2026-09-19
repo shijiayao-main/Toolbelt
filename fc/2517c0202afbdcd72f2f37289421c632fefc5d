@@ -1,0 +1,51 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeMdImporter.kt
+  s_859185dca84241::t_0afe46b8df166a 1-34,36-82,84-119,122-127,129-133,135-176,178,180-225,227,229,231,233-235,237-293,300-301,312-361,364-403
+  s_859185dca84241::t_aaebf69ffaf51e 294,302,311
+  s_859185dca84241::t_26a5c12d81fb4b 35,120-121,128,134
+  s_859185dca84241::t_348d4da35a064e 83,232,236
+  s_859185dca84241::t_431b770f1e9f99 177,179,226,228,230
+  s_859185dca84241::t_3a0d8c115db482 295-299,303-310
+  s_859185dca84241::t_f4ec8dae951a48 362-363
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportCli.kt
+  s_859185dca84241::t_c5ba7359a4e39c 1-5,7-25,30-59,61-79
+  s_859185dca84241::t_c5853f680d7a0e 6
+  s_859185dca84241::t_1c8ebd15600942 27-28
+  s_859185dca84241::t_a45540f4e96ce6 26,29,60
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgePack.kt
+  s_859185dca84241::t_c5853f680d7a0e 122-131
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeMdImporterTest.kt
+  s_859185dca84241::t_233368792e36ca 86
+  s_859185dca84241::t_61fa29418ec4c5 91-94
+  s_859185dca84241::t_c4e9e1f472cf54 1-85,87-90,95-228
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportSmokeManualTest.kt
+  s_859185dca84241::t_b12353a9f366e1 1-25
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportMain.kt
+  s_859185dca84241::t_1c91fad5a0952f 3-4,9
+  s_859185dca84241::t_a48321d4a89ba1 1-2,5-8
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportSearchAcceptTest.kt
+  s_859185dca84241::t_54fe8c6a628944 1-21,23-26,28-39
+  s_859185dca84241::t_fae42c7fcfc83c 22,27
+core/build.gradle.kts
+  s_859185dca84241::t_c5853f680d7a0e 49-51
+  s_859185dca84241::t_85da8ba22cb528 78-80
+  s_859185dca84241::t_385c8febb16538 76
+  s_859185dca84241::t_a48321d4a89ba1 72-75,77,81
+openspec/changes/distill-knowledge-engine/tasks.md
+  s_859185dca84241::t_1365ec6d4f02ac 13-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc2517c0202afbdcd72f2f37289421c632fefc5d",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
