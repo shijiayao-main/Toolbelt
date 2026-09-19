@@ -1,0 +1,31 @@
+openspec/changes/distill-knowledge-engine/design.md
+  s_859185dca84241::t_dc86e1c59f71c1 1-89
+openspec/changes/distill-knowledge-engine/specs/knowledge-distill/spec.md
+  s_859185dca84241::t_b1afab1a63d9eb 1-95
+openspec/changes/distill-knowledge-engine/specs/knowledge-import/spec.md
+  s_859185dca84241::t_3c1876d78135e8 1-49
+openspec/changes/distill-knowledge-engine/specs/source-roots-fence/spec.md
+  s_859185dca84241::t_7914a7013da001 1-71
+openspec/changes/distill-knowledge-engine/tasks.md
+  s_859185dca84241::t_e361eab35afcf1 1-47
+openspec/changes/distill-knowledge-engine/proposal.md
+  s_859185dca84241::t_27f55ff7ec86e9 1-36
+openspec/changes/distill-knowledge-engine/.openspec.yaml
+  s_859185dca84241::t_9b14f51c555bb2 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9fc817d93f59d55e1b6efaede9151fc7d1891406",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
