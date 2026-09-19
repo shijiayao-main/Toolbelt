@@ -1,0 +1,46 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHubTest.kt
+  s_859185dca84241::t_309b313c299d51 1-4,6-10,12-14,27-79,81-91,93-95,126
+  s_859185dca84241::t_035caa223e86a6 5,11,15-26,80,92,96-125
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_859185dca84241::t_85d7387a1a3918 34
+  s_859185dca84241::t_a55606105a83b0 75-77
+  s_859185dca84241::t_ac339ca3ab3ac9 149
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHub.kt
+  s_859185dca84241::t_2b61ad9dd01a7e 100
+  s_859185dca84241::t_bd5dd97df69fda 1-17,24-25,31-33,41-48,60-67,73-90,93-98,101-113
+  s_859185dca84241::t_1b2d321e2b4078 18-23,26-30,34-40,49-59,68-72,91-92,99
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_859185dca84241::t_a9a1cb228e252c 87
+  s_859185dca84241::t_f28b77693f57ce 64-78
+  s_859185dca84241::t_5976804745493a 23
+  s_859185dca84241::t_c86412e4d62912 125-128
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  s_859185dca84241::t_67bab07adb3e50 44-48
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/DockManagerToggleTest.kt
+  s_859185dca84241::t_b09122cf9a5319 11
+  s_859185dca84241::t_5a287831ea1feb 218
+  s_859185dca84241::t_10bad41662409a 3
+  s_859185dca84241::t_5acfa13ac83f1c 206-207
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/PageUsageTrackerTest.kt
+  s_859185dca84241::t_867b4c74d4eafd 146
+  s_859185dca84241::t_420feaa494d3f0 3
+  s_859185dca84241::t_07e81b5309984b 112,125
+  s_859185dca84241::t_e43dbd9e219054 62-64
+  s_859185dca84241::t_14741677bebe94 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a7671b5263198e64f6855cbdbf429200e6b1792d",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
