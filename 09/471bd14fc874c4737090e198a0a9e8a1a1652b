@@ -1,0 +1,39 @@
+feature-logworkbench/build.gradle.kts
+  s_859185dca84241::t_975edaadbd8511 1-10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_859185dca84241::t_8a1f205eff4cca 20
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_859185dca84241::t_45e491ac30651c 185-186,189-190
+  s_859185dca84241::t_71e611b07af129 37
+  s_859185dca84241::t_1323115410c8d2 73,75
+  s_859185dca84241::t_a7d7dea2425cda 165-166,168
+settings.gradle.kts
+  s_859185dca84241::t_5fe7f27c35bd64 44
+composeApp/build.gradle.kts
+  s_859185dca84241::t_6560617902c6f3 39
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchContributions.kt
+  s_859185dca84241::t_4c147352b6672f 1-11,13-16,18-27,37-69,72-80
+  s_859185dca84241::t_5a74fdf9522df4 12,17,28-36,70-71
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_859185dca84241::t_02a4c1fa300b35 9,14
+  s_859185dca84241::t_709fb149ee93e4 55,62
+  s_859185dca84241::t_9244861d2a72e2 42-54
+openspec/changes/log-workbench/tasks.md
+  s_859185dca84241::t_7d1fd8ce552933 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "09471bd14fc874c4737090e198a0a9e8a1a1652b",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
