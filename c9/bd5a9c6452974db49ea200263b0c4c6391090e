@@ -1,0 +1,47 @@
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSessionTest.kt
+  s_859185dca84241::t_cb36d24566a22f 14-15
+  s_859185dca84241::t_5ababc3d8ae983 122,124,127,131,138,141,143
+  s_859185dca84241::t_5ba19211284634 128-129,132,144
+  s_859185dca84241::t_0238b1c44ed421 229-238
+  s_859185dca84241::t_66875c8062c301 1-13,16-121,123,125-126,130,133-137,139-140,142,145-210,212-228,239-241
+  s_859185dca84241::t_f73a6f1d27cacb 211
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_859185dca84241::t_4c693c2a8a2b80 15
+  s_859185dca84241::t_794ca815485241 47,52-55
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStore.kt
+  s_859185dca84241::t_0db56f746da844 197
+  s_859185dca84241::t_a9a1c39dbe4a07 100-113
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSession.kt
+  s_859185dca84241::t_214e0d0c107b64 1-10,13-80,84-110,112-266,275-421,433-434,448-481
+  s_859185dca84241::t_98f26161116ade 11-12
+  s_859185dca84241::t_e02efdc669f869 81-83
+  s_859185dca84241::t_789fa4abbf8885 267-274
+  s_859185dca84241::t_18ba345bf05029 111
+  s_859185dca84241::t_61fcbc35f31523 422,435-447
+  s_859185dca84241::t_8091706958ce66 423-432
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/WorkbenchPrompts.kt
+  s_859185dca84241::t_00a7101990d5e4 1-68
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchViewModel.kt
+  s_859185dca84241::t_6de9d84c342cf9 210-214
+  s_859185dca84241::t_d19fed0dcb8e76 251
+  s_859185dca84241::t_17abd563437820 1-198,209,215-250,252-278
+  s_859185dca84241::t_6f771555d4c680 199-208
+openspec/changes/log-workbench/tasks.md
+  s_859185dca84241::t_bc6cdc52f5a561 17-20,24-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c9bd5a9c6452974db49ea200263b0c4c6391090e",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
