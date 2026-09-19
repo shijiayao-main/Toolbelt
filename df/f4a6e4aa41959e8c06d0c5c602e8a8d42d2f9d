@@ -1,0 +1,48 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ForensicTools.kt
+  s_859185dca84241::t_0d32a9a434e785 22-44
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/FileTools.kt
+  s_859185dca84241::t_d127dbbec22bc6 27-49
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeLogToolsTest.kt
+  s_859185dca84241::t_49ff8a2f3b281a 1,4-8,20,25,45-53,55-56,61-66
+  s_859185dca84241::t_2fd5d4590a5a88 67-74,76
+  s_859185dca84241::t_440d44b18af0c2 28,32-33,40,54,57
+  s_859185dca84241::t_e109ea30d0efa7 41-44
+  s_859185dca84241::t_881631b8e6e4b6 58-60
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/TimestampTool.kt
+  s_859185dca84241::t_49d0da52bd58b7 56-63
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptTools.kt
+  s_859185dca84241::t_8fba2d0f938447 309-311,316-324
+  s_859185dca84241::t_adfe0e8256d48e 238-286,288-290,292,294,303-308,312-315,325
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/LogTaskTools.kt
+  s_859185dca84241::t_73c3ab48cf5607 1-28,30,32,35-270,272-278,280-289,291-294,296-302,305-308,310-316,319-322,324-330,333-336,338-344,347-348
+  s_859185dca84241::t_1181ee197ffe0c 29,31,33-34
+  s_859185dca84241::t_5e8813c410e607 271,279,290,295,303-304,309,317-318,323,331-332,337,345-346
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/LogTaskToolsTest.kt
+  s_859185dca84241::t_6655c361fb0e2a 44-46
+  s_859185dca84241::t_ecbf8208c0e8b2 1-43,47-159
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AgentToolCatalog.kt
+  s_859185dca84241::t_2d27299fc6a197 1-59,62-65,67-105,107-150
+  s_859185dca84241::t_7ebb980e963480 60-61,66
+  s_859185dca84241::t_c20538f410e9ae 106
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeLogTools.kt
+  s_859185dca84241::t_0efe250342bf3d 4,8,10-15,17-20,22,26-28,30-34,36-41,44,46-49,57-64
+  s_859185dca84241::t_344ecf66425991 54
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ToolCatalogDisciplineTest.kt
+  s_859185dca84241::t_ec80373a5bd6d0 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dff4a6e4aa41959e8c06d0c5c602e8a8d42d2f9d",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
