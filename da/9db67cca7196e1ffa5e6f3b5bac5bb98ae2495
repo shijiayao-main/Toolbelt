@@ -1,0 +1,50 @@
+gradle/libs.versions.toml
+  s_859185dca84241::t_366d055e3e2188 89
+  s_859185dca84241::t_4ffcc4adcef8e4 83-86
+  s_859185dca84241::t_da944a88e81807 36-39
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/DatabaseTest.kt
+  s_859185dca84241::t_f309ff8c44c183 66
+  s_859185dca84241::t_6445f822be0756 83-94,96-100
+  s_859185dca84241::t_287a7f20e10d5a 109,113
+  s_859185dca84241::t_04de1254d1ca0c 1-46,53-65,67-71,76-79,82,95,101-108,110-112,114-115
+  s_859185dca84241::t_e20306e17ef54b 47-52
+  s_859185dca84241::t_544575c00d2994 72,75
+  s_859185dca84241::t_e445d39f1e5b56 73-74
+  s_859185dca84241::t_c2de0c78dd6020 80-81
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/Messages.sq
+  s_859185dca84241::t_dcefcac76444a9 29-32
+  s_859185dca84241::t_5581e196075461 1-28,33-71
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/FileUtils.kt
+  s_859185dca84241::t_1378699eff76f5 10,30-35
+  s_859185dca84241::t_4d5711db98df91 36-37
+core/build.gradle.kts
+  s_859185dca84241::t_f5dfd5c648ac4e 56-57
+  s_859185dca84241::t_a08c17dc7e8b64 7-8
+  s_859185dca84241::t_83bf4c8d94ce61 39-43,45-55,58-59
+  s_859185dca84241::t_97791d3f4e261a 44
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/Database.kt
+  s_859185dca84241::t_33bbf078e43177 74
+  s_859185dca84241::t_9f49dfedd7c407 49-51,53-60
+  s_859185dca84241::t_9c25cd5c32d55b 3
+  s_859185dca84241::t_01bba82e04aba7 1-2,4-48,52,61-70,72-73,75-81
+  s_859185dca84241::t_b4ce789d30ff49 71
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/Sessions.sq
+  s_859185dca84241::t_b55eed3cdec250 1-39,45-49
+  s_859185dca84241::t_966369295a662f 40-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "da9db67cca7196e1ffa5e6f3b5bac5bb98ae2495",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
