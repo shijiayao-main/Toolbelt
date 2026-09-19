@@ -1,0 +1,63 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AgentToolCatalog.kt
+  s_859185dca84241::t_421cdaca25c53c 158-163
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/Database.kt
+  s_859185dca84241::t_0ded78e58d1e3c 52-54,62
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptTools.kt
+  s_859185dca84241::t_5e8f13c8b52e83 297-301,324
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/KnowledgeTools.kt
+  s_859185dca84241::t_2180f429164597 1-182,186-222
+  s_859185dca84241::t_9cd9ea19b03a13 183-185
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/Knowledge.sq
+  s_859185dca84241::t_3586643c2e99cb 79-82
+  s_859185dca84241::t_f809881f37e548 36-37,39-40
+  s_859185dca84241::t_f3209abc924bfb 167-170,172-173,175-176,178-179,181
+  s_859185dca84241::t_b39ffcaede1107 5-7,12-17,21,23
+  s_859185dca84241::t_cf4266c194833f 32,35,38,41
+  s_859185dca84241::t_cdb9b199f7a48a 75-78
+  s_859185dca84241::t_d4dc5ec30920c3 124-126,130,133,139,144,149-152
+  s_859185dca84241::t_727f18499d5104 182-197
+  s_859185dca84241::t_80f49dfb843351 1-4,8-11,18-20,22,24-31,33-34,42-74,83-116,118-123,127-129,131-132,134-138,140-143,145-148,153-156,158-166,171,174,177,180
+  s_859185dca84241::t_73bd2d4f810049 117,157
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeLogTools.kt
+  s_859185dca84241::t_635d4722fbb407 52-54,62-63
+  s_859185dca84241::t_4d23539087cc66 5
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeRepository.kt
+  s_859185dca84241::t_e0045a80b1aeb8 78
+  s_859185dca84241::t_bdaa34c6a050cb 167
+  s_859185dca84241::t_3d4d09639c6a10 198
+  s_859185dca84241::t_486369d7f3e29c 1-18,22-26,29-32,34,36-52,54-64,66-67,69-73,75-77,79-84,89,91-93,95-96,100,102-110,113-130,132-138,140-144,146-156,158-166,168-170,172-180,182-189,191-197,199-200,202-205,207-209,211-213,215-224,226-227,233
+  s_859185dca84241::t_8cb5383bb9730f 19-21,27-28,33,35,53,68,74,85-88,90,94,97-99,101,111-112,131,139,145,157,171,181,190,201,206,210,214,225,228-232
+  s_859185dca84241::t_0cf279626abb52 65
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgePack.kt
+  s_859185dca84241::t_c0ba27a7d8edea 216-219
+  s_859185dca84241::t_2aa67591abbb6d 94,97
+  s_859185dca84241::t_bcedd50293befd 258,260-266
+  s_859185dca84241::t_2f9d233b00788e 291
+  s_859185dca84241::t_e937f29978c139 1-93,95-96,98-172,174-215,220-257,259,267-290,292-309
+  s_859185dca84241::t_175337f1be6088 173
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeEngineTest.kt
+  s_859185dca84241::t_ff913e278dfec8 165,206,230
+  s_859185dca84241::t_b71552246a049b 239-245
+  s_859185dca84241::t_e511061d21762a 1-164,166-205,207-212,214-229,231-238,246-287
+  s_859185dca84241::t_963bf9bf308248 213
+core/build.gradle.kts
+  s_859185dca84241::t_1d604b1a5cbf41 61-64
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/1.sqm
+  s_859185dca84241::t_68abb4fcdd2ea5 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "acece0d1fb9c56b8f2fe7b140f67d18eae0a9db4",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
