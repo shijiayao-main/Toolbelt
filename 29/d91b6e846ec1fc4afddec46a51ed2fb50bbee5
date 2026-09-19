@@ -1,0 +1,34 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/MemoryTools.kt
+  s_859185dca84241::t_e7706ed48ff1ea 28-36
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/MemoryManager.kt
+  s_859185dca84241::t_90d482f36b7594 1-27,29,31-83
+  s_859185dca84241::t_d4095a7c67ab2a 28,30
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/MemoryManagerTest.kt
+  s_859185dca84241::t_311645fb254e7a 100
+  s_859185dca84241::t_3c629b299608e0 1-99,101-111
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatPage.kt
+  s_859185dca84241::t_d48f7cd6e9c781 331-332
+  s_859185dca84241::t_f6c333a0895e84 12,19
+  s_859185dca84241::t_b1b9bfaefd5429 10-11,17,32
+  s_859185dca84241::t_4168d448a4ebe3 83-95,110-117
+  s_859185dca84241::t_8a4b028e06b7fa 120-121,235-330,333-381
+  s_859185dca84241::t_188501ca188d49 118-119
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/decrypt/AiChatViewModel.kt
+  s_859185dca84241::t_561dfdbb4a0526 51-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "29d91b6e846ec1fc4afddec46a51ed2fb50bbee5",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
