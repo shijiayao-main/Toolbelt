@@ -1,0 +1,32 @@
+openspec/changes/log-workbench/proposal.md
+  s_859185dca84241::t_39099b375fb2af 1-38
+openspec/changes/log-workbench/specs/log-workbench-agent/spec.md
+  s_859185dca84241::t_5c8cb05192d62c 1-59
+openspec/changes/log-workbench/specs/navigation-grouping/spec.md
+  s_859185dca84241::t_638cec46b1a8da 1-4,6-8,10,12,14,16,20,33-36
+  s_859185dca84241::t_41c761c5413c91 5,9,11,13,15,17-19,21-32,37
+openspec/changes/log-workbench/specs/log-workbench/spec.md
+  s_859185dca84241::t_cdb8922bd86022 1-85
+openspec/changes/log-workbench/tasks.md
+  s_859185dca84241::t_e214d1c112b026 1-55
+openspec/changes/log-workbench/design.md
+  s_859185dca84241::t_e7584430526618 1-95
+openspec/changes/log-workbench/.openspec.yaml
+  s_859185dca84241::t_5490a56281836f 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2008d7885c2152b3a9ac0048e75738fe76674c40",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
