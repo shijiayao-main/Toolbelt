@@ -1,0 +1,31 @@
+docs/pages/navigation.md
+  s_859185dca84241::t_6c40661f21964f 15-16,20-23,30-32
+  s_859185dca84241::t_d6cd5b9f46a3f0 67
+  s_859185dca84241::t_2747e1bbc392dd 33
+docs/ui-style-guide.md
+  s_859185dca84241::t_88b13013c90776 230
+docs/pages/mcp.md
+  s_859185dca84241::t_38bcea610d174d 1-184
+docs/index.md
+  s_859185dca84241::t_a4ee5871cb1865 83
+  s_859185dca84241::t_ca72b3e6e6f677 43
+docs/architecture.md
+  s_859185dca84241::t_18d3e36c50b6be 55-59
+  s_859185dca84241::t_8b999638bd2e25 129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8abb9cb6d39e7c6dc228d4044a33db423348fbb0",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
