@@ -1,0 +1,60 @@
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/QuestStoreTest.kt
+  s_859185dca84241::t_1cafeedff935a2 1-54,56-57,63-82
+  s_859185dca84241::t_f848cea67217c9 55,58-62
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/3.sqm
+  s_859185dca84241::t_6084472f7adfdf 1-12
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpToolRegistrar.kt
+  s_859185dca84241::t_58f4abc3f7b1f1 116
+  s_859185dca84241::t_8f2cbe8add7c86 111-115,117-118
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AskUserTool.kt
+  s_859185dca84241::t_6412ba5e851404 3
+  s_859185dca84241::t_9cd9d831720ec7 1-2,4-146
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AgentToolCatalog.kt
+  s_859185dca84241::t_3bfc3ad6288878 218-221
+  s_859185dca84241::t_8af2a138f3f902 64-66,75-76
+  s_859185dca84241::t_67769ddc71d60b 158-172
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStore.kt
+  s_859185dca84241::t_3805054622ec1b 212
+  s_859185dca84241::t_8c4edb6177e10f 114-127
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/RunsMigrationTest.kt
+  s_859185dca84241::t_951a30da079443 72,77-82,84
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/QuestStore.kt
+  s_859185dca84241::t_dd42ea880923c4 1-128
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/Flows.sq
+  s_859185dca84241::t_3417a2ab1c2c12 1-48
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStoreTest.kt
+  s_859185dca84241::t_5529bdcf47f3cc 127-135
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpServerManagerTest.kt
+  s_859185dca84241::t_b9332b0be2855d 46-47
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpServerManager.kt
+  s_859185dca84241::t_4834d0257282f5 163-167
+  s_859185dca84241::t_6a5e2fb27998c7 190-192,205,209,213
+  s_859185dca84241::t_aec17e80abfbc5 197-203,216
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AskUserModels.kt
+  s_859185dca84241::t_6aff5b41560c47 1-107
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ToolResult.kt
+  s_859185dca84241::t_9622fe30b753bf 80-82
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/FlowsMigrationTest.kt
+  s_859185dca84241::t_d757c56db9de5a 1-93
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AskUserToolTest.kt
+  s_859185dca84241::t_83234c6813cf73 145-184
+  s_859185dca84241::t_fea11a5da191f9 1-144,185
+openspec/changes/add-flow-ask-user-and-flows-schema/tasks.md
+  s_859185dca84241::t_80aef66206bda0 5,8,10,13,18,21,24,30,35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ccff5663b999ca8de9edb332513a2f456983a595",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
