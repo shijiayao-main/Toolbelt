@@ -1,0 +1,23 @@
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpServerManager.kt
+  s_859185dca84241::t_9726e3e4bfed13 183-185,188-201
+  s_859185dca84241::t_653d318bce8eba 202
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpServerSmokeTest.kt
+  s_859185dca84241::t_ba6ed2bd22d57b 7,10,12
+  s_859185dca84241::t_ed13b4fef6b600 1-6,8-9,11,13-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "353fcb6dd70574c0b0fba8b2cec6f1e3a9d72362",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
