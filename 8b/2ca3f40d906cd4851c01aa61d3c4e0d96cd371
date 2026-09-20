@@ -1,0 +1,28 @@
+openspec/specs/navigation-grouping/spec.md
+  s_859185dca84241::t_859a316bb9e338 53
+openspec/specs/flow-capabilities/spec.md
+  s_859185dca84241::t_3e744482994df2 1-56
+openspec/specs/flow-page/spec.md
+  s_859185dca84241::t_859a316bb9e338 1-37,43-54,68-81
+  s_859185dca84241::t_3e744482994df2 38-42,55-67
+openspec/changes/archive/2026-09-20-add-flow-capabilities/specs/flow-page/spec.md
+  s_859185dca84241::t_0ba05ca9510e0e 1-42
+openspec/changes/archive/2026-09-20-add-flow-capabilities/tasks.md
+  s_859185dca84241::t_ec6f73e4dac0fc 34-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8b2ca3f40d906cd4851c01aa61d3c4e0d96cd371",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
