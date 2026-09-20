@@ -1,0 +1,55 @@
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_859185dca84241::t_1253dc19775220 49,51,60,88-94,202,214-218,234-243,245,257,264,298,312-314,322,326-368,376,390
+  s_859185dca84241::t_55b0cb84f59b91 259,272
+  s_859185dca84241::t_92bee7cf14e80b 3-6,8-15,17,19,21-27,29,32-33,36,38-41,46-47,52,58-59,61-66,68,74,79,119,139,146-150,178-185,188-189,191-195,197-201,203,210-213,220-222,227-233,249-256,258,260,262,265-267,269-271,273-287,295-297,299-311,315-317,319-321,379-380,385-389,391-402,404-412
+  s_859185dca84241::t_d2e9e2ac633f52 7,16,28,30-31,34-35,37,42-43,48,50,53-54,67,69-73,75-78,80-87,95-118,120-138,140-145,151-154,156-165,167-177,187,190,204-209,219,223-226,244,246-248,261,263,268,288-294,318,323-325,369-375,377-378,381-384,403
+  s_859185dca84241::t_50941a4d902d27 155,166
+  s_859185dca84241::t_50d74b9dfd5bde 186,196
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_859185dca84241::t_e79825f1401e35 93-95
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/MultiChoiceField.kt
+  s_859185dca84241::t_d97c1032dca425 1-79
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/DockManagerToggleTest.kt
+  s_859185dca84241::t_d85a57ab9e9b5d 137-138,142-143,151,156,159
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowContributions.kt
+  s_859185dca84241::t_bae9022bdb0f6f 20-24
+openspec/changes/add-flow-page/tasks.md
+  s_859185dca84241::t_c5cf37657216d9 24-27,30-31,35
+  s_859185dca84241::t_4b778892e8af60 37-39
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowViewModel.kt
+  s_859185dca84241::t_868c86644ad657 132,134
+  s_859185dca84241::t_26b77efecd5a6e 72-78
+  s_859185dca84241::t_0e0878384e5a14 188-189
+  s_859185dca84241::t_5aa8ba38c80d21 238,240-242,244-261
+  s_859185dca84241::t_1630bc453c10e6 12,14
+  s_859185dca84241::t_454c690687113b 159,165,175
+  s_859185dca84241::t_b3f57bf81b000c 81-82,84-89,91-93
+  s_859185dca84241::t_2a88d5576b6510 161,173
+  s_859185dca84241::t_e1ebac229dd899 1-11,13,15-71,79-80,83,90,94-96,100-131,133,135-158,160,162-164,166-172,174,176-180,183-185,187,190-237,239,243
+  s_859185dca84241::t_f8ec4830011d48 181-182,186
+  s_859185dca84241::t_b7f38d350e7010 97-99
+openspec/changes/add-flow-page/specs/navigation-grouping/spec.md
+  s_859185dca84241::t_c8f4410d3051e8 1-21
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestCapabilities.kt
+  s_859185dca84241::t_243ebcd3eef41d 1-28
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestToolVisualizers.kt
+  s_859185dca84241::t_f12227a7e8eefc 1-80
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/DockManager.kt
+  s_859185dca84241::t_2fbb8f59e22fa7 31-33,37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eb4a52b4b7d01c41f6e6149dbf8d4f4e3c184914",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
