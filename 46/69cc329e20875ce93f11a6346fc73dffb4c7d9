@@ -1,0 +1,26 @@
+feature-voice/build.gradle.kts
+  s_0a1e4cf0c69ef1::t_59118eb955b50e 8-15,17-91,95-105,111-116
+feature-voice/libs/README.md
+  s_0a1e4cf0c69ef1::t_7dcef48b6d7675 1-13,18-38
+  s_0a1e4cf0c69ef1::t_752ce8ab50edcf 14-17
+docs/pages/voice.md
+  s_0a1e4cf0c69ef1::t_27181d7199f9c9 27-36
+.gitignore
+  s_0a1e4cf0c69ef1::t_847ca3a2b97718 26-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4669cc329e20875ce93f11a6346fc73dffb4c7d9",
+  "prompts": {},
+  "sessions": {
+    "s_0a1e4cf0c69ef1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a5d41e48-083f-4323-8953-8f9442811fb3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
