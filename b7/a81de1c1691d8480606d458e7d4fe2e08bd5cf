@@ -1,0 +1,57 @@
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestSession.kt
+  s_859185dca84241::t_c697e7f21943ee 94-97
+  s_859185dca84241::t_e5eda51259eb70 197-201
+  s_859185dca84241::t_d3b0bedee1d64e 23
+  s_859185dca84241::t_cc69f10bf5ca2d 256,261-263
+  s_859185dca84241::t_870cfc37c081ef 138-170
+  s_859185dca84241::t_8432cadad6c310 66-69,76-80
+feature-quest/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestCapabilitiesGuardTest.kt
+  s_859185dca84241::t_9aef57a61ee5c1 1-59
+openspec/changes/add-flow-capabilities/tasks.md
+  s_859185dca84241::t_24f513c1a0b310 5-9,11-12,16,18,21,25-28
+  s_859185dca84241::t_37cefb2311396c 33
+  s_859185dca84241::t_b7d91295006c4f 1-4,10,13-15,17,19-20,22-24,29-32,34
+openspec/changes/add-flow-capabilities/design.md
+  s_859185dca84241::t_07c814017659c2 1-86
+openspec/changes/add-flow-capabilities/specs/flow-capabilities/spec.md
+  s_859185dca84241::t_ca411399121007 1-81
+openspec/changes/add-flow-capabilities/proposal.md
+  s_859185dca84241::t_4fd2ead4ea1ce4 1-42
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestCapabilities.kt
+  s_859185dca84241::t_495da7727621f8 41-42
+  s_859185dca84241::t_17b8fbb5860085 25-31,33-40,43-62
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestAbilityPrompts.kt
+  s_859185dca84241::t_85e5637a5784e5 24,48
+  s_859185dca84241::t_4a807e260cea2e 1-23,25-47,49-85
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowViewModel.kt
+  s_859185dca84241::t_04389a80758023 179-186
+  s_859185dca84241::t_56ae625ed632f3 87,96-98
+  s_859185dca84241::t_3f0ab222d25933 217-226
+  s_859185dca84241::t_6b9b1c49b7e8b1 99
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_859185dca84241::t_a1b0214ea2e635 301,404-430
+  s_859185dca84241::t_6bd477316d87c8 268,273-274,287,295-299
+  s_859185dca84241::t_4786a24dfc0ea9 172,177-178
+  s_859185dca84241::t_087487edcdc8da 67
+  s_859185dca84241::t_808a01275bf0d1 300
+feature-quest/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestSessionTest.kt
+  s_859185dca84241::t_798e274ab734f1 165-208
+openspec/changes/add-flow-capabilities/.openspec.yaml
+  s_859185dca84241::t_14eca1019719e8 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b7a81de1c1691d8480606d458e7d4fe2e08bd5cf",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
