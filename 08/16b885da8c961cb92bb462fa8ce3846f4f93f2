@@ -1,0 +1,82 @@
+settings.gradle.kts
+  s_859185dca84241::t_34321b8531b431 47
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceSummarizeSession.kt
+  s_859185dca84241::t_43c7e519e515c3 1-141
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/media/AudioTranscoder.kt
+  s_859185dca84241::t_df63e3026d4cff 123
+  s_859185dca84241::t_550de4d133b09a 1-122,124-198
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStoreTest.kt
+  s_859185dca84241::t_31927a873d77ca 1-129
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStore.kt
+  s_859185dca84241::t_367340f60e6ac0 1-140
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_859185dca84241::t_6fe49377bd0cf7 21
+  s_859185dca84241::t_330d38cddf68f8 40,70
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/SherpaOnnxIsolationTest.kt
+  s_859185dca84241::t_83df77bfddb158 1-128
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_859185dca84241::t_0c6b19e2ae8ef2 1-198
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/SherpaTranscriber.kt
+  s_859185dca84241::t_b9f9b82d375cbc 1-98
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_859185dca84241::t_af4294f9588fa9 62-74,83
+  s_859185dca84241::t_7ef7d8f5c1db33 19
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchEndToEndTest.kt
+  s_859185dca84241::t_29802c410fdc63 1-117
+openspec/changes/voice-transcribe/tasks.md
+  s_859185dca84241::t_6f2cce5fb6b763 1-32
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_859185dca84241::t_39ca62766ae6bb 21
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceSummarizePrompts.kt
+  s_859185dca84241::t_bf87e2f1a645de 1-32
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceContributions.kt
+  s_859185dca84241::t_f0573587db01d5 1-36
+feature-voice/build.gradle.kts
+  s_859185dca84241::t_e00272d3c005fa 21-22
+  s_859185dca84241::t_36d549d0293fe3 1-20,23-25
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/media/AudioTranscoderTest.kt
+  s_859185dca84241::t_6aa74e9d07ef16 1-97
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceViewModel.kt
+  s_859185dca84241::t_bb20d0759699c2 1-164
+openspec/changes/voice-transcribe/design.md
+  s_859185dca84241::t_e1efa0ce6e4911 1-86
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskPageTemplate.kt
+  s_859185dca84241::t_330d38cddf68f8 37,62
+  s_859185dca84241::t_d7ff57d545719c 10
+openspec/changes/voice-transcribe/proposal.md
+  s_859185dca84241::t_4cac4a9261b36b 1-29
+openspec/changes/voice-transcribe/specs/navigation-grouping/spec.md
+  s_859185dca84241::t_3123029313ea5b 1-25
+composeApp/build.gradle.kts
+  s_859185dca84241::t_c42046a151a1c9 42
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/Transcriber.kt
+  s_859185dca84241::t_5832f383f7a9ec 1-24
+openspec/changes/voice-transcribe/specs/voice-transcribe/spec.md
+  s_859185dca84241::t_3bc920f2f2f92b 1-77
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/GithubModelDownloader.kt
+  s_859185dca84241::t_bbe511d70af83e 5-8,17,19,23-25,34,36,39,46-49,56,59,76-77
+  s_859185dca84241::t_a57ddfba8d7dc3 1-4,9-16,18,20-22,26-33,35,37-38,40-45,50-55,57-58,60-75,78-85
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_859185dca84241::t_5021bf2d233a5b 40,74,76,186-187,190-194
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TaskCard.kt
+  s_859185dca84241::t_d4bc34970e8121 62
+  s_859185dca84241::t_95634b8f4e9c4e 124-134
+openspec/changes/voice-transcribe/.openspec.yaml
+  s_859185dca84241::t_db34a54a02b709 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0816b885da8c961cb92bb462fa8ce3846f4f93f2",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
