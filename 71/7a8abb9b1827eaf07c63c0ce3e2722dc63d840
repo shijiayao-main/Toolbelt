@@ -1,0 +1,33 @@
+openspec/changes/add-flow-ask-user-and-flows-schema/proposal.md
+  s_859185dca84241::t_1a2fbc19899ea6 1-37
+openspec/changes/add-flow-ask-user-and-flows-schema/specs/flow-store/spec.md
+  s_859185dca84241::t_203a926bb5320d 45
+  s_859185dca84241::t_7abb6043c35742 1-25,46-50
+  s_859185dca84241::t_136e6232595aff 26-44
+openspec/changes/add-flow-ask-user-and-flows-schema/design.md
+  s_859185dca84241::t_9df03759bbd5ed 1-79
+openspec/changes/add-flow-ask-user-and-flows-schema/specs/flow-ask-hITL/spec.md
+  s_859185dca84241::t_5bb99dbd7276ef 50-74
+  s_859185dca84241::t_d7f69c4d21c80b 47-49
+  s_859185dca84241::t_12ac494b76b561 1-46
+openspec/changes/add-flow-ask-user-and-flows-schema/tasks.md
+  s_859185dca84241::t_fd375a2a5e051c 1-36
+openspec/changes/add-flow-ask-user-and-flows-schema/.openspec.yaml
+  s_859185dca84241::t_7c3fbd3c28e306 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "717a8abb9b1827eaf07c63c0ce3e2722dc63d840",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
