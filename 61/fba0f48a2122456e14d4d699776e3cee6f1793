@@ -1,0 +1,56 @@
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_6fb886a151cd19::t_c7c95990ccd358 40-82
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_6fb886a151cd19::t_171a68fee4f2b0 170-230
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/TimingConstants.kt
+  s_6fb886a151cd19::t_89b9f4bba6fa50 1-33
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PageScaffold.kt
+  s_6fb886a151cd19::t_7ac6877d9dc26b 97-101,104-108
+  s_6fb886a151cd19::t_f970d64fc408ab 30
+  s_6fb886a151cd19::t_c992be1ea7572d 9-11,13,18-19,22-29,31-36,40-48,50-51,56-60,68,70-72,75-81,85-87,90-96,102
+  s_6fb886a151cd19::t_b0d39b1b3099f7 15-16
+  s_6fb886a151cd19::t_e81107dbd02cbf 112-120
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Breakpoints.kt
+  s_6fb886a151cd19::t_df813282862cc8 1-52
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_6fb886a151cd19::t_c2d25f0fccd776 49-52,54-56
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_6fb886a151cd19::t_21ef4281fff88e 65-72
+  s_6fb886a151cd19::t_8ff932754ee7b1 6
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_6fb886a151cd19::t_b17d952f5389bd 72-74,78
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_6fb886a151cd19::t_8411a91fb09056 31-35
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_6fb886a151cd19::t_7e51084f618441 277,283,311
+  s_6fb886a151cd19::t_bd1995ce1f57c7 86-87
+  s_6fb886a151cd19::t_ea90f4acb7f078 105-110
+  s_6fb886a151cd19::t_3308e2ef85359d 51,53
+  s_6fb886a151cd19::t_a3c25b30e14adf 167
+  s_6fb886a151cd19::t_0393bd131c3323 76-85,88-90,111-161
+  s_6fb886a151cd19::t_506c23df65c19c 233-272
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_6fb886a151cd19::t_ad4d20d7bbaf60 130-136
+  s_6fb886a151cd19::t_eb287500798ccc 59-60
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_6fb886a151cd19::t_f6e54f659ba120 71-76
+  s_6fb886a151cd19::t_aee41ea07c13c5 37-38
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_6fb886a151cd19::t_cd88d0bfd85eab 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "61fba0f48a2122456e14d4d699776e3cee6f1793",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
