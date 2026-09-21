@@ -1,0 +1,62 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/FileTypeDecision.kt
+  s_859185dca84241::t_4e11888cf71e19 9
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_859185dca84241::t_4e11888cf71e19 526
+openspec/specs/copy-rewording/spec.md
+  s_859185dca84241::t_fcd569aa2b501b 1-32
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogDistillPrompts.kt
+  s_859185dca84241::t_4e11888cf71e19 26,59
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/KnowledgeTools.kt
+  s_859185dca84241::t_4e11888cf71e19 198
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptToolsTest.kt
+  s_859185dca84241::t_81e1def85e09fc 78,87
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/WorkbenchPrompts.kt
+  s_859185dca84241::t_4e11888cf71e19 25
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeRepository.kt
+  s_859185dca84241::t_4e11888cf71e19 14
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_859185dca84241::t_81e1def85e09fc 467,473
+AGENTS.md
+  s_859185dca84241::t_40921fdb0d1285 9
+docs/manual/debug.md
+  s_859185dca84241::t_7ee484e702e6a4 9
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/FileSnifferTest.kt
+  s_859185dca84241::t_81e1def85e09fc 52
+docs/manual/lark-bridge.md
+  s_859185dca84241::t_40921fdb0d1285 87
+docs/manual/xlog-decode.md
+  s_859185dca84241::t_40921fdb0d1285 3,7
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/LogTaskTools.kt
+  s_859185dca84241::t_4e11888cf71e19 283
+docs/manual/shell-tools.md
+  s_859185dca84241::t_40921fdb0d1285 7
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptTools.kt
+  s_859185dca84241::t_f483f390c5ead8 18
+  s_859185dca84241::t_4e11888cf71e19 20,188,247
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/.openspec.yaml
+  s_859185dca84241::t_9ed64ed14bced5 1-2
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/design.md
+  s_859185dca84241::t_26c095f255c581 1-31
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/proposal.md
+  s_859185dca84241::t_03e8b80d26a610 1-43
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/specs/copy-rewording/spec.md
+  s_859185dca84241::t_33a7ed72551dbe 1-29
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/tasks.md
+  s_859185dca84241::t_030f837c0077f2 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f2fec737cf0c552d9e0fe31ead47e425c31bdf2a",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
