@@ -1,0 +1,66 @@
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceViewModel.kt
+  s_859185dca84241::t_0c0488ed6b1e2a 174-184,186-262
+  s_859185dca84241::t_7e2639f404bc9d 157-163
+  s_859185dca84241::t_a8b17b5f2a8834 69-98,101
+  s_859185dca84241::t_e4714dadb0f49d 185
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStore.kt
+  s_859185dca84241::t_6f5ce3fa1caf5b 144-183
+  s_859185dca84241::t_afa017e2e0487a 61-81
+  s_859185dca84241::t_4914011fea5605 201-209
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VadEngine.kt
+  s_859185dca84241::t_a03b00635de764 5-7,11,23-24,36-40
+  s_859185dca84241::t_5011dfd5b637cc 1-4,8-10,12-22,25-35
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/MicCapture.kt
+  s_859185dca84241::t_dbb60e6f830db1 1-114
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_859185dca84241::t_8a33d81c8e512b 25,30
+  s_859185dca84241::t_140807f8eff622 56-58
+  s_859185dca84241::t_ae5c346e38ba05 205-244,246-335
+  s_859185dca84241::t_5a33ccd01d5ae4 245
+  s_859185dca84241::t_7baa4c292d6cfc 5
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/LiveTranscribeTest.kt
+  s_859185dca84241::t_50f0e4f84422ec 1-28,31-38,41-62,64-67,69-191
+  s_859185dca84241::t_53bf09fad7c96a 29-30
+  s_859185dca84241::t_367a15c0eee206 63,68
+  s_859185dca84241::t_03ccf800d94777 39-40
+openspec/specs/voice-live-recording/spec.md
+  s_859185dca84241::t_5becee5161055a 1-54
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/LiveTranscribe.kt
+  s_859185dca84241::t_160bee7d95e9e4 146-154
+  s_859185dca84241::t_1b9b06e6d445c7 9
+  s_859185dca84241::t_7f84ae58dc60be 1-8,10-54,57-142,144,155-161
+  s_859185dca84241::t_1257d500805bf0 55-56
+  s_859185dca84241::t_5c0b8f646d3ea8 143,145
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/GithubModelDownloader.kt
+  s_859185dca84241::t_6b88fafd88a507 74-98
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/SherpaTranscriber.kt
+  s_859185dca84241::t_3f84a7400eb39b 123-176
+  s_859185dca84241::t_da3707b278a09d 18-20
+  s_859185dca84241::t_a0cd34a045fb93 95-116
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/.openspec.yaml
+  s_859185dca84241::t_2316727e1900db 1-2
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/design.md
+  s_859185dca84241::t_e98ea423439a60 1-73
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/proposal.md
+  s_859185dca84241::t_0d0dcfb6f7d15a 1-31
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/specs/voice-live-recording/spec.md
+  s_859185dca84241::t_cb0082119f3a5b 1-51
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/tasks.md
+  s_859185dca84241::t_ec723b45ca850b 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5a6fcd58d75d2dd0e9bae35f8b2e93c860358e30",
+  "prompts": {},
+  "sessions": {
+    "s_859185dca84241": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "177bc3d2-debe-4dc1-807f-b86778ce342d",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
