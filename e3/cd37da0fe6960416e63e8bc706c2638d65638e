@@ -1,0 +1,69 @@
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsContributions.kt
+  s_6fb886a151cd19::t_0b4b883d18532e 5-6,18-20,31-40,49
+  s_6fb886a151cd19::t_c1d5d6217f5fde 14-17,44-48,50
+  s_6fb886a151cd19::t_a717598917f4dc 41-42
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHub.kt
+  s_6fb886a151cd19::t_787853ce975348 87-99,109
+  s_6fb886a151cd19::t_ab0018d4e043f8 16,25,27,30-36,43,45-47,51-65,69-71,78-86,105,108,110,122,124,126,128,171
+  s_6fb886a151cd19::t_d867771add45d3 127
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_6fb886a151cd19::t_039f63018e7825 26
+  s_6fb886a151cd19::t_c35669392316d9 61
+  s_6fb886a151cd19::t_ca6ab861a7f588 3,11,14,38-50
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_6fb886a151cd19::t_f682c0eed4709e 208-212,215,218-219,221-223
+  s_6fb886a151cd19::t_c3577dbae0b2ab 174-176,178-182
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  s_6fb886a151cd19::t_2c45da3740eb21 1-112,114-115,125-263
+  s_6fb886a151cd19::t_80ea82cea3cc39 121
+  s_6fb886a151cd19::t_676dda88a329c4 113,116-117,119-120,122,124
+  s_6fb886a151cd19::t_98ca92d123845e 118,123
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ShortcutHint.kt
+  s_6fb886a151cd19::t_7a96c7cd768260 1-66
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_6fb886a151cd19::t_facb2f7e78b539 118-123,125-134
+  s_6fb886a151cd19::t_8bf051712072a7 402-417
+  s_6fb886a151cd19::t_95c866ddfd91c4 226-230
+  s_6fb886a151cd19::t_6fab33bb633a7f 75,79
+  s_6fb886a151cd19::t_aeb5779078607b 264-271
+  s_6fb886a151cd19::t_226f7588163e86 401
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeContributions.kt
+  s_6fb886a151cd19::t_af0e30dd772b96 41-52,59
+  s_6fb886a151cd19::t_8094735aba097a 4
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsRuntime.kt
+  s_6fb886a151cd19::t_24c9e1e98e3ead 3,11-13
+  s_6fb886a151cd19::t_1f345e57928fe8 67-96
+  s_6fb886a151cd19::t_0598ae007a08b3 116
+  s_6fb886a151cd19::t_7da492383488c5 66
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_6fb886a151cd19::t_a1df9480434b56 67,69,75-80,86-87
+  s_6fb886a151cd19::t_a575372e1b361d 140-144
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_6fb886a151cd19::t_53ce25a094a06a 320-328
+  s_6fb886a151cd19::t_fae5069d263a6e 319
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageDefault.kt
+  s_6fb886a151cd19::t_2ff5764ec98ca0 113
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_6fb886a151cd19::t_9192e8eedd1345 101-107
+  s_6fb886a151cd19::t_5dd8976d661077 96,99
+  s_6fb886a151cd19::t_973cf8c7d3e48e 85-95,97-98,100,108-114
+  s_6fb886a151cd19::t_49237fb9740435 182
+  s_6fb886a151cd19::t_8f6acd1b6b5152 53
+  s_6fb886a151cd19::t_7fed2ff487d992 34-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e3cd37da0fe6960416e63e8bc706c2638d65638e",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
