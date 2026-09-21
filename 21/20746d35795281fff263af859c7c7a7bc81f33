@@ -1,0 +1,59 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHub.kt
+  s_6fb886a151cd19::t_0e32e4be75cbe5 50
+  s_6fb886a151cd19::t_9c0f53be52e777 125-126
+  s_6fb886a151cd19::t_e1eb570e97cbbe 67
+  s_6fb886a151cd19::t_9be935cadbc04a 95-97
+  s_6fb886a151cd19::t_5513c2d25c8738 149
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  s_6fb886a151cd19::t_d4e8cd7540c2fc 44
+  s_6fb886a151cd19::t_bd2ca64943e1ae 226-228
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_6fb886a151cd19::t_26e1a64d710533 374-384,392-396,406-416,439-441,450
+  s_6fb886a151cd19::t_25e2bac9c606b3 47
+  s_6fb886a151cd19::t_d701616857571c 467-472,488-493
+  s_6fb886a151cd19::t_d8237b043ad22a 21,28
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_6fb886a151cd19::t_2fb317d9672e61 84-96,99-102
+  s_6fb886a151cd19::t_4399d9acb0d872 103
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_6fb886a151cd19::t_f75b1e94789816 206-207
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/SubmitKey.kt
+  s_6fb886a151cd19::t_d8d9a179a54a65 1-33,35-58
+  s_6fb886a151cd19::t_14ed771b6bf6ff 34
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/ListKeyboard.kt
+  s_6fb886a151cd19::t_884fc97e66eded 40,44
+  s_6fb886a151cd19::t_20e95faa26b6de 1-39,41-43,45-63
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHelpCard.kt
+  s_6fb886a151cd19::t_c3bfd6da3fb6ef 87
+  s_6fb886a151cd19::t_189a73b8f3b4b6 1-30,34-44,46-86,88-150
+  s_6fb886a151cd19::t_ab42c2c132e364 31-33,45
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  s_6fb886a151cd19::t_e0ab91724dde6f 34
+  s_6fb886a151cd19::t_fe97583b0335f5 161-166
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHubTest.kt
+  s_6fb886a151cd19::t_aa85484a4c4928 86-103
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_6fb886a151cd19::t_61cc2b3660e854 203-205
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_6fb886a151cd19::t_0647acd7786d79 60
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/FocusRing.kt
+  s_6fb886a151cd19::t_3c89424885c9b2 5-8,10-15,19,21-22,24-28,31-37,43-50,52-53
+  s_6fb886a151cd19::t_bfe016800165b6 1-4,9,16-18,20,23,29-30,51
+  s_6fb886a151cd19::t_05ebf8de947f1b 38-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2120746d35795281fff263af859c7c7a7bc81f33",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
