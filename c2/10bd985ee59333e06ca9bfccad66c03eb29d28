@@ -1,0 +1,92 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptTools.kt
+  s_6fb886a151cd19::t_9f047991060556 7-8
+  s_6fb886a151cd19::t_144d9c64f35eb3 253-260
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/ArchiveContributions.kt
+  s_6fb886a151cd19::t_b5ade513bbc2e2 5-8,12-15,22-29,33-37,39-90,94-100
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteHud.kt
+  s_6fb886a151cd19::t_f8487a543be0f3 1-20,22-77,79-121
+  s_6fb886a151cd19::t_345240f4087644 21
+  s_6fb886a151cd19::t_2f6a9358e42cfb 78
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/LogTaskTools.kt
+  s_6fb886a151cd19::t_ca17e3e9edffc0 389-396
+  s_6fb886a151cd19::t_e7c855f0a4fc04 337-351
+  s_6fb886a151cd19::t_62c09d40fedb9c 366-374
+  s_6fb886a151cd19::t_34b14457585668 289-296
+  s_6fb886a151cd19::t_ca17300309e8ef 8-9
+  s_6fb886a151cd19::t_57385fab5448e9 313-322
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_6fb886a151cd19::t_b6c0cc4fbbb00d 52
+  s_6fb886a151cd19::t_e09d05013e7e85 26,40-41,55-57,59,61-69,72,74,95-119,148-150,159,167-169,195-202,229-231,233,246,252,257,259-265,267-293,302-304,306-311,315-339,342-363,365-421,438-598,600-601,603-604,653,659,661-662,702,722-739,748-759,764,782-783,797
+  s_6fb886a151cd19::t_0bec5807c794ae 305,312-314
+  s_6fb886a151cd19::t_e7cbe81628fc7a 636-650
+  s_6fb886a151cd19::t_e6842b5e6499ef 42
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageRegistration.kt
+  s_6fb886a151cd19::t_4add923bdbc2cb 64
+  s_6fb886a151cd19::t_6eb4385c2a2b6a 33-36
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ToolCatalogDisciplineTest.kt
+  s_6fb886a151cd19::t_cd5e1e5bd078fc 100-150
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ParamCommands.kt
+  s_6fb886a151cd19::t_ac84a2ce41372f 1-93
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ParamCommandCatalog.kt
+  s_6fb886a151cd19::t_6f875b40a0a6a4 13,18,23-24,30,34-36,39-43,49-53,66,76-77,83,86-93,105-108,114,116-118,124-126,134,138,156,158,160,165,174-178,180-181,184-185,190-191,196-206,210
+  s_6fb886a151cd19::t_0c9a4986aae5f6 161
+  s_6fb886a151cd19::t_7584f0cd0ce198 16
+  s_6fb886a151cd19::t_03cfffdd4471be 149-152
+  s_6fb886a151cd19::t_6210d2a5ffead7 101-104
+  s_6fb886a151cd19::t_881c745ec8e4a2 6-12,14-15,17,19-21,26-29,31-33,37-38,44-48,54-65,67-75,78-82,84-85,94-100,109-113,115,119-123,127-133,135-137,139-148,153-155,157,159,162-164,166-173,179,182-183,186-189,192-195,207-209,211
+  s_6fb886a151cd19::t_f2c80f460bc826 1-5
+  s_6fb886a151cd19::t_27c9112043c1a3 22,25
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteEmptyState.kt
+  s_6fb886a151cd19::t_3f3f39a1cff081 1-63
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_6fb886a151cd19::t_cd30b62b84e563 104-116
+  s_6fb886a151cd19::t_ed802010648502 144,146
+  s_6fb886a151cd19::t_fd68a8d3bb0201 103
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPaletteFrecencyTest.kt
+  s_6fb886a151cd19::t_4fe9747cd8e66a 3-6,14,27-37,71-131
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AgentToolCatalog.kt
+  s_6fb886a151cd19::t_40c7081d7310be 87-93
+  s_6fb886a151cd19::t_680065176f3123 7
+  s_6fb886a151cd19::t_9a13f941cc24ea 176-186
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/KnowledgeTools.kt
+  s_6fb886a151cd19::t_f3d2a15a502bea 202-211
+  s_6fb886a151cd19::t_9c160d7f895151 7-8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AnalyzeLogTool.kt
+  s_6fb886a151cd19::t_791051a0d9eaf1 158-182
+  s_6fb886a151cd19::t_5e242679bf726d 7-8
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_6fb886a151cd19::t_b965bd4d3d375b 217,219-246,248-266
+  s_6fb886a151cd19::t_43cbdbdbb88ba5 16-19,23-25,44-45,81,83
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteParamForm.kt
+  s_6fb886a151cd19::t_39bb20d7dbca0e 1-131
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_6fb886a151cd19::t_4e2bed5a42d02b 166-172
+  s_6fb886a151cd19::t_40264de08f2d6d 165
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/LogKitContributions.kt
+  s_6fb886a151cd19::t_e82943908fd260 5-8,16-19,23-31,35-39,41-84,87-91,93-128,131-135,137-171,175-194
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_6fb886a151cd19::t_1c7f5f71a2770c 65,72-74
+  s_6fb886a151cd19::t_7787dfd02811ea 39
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  s_6fb886a151cd19::t_fab27c3c9e62a2 37
+  s_6fb886a151cd19::t_7c4b13da4ca528 261-262,269
+  s_6fb886a151cd19::t_4d8a24b530399e 130-131
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampContributions.kt
+  s_6fb886a151cd19::t_19155fd74eccc3 5-10,13,18-23,27-31,33-56,60-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c210bd985ee59333e06ca9bfccad66c03eb29d28",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
