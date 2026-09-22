@@ -1,0 +1,35 @@
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/Spaces.sq
+  s_6fb886a151cd19::t_56784529bb47a9 1-49
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SpacesMigrationTest.kt
+  s_6fb886a151cd19::t_704c3dfb5587cf 144
+  s_6fb886a151cd19::t_03944577794776 154-155,157
+  s_6fb886a151cd19::t_490f9ac2759fd1 158-161
+  s_6fb886a151cd19::t_fc54119da7087a 1-143,145-153,156,162-166,168,171,174-177
+  s_6fb886a151cd19::t_cc8dacc7620f8e 167,169-170,172-173
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/FlowsMigrationTest.kt
+  s_6fb886a151cd19::t_88aa8a1c06b285 68,71-74,77,79
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SpaceStore.kt
+  s_6fb886a151cd19::t_89b894edce8734 1-177
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchDeepLink.kt
+  s_6fb886a151cd19::t_71679bd7e00865 19,23-25,34-35
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/4.sqm
+  s_6fb886a151cd19::t_36371cae33d3b1 1-16
+core/build.gradle.kts
+  s_6fb886a151cd19::t_fbf876c914bf87 65-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "843c9e1356ef41de74e6c47a0a9c3f2b984b7c01",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
