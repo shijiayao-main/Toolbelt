@@ -1,0 +1,26 @@
+docs/ui-style-guide.md
+  s_6fb886a151cd19::t_7c0fee6a1f7514 171,173,176,181-182,187,195-197,200-204,209-211,218-220
+docs/core/theme.md
+  s_6fb886a151cd19::t_53bd84c99125c2 123
+docs/architecture.md
+  s_6fb886a151cd19::t_ecdeb844f4a225 193-215
+docs/pages/navigation.md
+  s_6fb886a151cd19::t_3e8f702b67d95e 210-213
+  s_6fb886a151cd19::t_2ebdb6632aae95 43,46-58,64,68-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "73699073876c0a5727b7fbc1c5a7c4b6af39228a",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
