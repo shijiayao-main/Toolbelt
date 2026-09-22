@@ -1,0 +1,39 @@
+docs/index.md
+  s_6fb886a151cd19::t_5d5645349996fd 72-75
+docs/core/theme.md
+  s_6fb886a151cd19::t_c2a83f70cc24ca 306
+  s_6fb886a151cd19::t_f929f0277ce087 211-213,217
+  s_6fb886a151cd19::t_1d76021c49fe04 123-126
+  s_6fb886a151cd19::t_ee717b10e49fa0 15,20-21
+  s_6fb886a151cd19::t_b6be4f1f0128cd 230-232
+docs/pages/navigation.md
+  s_6fb886a151cd19::t_2c711f30617706 100-101
+  s_6fb886a151cd19::t_dd952a1c20bbc0 43,46-55,61-76
+  s_6fb886a151cd19::t_87b61e09090622 200,206-207
+  s_6fb886a151cd19::t_bc323606c0789b 77
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppButton.kt
+  s_6fb886a151cd19::t_e041f0f5cd52c5 30-31
+docs/ui-style-guide.md
+  s_6fb886a151cd19::t_a1b26b72a8e174 30
+  s_6fb886a151cd19::t_ef2e2f91961984 167-212
+  s_6fb886a151cd19::t_6cef5a91bd19d4 897-938
+  s_6fb886a151cd19::t_e72bcd74ac75e7 1012
+  s_6fb886a151cd19::t_55be08566c5d45 612
+  s_6fb886a151cd19::t_57639287ea4421 562,569,571-576,580-611,613-680
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8c59931c4d798ec35afedf6950846b3cb206a446",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
