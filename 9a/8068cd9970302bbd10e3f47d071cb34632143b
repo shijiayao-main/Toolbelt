@@ -1,0 +1,23 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_6fb886a151cd19::t_baeeb657e18be7 173-180
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SidePanelHost.kt
+  s_6fb886a151cd19::t_80437f986787b8 5
+  s_6fb886a151cd19::t_b77df24bfb216f 61,76-80,82-83
+  s_6fb886a151cd19::t_29567e891e5dc1 228-234,238-239,252-254,258-259,261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9a8068cd9970302bbd10e3f47d071cb34632143b",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
