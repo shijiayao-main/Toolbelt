@@ -1,0 +1,21 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_ff4df34acd66f8::t_998e85d7a4d21f 67-68,82-85
+  s_ff4df34acd66f8::t_304de194955b6b 71-72,77-81
+  s_ff4df34acd66f8::t_a83d727c4981c5 24,30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "284e27b567571f527b4c5e9c294728ba46369a3c",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
