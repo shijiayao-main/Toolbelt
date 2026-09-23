@@ -1,0 +1,120 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_6fb886a151cd19::t_d1e1356d5c74d8 82
+  s_6fb886a151cd19::t_98d6505341f5f4 114
+  s_6fb886a151cd19::t_c33a93e8c7f53c 81,93-113,115-123,134
+  s_6fb886a151cd19::t_03ad97dddfb170 9,20,25
+  s_6fb886a151cd19::t_a6641b79c294fc 33-35
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_6fb886a151cd19::t_5f530f20f0ea3c 41-47
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_6fb886a151cd19::t_63bc84d2c804fb 39-42
+  s_6fb886a151cd19::t_a2feae12b79b04 46-55,67-68,72,86
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_6fb886a151cd19::t_8ce49c5d14c879 41,112
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceContributions.kt
+  s_6fb886a151cd19::t_0a95983f14ee4b 4,10-17,24-26
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHubTest.kt
+  s_6fb886a151cd19::t_eb3f1d25719eae 105-106
+  s_6fb886a151cd19::t_24d5f5ea46e9aa 165-220
+  s_6fb886a151cd19::t_1e21daf3416b38 5,9
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_6fb886a151cd19::t_c088acc54172b4 224-225,231,234,236
+  s_6fb886a151cd19::t_6a388bfb006b89 54,59-62
+  s_6fb886a151cd19::t_07896465fca128 104,106-108
+  s_6fb886a151cd19::t_26c95384b5e0ce 353-358,361-369,371-400
+  s_6fb886a151cd19::t_1e1a75e432f669 359-360,370
+  s_6fb886a151cd19::t_267519a4cd41b7 25-29,37-38
+  s_6fb886a151cd19::t_c8b11e24dcf385 198-199,202,204
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskPageTemplate.kt
+  s_6fb886a151cd19::t_ba339da8c79274 49-51,53-63,65-68,70-72,81-125
+  s_6fb886a151cd19::t_640ffa14922ee8 126-127
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_6fb886a151cd19::t_7e76b5f4ca45f3 33
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_6fb886a151cd19::t_17bd1024f6f8ac 105-106,108-139
+  s_6fb886a151cd19::t_1427ed962650ec 62-65,69-87,101-103
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_6fb886a151cd19::t_2b27d405ebb060 111,114-115,123-125,130-133,142-143,149-151,175
+  s_6fb886a151cd19::t_7aa51a89006f76 244-247
+  s_6fb886a151cd19::t_951b8d4051dab6 34-42,48-51,62-63,85
+  s_6fb886a151cd19::t_db068c430cdb2b 152-156,160,163,173
+  s_6fb886a151cd19::t_96915a7588d168 161-162,164-172
+  s_6fb886a151cd19::t_ef8d50aecc7ba2 157-159
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_6fb886a151cd19::t_cc4dd5028cd386 174-175,177,184,186
+  s_6fb886a151cd19::t_52c89017b0fda9 97-102
+  s_6fb886a151cd19::t_bb4c4a6a62ddb0 52
+  s_6fb886a151cd19::t_cb6559693990d0 48
+  s_6fb886a151cd19::t_f5f5ffcf2e00de 57-59
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHub.kt
+  s_6fb886a151cd19::t_ec5ccca900dad1 163
+  s_6fb886a151cd19::t_64bb63fd36ccd0 167-171
+  s_6fb886a151cd19::t_35dc55b8240010 28-29,31
+  s_6fb886a151cd19::t_ccbc96911049e8 143-144
+  s_6fb886a151cd19::t_db56ff9cd2f725 53-54,59-60
+  s_6fb886a151cd19::t_2d6701a1aeafa2 13
+  s_6fb886a151cd19::t_8ce49c5d14c879 62
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_6fb886a151cd19::t_3ec5b182a3458d 92-102,104-112,114-122,124-132,134-148,151-153
+  s_6fb886a151cd19::t_4a87359b51c46b 57-68,83-91
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_6fb886a151cd19::t_91e7d87dabfbde 42,46-52,56
+  s_6fb886a151cd19::t_d35ae55792e499 53-55
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowContributions.kt
+  s_6fb886a151cd19::t_4f1a8ac196cc06 15,18-19,24-25,41-42,44-48,50,54-56
+  s_6fb886a151cd19::t_40b0c50485ac83 16-17,20-23,43,49
+  s_6fb886a151cd19::t_99434a3c722b9e 27-29
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_6fb886a151cd19::t_c4b9802c1b5758 487-491,494,499-504
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_6fb886a151cd19::t_ca3357fcb7dd45 38
+  s_6fb886a151cd19::t_f3dc84e3068da8 75
+  s_6fb886a151cd19::t_95260f71923bb5 84-86,90
+  s_6fb886a151cd19::t_e330c3879326fb 73-74
+  s_6fb886a151cd19::t_b012e180532ee4 100-104
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModelOpenTabsTest.kt
+  s_6fb886a151cd19::t_bf761080cf4b09 173-186,195,214,226-231,235-236,239-243
+  s_6fb886a151cd19::t_21310779612f6e 1-172,187-194,196-213,215-225,232-234,237-238,244-246
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_6fb886a151cd19::t_c7cff45495a463 392
+  s_6fb886a151cd19::t_1978a386cfd389 292-294
+  s_6fb886a151cd19::t_7d2f1e8a40ebca 385
+  s_6fb886a151cd19::t_a2dcee5fb53441 383-384,391,393-396
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_6fb886a151cd19::t_dd979244f4d6ef 157
+  s_6fb886a151cd19::t_ecc673b8979bf6 152-156,158-160
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_6fb886a151cd19::t_088c39ec537f5b 30
+  s_6fb886a151cd19::t_3a24f47e5ca1c6 45-54
+  s_6fb886a151cd19::t_cbbd3c96a01fe2 148-153,155-164,166-167
+  s_6fb886a151cd19::t_b8b82dd7e2cdbe 44,207-210,213,223-233
+  s_6fb886a151cd19::t_7c07765cfe354b 234-236
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/agentcenter/AgentCenterPage.kt
+  s_6fb886a151cd19::t_9c1efb525d6ac7 9,24,30-31,41,46,48,54,56
+  s_6fb886a151cd19::t_82df395919a301 55,58-60
+  s_6fb886a151cd19::t_fa0b7fcc34f072 1-8,10-12,16-23,28-29,34-40,42-45,47,49-53,57,61-64
+  s_6fb886a151cd19::t_40df9f5f1a965f 13-15
+  s_6fb886a151cd19::t_0fd8f83b9fc2b6 25-27,32-33
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabsTest.kt
+  s_6fb886a151cd19::t_df977f5a71eb15 42
+  s_6fb886a151cd19::t_70421905f35d5c 9,11,13-15,19,25,27-28,31,38,40,44,47-57,60-68,70-71,74-80,83-94,110-130
+  s_6fb886a151cd19::t_a4f1c65bc47fb8 97-109
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiContributions.kt
+  s_6fb886a151cd19::t_b18bdb2e209875 21-31,55-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "936091727fff5d3e4107851426eed6da56aca340",
+  "prompts": {},
+  "sessions": {
+    "s_6fb886a151cd19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a6cd94e6-6036-4400-8b2d-6248e54768f2",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
