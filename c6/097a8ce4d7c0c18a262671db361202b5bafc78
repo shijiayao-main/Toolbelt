@@ -1,0 +1,46 @@
+docs/core/theme.md
+  s_ff4df34acd66f8::t_6748bc84e8c44d 350-394
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_a884c973a5c467 41-99
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_ff4df34acd66f8::t_f61e4be2b12c95 31-58
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_ff4df34acd66f8::t_0bf63bd08762a0 38-40,45
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_ff4df34acd66f8::t_dbde5ca84d08af 225-267
+  s_ff4df34acd66f8::t_a0030c716d02b2 749-757
+  s_ff4df34acd66f8::t_b2b6d27c534f7c 224
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  s_ff4df34acd66f8::t_9827e1fef169bd 77-87
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapesTest.kt
+  s_ff4df34acd66f8::t_1e96dc78e8f3fe 29-38
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_f61e4be2b12c95 104-119
+ui/build.gradle.kts
+  s_ff4df34acd66f8::t_bc1c3a38477d6a 20-24
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_ff4df34acd66f8::t_6bf40deb0f4d2d 1-125
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_1f567c67c0dc49 277-302
+gradle/libs.versions.toml
+  s_ff4df34acd66f8::t_9f887ac9375399 102-104
+  s_ff4df34acd66f8::t_79c1bf5ac9bc0b 46-50
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapes.kt
+  s_ff4df34acd66f8::t_0e6281f7e74719 22-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c6097a8ce4d7c0c18a262671db361202b5bafc78",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
