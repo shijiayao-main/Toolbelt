@@ -1,0 +1,32 @@
+docs/core/theme.md
+  s_ff4df34acd66f8::t_ee54ba6ac4e634 376
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_e16c52a315b077 120-132
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_ff4df34acd66f8::t_33b9cffe49a874 12
+  s_ff4df34acd66f8::t_95e747998f36dd 21,225,243
+  s_ff4df34acd66f8::t_92e86c15ec1e29 208,210-212
+  s_ff4df34acd66f8::t_a198659ad1506c 218-220,226-232
+  s_ff4df34acd66f8::t_148f57422b7815 252,254-257,269-277,279-287,289-344
+  s_ff4df34acd66f8::t_78e49bde1969c7 15,18,20
+  s_ff4df34acd66f8::t_0c3360c9109407 217,222,233-242,244-247
+  s_ff4df34acd66f8::t_e4b0ea6bce28e2 13,19
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_c4f07f4389f0f5 303-322
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c6d5aebe5865d4c56f9adb938ec8b9079794d781",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
