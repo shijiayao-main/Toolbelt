@@ -1,0 +1,60 @@
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_ff4df34acd66f8::t_1e6ff98dafec63 444-445
+  s_ff4df34acd66f8::t_4edde338b14afa 446
+  s_ff4df34acd66f8::t_0c53003aa8d07a 37
+  s_ff4df34acd66f8::t_6a0f751ae916f5 38
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppDialogDefaults.kt
+  s_ff4df34acd66f8::t_4645d69db2f9ee 1-37,39,52
+  s_ff4df34acd66f8::t_93f591183c7a33 38,40-51
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellCustomEditorDialog.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 43
+  s_ff4df34acd66f8::t_1e6ff98dafec63 178-179
+  s_ff4df34acd66f8::t_4edde338b14afa 180
+  s_ff4df34acd66f8::t_0c53003aa8d07a 42
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellToolsGroupDialogs.kt
+  s_ff4df34acd66f8::t_1e6ff98dafec63 61-62,117-118,186-187
+  s_ff4df34acd66f8::t_4edde338b14afa 63,119,188
+  s_ff4df34acd66f8::t_0c53003aa8d07a 32
+  s_ff4df34acd66f8::t_6a0f751ae916f5 33
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  s_ff4df34acd66f8::t_1e6ff98dafec63 98-99
+  s_ff4df34acd66f8::t_0c53003aa8d07a 39
+  s_ff4df34acd66f8::t_6a0f751ae916f5 40
+  s_ff4df34acd66f8::t_4edde338b14afa 100
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/RegisterAppDialog.kt
+  s_ff4df34acd66f8::t_4edde338b14afa 54
+  s_ff4df34acd66f8::t_0c53003aa8d07a 21
+  s_ff4df34acd66f8::t_1e6ff98dafec63 52-53
+  s_ff4df34acd66f8::t_6a0f751ae916f5 22
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 40
+  s_ff4df34acd66f8::t_1e6ff98dafec63 418-419,456-457
+  s_ff4df34acd66f8::t_6260d244973999 420,458
+  s_ff4df34acd66f8::t_0c53003aa8d07a 39
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppConfirmDialog.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 11
+  s_ff4df34acd66f8::t_1e6ff98dafec63 32-33
+  s_ff4df34acd66f8::t_0c53003aa8d07a 10
+  s_ff4df34acd66f8::t_00e1f6720adb43 34
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ColorPickerDialog.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 45
+  s_ff4df34acd66f8::t_1e6ff98dafec63 75-76
+  s_ff4df34acd66f8::t_4edde338b14afa 77
+  s_ff4df34acd66f8::t_0c53003aa8d07a 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "db8f2eb42901025b220b3b7b1921bfe0d24be8fa",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
