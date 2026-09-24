@@ -1,0 +1,52 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_ff4df34acd66f8::t_ba1360d0940b21 140-144
+  s_ff4df34acd66f8::t_1640e40e01ab48 75
+  s_ff4df34acd66f8::t_1cf4a6e1c62c94 98
+  s_ff4df34acd66f8::t_c79c827cc63e11 171
+  s_ff4df34acd66f8::t_b942bb559150ed 181
+  s_ff4df34acd66f8::t_18460d479903c2 195-197
+  s_ff4df34acd66f8::t_1058819457eff5 93-96,99-101,109,111
+  s_ff4df34acd66f8::t_5edf4da289377d 151
+  s_ff4df34acd66f8::t_568049b194be6a 161
+  s_ff4df34acd66f8::t_630847053858f1 18
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_ff4df34acd66f8::t_206862be6715bf 42-43,48-50,56-57,59
+docs/core/theme.md
+  s_ff4df34acd66f8::t_ec7d1e5bcbb2b6 372
+  s_ff4df34acd66f8::t_e0515204ffc521 361-363
+  s_ff4df34acd66f8::t_9c8034c6f9f8e7 378
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_ff4df34acd66f8::t_b199c2c6e4b72e 129-133,141-147
+  s_ff4df34acd66f8::t_fec90ea4f5fac4 19
+  s_ff4df34acd66f8::t_d6c13bdd613f18 38,40-48
+  s_ff4df34acd66f8::t_72818d90874a88 106-108
+  s_ff4df34acd66f8::t_03521476399003 110-111,113
+  s_ff4df34acd66f8::t_152690c6a79fb7 148
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/GlassColorTest.kt
+  s_ff4df34acd66f8::t_05001589e3c83e 117
+  s_ff4df34acd66f8::t_e611ec9af4ceb5 116
+  s_ff4df34acd66f8::t_0a84c5d90046ce 72-80
+  s_ff4df34acd66f8::t_347a71392458ba 1-71,81-112,114-115,118-120
+  s_ff4df34acd66f8::t_dbc65e4e24fb92 113
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_ff4df34acd66f8::t_23c88b4a2c69b8 46-47
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_98e15c9a0b1fae 95-99,104-105
+  s_ff4df34acd66f8::t_4825ed2f797c88 65-66,68-69,71-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f98c5d5ad81e2db57c6746fcf1a549d14266f0be",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
