@@ -1,0 +1,43 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_ff4df34acd66f8::t_500c42b00cc6df 26-27,30,34,37-38,59-60,71,77,90-93,187-189,191-199,202-206,208-240,246-251
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppTitleBar.kt
+  s_ff4df34acd66f8::t_5d42f776c0bb0a 1-237
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppWindowScope.kt
+  s_ff4df34acd66f8::t_c4268cd3fc9d1b 1-16
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/UndecoratedResizeOverlay.kt
+  s_ff4df34acd66f8::t_d770bd47b07498 1-165
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ff4df34acd66f8::t_d05cc5aec38700 6,25,29-33,146-148,152-157,172-186
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_d08fdad9e3d02a 89-96
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_ff4df34acd66f8::t_8a6e8adbbdb404 3-4,14-15,23-26,32,78-86,88
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_020cc7e695fafe 329-345
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_ff4df34acd66f8::t_c2c239905559b2 57-59
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_3cd2f8fafab71e 121-128
+docs/architecture.md
+  s_ff4df34acd66f8::t_c1e3def7023cfc 6-27,41-62,75-96,143-164,178-199,209-230,252-273,366-388,396-417
+docs/core/theme.md
+  s_ff4df34acd66f8::t_42ee0829a0da37 386,388,390-393,395
+docs/pages/navigation.md
+  s_ff4df34acd66f8::t_336b3253835f4c 58-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4f20abd3eab696d4e322f3e70c0e1ad47734cee9",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
