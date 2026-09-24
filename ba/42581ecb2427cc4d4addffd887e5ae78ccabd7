@@ -1,0 +1,26 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_ff4df34acd66f8::t_e90ceeef431933 164-165
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/OnboardingCard.kt
+  s_ff4df34acd66f8::t_c985b7355d5fe8 6
+  s_ff4df34acd66f8::t_268690e9807d11 67-70,77
+  s_ff4df34acd66f8::t_5afffec726ff53 91-92,94-113,118-142
+  s_ff4df34acd66f8::t_9fe91448fd067b 15
+  s_ff4df34acd66f8::t_5f75b6f4ae361f 31,38
+  s_ff4df34acd66f8::t_50c32e3a61c427 143-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ba42581ecb2427cc4d4addffd887e5ae78ccabd7",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
