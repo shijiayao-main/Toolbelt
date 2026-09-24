@@ -1,0 +1,21 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppTitleBar.kt
+  s_ff4df34acd66f8::t_16ca1a0d887377 35-36,103,107-112
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/UndecoratedResizeOverlay.kt
+  s_ff4df34acd66f8::t_a2d250430c8922 18-19,125,132-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "76d37079450c1d34c16a43dc512357d7c09c2cdb",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

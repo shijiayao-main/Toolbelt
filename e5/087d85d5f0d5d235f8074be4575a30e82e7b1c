@@ -1,0 +1,667 @@
+docs/core/theme.md
+  s_ff4df34acd66f8::t_6748bc84e8c44d 351-361,365-372,374-376,380-397
+  s_ff4df34acd66f8::t_ec7d1e5bcbb2b6 373
+  s_ff4df34acd66f8::t_e0515204ffc521 362-364
+  s_ff4df34acd66f8::t_9c8034c6f9f8e7 379
+  s_ff4df34acd66f8::t_ee5555d4c60dfe 378
+  s_ff4df34acd66f8::t_701358f2a8fc21 377
+  s_ff4df34acd66f8::t_249e245d8b9239 341
+  s_ff4df34acd66f8::t_ecb6f702aad9df 162
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_a884c973a5c467 44-67,73,79,82-97,103-106,109-111
+  s_ff4df34acd66f8::t_98e15c9a0b1fae 98-102,107-108
+  s_ff4df34acd66f8::t_4825ed2f797c88 68-69,71-72,74-81
+  s_ff4df34acd66f8::t_2795b3dd81893a 19-21
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_ff4df34acd66f8::t_f61e4be2b12c95 31-41,44-47,51-55,58,60-61
+  s_ff4df34acd66f8::t_206862be6715bf 42-43,48-50,56-57,59
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_ff4df34acd66f8::t_0bf63bd08762a0 38-40,45
+  s_ff4df34acd66f8::t_23c88b4a2c69b8 46-47
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_ff4df34acd66f8::t_dbde5ca84d08af 225-231,235-237,239-248,250-270
+  s_ff4df34acd66f8::t_a0030c716d02b2 763-771
+  s_ff4df34acd66f8::t_b2b6d27c534f7c 224
+  s_ff4df34acd66f8::t_cd0129c25ed875 232-234,238
+  s_ff4df34acd66f8::t_8a72c2fc56b03e 249
+  s_ff4df34acd66f8::t_dcabba8e94fd32 406-416
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  s_ff4df34acd66f8::t_9827e1fef169bd 77-87
+  s_ff4df34acd66f8::t_ca108a378e136d 88-90
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapesTest.kt
+  s_ff4df34acd66f8::t_1e96dc78e8f3fe 29-38
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_f61e4be2b12c95 104-119
+  s_ff4df34acd66f8::t_e16c52a315b077 120-132
+  s_ff4df34acd66f8::t_688fd1196c24ca 137-139,141-143
+  s_ff4df34acd66f8::t_6e5332ab1f7ae0 133-136,140,144-145
+  s_ff4df34acd66f8::t_9868ec64de6ba3 146-157,159,161-179
+  s_ff4df34acd66f8::t_2c28e657f622dc 158,160
+  s_ff4df34acd66f8::t_c9bbb8593d8ce5 180-190
+  s_ff4df34acd66f8::t_e383163e4af0d4 87
+ui/build.gradle.kts
+  s_ff4df34acd66f8::t_bc1c3a38477d6a 20-24
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_ff4df34acd66f8::t_6bf40deb0f4d2d 1-2,6-10,13-23,25-42,44,54-81,85-94,96-110,114,117,119-133,139-145
+  s_ff4df34acd66f8::t_877c86ffe768d9 82-84,95
+  s_ff4df34acd66f8::t_b199c2c6e4b72e 134-138,146-152
+  s_ff4df34acd66f8::t_fec90ea4f5fac4 24
+  s_ff4df34acd66f8::t_d6c13bdd613f18 43,45-53
+  s_ff4df34acd66f8::t_72818d90874a88 111-113
+  s_ff4df34acd66f8::t_03521476399003 115-116,118
+  s_ff4df34acd66f8::t_152690c6a79fb7 153
+  s_ff4df34acd66f8::t_104a97591fa484 12
+  s_ff4df34acd66f8::t_28daaf48f01b34 154-174
+  s_ff4df34acd66f8::t_1e7ffbf8eb9185 3-5,11
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_1f567c67c0dc49 302-322,331-335
+  s_ff4df34acd66f8::t_c4f07f4389f0f5 336-355
+  s_ff4df34acd66f8::t_2264c660f50891 324-327
+  s_ff4df34acd66f8::t_c9f41440a44b98 328-330
+  s_ff4df34acd66f8::t_9e64e99e294021 323
+  s_ff4df34acd66f8::t_a9cbb97ce65c72 368-373
+  s_ff4df34acd66f8::t_57a22b7cb0b907 356-367,374-387
+  s_ff4df34acd66f8::t_6fceebbf28f811 256-263
+  s_ff4df34acd66f8::t_956c6423a74a33 249-254
+  s_ff4df34acd66f8::t_76c21f72bd116a 255
+  s_ff4df34acd66f8::t_74dddd8d6ea3c2 265-276
+gradle/libs.versions.toml
+  s_ff4df34acd66f8::t_9f887ac9375399 102-104
+  s_ff4df34acd66f8::t_79c1bf5ac9bc0b 46-50
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapes.kt
+  s_ff4df34acd66f8::t_0e6281f7e74719 22-24,28-39
+  s_ff4df34acd66f8::t_e901f623d5dc3e 25-27
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_ff4df34acd66f8::t_90e2bae2df01f2 75-84
+  s_ff4df34acd66f8::t_020d4ba19b86f4 273-288
+  s_ff4df34acd66f8::t_36806a31ac967b 181-184
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_ff4df34acd66f8::t_89f1fe6ac053d4 78-80
+  s_ff4df34acd66f8::t_375c3787518e5b 41,44
+  s_ff4df34acd66f8::t_dc6cc0ee53f9c7 131-134,142
+  s_ff4df34acd66f8::t_ecb75080bcc917 135,141
+  s_ff4df34acd66f8::t_5748dc72ae8494 81-83
+  s_ff4df34acd66f8::t_606edc04918989 42,45
+  s_ff4df34acd66f8::t_934f43d88c926e 264-265
+  s_ff4df34acd66f8::t_85120f8ee379da 8-9,11
+  s_ff4df34acd66f8::t_0e2b40be259094 211,213
+  s_ff4df34acd66f8::t_5b256266eb0249 228
+  s_ff4df34acd66f8::t_1a5b995fda0735 33
+  s_ff4df34acd66f8::t_ff51c9e19415e7 48-50,52-54,57-59
+  s_ff4df34acd66f8::t_95205f4dd2fa5a 43
+  s_ff4df34acd66f8::t_8544603347b640 136-140,143,160-164,165-174,177-203,205-207,212,214-218,221-227,229-240
+  s_ff4df34acd66f8::t_2b65923c73335f 252-253
+  s_ff4df34acd66f8::t_3455169dcf8cc1 244-245
+  s_ff4df34acd66f8::t_e90ceeef431933 175-176
+  s_ff4df34acd66f8::t_3126f68636b7f2 144-159
+  s_ff4df34acd66f8::t_d4ccd4f7cb0f55 26,30
+  s_ff4df34acd66f8::t_e1875cb2a7c19d 204
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_ff4df34acd66f8::t_4b867fc88da127 8
+  s_ff4df34acd66f8::t_dfa192e19e2bee 123-124,126-133,136,138-144,147,207
+  s_ff4df34acd66f8::t_13bbaec4d3b34f 1-2,4-5,7,10-11,14,17-18,24-25,27-42,44-47,49-53,55-58,60,62-66,68,70-74,76,78-82,84,86-90,118,120-122,125,134-135,137,145-146,153,155,163-165,173-175,183,185,193-194,201-202,206,208,210,214-217,222,251-252,289,295-298,300-304,392-394
+  s_ff4df34acd66f8::t_b5a3f77336a58c 3,6,9,23,43,54,59,61,67,69,75,77,85,91-93,105,111-112,156,166,176,186,195-196,198-200,224-225,249-250,294,299
+  s_ff4df34acd66f8::t_8f5af97b2040f5 48
+  s_ff4df34acd66f8::t_99079190d8a085 94,110,113
+  s_ff4df34acd66f8::t_fe6467a96a589a 95-100,114-116
+  s_ff4df34acd66f8::t_1a95c7658275c3 154,157-158,160-162,167-168,170-172,177-178,180-182,184,187-188,190-192,197
+  s_ff4df34acd66f8::t_ba1360d0940b21 148-152
+  s_ff4df34acd66f8::t_1640e40e01ab48 83
+  s_ff4df34acd66f8::t_1cf4a6e1c62c94 106
+  s_ff4df34acd66f8::t_c79c827cc63e11 179
+  s_ff4df34acd66f8::t_b942bb559150ed 189
+  s_ff4df34acd66f8::t_18460d479903c2 203-205
+  s_ff4df34acd66f8::t_1058819457eff5 101-104,107-109,117,119
+  s_ff4df34acd66f8::t_5edf4da289377d 159
+  s_ff4df34acd66f8::t_568049b194be6a 169
+  s_ff4df34acd66f8::t_630847053858f1 26
+  s_ff4df34acd66f8::t_33b9cffe49a874 12
+  s_ff4df34acd66f8::t_95e747998f36dd 22,226,244
+  s_ff4df34acd66f8::t_92e86c15ec1e29 209,211-213
+  s_ff4df34acd66f8::t_a198659ad1506c 219-221,227-233
+  s_ff4df34acd66f8::t_148f57422b7815 288,290-293,305-308,313,319-320,323,326,333-334,337,340-391
+  s_ff4df34acd66f8::t_78e49bde1969c7 16,19,21
+  s_ff4df34acd66f8::t_0c3360c9109407 218,223,234-243,245-248
+  s_ff4df34acd66f8::t_e4b0ea6bce28e2 13,20
+  s_ff4df34acd66f8::t_779040edbce542 253-286
+  s_ff4df34acd66f8::t_a78996995b54ee 252
+  s_ff4df34acd66f8::t_a5ff68bcd18bf0 15
+  s_ff4df34acd66f8::t_e26048e93dae81 309-312,314-318,321-322,324-325,327-332,335-336,338-339
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManager.kt
+  s_ff4df34acd66f8::t_dac1afaf29e23f 44-48
+  s_ff4df34acd66f8::t_12df8c9cb11cc8 85-91
+  s_ff4df34acd66f8::t_ddb687cc76bc5c 84
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_ff4df34acd66f8::t_b8c96f326f3af5 57-59
+  s_ff4df34acd66f8::t_540419db7cefba 91-121
+  s_ff4df34acd66f8::t_36d8d74cf49bb7 46
+  s_ff4df34acd66f8::t_9d872063fc9831 248-253,260-277
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_ff4df34acd66f8::t_bac6a1cbfa64af 164-166
+  s_ff4df34acd66f8::t_c439f676c9a757 46
+  s_ff4df34acd66f8::t_16685f33c82575 96
+  s_ff4df34acd66f8::t_cf669f541342a3 85-86
+  s_ff4df34acd66f8::t_a7abae4193d99f 88-90,93-95,98-99,102
+  s_ff4df34acd66f8::t_1fabd6acd97e18 104-107
+  s_ff4df34acd66f8::t_dde9fd67573add 11-12
+  s_ff4df34acd66f8::t_f72e8c65bc1ea8 91-92,97
+  s_ff4df34acd66f8::t_e1bb3e13e6f02d 35,39
+  s_ff4df34acd66f8::t_2a80a2e8a1ce36 7-8
+  s_ff4df34acd66f8::t_dabd01964f5437 295-306
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  s_ff4df34acd66f8::t_074877266b409c 68-70,79-80,82-86,90-97,102,104-108,110-116
+  s_ff4df34acd66f8::t_9244eafe003712 99,109
+  s_ff4df34acd66f8::t_bf519953d728a3 30,39
+  s_ff4df34acd66f8::t_42734faeb7e7fe 87-89
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_ff4df34acd66f8::t_998e85d7a4d21f 69-70
+  s_ff4df34acd66f8::t_a83d727c4981c5 22,28
+  s_ff4df34acd66f8::t_3fe6cb2fdfd06a 52-57,60,72-96
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SidePanelHost.kt
+  s_ff4df34acd66f8::t_2ddcf4ae965ef5 53-54,56-58,65,84-86,103-104
+  s_ff4df34acd66f8::t_f4cb581e8cd656 41-42
+  s_ff4df34acd66f8::t_b0c0dd0870202e 76-79
+  s_ff4df34acd66f8::t_70a63afc65d6e5 73-75
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/GlassColorTest.kt
+  s_ff4df34acd66f8::t_05001589e3c83e 117
+  s_ff4df34acd66f8::t_e611ec9af4ceb5 116
+  s_ff4df34acd66f8::t_0a84c5d90046ce 72-80
+  s_ff4df34acd66f8::t_347a71392458ba 1-71,81-112,114-115,118-120
+  s_ff4df34acd66f8::t_dbc65e4e24fb92 113
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ff4df34acd66f8::t_618cdec43fdfda 74-75
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_ff4df34acd66f8::t_fefa61b076299f 5,10,34,37,41,56
+  s_ff4df34acd66f8::t_3698a95fdee974 264,279-299,301-302,304,306-311
+  s_ff4df34acd66f8::t_c259f2f0861e88 265-271,278,344-356
+  s_ff4df34acd66f8::t_b62a72cbda6bb2 566
+  s_ff4df34acd66f8::t_ac23c008b8ab47 65-76,116
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/StatusHost.kt
+  s_ff4df34acd66f8::t_e635cc321f0120 57-59,62
+  s_ff4df34acd66f8::t_9aa7b807017664 37
+  s_ff4df34acd66f8::t_0c9e4e9582f868 99,108,114,116-120
+  s_ff4df34acd66f8::t_aeabe85b4440e7 89-98,100-107,109-113,115,121-130,132-155,157-159,161-166
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_ff4df34acd66f8::t_1e6ff98dafec63 444-445
+  s_ff4df34acd66f8::t_4edde338b14afa 446
+  s_ff4df34acd66f8::t_0c53003aa8d07a 37
+  s_ff4df34acd66f8::t_6a0f751ae916f5 38
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppDialogDefaults.kt
+  s_ff4df34acd66f8::t_4645d69db2f9ee 1-37,39,52
+  s_ff4df34acd66f8::t_93f591183c7a33 38,40-51
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellCustomEditorDialog.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 43
+  s_ff4df34acd66f8::t_1e6ff98dafec63 178-179
+  s_ff4df34acd66f8::t_4edde338b14afa 180
+  s_ff4df34acd66f8::t_0c53003aa8d07a 42
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellToolsGroupDialogs.kt
+  s_ff4df34acd66f8::t_1e6ff98dafec63 61-62,117-118,186-187
+  s_ff4df34acd66f8::t_4edde338b14afa 63,119,188
+  s_ff4df34acd66f8::t_0c53003aa8d07a 32
+  s_ff4df34acd66f8::t_6a0f751ae916f5 33
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  s_ff4df34acd66f8::t_1e6ff98dafec63 98-99
+  s_ff4df34acd66f8::t_0c53003aa8d07a 39
+  s_ff4df34acd66f8::t_6a0f751ae916f5 40
+  s_ff4df34acd66f8::t_4edde338b14afa 100
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/RegisterAppDialog.kt
+  s_ff4df34acd66f8::t_4edde338b14afa 54
+  s_ff4df34acd66f8::t_0c53003aa8d07a 21
+  s_ff4df34acd66f8::t_1e6ff98dafec63 52-53
+  s_ff4df34acd66f8::t_6a0f751ae916f5 22
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 40
+  s_ff4df34acd66f8::t_1e6ff98dafec63 418-419,456-457
+  s_ff4df34acd66f8::t_6260d244973999 420,458
+  s_ff4df34acd66f8::t_0c53003aa8d07a 39
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppConfirmDialog.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 11
+  s_ff4df34acd66f8::t_1e6ff98dafec63 32-33
+  s_ff4df34acd66f8::t_0c53003aa8d07a 10
+  s_ff4df34acd66f8::t_00e1f6720adb43 34
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ColorPickerDialog.kt
+  s_ff4df34acd66f8::t_6a0f751ae916f5 45
+  s_ff4df34acd66f8::t_1e6ff98dafec63 75-76
+  s_ff4df34acd66f8::t_4edde338b14afa 77
+  s_ff4df34acd66f8::t_0c53003aa8d07a 44
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/OnboardingCard.kt
+  s_ff4df34acd66f8::t_c985b7355d5fe8 6
+  s_ff4df34acd66f8::t_268690e9807d11 67-70,77
+  s_ff4df34acd66f8::t_5afffec726ff53 91-92,94-113,118-142
+  s_ff4df34acd66f8::t_9fe91448fd067b 15
+  s_ff4df34acd66f8::t_5f75b6f4ae361f 31,38
+  s_ff4df34acd66f8::t_50c32e3a61c427 143-145
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PageScaffold.kt
+  s_ff4df34acd66f8::t_66739026720bcc 85-90,92,97
+  s_ff4df34acd66f8::t_28041d0bf8827a 19,22
+  s_ff4df34acd66f8::t_877bf971219433 6,91
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SegmentedControl.kt
+  s_ff4df34acd66f8::t_db6f39c47202a0 45
+  s_ff4df34acd66f8::t_ec240d4efa5f05 61
+  s_ff4df34acd66f8::t_df811b253dc567 1-44,46-60,62-84
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_ff4df34acd66f8::t_1308f2059f8892 120-126
+  s_ff4df34acd66f8::t_0defc406b424c3 37
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_ff4df34acd66f8::t_6b28e6877d8c4e 111-113,119-122
+  s_ff4df34acd66f8::t_d3aa43137a274d 44
+.agents/skills/banner-design/SKILL.md
+  h_7dc1bf3887130d 1-196
+.agents/skills/banner-design/references/banner-sizes-and-styles.md
+  h_7dc1bf3887130d 1-118
+.agents/skills/brand/SKILL.md
+  h_7dc1bf3887130d 1-97
+.agents/skills/brand/references/approval-checklist.md
+  h_7dc1bf3887130d 1-169
+.agents/skills/brand/references/asset-organization.md
+  h_7dc1bf3887130d 1-157
+.agents/skills/brand/references/brand-guideline-template.md
+  h_7dc1bf3887130d 1-140
+.agents/skills/brand/references/color-palette-management.md
+  h_7dc1bf3887130d 1-186
+.agents/skills/brand/references/consistency-checklist.md
+  h_7dc1bf3887130d 1-94
+.agents/skills/brand/references/logo-usage-rules.md
+  h_7dc1bf3887130d 1-185
+.agents/skills/brand/references/messaging-framework.md
+  h_7dc1bf3887130d 1-85
+.agents/skills/brand/references/typography-specifications.md
+  h_7dc1bf3887130d 1-214
+.agents/skills/brand/references/update.md
+  h_7dc1bf3887130d 1-118
+.agents/skills/brand/references/visual-identity.md
+  h_7dc1bf3887130d 1-96
+.agents/skills/brand/references/voice-framework.md
+  h_7dc1bf3887130d 1-88
+.agents/skills/brand/scripts/extract-colors.cjs
+  h_7dc1bf3887130d 1-341
+.agents/skills/brand/scripts/inject-brand-context.cjs
+  h_7dc1bf3887130d 1-349
+.agents/skills/brand/scripts/sync-brand-to-tokens.cjs
+  h_7dc1bf3887130d 1-248
+.agents/skills/brand/scripts/tests/test_sync_brand_to_tokens.py
+  h_7dc1bf3887130d 1-52
+.agents/skills/brand/scripts/validate-asset.cjs
+  h_7dc1bf3887130d 1-387
+.agents/skills/brand/templates/brand-guidelines-starter.md
+  h_7dc1bf3887130d 1-275
+.agents/skills/design-system/SKILL.md
+  h_7dc1bf3887130d 1-244
+.agents/skills/design-system/data/slide-backgrounds.csv
+  h_7dc1bf3887130d 1-11
+.agents/skills/design-system/data/slide-charts.csv
+  h_7dc1bf3887130d 1-26
+.agents/skills/design-system/data/slide-color-logic.csv
+  h_7dc1bf3887130d 1-14
+.agents/skills/design-system/data/slide-copy.csv
+  h_7dc1bf3887130d 1-26
+.agents/skills/design-system/data/slide-layout-logic.csv
+  h_7dc1bf3887130d 1-16
+.agents/skills/design-system/data/slide-layouts.csv
+  h_7dc1bf3887130d 1-26
+.agents/skills/design-system/data/slide-strategies.csv
+  h_7dc1bf3887130d 1-16
+.agents/skills/design-system/data/slide-typography.csv
+  h_7dc1bf3887130d 1-15
+.agents/skills/design-system/references/component-specs.md
+  h_7dc1bf3887130d 1-236
+.agents/skills/design-system/references/component-tokens.md
+  h_7dc1bf3887130d 1-214
+.agents/skills/design-system/references/primitive-tokens.md
+  h_7dc1bf3887130d 1-203
+.agents/skills/design-system/references/semantic-tokens.md
+  h_7dc1bf3887130d 1-215
+.agents/skills/design-system/references/states-and-variants.md
+  h_7dc1bf3887130d 1-241
+.agents/skills/design-system/references/tailwind-integration.md
+  h_7dc1bf3887130d 1-251
+.agents/skills/design-system/references/token-architecture.md
+  h_7dc1bf3887130d 1-224
+.agents/skills/design-system/scripts/embed-tokens.cjs
+  h_7dc1bf3887130d 1-99
+.agents/skills/design-system/scripts/fetch-background.py
+  h_7dc1bf3887130d 1-317
+.agents/skills/design-system/scripts/generate-slide.py
+  h_7dc1bf3887130d 1-770
+.agents/skills/design-system/scripts/generate-tokens.cjs
+  h_7dc1bf3887130d 1-205
+.agents/skills/design-system/scripts/html-token-validator.py
+  h_7dc1bf3887130d 1-327
+.agents/skills/design-system/scripts/search-slides.py
+  h_7dc1bf3887130d 1-218
+.agents/skills/design-system/scripts/slide-token-validator.py
+  h_7dc1bf3887130d 1-35
+.agents/skills/design-system/scripts/slide_search_core.py
+  h_7dc1bf3887130d 1-453
+.agents/skills/design-system/scripts/tests/test_validate_tokens.py
+  h_7dc1bf3887130d 1-48
+.agents/skills/design-system/scripts/validate-tokens.cjs
+  h_7dc1bf3887130d 1-246
+.agents/skills/design-system/templates/design-tokens-starter.json
+  h_7dc1bf3887130d 1-143
+.agents/skills/design/SKILL.md
+  h_7dc1bf3887130d 1-313
+.agents/skills/design/data/cip/deliverables.csv
+  h_7dc1bf3887130d 1-51
+.agents/skills/design/data/cip/industries.csv
+  h_7dc1bf3887130d 1-21
+.agents/skills/design/data/cip/mockup-contexts.csv
+  h_7dc1bf3887130d 1-21
+.agents/skills/design/data/cip/styles.csv
+  h_7dc1bf3887130d 1-21
+.agents/skills/design/data/icon/styles.csv
+  h_7dc1bf3887130d 1-16
+.agents/skills/design/data/logo/colors.csv
+  h_7dc1bf3887130d 1-56
+.agents/skills/design/data/logo/industries.csv
+  h_7dc1bf3887130d 1-56
+.agents/skills/design/data/logo/styles.csv
+  h_7dc1bf3887130d 1-56
+.agents/skills/design/references/banner-sizes-and-styles.md
+  h_7dc1bf3887130d 1-118
+.agents/skills/design/references/cip-deliverable-guide.md
+  h_7dc1bf3887130d 1-95
+.agents/skills/design/references/cip-design.md
+  h_7dc1bf3887130d 1-121
+.agents/skills/design/references/cip-prompt-engineering.md
+  h_7dc1bf3887130d 1-84
+.agents/skills/design/references/cip-style-guide.md
+  h_7dc1bf3887130d 1-68
+.agents/skills/design/references/design-routing.md
+  h_7dc1bf3887130d 1-207
+.agents/skills/design/references/icon-design.md
+  h_7dc1bf3887130d 1-122
+.agents/skills/design/references/logo-color-psychology.md
+  h_7dc1bf3887130d 1-101
+.agents/skills/design/references/logo-design.md
+  h_7dc1bf3887130d 1-92
+.agents/skills/design/references/logo-prompt-engineering.md
+  h_7dc1bf3887130d 1-158
+.agents/skills/design/references/logo-style-guide.md
+  h_7dc1bf3887130d 1-109
+.agents/skills/design/references/slides-copywriting-formulas.md
+  h_7dc1bf3887130d 1-84
+.agents/skills/design/references/slides-create.md
+  h_7dc1bf3887130d 1-4
+.agents/skills/design/references/slides-html-template.md
+  h_7dc1bf3887130d 1-295
+.agents/skills/design/references/slides-layout-patterns.md
+  h_7dc1bf3887130d 1-137
+.agents/skills/design/references/slides-strategies.md
+  h_7dc1bf3887130d 1-94
+.agents/skills/design/references/slides.md
+  h_7dc1bf3887130d 1-42
+.agents/skills/design/references/social-photos-design.md
+  h_7dc1bf3887130d 1-329
+.agents/skills/design/scripts/cip/core.py
+  h_7dc1bf3887130d 1-215
+.agents/skills/design/scripts/cip/generate.py
+  h_7dc1bf3887130d 1-484
+.agents/skills/design/scripts/cip/render-html.py
+  h_7dc1bf3887130d 1-424
+.agents/skills/design/scripts/cip/search.py
+  h_7dc1bf3887130d 1-127
+.agents/skills/design/scripts/icon/generate.py
+  h_7dc1bf3887130d 1-487
+.agents/skills/design/scripts/logo/core.py
+  h_7dc1bf3887130d 1-175
+.agents/skills/design/scripts/logo/generate.py
+  h_7dc1bf3887130d 1-362
+.agents/skills/design/scripts/logo/search.py
+  h_7dc1bf3887130d 1-114
+.agents/skills/slides/SKILL.md
+  h_7dc1bf3887130d 1-40
+.agents/skills/slides/references/copywriting-formulas.md
+  h_7dc1bf3887130d 1-84
+.agents/skills/slides/references/create.md
+  h_7dc1bf3887130d 1-4
+.agents/skills/slides/references/html-template.md
+  h_7dc1bf3887130d 1-295
+.agents/skills/slides/references/layout-patterns.md
+  h_7dc1bf3887130d 1-137
+.agents/skills/slides/references/slide-strategies.md
+  h_7dc1bf3887130d 1-94
+.agents/skills/ui-styling/LICENSE.txt
+  h_7dc1bf3887130d 1-202
+.agents/skills/ui-styling/SKILL.md
+  h_7dc1bf3887130d 1-324
+.agents/skills/ui-styling/references/canvas-design-system.md
+  h_7dc1bf3887130d 1-320
+.agents/skills/ui-styling/references/shadcn-accessibility.md
+  h_7dc1bf3887130d 1-471
+.agents/skills/ui-styling/references/shadcn-components.md
+  h_7dc1bf3887130d 1-424
+.agents/skills/ui-styling/references/shadcn-theming.md
+  h_7dc1bf3887130d 1-373
+.agents/skills/ui-styling/references/tailwind-customization.md
+  h_7dc1bf3887130d 1-483
+.agents/skills/ui-styling/references/tailwind-responsive.md
+  h_7dc1bf3887130d 1-382
+.agents/skills/ui-styling/references/tailwind-utilities.md
+  h_7dc1bf3887130d 1-455
+.agents/skills/ui-styling/scripts/requirements.txt
+  h_7dc1bf3887130d 1-17
+.agents/skills/ui-styling/scripts/shadcn_add.py
+  h_7dc1bf3887130d 1-308
+.agents/skills/ui-styling/scripts/tailwind_config_gen.py
+  h_7dc1bf3887130d 1-473
+.agents/skills/ui-styling/scripts/tests/coverage-ui.json
+  h_7dc1bf3887130d 1
+.agents/skills/ui-styling/scripts/tests/requirements.txt
+  h_7dc1bf3887130d 1-3
+.agents/skills/ui-styling/scripts/tests/test_shadcn_add.py
+  h_7dc1bf3887130d 1-266
+.agents/skills/ui-styling/scripts/tests/test_tailwind_config_gen.py
+  h_7dc1bf3887130d 1-394
+.agents/skills/ui-ux-pro-max/SKILL.md
+  h_7dc1bf3887130d 1-739
+.agents/skills/ui-ux-pro-max/data/app-interface.csv
+  h_7dc1bf3887130d 1-33
+.agents/skills/ui-ux-pro-max/data/catalog-summary.json
+  h_7dc1bf3887130d 1-78
+.agents/skills/ui-ux-pro-max/data/charts.csv
+  h_7dc1bf3887130d 1-26
+.agents/skills/ui-ux-pro-max/data/colors.csv
+  h_7dc1bf3887130d 1-193
+.agents/skills/ui-ux-pro-max/data/data-provenance.json
+  h_7dc1bf3887130d 1-1348
+.agents/skills/ui-ux-pro-max/data/google-font-licenses.json
+  h_7dc1bf3887130d 1-20185
+.agents/skills/ui-ux-pro-max/data/google-fonts.csv
+  h_7dc1bf3887130d 1-1935
+.agents/skills/ui-ux-pro-max/data/icons.csv
+  h_7dc1bf3887130d 1-106
+.agents/skills/ui-ux-pro-max/data/landing.csv
+  h_7dc1bf3887130d 1-35
+.agents/skills/ui-ux-pro-max/data/motion.csv
+  h_7dc1bf3887130d 1-18
+.agents/skills/ui-ux-pro-max/data/phosphor-icons-upstream.json
+  h_7dc1bf3887130d 1-32582
+.agents/skills/ui-ux-pro-max/data/products.csv
+  h_7dc1bf3887130d 1-193
+.agents/skills/ui-ux-pro-max/data/react-performance.csv
+  h_7dc1bf3887130d 1-45
+.agents/skills/ui-ux-pro-max/data/stacks/angular.csv
+  h_7dc1bf3887130d 1-51
+.agents/skills/ui-ux-pro-max/data/stacks/astro.csv
+  h_7dc1bf3887130d 1-54
+.agents/skills/ui-ux-pro-max/data/stacks/avalonia.csv
+  h_7dc1bf3887130d 1-57
+.agents/skills/ui-ux-pro-max/data/stacks/flutter.csv
+  h_7dc1bf3887130d 1-53
+.agents/skills/ui-ux-pro-max/data/stacks/html-tailwind.csv
+  h_7dc1bf3887130d 1-60
+.agents/skills/ui-ux-pro-max/data/stacks/javafx.csv
+  h_7dc1bf3887130d 1-76
+.agents/skills/ui-ux-pro-max/data/stacks/jetpack-compose.csv
+  h_7dc1bf3887130d 1-53
+.agents/skills/ui-ux-pro-max/data/stacks/laravel.csv
+  h_7dc1bf3887130d 1-51
+.agents/skills/ui-ux-pro-max/data/stacks/nextjs.csv
+  h_7dc1bf3887130d 1-62
+.agents/skills/ui-ux-pro-max/data/stacks/nuxt-ui.csv
+  h_7dc1bf3887130d 1-71
+.agents/skills/ui-ux-pro-max/data/stacks/nuxtjs.csv
+  h_7dc1bf3887130d 1-68
+.agents/skills/ui-ux-pro-max/data/stacks/react-native.csv
+  h_7dc1bf3887130d 1-52
+.agents/skills/ui-ux-pro-max/data/stacks/react.csv
+  h_7dc1bf3887130d 1-62
+.agents/skills/ui-ux-pro-max/data/stacks/shadcn.csv
+  h_7dc1bf3887130d 1-69
+.agents/skills/ui-ux-pro-max/data/stacks/svelte.csv
+  h_7dc1bf3887130d 1-56
+.agents/skills/ui-ux-pro-max/data/stacks/swiftui.csv
+  h_7dc1bf3887130d 1-51
+.agents/skills/ui-ux-pro-max/data/stacks/threejs.csv
+  h_7dc1bf3887130d 1-54
+.agents/skills/ui-ux-pro-max/data/stacks/uno.csv
+  h_7dc1bf3887130d 1-60
+.agents/skills/ui-ux-pro-max/data/stacks/uwp.csv
+  h_7dc1bf3887130d 1-56
+.agents/skills/ui-ux-pro-max/data/stacks/vue.csv
+  h_7dc1bf3887130d 1-50
+.agents/skills/ui-ux-pro-max/data/stacks/winui.csv
+  h_7dc1bf3887130d 1-60
+.agents/skills/ui-ux-pro-max/data/stacks/wpf.csv
+  h_7dc1bf3887130d 1-57
+.agents/skills/ui-ux-pro-max/data/styles.csv
+  h_7dc1bf3887130d 1-89
+.agents/skills/ui-ux-pro-max/data/typography.csv
+  h_7dc1bf3887130d 1-75
+.agents/skills/ui-ux-pro-max/data/ui-reasoning.csv
+  h_7dc1bf3887130d 1-193
+.agents/skills/ui-ux-pro-max/data/ux-guidelines.csv
+  h_7dc1bf3887130d 1-120
+.agents/skills/ui-ux-pro-max/scripts/core.py
+  h_7dc1bf3887130d 1-993
+.agents/skills/ui-ux-pro-max/scripts/design_system.py
+  h_7dc1bf3887130d 1-1643
+.agents/skills/ui-ux-pro-max/scripts/reasoning_contract.py
+  h_7dc1bf3887130d 1-123
+.agents/skills/ui-ux-pro-max/scripts/search.py
+  h_7dc1bf3887130d 1-171
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/google-api.json
+  h_7dc1bf3887130d 1-36
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/google-catalog.json
+  h_7dc1bf3887130d 1-33
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/google-existing.csv
+  h_7dc1bf3887130d 1-3
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/google-metadata.json
+  h_7dc1bf3887130d 1-17
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/google-overrides.json
+  h_7dc1bf3887130d 1-7
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/icons-curated.csv
+  h_7dc1bf3887130d 1-4
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/phosphor-core.json
+  h_7dc1bf3887130d 1-23
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/phosphor-package.json
+  h_7dc1bf3887130d 1-13
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/phosphor-react-exports.json
+  h_7dc1bf3887130d 1-4
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/catalogs/phosphor-react-package.json
+  h_7dc1bf3887130d 1-5
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/relevance-baseline.json
+  h_7dc1bf3887130d 1-3366
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/relevance-cases.json
+  h_7dc1bf3887130d 1-111
+.agents/skills/ui-ux-pro-max/scripts/tests/fixtures/relevance-thresholds.json
+  h_7dc1bf3887130d 1-100
+.agents/skills/ui-ux-pro-max/scripts/tests/test_catalog_refresh.py
+  h_7dc1bf3887130d 1-354
+.agents/skills/ui-ux-pro-max/scripts/tests/test_core.py
+  h_7dc1bf3887130d 1-343
+.agents/skills/ui-ux-pro-max/scripts/tests/test_core_data_quality.py
+  h_7dc1bf3887130d 1-198
+.agents/skills/ui-ux-pro-max/scripts/tests/test_data_contracts.py
+  h_7dc1bf3887130d 1-421
+.agents/skills/ui-ux-pro-max/scripts/tests/test_design_system_mode.py
+  h_7dc1bf3887130d 1-189
+.agents/skills/ui-ux-pro-max/scripts/tests/test_native_desktop_stack_freshness.py
+  h_7dc1bf3887130d 1-176
+.agents/skills/ui-ux-pro-max/scripts/tests/test_relevance_evaluator.py
+  h_7dc1bf3887130d 1-182
+.agents/skills/ui-ux-pro-max/scripts/tests/test_style_taxonomy.py
+  h_7dc1bf3887130d 1-175
+.agents/skills/ui-ux-pro-max/scripts/tests/test_text_layout_resilience.py
+  h_7dc1bf3887130d 1-120
+.agents/skills/ui-ux-pro-max/scripts/tests/test_web_stack_freshness.py
+  h_7dc1bf3887130d 1-177
+.agents/skills/ui-ux-pro-max/scripts/validate_data.py
+  h_7dc1bf3887130d 1-1091
+.claude/commands/opsx/archive.md
+  h_7dc1bf3887130d 85-98,105
+.claude/commands/opsx/explore.md
+  h_7dc1bf3887130d 135
+.claude/skills/openspec-apply-change/SKILL.md
+  h_7dc1bf3887130d 10
+.claude/skills/openspec-archive-change/SKILL.md
+  h_7dc1bf3887130d 10,89-102,109
+.claude/skills/openspec-explore/SKILL.md
+  h_7dc1bf3887130d 10,132
+.claude/skills/openspec-propose/SKILL.md
+  h_7dc1bf3887130d 10
+.claude/skills/openspec-sync-specs/SKILL.md
+  h_7dc1bf3887130d 10
+.github/prompts/opsx-archive.prompt.md
+  h_7dc1bf3887130d 81-94,101
+.github/prompts/opsx-explore.prompt.md
+  h_7dc1bf3887130d 131
+.github/skills/openspec-apply-change/SKILL.md
+  h_7dc1bf3887130d 10
+.github/skills/openspec-archive-change/SKILL.md
+  h_7dc1bf3887130d 10,89-102,109
+.github/skills/openspec-explore/SKILL.md
+  h_7dc1bf3887130d 10,132
+.github/skills/openspec-propose/SKILL.md
+  h_7dc1bf3887130d 10
+.github/skills/openspec-sync-specs/SKILL.md
+  h_7dc1bf3887130d 10
+.qoder/commands/opsx/archive.md
+  h_7dc1bf3887130d 84-97,104
+.qoder/commands/opsx/explore.md
+  h_7dc1bf3887130d 134
+.qoder/skills/openspec-apply-change/SKILL.md
+  h_7dc1bf3887130d 10
+.qoder/skills/openspec-archive-change/SKILL.md
+  h_7dc1bf3887130d 10,89-102,109
+.qoder/skills/openspec-explore/SKILL.md
+  h_7dc1bf3887130d 10,132
+.qoder/skills/openspec-propose/SKILL.md
+  h_7dc1bf3887130d 10
+.zcode/commands/opsx/apply.md
+  h_7dc1bf3887130d 1-197
+.zcode/commands/opsx/archive.md
+  h_7dc1bf3887130d 1-252
+.zcode/commands/opsx/explore.md
+  h_7dc1bf3887130d 1-238
+.zcode/commands/opsx/propose.md
+  h_7dc1bf3887130d 1-169
+.zcode/commands/opsx/sync.md
+  h_7dc1bf3887130d 1-285
+.zcode/skills
+  h_7dc1bf3887130d 1
+AGENTS.md
+  h_7dc1bf3887130d 60-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e5087d85d5f0d5d235f8074be4575a30e82e7b1c",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

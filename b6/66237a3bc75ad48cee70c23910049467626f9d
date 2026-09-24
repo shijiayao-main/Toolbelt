@@ -1,0 +1,39 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_ff4df34acd66f8::t_cfd909e8bfbf09 26-27,33,36-37,57-58,69,75,88-91,185-187,189-197,200-204,206-238,244-249
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppTitleBar.kt
+  s_ff4df34acd66f8::t_d1869782fdcead 1-231
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppWindowScope.kt
+  s_ff4df34acd66f8::t_b9904b578ac29b 1-16
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/UndecoratedResizeOverlay.kt
+  s_ff4df34acd66f8::t_2b21d847b7c665 1-157
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ff4df34acd66f8::t_0fc5a78201cd3e 6,26,134-136,140-144,159-172
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_a43389ec382dba 89-96
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_ff4df34acd66f8::t_ac66c4732d986d 3-4,14-15,23-26,32,78-86,88
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_0104c5d5a59591 329-345
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_ff4df34acd66f8::t_442c5d71f56208 57-59
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_5644fe3aab7f63 121-128
+docs/core/theme.md
+  s_ff4df34acd66f8::t_0c74b43435b027 207-210,384-388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b666237a3bc75ad48cee70c23910049467626f9d",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

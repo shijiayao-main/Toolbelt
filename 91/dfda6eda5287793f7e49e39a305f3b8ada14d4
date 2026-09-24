@@ -1,0 +1,21 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_ff4df34acd66f8::t_182aaef10aa92f 102-104
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PageScaffold.kt
+  s_ff4df34acd66f8::t_4d09697f4ebcf9 65-68,81,100-104,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "91dfda6eda5287793f7e49e39a305f3b8ada14d4",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

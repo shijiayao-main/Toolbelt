@@ -1,0 +1,25 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_dd04cbb3d68d07 92-97
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpec.kt
+  s_ff4df34acd66f8::t_80ffd3005f446c 5,8-15,51-73
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_ff4df34acd66f8::t_967f7400576b08 54-55
+docs/core/theme.md
+  s_ff4df34acd66f8::t_6f711fc3fc957a 380-384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "881eee4048298670eb0f410a44808e610bfb2fa7",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
