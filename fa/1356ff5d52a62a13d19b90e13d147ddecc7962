@@ -1,0 +1,37 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_ff4df34acd66f8::t_2795b3dd81893a 19-21
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SegmentedControl.kt
+  s_ff4df34acd66f8::t_db6f39c47202a0 45
+  s_ff4df34acd66f8::t_ec240d4efa5f05 61
+  s_ff4df34acd66f8::t_df811b253dc567 1-44,46-60,62-84
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_74dddd8d6ea3c2 265-276
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_ff4df34acd66f8::t_36d8d74cf49bb7 46
+  s_ff4df34acd66f8::t_9d872063fc9831 248-253,260-277
+docs/core/theme.md
+  s_ff4df34acd66f8::t_249e245d8b9239 341
+  s_ff4df34acd66f8::t_ecb6f702aad9df 162
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_ff4df34acd66f8::t_1308f2059f8892 120-126
+  s_ff4df34acd66f8::t_0defc406b424c3 37
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_ff4df34acd66f8::t_6b28e6877d8c4e 111-113,119-122
+  s_ff4df34acd66f8::t_d3aa43137a274d 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fa1356ff5d52a62a13d19b90e13d147ddecc7962",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
