@@ -1,0 +1,27 @@
+AGENTS.md
+  s_ff4df34acd66f8::t_b137dd12aa0a30 17-22,66-67
+docs/architecture.md
+  s_ff4df34acd66f8::t_bf3adb56e56f42 7,9-14,18-21
+docs/pages/lark-bridge.md
+  s_ff4df34acd66f8::t_a0f24af7eac725 252,254,258-259,269,280
+docs/pages/navigation.md
+  s_ff4df34acd66f8::t_628eac012020d8 58-59
+docs/ui-style-guide.md
+  s_ff4df34acd66f8::t_f469e3b294ade7 289,317-322,327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3db09aa33e09bd5d012e7260aa42764273f0db11",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
