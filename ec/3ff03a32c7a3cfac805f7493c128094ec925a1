@@ -1,0 +1,27 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_ff4df34acd66f8::t_33795950499001 37,244-248
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/UndecoratedResizeOverlay.kt
+  s_ff4df34acd66f8::t_336a0a45d46387 1-165
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ff4df34acd66f8::t_25707e6f23fc0a 142-145
+docs/architecture.md
+  s_ff4df34acd66f8::t_886eff3c451e0f 13-15
+docs/core/theme.md
+  s_ff4df34acd66f8::t_31897ea19c6a71 388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ec3ff03a32c7a3cfac805f7493c128094ec925a1",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
