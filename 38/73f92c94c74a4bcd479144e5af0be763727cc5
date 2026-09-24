@@ -1,0 +1,44 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_ff4df34acd66f8::t_cd0129c25ed875 232-234,238
+  s_ff4df34acd66f8::t_8a72c2fc56b03e 249
+  s_ff4df34acd66f8::t_dcabba8e94fd32 406-416
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_2264c660f50891 299-302
+  s_ff4df34acd66f8::t_c9f41440a44b98 303-305
+  s_ff4df34acd66f8::t_9e64e99e294021 298
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapes.kt
+  s_ff4df34acd66f8::t_e901f623d5dc3e 25-27
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  s_ff4df34acd66f8::t_ca108a378e136d 88-90
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_ff4df34acd66f8::t_f72e8c65bc1ea8 91-92,97
+  s_ff4df34acd66f8::t_e1bb3e13e6f02d 35,39
+  s_ff4df34acd66f8::t_2a80a2e8a1ce36 7-8
+  s_ff4df34acd66f8::t_dabd01964f5437 295-306
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ff4df34acd66f8::t_618cdec43fdfda 74-75
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  s_ff4df34acd66f8::t_42734faeb7e7fe 87-89
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_688fd1196c24ca 137-139,141-143
+  s_ff4df34acd66f8::t_6e5332ab1f7ae0 133-136,140,144-145
+docs/core/theme.md
+  s_ff4df34acd66f8::t_c788eff85bf469 376
+  s_ff4df34acd66f8::t_ee5555d4c60dfe 377
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3873f92c94c74a4bcd479144e5af0be763727cc5",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
