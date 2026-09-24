@@ -1,0 +1,14 @@
+.zcode/plans/plan-sess_85cc40cb-908e-4f6c-bfba-e7ce3021728d.md
+  h_7dc1bf3887130d 1-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "26f95a6559dbfb4e79071717a3e18b22133e4067",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
