@@ -1,0 +1,25 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppTitleBar.kt
+  s_ff4df34acd66f8::t_2c8f881555f0bc 38,93-98,138-140,143-161,164-170
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_ff4df34acd66f8::t_6ab2161b61a2cf 142-143
+docs/architecture.md
+  s_ff4df34acd66f8::t_6850a68d7545ec 10-13
+docs/core/theme.md
+  s_ff4df34acd66f8::t_94dc7a61884ae5 388
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9584b7e66104441bd9b379ea2a249f23d5c46579",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
