@@ -1,0 +1,26 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_ff4df34acd66f8::t_0e2b40be259094 136-137,143-147
+  s_ff4df34acd66f8::t_5b256266eb0249 128-131,150-152,177,190-197
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_ff4df34acd66f8::t_718a2b205a5257 98
+  s_ff4df34acd66f8::t_877c86ffe768d9 68-70,81
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_ff4df34acd66f8::t_fe6467a96a589a 86-91,99-101
+  s_ff4df34acd66f8::t_1a95c7658275c3 133,136-141,146-151,156-161,163,166-171,176,188-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6743d736c076b142dec10c8d48fcaf38292bf6d2",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
