@@ -1,0 +1,35 @@
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_ff4df34acd66f8::t_9868ec64de6ba3 146-157,159,161-179
+  s_ff4df34acd66f8::t_2c28e657f622dc 158,160
+docs/core/theme.md
+  s_ff4df34acd66f8::t_1f3045d4360d9e 376
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_ff4df34acd66f8::t_a9cbb97ce65c72 343-348
+  s_ff4df34acd66f8::t_57a22b7cb0b907 331-342,349-362
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_ff4df34acd66f8::t_779040edbce542 252-285
+  s_ff4df34acd66f8::t_a78996995b54ee 251
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_ff4df34acd66f8::t_3fe6cb2fdfd06a 52-57,60,72-96
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_ff4df34acd66f8::t_1a5b995fda0735 31
+  s_ff4df34acd66f8::t_ff51c9e19415e7 46-48,50-52,55-57
+  s_ff4df34acd66f8::t_95205f4dd2fa5a 41
+  s_ff4df34acd66f8::t_8544603347b640 134-138,141-193,198,200-204,207-213,215-226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8d2fe7002e2aacc7a7c220507d8c24a046b82048",
+  "prompts": {},
+  "sessions": {
+    "s_ff4df34acd66f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae0510c-8f7e-4102-924c-7f33b1ece343",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
