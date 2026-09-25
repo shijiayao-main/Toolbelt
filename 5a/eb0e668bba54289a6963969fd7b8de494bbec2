@@ -1,0 +1,21 @@
+docs/pages/shell-tools.md
+  s_4cb161f51dc5d9::t_40bf9024eda696 24,207,241-242,256-259,261-262,280
+docs/ui-style-guide.md
+  s_4cb161f51dc5d9::t_594625a96ed1be 69,115,153,174,176,182-185,187,224,297,411,809-832,968,970
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5aeb0e668bba54289a6963969fd7b8de494bbec2",
+  "prompts": {},
+  "sessions": {
+    "s_4cb161f51dc5d9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c210803-e3a3-44da-a9e0-b17f6a957f28",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
