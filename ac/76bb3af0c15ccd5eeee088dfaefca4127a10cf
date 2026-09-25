@@ -1,0 +1,32 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PageScaffold.kt
+  s_4cb161f51dc5d9::t_c56a8ab2a6480c 135-144,151-155
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_4cb161f51dc5d9::t_d760cce89b3519 54-55,57-59
+  s_4cb161f51dc5d9::t_0ce90797094478 238,241-244,249
+  s_4cb161f51dc5d9::t_150fbf5e7c1fde 318-320,330-342
+  s_4cb161f51dc5d9::t_1ca06ef6a3de00 114,116-118
+  s_4cb161f51dc5d9::t_de1d2c53389d06 192-194
+  s_4cb161f51dc5d9::t_24eeef7c00aca4 343-344
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModelOpenTabsTest.kt
+  s_4cb161f51dc5d9::t_7c086930ce6d03 121,123-124
+  s_4cb161f51dc5d9::t_d8ec8db09883f9 26-27,130-146
+  s_4cb161f51dc5d9::t_d307cdadf183d7 185,187
+  s_4cb161f51dc5d9::t_4aa9309498710d 211-212,219,221
+  s_4cb161f51dc5d9::t_302846ceb146c5 147-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ac76bb3af0c15ccd5eeee088dfaefca4127a10cf",
+  "prompts": {},
+  "sessions": {
+    "s_4cb161f51dc5d9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c210803-e3a3-44da-a9e0-b17f6a957f28",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
