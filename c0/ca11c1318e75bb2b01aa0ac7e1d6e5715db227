@@ -1,0 +1,23 @@
+docs/ui-style-guide.md
+  s_4cb161f51dc5d9::t_2ef66fee2f28c0 292-294
+  s_4cb161f51dc5d9::t_978c7f9d27d6d2 332
+  s_4cb161f51dc5d9::t_cffa118a1b8250 1062-1063
+docs/index.md
+  s_4cb161f51dc5d9::t_679ce38ec8f1a6 84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c0ca11c1318e75bb2b01aa0ac7e1d6e5715db227",
+  "prompts": {},
+  "sessions": {
+    "s_4cb161f51dc5d9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c210803-e3a3-44da-a9e0-b17f6a957f28",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
