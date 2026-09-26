@@ -1,0 +1,52 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ChannelSeamGuardTest.kt
+  s_532037ee9093f5::t_54c0681f320ad0 225
+  s_532037ee9093f5::t_e78a7437d69db8 365-367,369
+  s_532037ee9093f5::t_2cb1ac6e2d4203 219-222
+  s_532037ee9093f5::t_2070ee49b910b1 234
+  s_532037ee9093f5::t_d03c5577f94462 1-171,173-174,180,182,188,190-218,223-224,235-364,370-376
+  s_532037ee9093f5::t_1778b9ddd908bf 368
+  s_532037ee9093f5::t_64a62c65aa61c2 226-233
+  s_532037ee9093f5::t_fc928cf476dd7a 172,175-179,181,183-187,189
+docs/architecture.md
+  s_532037ee9093f5::t_da907944bc487f 327,329-335,337,339-343,347-382
+  s_532037ee9093f5::t_089978c1a58708 383
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitLogic.kt
+  s_532037ee9093f5::t_28a479c5d17a31 70-71,73-74
+  s_532037ee9093f5::t_52275a4e1c8b6b 69,72,75
+  s_532037ee9093f5::t_1f0343ad1a17cd 78
+docs/pages/lark-bridge.md
+  s_532037ee9093f5::t_2c94bbd5e6cd84 25-26
+  s_532037ee9093f5::t_6f2bdc16a5d0b2 99
+  s_532037ee9093f5::t_e51ddf00d6c530 46,51,53-55,58-63
+  s_532037ee9093f5::t_3c7effc5ce1c49 407-408
+  s_532037ee9093f5::t_7b908cfb3d7f96 951
+  s_532037ee9093f5::t_edd35e464c539e 325
+  s_532037ee9093f5::t_802ea1a87b9f5a 167-185
+  s_532037ee9093f5::t_dde3203773abae 27
+  s_532037ee9093f5::t_3836d2e95d3c6e 230
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/LarkApiBoundaryTest.kt
+  s_532037ee9093f5::t_29daafaf3805e6 7
+  s_532037ee9093f5::t_ac602a826a44e3 197-202
+  s_532037ee9093f5::t_2d8da6d05bf3d3 129-130
+  s_532037ee9093f5::t_546eccc43bfee0 78
+  s_532037ee9093f5::t_67162c2954746f 1-6,8-11,14-77,79-128,131-171,190-196,203-211
+  s_532037ee9093f5::t_48df64aa88b3e6 12-13
+  s_532037ee9093f5::t_5a39a81ccdd580 172-186
+  s_532037ee9093f5::t_3fd29fb42c1d97 187-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "29400976725706b84ef5f9efed6340c2b043fcf9",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
