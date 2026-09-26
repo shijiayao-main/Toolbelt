@@ -1,0 +1,85 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_532037ee9093f5::t_0ba09aedc3873b 422-426
+  s_532037ee9093f5::t_45e70bc22b37e5 30
+  s_532037ee9093f5::t_2b22bfdefa73b5 68
+  s_532037ee9093f5::t_4adbca68cead9d 427-448
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/ToolConfirmGate.kt
+  s_532037ee9093f5::t_9b621761e5748a 1-70,73-80
+  s_532037ee9093f5::t_6abaab222ed09c 71-72
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/DispatchPayload.kt
+  s_532037ee9093f5::t_8be62242b08539 51-61,67,78-79,89-90
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_532037ee9093f5::t_022029df135008 196-199
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/GatewayModel.kt
+  s_532037ee9093f5::t_119ab431698ded 429-442
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_532037ee9093f5::t_597397d0274f74 128-135
+  s_532037ee9093f5::t_f46b4597d70da4 886-901
+  s_532037ee9093f5::t_19c9f2586658bc 254-255,268
+  s_532037ee9093f5::t_01f98c9b813a67 1392-1581
+  s_532037ee9093f5::t_ea73c36c03c800 858-862
+  s_532037ee9093f5::t_fbbe9c3b56dcea 799-800
+  s_532037ee9093f5::t_21f2365db9f4da 1137-1141
+  s_532037ee9093f5::t_8112072e2ca62b 575-591
+  s_532037ee9093f5::t_27da0b8aa2355f 127
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/MessageGateway.kt
+  s_532037ee9093f5::t_fad6b3cdf0da2c 12
+  s_532037ee9093f5::t_3748d91db5a168 316-354
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/SyntheticGateway.kt
+  s_532037ee9093f5::t_156e683167ea0f 364-367
+  s_532037ee9093f5::t_314e2622a272d6 410-425
+  s_532037ee9093f5::t_97e27590834a3d 179
+  s_532037ee9093f5::t_38ca2f6625cf5e 568-585
+  s_532037ee9093f5::t_66e490f609d7a6 586-590
+  s_532037ee9093f5::t_ceeb68dfdb4a96 159
+  s_532037ee9093f5::t_629e28aa3126a6 239-243
+  s_532037ee9093f5::t_6f43c99b20d593 244-245
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/NativeChatSurface.kt
+  s_532037ee9093f5::t_61a57dfc347e98 1-64
+  s_532037ee9093f5::t_8c6631ad051650 65-177
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/NativeChatSurfaceTest.kt
+  s_532037ee9093f5::t_f4d5627d322105 7-8
+  s_532037ee9093f5::t_d9e76cefac831e 1-2,16,26,29,31-52,65,137,182-198
+  s_532037ee9093f5::t_879074743e5160 3-6,9-15,17-25,27-28,30,53-64,66-94,96,98,100-136,138-181,199-232
+  s_532037ee9093f5::t_2838b936703c12 95,97,99
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/SyntheticGatewayTest.kt
+  s_532037ee9093f5::t_592151242f64dc 52,54,58,63-65,75
+  s_532037ee9093f5::t_49b675d7d92574 235,238-239
+  s_532037ee9093f5::t_5717a1d5de9340 244-246
+  s_532037ee9093f5::t_d7e8b0dd5bedce 233-234,236-237,240-243
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_532037ee9093f5::t_fc5689ef7a9a46 1770
+  s_532037ee9093f5::t_a2969f39d62809 1692-1695,1726,1732-1749,1752-1757,1771-1774,1779-1788,1797-1800,1810-1811,1823-1825,1835-1836,1847-1850,1860-1863,1874-1876,1893-1905,1907-1916,1918-1922,1924-1949,1951-2000,2026
+  s_532037ee9093f5::t_9285a04cc6f1ef 1906
+  s_532037ee9093f5::t_6e809bca53ca2d 1696-1725,1727-1731,1750-1751,1758-1769,1775-1778,1789-1796,1801-1809,1812-1822,1826-1834,1837-1846,1851-1859,1864-1873,1877-1887,1890-1892,1917,1923,1950,2001-2025
+  s_532037ee9093f5::t_695621a561cd69 1888-1889
+  s_532037ee9093f5::t_f804b7f3bbe90c 1557-1558,1568-1569
+lark-gateway/src/main/kotlin/com/jiaoay/lark/gateway/SdkLarkGateway.kt
+  s_532037ee9093f5::t_b185414f3ca33c 60
+  s_532037ee9093f5::t_99def469f274df 1236-1293
+  s_532037ee9093f5::t_66c27561575152 37
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ToolConfirmGateTest.kt
+  s_532037ee9093f5::t_e0e327defcb43a 1-125
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/MessageHandler.kt
+  s_532037ee9093f5::t_e29e3a6a164d7e 112-124
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/BuiltinHandlers.kt
+  s_532037ee9093f5::t_40b8ce85466585 291-294
+  s_532037ee9093f5::t_37e629c5950df5 206-218
+  s_532037ee9093f5::t_1329da54326e00 701,930,1090
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5d24984ef0cd3fd04fae7c206e45dcbf208f06e3",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
