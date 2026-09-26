@@ -1,0 +1,50 @@
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeConfigDefaultsTest.kt
+  s_532037ee9093f5::t_4eeab839ccfc44 79-82,92
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/EngineReservedWordsTest.kt
+  s_532037ee9093f5::t_46e7bdf46b97dc 1-7,10-17,19,21-22,28,32-89
+  s_532037ee9093f5::t_147a105ff05af2 8-9,18,20,23-27,29-31
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeConfigRoundTripTest.kt
+  s_532037ee9093f5::t_84c50bc117be89 78-84
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/DefaultBridgeConfig.kt
+  s_532037ee9093f5::t_354f3b55b2ddf7 25,27-35,53
+  s_532037ee9093f5::t_1d4df41d27bdd9 26,36-39
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/LegacyDocumentMapperTest.kt
+  s_532037ee9093f5::t_6ffa7fabad7c05 294-295,298-302,322-323
+  s_532037ee9093f5::t_0ea4a34c7be63e 243,247-249
+  s_532037ee9093f5::t_5c2de61308e2d0 400-402,405,409-413,430-434
+  s_532037ee9093f5::t_601671f11e6ff5 7-9
+  s_532037ee9093f5::t_03f9a6ad287629 377-382,385,389-396
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/BuiltinHandlers.kt
+  s_532037ee9093f5::t_066658a330a458 570-576,591-592
+  s_532037ee9093f5::t_132d51222442f1 465,482-502
+  s_532037ee9093f5::t_cb98ee6e3d1964 446-447,461-464
+  s_532037ee9093f5::t_bc0ab450820a69 664-665,686,698-699
+  s_532037ee9093f5::t_df1e1d837e49a1 1001-1002,1010,1020
+  s_532037ee9093f5::t_9d01ef6f767283 593
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeAssemblerParityTest.kt
+  s_532037ee9093f5::t_30ae34e9f1ab8b 95
+  s_532037ee9093f5::t_c465bb7ef218b3 96-97,122,287-289,292,295,297,306-308,310-311
+  s_532037ee9093f5::t_8d722862c0ac6b 309
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModelTest.kt
+  s_532037ee9093f5::t_1bc681f2184d45 243-244,246,255-256
+  s_532037ee9093f5::t_4893717cffba33 223-224,226
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/EngineReservedWords.kt
+  s_532037ee9093f5::t_85964dca214022 80
+  s_532037ee9093f5::t_8ac066913ab68b 1-79,81-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc9c4c2bbb4309095dd2957d19411c532c8ec0fb",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
