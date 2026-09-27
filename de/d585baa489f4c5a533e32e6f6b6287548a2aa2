@@ -1,0 +1,34 @@
+docs/pages/log-workbench.md
+  s_7685b4b5af4bb0::t_361993056debd5 12
+  s_7685b4b5af4bb0::t_f8704e040f8600 10
+docs/architecture.md
+  s_7685b4b5af4bb0::t_ea279352d227e4 142-150
+docs/pages/quest.md
+  s_7685b4b5af4bb0::t_8c739a9447d43e 14
+  s_7685b4b5af4bb0::t_9775fe4b30b2e7 19
+  s_7685b4b5af4bb0::t_cb0c17f1a16af1 55-57
+docs/index.md
+  s_7685b4b5af4bb0::t_99f9263edd3d7f 107
+  s_7685b4b5af4bb0::t_a3fec2dc1c712f 119
+docs/ui-style-guide.md
+  s_7685b4b5af4bb0::t_ddb94d61acbd6c 822-842
+  s_7685b4b5af4bb0::t_feca76a6038815 877-879,887,900-917
+  s_7685b4b5af4bb0::t_a8f05a2809abb4 652,659-662,674
+  s_7685b4b5af4bb0::t_bf971bd2d4eb91 918
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ded585baa489f4c5a533e32e6f6b6287548a2aa2",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
