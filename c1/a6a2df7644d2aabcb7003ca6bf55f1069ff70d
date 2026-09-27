@@ -1,0 +1,39 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/Responder.kt
+  s_7685b4b5af4bb0::t_4a2ec2ea44a68e 79
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/DownloadPolicy.kt
+  s_7685b4b5af4bb0::t_7f772567f7b2f4 4-6
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/Admission.kt
+  s_7685b4b5af4bb0::t_00f55a6361356f 258
+  s_7685b4b5af4bb0::t_4b45cb08f6b6b8 182-183
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/HandlerKinds.kt
+  s_7685b4b5af4bb0::t_6b38ec84852a03 45-46,50
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/MessageHandler.kt
+  s_7685b4b5af4bb0::t_25e61323ac2aa6 18-19
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/handler/BuiltinHandlers.kt
+  s_7685b4b5af4bb0::t_23e50c238594b8 478-479
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/PipelineSnapshot.kt
+  s_7685b4b5af4bb0::t_415215106bc32f 100
+  s_7685b4b5af4bb0::t_822a4c3405ff49 39
+  s_7685b4b5af4bb0::t_989a392ca48327 69-70
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/PipelineRouter.kt
+  s_7685b4b5af4bb0::t_d4a27c8df71a51 76
+  s_7685b4b5af4bb0::t_a1249b8c9123f3 26-28
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/SyntheticGateway.kt
+  s_7685b4b5af4bb0::t_c93e184b172f55 477
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c1a6a2df7644d2aabcb7003ca6bf55f1069ff70d",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
