@@ -1,0 +1,22 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_532037ee9093f5::t_10062d9326e97b 948-957,1137-1138,1322-1327
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_532037ee9093f5::t_943e39d9ed2721 1582
+  s_532037ee9093f5::t_add9458ef5cd11 876,881,911
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d08b4d2b8f85fbeeb1d96dbe1b87486e7540abc3",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
