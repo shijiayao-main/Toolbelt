@@ -1,0 +1,82 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/GrantProbe.kt
+  s_532037ee9093f5::t_c20c73a1d587e2 6,9,11-12,14,16,42,46,86,97-103,105
+  s_532037ee9093f5::t_d6cf4fe686cc3b 1-5,7-8,10,15,17-30,38-41,43-45,47-85,87-96,104,106-140
+  s_532037ee9093f5::t_9ddb25f81e4225 13
+  s_532037ee9093f5::t_2bc38aa37df5dd 31-37
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeLifecycleTest.kt
+  s_532037ee9093f5::t_3eead07dd926f6 605
+  s_532037ee9093f5::t_c685562f2170f0 591-593,610
+  s_532037ee9093f5::t_056db74b664765 553-590,594-604,606-609,611-629
+  s_532037ee9093f5::t_04136ee600ddb1 30-32
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/SyntheticGateway.kt
+  s_532037ee9093f5::t_ab643330459889 234-235,382-386,388-392,565-569
+  s_532037ee9093f5::t_c8dd4e3831edf2 570
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/BotCapabilityCard.kt
+  s_532037ee9093f5::t_77ababd42d152f 293-294
+  s_532037ee9093f5::t_88759ce510b0be 361-362
+  s_532037ee9093f5::t_58358a1c7e16b6 219
+  s_532037ee9093f5::t_c9ac0fd57c41b9 494,496-500,504-505
+  s_532037ee9093f5::t_31f583ef26cb69 526
+  s_532037ee9093f5::t_a7a05f3b6e2f97 298-299
+  s_532037ee9093f5::t_569ac99621dfac 27
+  s_532037ee9093f5::t_df06249fdfe80b 532
+  s_532037ee9093f5::t_54e8cacd735dcb 3-5,7-8,16,20-24,30,34,36-37,39,41-42,47-48,92-93,99-108,110-112,114,120-121,123-133,135,138-139,142-147,149-150,205-210,213-218,220-221,223-224,252-260,262-288,290-292,295-297,300-334,336-338,340-360,363,365-378,380-433,437,441-446,448-460,462-472,484-489,491-493,495,501-503,506-525,527-531,533-539,542-572,574,578-610,613-683,685-686,688-689
+  s_532037ee9093f5::t_811f6d5ce0eb63 611-612
+  s_532037ee9093f5::t_1668c5103b6ef8 289
+  s_532037ee9093f5::t_e95368d4df1a15 261
+  s_532037ee9093f5::t_97ef21cfa58b6c 38,40
+  s_532037ee9093f5::t_dcc926e6cf0988 684,687,690-695
+  s_532037ee9093f5::t_593c480514d212 461,473-478,480-483
+  s_532037ee9093f5::t_e0e8f8d1ac8890 109,134
+  s_532037ee9093f5::t_5712969ff34127 447
+  s_532037ee9093f5::t_fe1055a7a11a40 479
+  s_532037ee9093f5::t_f05cea522b9968 540-541
+  s_532037ee9093f5::t_80794464277a67 136-137,148
+  s_532037ee9093f5::t_8138299225aef9 434
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/Bridge.kt
+  s_532037ee9093f5::t_a4d0466056977e 694-760
+  s_532037ee9093f5::t_58c33ca92718c7 60
+  s_532037ee9093f5::t_dc3c5e24fad4ed 904-906
+  s_532037ee9093f5::t_6bfa7b82aaa867 18
+  s_532037ee9093f5::t_2a431f771f4905 693
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_532037ee9093f5::t_924d84a94c839d 387-391,394,398
+  s_532037ee9093f5::t_73b8704238d27d 358-360,363-369,371-374,376-383,392-393,395-397,399-400,404
+  s_532037ee9093f5::t_af4454381036af 341-357,361-362,370,375,384-386,401-403,405-409
+  s_532037ee9093f5::t_db4e48d43467a6 122-139
+  s_532037ee9093f5::t_57e04744fb895b 340,465-472
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeConfigDefaultsTest.kt
+  s_532037ee9093f5::t_8fc385ff91b4da 179-191
+  s_532037ee9093f5::t_abf7943a9d3144 178
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeStore.kt
+  s_532037ee9093f5::t_9363b748545d2d 94-113,170-174
+  s_532037ee9093f5::t_af51e31ecb318c 175
+  s_532037ee9093f5::t_dd1f4c9bff9d83 176
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_532037ee9093f5::t_6d852017fa6e1e 353-363
+  s_532037ee9093f5::t_22b6fe2facadcb 352
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/P5FieldGroups.kt
+  s_532037ee9093f5::t_9463ba1e0b6d15 59-60
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_532037ee9093f5::t_1047d21be76417 307-309,311,313-315,317
+  s_532037ee9093f5::t_74d2bd7bc13bf0 316
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/NativeCapability.kt
+  s_532037ee9093f5::t_71ed3e93a6c72f 12-16,18,20-24,27-31,34-38,41-45,48-52,55-59
+  s_532037ee9093f5::t_473a221e0d26b7 85-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d4a9bdea32fc850c4eb2cb575ec749ead1f0b83e",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
