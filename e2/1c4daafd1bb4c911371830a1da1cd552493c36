@@ -1,0 +1,62 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SectionCard.kt
+  s_532037ee9093f5::t_d93fb44f36a04a 62-67
+  s_532037ee9093f5::t_463731f39643fa 113-115
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/P5FieldGroups.kt
+  s_532037ee9093f5::t_ce3877892294aa 59,61-62
+  s_532037ee9093f5::t_28cee004abbddb 181
+  s_532037ee9093f5::t_358448a91a3115 21-28
+  s_532037ee9093f5::t_177edfc70f9bed 99-106
+  s_532037ee9093f5::t_e048a9d384f3f9 17
+  s_532037ee9093f5::t_1e1ad86502664b 45-49,51-55
+  s_532037ee9093f5::t_714cc7f9df61a0 7-8,11-12,14-16,18,20,29-31,42-44,50,56-58,60,63-98,107-180,182-198,209-211,213-214,216-228,231-233,235-237
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_532037ee9093f5::t_c527ed3599859a 268-269,275-276,278
+  s_532037ee9093f5::t_dbac5032d147d0 288-298
+  s_532037ee9093f5::t_b674694431750e 45
+  s_532037ee9093f5::t_cc5ab0f300391a 46
+  s_532037ee9093f5::t_c92b9f4cdc49af 299,301
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_532037ee9093f5::t_6f15f2520bc90d 16-18
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_532037ee9093f5::t_07e8762809f345 107-112
+docs/core/theme.md
+  s_532037ee9093f5::t_0bafdde1feebf4 347
+  s_532037ee9093f5::t_e3b4826d823d51 226
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/P5FieldGroupsTest.kt
+  s_532037ee9093f5::t_7d990cde9163f0 3-4,7,13,15-18,22-24,26-28,31,33-65,68,79,81-85,88,96-116,118-126,128-147,149-189
+  s_532037ee9093f5::t_de8404bbe214b5 5
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_532037ee9093f5::t_596624c34cd3ec 4-6,8,12-14,19-21,23-24,27,32,34-35,41,48,53-60,64-65,75-76,85-89,94-111,113-119,128-131,134-138,140-141,146-156,166-168,171-279,281-285,287-341,344,350,364,374-379,386,388-389,394,401-410,412-420,422-429,431-436,438-444,446-458,460-462,464,466-494,507-537,542-547,549-565,575-597
+  s_532037ee9093f5::t_a20871b5ec5077 505
+  s_532037ee9093f5::t_e94253c2cae3de 28
+  s_532037ee9093f5::t_7b9f8269622e71 566-571,573
+  s_532037ee9093f5::t_820b35ac5d71ff 396-398
+  s_532037ee9093f5::t_8625d8957d8a11 572
+  s_532037ee9093f5::t_e0b8afb41a1925 574
+  s_532037ee9093f5::t_3f2007e7c95224 399
+  s_532037ee9093f5::t_fd1d690af00a07 495-504,506
+  s_532037ee9093f5::t_0a886127d85e35 548
+  s_532037ee9093f5::t_b8f1bd76d4f0c9 61-62
+  s_532037ee9093f5::t_37433033ddfb25 121-127,132-133,139
+  s_532037ee9093f5::t_22a93dfe42b19c 31
+  s_532037ee9093f5::t_401ff249dc3f6a 29
+  s_532037ee9093f5::t_9d80441d665e96 598
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFilter.kt
+  s_532037ee9093f5::t_f7353c9440243b 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e21c4daafd1bb4c911371830a1da1cd552493c36",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
