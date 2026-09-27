@@ -1,0 +1,91 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/LarkSdkIsolationTest.kt
+  s_7685b4b5af4bb0::t_83b5c755833da8 611
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModelOpenTabsTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 47
+  s_7685b4b5af4bb0::t_63d88697a61fe4 37-39,45,53
+composeApp/build.gradle.kts
+  s_7685b4b5af4bb0::t_8c6a05152b5b26 51-54
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LegacyConfigImporterTest.kt
+  s_7685b4b5af4bb0::t_63d88697a61fe4 42-44,50,58
+  s_7685b4b5af4bb0::t_d5df4e804203e8 51
+  s_7685b4b5af4bb0::t_c9e76e34e6b12d 127
+feature-shelltools/build.gradle.kts
+  s_7685b4b5af4bb0::t_7accdd75c9ef8d 24-28
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModelTest.kt
+  s_7685b4b5af4bb0::t_f4f273c84957a3 275
+  s_7685b4b5af4bb0::t_5c17b94622fa27 258
+  s_7685b4b5af4bb0::t_44deb2dfc250a9 262-263,269
+test-fixtures/build.gradle.kts
+  s_7685b4b5af4bb0::t_365070344f424e 24-25
+  s_7685b4b5af4bb0::t_0c59e8d5bb4fab 1-9,23,26-28
+  s_7685b4b5af4bb0::t_3d0a071ae5df42 17-22
+  s_7685b4b5af4bb0::t_ae625486f1e0c1 10-16
+settings.gradle.kts
+  s_7685b4b5af4bb0::t_cc1a347e7d5a37 53
+test-fixtures/src/main/kotlin/com/jiaoay/testfixtures/UserHomeIsolation.kt
+  s_7685b4b5af4bb0::t_8fe909f61669ae 1-42,52-54
+  s_7685b4b5af4bb0::t_46e3a6bdc8b61b 43-51
+feature-quest/build.gradle.kts
+  s_7685b4b5af4bb0::t_7accdd75c9ef8d 12-16
+feature-ai/build.gradle.kts
+  s_7685b4b5af4bb0::t_7accdd75c9ef8d 24-28
+test-fixtures/src/main/kotlin/com/jiaoay/testfixtures/KoogFakeExecutor.kt
+  s_7685b4b5af4bb0::t_06425547cce52f 1-11,14-56
+  s_7685b4b5af4bb0::t_cfa261a2d5119a 12-13
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManagerRemoveClearTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 36
+  s_7685b4b5af4bb0::t_63d88697a61fe4 28-30,35,41
+core/build.gradle.kts
+  s_7685b4b5af4bb0::t_7accdd75c9ef8d 87-91
+feature-quest/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestSessionTest.kt
+  s_7685b4b5af4bb0::t_4858742893e74e 5,462-464
+  s_7685b4b5af4bb0::t_63d88697a61fe4 61-63,69,76
+  s_7685b4b5af4bb0::t_d5df4e804203e8 70
+feature-larkbridge/build.gradle.kts
+  s_7685b4b5af4bb0::t_7accdd75c9ef8d 76-80
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/SourceRootsMapTest.kt
+  s_7685b4b5af4bb0::t_44deb2dfc250a9 50-51,67
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/PageUsageTrackerTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 48
+  s_7685b4b5af4bb0::t_63d88697a61fe4 38-40,46,54
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiToolsToggleTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 31
+  s_7685b4b5af4bb0::t_63d88697a61fe4 23-25,30,38
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/KoogToolLoopTest.kt
+  s_7685b4b5af4bb0::t_f49258768b56bd 7
+  s_7685b4b5af4bb0::t_9208ea65a1f8bf 39
+  s_7685b4b5af4bb0::t_7609c682c3006c 45
+  s_7685b4b5af4bb0::t_d4f2136b7e1e08 35-37
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunnerTest.kt
+  s_7685b4b5af4bb0::t_486120147244a9 59-61,64,79
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDeviceSelectionTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 40
+  s_7685b4b5af4bb0::t_63d88697a61fe4 29-31,37,46
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManagerLogFileEnabledTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 31
+  s_7685b4b5af4bb0::t_63d88697a61fe4 21-23,29,40
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStoreTest.kt
+  s_7685b4b5af4bb0::t_d5df4e804203e8 27
+  s_7685b4b5af4bb0::t_63d88697a61fe4 19-21,26,33
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryManagerFlushTest.kt
+  s_7685b4b5af4bb0::t_63d88697a61fe4 27-29,34,40
+  s_7685b4b5af4bb0::t_d5df4e804203e8 35
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/McpServerConfigKeyTest.kt
+  s_7685b4b5af4bb0::t_44deb2dfc250a9 59-60,69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "93c7492f3f70d646f79ecf89d2f48e7ebecb7184",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
