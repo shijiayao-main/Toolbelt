@@ -1,0 +1,50 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillSession.kt
+  s_7685b4b5af4bb0::t_ee8307b880e090 89-95
+  s_7685b4b5af4bb0::t_965a6d5afe80bf 187,192
+  s_7685b4b5af4bb0::t_eb8f5f1c0b3efe 68
+  s_7685b4b5af4bb0::t_4edcf3a77e5b13 197,199,201,211
+  s_7685b4b5af4bb0::t_80f2177b570a88 10,14
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSession.kt
+  s_7685b4b5af4bb0::t_b7732de98b0fae 186
+  s_7685b4b5af4bb0::t_cd90c59c00dacb 320,322,325,329
+  s_7685b4b5af4bb0::t_db5b61897f0f5f 362,364,367,370,372
+  s_7685b4b5af4bb0::t_f87566c0fc5676 227,233
+  s_7685b4b5af4bb0::t_a87e15fd19f544 14,18
+  s_7685b4b5af4bb0::t_fdc37fb2e2f49e 95-96,98-102
+  s_7685b4b5af4bb0::t_68427fd417759a 174-181
+  s_7685b4b5af4bb0::t_4db587bb830201 118,125
+  s_7685b4b5af4bb0::t_7ddda30fc4c666 91,97
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/QuestSession.kt
+  s_7685b4b5af4bb0::t_62cf52450adebd 11,15
+  s_7685b4b5af4bb0::t_b056c6c9799fe6 395,397,400,403,405
+  s_7685b4b5af4bb0::t_2096725e1e1050 254,290,296
+  s_7685b4b5af4bb0::t_78e099ddbf6d39 125,137
+  s_7685b4b5af4bb0::t_e17d8634abfd62 91,95-101
+  s_7685b4b5af4bb0::t_e5a6fb9f452399 377,379,381-382
+  s_7685b4b5af4bb0::t_a2331fe5edd243 102
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducer.kt
+  s_7685b4b5af4bb0::t_6cdb6944f1f35e 219
+  s_7685b4b5af4bb0::t_67ac9dc363fb40 5-6,11
+  s_7685b4b5af4bb0::t_ea13ea2a44ebf4 59,61-62,89,107,109,115,128,133-134,139-140,152,163,168,183,187-188,192,204,217,231
+  s_7685b4b5af4bb0::t_28004c2e0df642 122-123
+  s_7685b4b5af4bb0::t_1864becaf4290c 138,143-144
+  s_7685b4b5af4bb0::t_517a44e4239e9e 241-286
+  s_7685b4b5af4bb0::t_d6ac10b303ba6d 32-33
+  s_7685b4b5af4bb0::t_2e7753e775f1e0 1-4,7-10,12-31,34-58,60,63-88,90-106,108,110-114,116-121,124-127,129-132,135-137,141-142,145-151,153-162,164-167,169-182,184-186,189-191,193-203,205-216,218,220-230,232-240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "305d3f443d6cafd4c2eaadf3ebf87bb3e55b9af5",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
