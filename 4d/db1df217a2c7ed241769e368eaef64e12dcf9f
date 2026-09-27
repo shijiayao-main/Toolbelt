@@ -1,0 +1,27 @@
+docs/manual/index.md
+  s_532037ee9093f5::t_78e284a7d92484 16
+  s_532037ee9093f5::t_e888be72033fe4 26
+docs/manual/ai-settings.md
+  s_532037ee9093f5::t_e888be72033fe4 3,7,25,37
+  s_532037ee9093f5::t_88b3e0292c5b47 60
+docs/manual/lark-bridge.md
+  s_532037ee9093f5::t_3e791a61f1e55d 13-18
+  s_532037ee9093f5::t_8dc641f8c49430 109,123,131
+  s_532037ee9093f5::t_e0494ce3453d95 35,63,65,67-70,73,75,77-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4ddb1df217a2c7ed241769e368eaef64e12dcf9f",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
