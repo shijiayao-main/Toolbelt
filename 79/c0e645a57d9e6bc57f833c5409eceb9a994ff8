@@ -1,0 +1,51 @@
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/SystemHandlerStatusTest.kt
+  s_7685b4b5af4bb0::t_6a2e3c19735e18 25,77
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/GuardTestSupport.kt
+  s_7685b4b5af4bb0::t_961b676c710e14 1-21
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/HandlerGateAndWeightTest.kt
+  s_7685b4b5af4bb0::t_d43ca0c3b1ea4b 23
+  s_7685b4b5af4bb0::t_5004e15d7ca508 125
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/BackButtonAndTransitionGuardTest.kt
+  s_7685b4b5af4bb0::t_28471251dd68fe 3
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeConnectionSignalTest.kt
+  s_7685b4b5af4bb0::t_133e625f4939bc 16
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeStartStopLeakTest.kt
+  s_7685b4b5af4bb0::t_133e625f4939bc 21
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/ArtifactUploadPipelineTest.kt
+  s_7685b4b5af4bb0::t_6a2e3c19735e18 19,34
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeConcurrencyContractTest.kt
+  s_7685b4b5af4bb0::t_133e625f4939bc 16
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeAppExitEdtBudgetTest.kt
+  s_7685b4b5af4bb0::t_133e625f4939bc 21
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/ReplySinkNativeCapabilitiesTest.kt
+  s_7685b4b5af4bb0::t_940ecae3df375e 28,30,35,38-39
+  s_7685b4b5af4bb0::t_5501dee4fc8636 121
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/observe/UserNameResolverTest.kt
+  s_7685b4b5af4bb0::t_c9c1c6230d4c7f 162,164
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/AgentPipelinePumpTest.kt
+  s_7685b4b5af4bb0::t_6a2e3c19735e18 25,44
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/TestSharedFakes.kt
+  s_7685b4b5af4bb0::t_d08d059688db2a 1-33
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmBusTest.kt
+  s_7685b4b5af4bb0::t_194094c0bce6f1 11
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/DownloadPolicyTest.kt
+  s_7685b4b5af4bb0::t_65a9ee22724eb9 11
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/files/PreprocessPipelineTest.kt
+  s_7685b4b5af4bb0::t_2432919f69aef5 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "79c0e645a57d9e6bc57f833c5409eceb9a994ff8",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
