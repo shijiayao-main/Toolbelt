@@ -1,0 +1,19 @@
+docs/reports/code-bloat-audit-2026-09-27.md
+  s_7685b4b5af4bb0::t_a3015fb835db1c 188-223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "82f4af5a6ec49baba2a1a6d665742c630819b72c",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
