@@ -1,0 +1,43 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_7685b4b5af4bb0::t_9126ce0d5ea7d7 14
+  s_7685b4b5af4bb0::t_e6249adc38a6ac 429,467
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FilePicker.kt
+  s_7685b4b5af4bb0::t_d766f350adf6e4 1-47
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_7685b4b5af4bb0::t_53cda9fec826a9 189,194-195
+  s_7685b4b5af4bb0::t_d126ba488f1994 56
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  s_7685b4b5af4bb0::t_95fa5041c0e35f 163-166,171-174
+  s_7685b4b5af4bb0::t_0874109c45d3b8 19
+  s_7685b4b5af4bb0::t_42fbafb821a99b 74-76
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/RenameDialog.kt
+  s_7685b4b5af4bb0::t_2357146e0e3060 1-44
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteParamForm.kt
+  s_7685b4b5af4bb0::t_e6249adc38a6ac 131,151
+  s_7685b4b5af4bb0::t_9126ce0d5ea7d7 17
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_7685b4b5af4bb0::t_29a63a09fcb9d4 479-480
+  s_7685b4b5af4bb0::t_fba1cfc687c4a8 59,505
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_7685b4b5af4bb0::t_07a114019a2c2b 224-225
+  s_7685b4b5af4bb0::t_fba1cfc687c4a8 42
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchViewModel.kt
+  s_7685b4b5af4bb0::t_e6249adc38a6ac 358,360-362
+  s_7685b4b5af4bb0::t_478ea49cfab3f7 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0e1aaaf8e7e3768e81b36cfcf1e5158c7d1b8de2",
+  "prompts": {},
+  "sessions": {
+    "s_7685b4b5af4bb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d518640-e324-48bd-8477-ce1d07afab1c",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
