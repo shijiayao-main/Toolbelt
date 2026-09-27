@@ -1,0 +1,35 @@
+docs/index.md
+  s_532037ee9093f5::t_ea12beb0fe7868 124-125
+  s_532037ee9093f5::t_bb68928efd89ca 110
+  s_532037ee9093f5::t_e198778471acbc 91-93
+  s_532037ee9093f5::t_0a97bd52f11751 94
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/observe/BridgeStatus.kt
+  s_532037ee9093f5::t_ec8c33c21b826c 100
+docs/pages/lark-bridge.md
+  s_532037ee9093f5::t_efc43f2d1191b8 372
+  s_532037ee9093f5::t_11b26ee1c641c8 414-417
+  s_532037ee9093f5::t_b4c11ef55b0469 69,315
+  s_532037ee9093f5::t_2fe63bd14d0ed4 77,79,81,83-85
+  s_532037ee9093f5::t_d3ad2cbff65728 281
+  s_532037ee9093f5::t_16e28d924ddd46 276,283-285,288
+  s_532037ee9093f5::t_55c3a159834c7c 75
+  s_532037ee9093f5::t_fbf0e091f4d045 95
+  s_532037ee9093f5::t_3c636a2fce9948 412
+  s_532037ee9093f5::t_45e8078df88e6b 411
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fc69647bbe9fd5602d619038852863593d874aff",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
