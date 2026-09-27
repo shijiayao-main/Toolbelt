@@ -1,0 +1,47 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TagsField.kt
+  s_532037ee9093f5::t_5c48513bf213b9 26-27
+  s_532037ee9093f5::t_29b2ded689d0dd 48-50,62
+  s_532037ee9093f5::t_760ab3757c0c5b 132
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_532037ee9093f5::t_b30b111532ec89 53,55-56
+  s_532037ee9093f5::t_18388969b96559 109-110,117-136,149-176,178-184,186-206
+  s_532037ee9093f5::t_ef8118687f5d9b 536-540,551
+  s_532037ee9093f5::t_ca7e1195a0805e 801-804,812,824
+  s_532037ee9093f5::t_36f5c8cfc8a442 340-341,343,345-348
+  s_532037ee9093f5::t_18e9a99491a51f 85-101
+  s_532037ee9093f5::t_11fdc93dfa56a1 19,21,27,32-33
+  s_532037ee9093f5::t_117ac3e9ba6809 285-304,306-339,342,344,349-374
+  s_532037ee9093f5::t_37d286044ded01 305
+  s_532037ee9093f5::t_7dff2a7a1b94b5 563-566,575,586,596,612,645
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_532037ee9093f5::t_057df9556d0124 197
+  s_532037ee9093f5::t_7d3cbcb5e5f4cb 97-99
+  s_532037ee9093f5::t_fd70565c0f9473 444-445,453
+  s_532037ee9093f5::t_daed6115b12c77 488-489
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/P5FieldGroups.kt
+  s_532037ee9093f5::t_0907457cc378df 12-13
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/QuickSetupGateTest.kt
+  s_532037ee9093f5::t_8508b98866d727 1-120
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_532037ee9093f5::t_37cf4081a80ae9 120-122
+  s_532037ee9093f5::t_bb43a95eb2500b 241-246
+  s_532037ee9093f5::t_89eebcf116035a 332
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/QuickSetupGate.kt
+  s_532037ee9093f5::t_a93b05305a7f30 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cfe956adfae11ccdea742ce4289c9977ecd769af",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
