@@ -1,0 +1,107 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/observe/ObserveSeams.kt
+  s_532037ee9093f5::t_97b3c2955c59fe 58-63
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeStore.kt
+  s_532037ee9093f5::t_ad0503b9512623 114-134
+  s_532037ee9093f5::t_d558443813b857 198-206
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_532037ee9093f5::t_6b381055e3aab5 338-343
+  s_532037ee9093f5::t_63307c13c5f2fb 310-317,325-337,344-349
+  s_532037ee9093f5::t_bdf54dad39bf70 140-152
+  s_532037ee9093f5::t_74f6cbef70a0da 309,318-324
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmService.kt
+  s_532037ee9093f5::t_2d99f767939f8f 142-146,154,166
+  s_532037ee9093f5::t_41603ba5574a35 215-235
+  s_532037ee9093f5::t_9f08dc3904285f 13-41
+  s_532037ee9093f5::t_caed40e38bc1d1 127-130,135-136
+  s_532037ee9093f5::t_8183e15d4f6d4e 61-64
+  s_532037ee9093f5::t_0feecb95f3a26f 12
+  s_532037ee9093f5::t_2038e3570c3d52 214
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/ToolConfirmGate.kt
+  s_532037ee9093f5::t_ec7a8cf6a043d0 75-83
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_532037ee9093f5::t_3f631f38346563 244
+  s_532037ee9093f5::t_6cfed233d7a9ec 77,83-85,88-92
+  s_532037ee9093f5::t_3318f1a526c5c2 715-716
+  s_532037ee9093f5::t_72fa26f844bfe4 14,19,37
+  s_532037ee9093f5::t_b561e539aaa9c2 186-191
+  s_532037ee9093f5::t_dad77650a0a547 709-714,717-791,796-798,801-808
+  s_532037ee9093f5::t_ca7ee5ac973b4a 352
+  s_532037ee9093f5::t_a763530128acbd 71-73
+  s_532037ee9093f5::t_af892b1b966605 123-132
+  s_532037ee9093f5::t_615d1e44634239 160-166
+  s_532037ee9093f5::t_597621f55d42c0 133-137
+  s_532037ee9093f5::t_f351c727441f66 232-243,245-249
+  s_532037ee9093f5::t_9bc1b81cc2d32e 891-892
+  s_532037ee9093f5::t_865cc9ec717d15 888-890,893-915
+  s_532037ee9093f5::t_d3f6724296861f 57,62
+  s_532037ee9093f5::t_889f7174c92f45 94
+  s_532037ee9093f5::t_8a00b2893b74d0 281,305-312
+  s_532037ee9093f5::t_51e6a700d51df7 167-185,192-194
+  s_532037ee9093f5::t_ecca5a464e5297 708
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_532037ee9093f5::t_8375d357213c78 231-236,239,249-251
+  s_532037ee9093f5::t_61430007fc43ee 237-238,252
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeLifecycleTest.kt
+  s_532037ee9093f5::t_92e46ef9b66992 631-703,705-709,733,736-740
+  s_532037ee9093f5::t_5493282617248a 704,710-732,734-735
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeManager.kt
+  s_532037ee9093f5::t_6d1e4ad861827f 364-385
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanelLogic.kt
+  s_532037ee9093f5::t_cace7866030a98 1-33,35,37,40-42,44,46-53,56,60-64
+  s_532037ee9093f5::t_cb04d6f1c811de 34,36,38-39,43,45,54-55,57-59
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/Bridge.kt
+  s_532037ee9093f5::t_b9a69a98e688dc 23
+  s_532037ee9093f5::t_4dd7a0dc45a440 763-818
+  s_532037ee9093f5::t_f3bb82f97c150e 50
+  s_532037ee9093f5::t_517e00d9aa3f86 932-934
+  s_532037ee9093f5::t_91897f4592f434 968-973
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KoogAgentRunner.kt
+  s_532037ee9093f5::t_65484726d95bb8 1527-1528
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/observe/AuditLogTest.kt
+  s_532037ee9093f5::t_b083ec38419b41 580-589,595-613
+  s_532037ee9093f5::t_15110733309617 525-526,528,531
+  s_532037ee9093f5::t_7dbfa860fed3b8 590-594
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/HandlerGateAndWeightTest.kt
+  s_532037ee9093f5::t_4a3823ec152add 462,485,501,514,532,546
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmBus.kt
+  s_532037ee9093f5::t_d40faa89f47b68 145-147
+  s_532037ee9093f5::t_e1d4e9c5af1bdb 50-55
+  s_532037ee9093f5::t_263ba96b63a510 35-39
+  s_532037ee9093f5::t_2aa17f4c0b6dad 199
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmServiceTest.kt
+  s_532037ee9093f5::t_4a3823ec152add 27,39,51,60,81,89-90,104,170,190-191,214,235,243,248,291,310,315,325,339,341,354,380,403,420,443,446,453,467
+  s_532037ee9093f5::t_6ac4feda5e78a6 115
+  s_532037ee9093f5::t_f55188d97de022 488-538
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/GatewayConfirmNotifierTest.kt
+  s_532037ee9093f5::t_4a3823ec152add 24,46,59,78
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmBusTest.kt
+  s_532037ee9093f5::t_6ac4feda5e78a6 144,462,468
+  s_532037ee9093f5::t_5d86e404d83680 293
+  s_532037ee9093f5::t_ff700d545f502e 264-292,294-300
+  s_532037ee9093f5::t_18cf863f263a93 76,88,118,140,446,460,507,561
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/observe/AuditLog.kt
+  s_532037ee9093f5::t_9f3f55370f7290 26-27
+  s_532037ee9093f5::t_3fe97c763caf24 64-65
+  s_532037ee9093f5::t_eb61ac3c238508 84
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_532037ee9093f5::t_c9170921363c9c 484-487
+  s_532037ee9093f5::t_52a0f0fb844ecb 668-674
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanelLogicTest.kt
+  s_532037ee9093f5::t_dc4562ac0b84d5 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "01324d0f41373e3d917be1b2de00478e92e828e8",
+  "prompts": {},
+  "sessions": {
+    "s_532037ee9093f5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "16d41776-ee5a-4840-bf87-e96493bccd32",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
