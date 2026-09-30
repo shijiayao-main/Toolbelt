@@ -1,0 +1,33 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_49753d72552aac::t_cd875298ef55a9 514
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ActivityChip.kt
+  s_49753d72552aac::t_8402047654ca41 65
+  s_49753d72552aac::t_24c6557a34db7e 34
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/MultiChoiceField.kt
+  s_49753d72552aac::t_7fe9df9bada4d6 13
+  s_49753d72552aac::t_14990df1f4638a 56
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/LightTagCapsuleGuardTest.kt
+  s_49753d72552aac::t_d2befea67a10aa 1-154
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ChoiceField.kt
+  s_49753d72552aac::t_b747b91bc992a2 75
+  s_49753d72552aac::t_47970bb368405b 19
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteParamForm.kt
+  s_49753d72552aac::t_7281908a547003 97
+  s_49753d72552aac::t_e58f23226ab087 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "53ec7019a36ce7b409bd6cced1ff75eb527593ba",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
