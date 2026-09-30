@@ -1,0 +1,50 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_49753d72552aac::t_257c880c22736b 680,697-701,703,705,707-708
+  s_49753d72552aac::t_35a8554caf5788 44
+  s_49753d72552aac::t_0ff9ebcb397038 394
+  s_49753d72552aac::t_bcd8dad6c5319e 296,298
+  s_49753d72552aac::t_a4b9539de03c5d 281,283-285
+  s_49753d72552aac::t_9efbdc9f0ad478 329
+  s_49753d72552aac::t_2103f0253076b0 639
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_49753d72552aac::t_a04e9d59d0dabd 53
+  s_49753d72552aac::t_798d9084563ce4 821-824,826-831
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/BotCapabilityCard.kt
+  s_49753d72552aac::t_1fa916a85e7247 441-443,445-446
+  s_49753d72552aac::t_530e653919ca54 188-189
+  s_49753d72552aac::t_447f5cd0c6717f 34,41
+  s_49753d72552aac::t_c429cc3a75e80f 184
+  s_49753d72552aac::t_9bf27398c510a8 223-224
+  s_49753d72552aac::t_cc27be7c48398f 186-187
+  s_49753d72552aac::t_cec1d9b2c4d41a 495-497,499,501-504,507,509
+  s_49753d72552aac::t_04e5a572ac494e 241,243-244
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/PillLabelGuardTest.kt
+  s_49753d72552aac::t_cd275cb2c5be00 19-25,44,55-58,70,84-85,98-101,104-105,116-131,133-136,139-140
+  s_49753d72552aac::t_ea7396cd3115bc 26-27
+  s_49753d72552aac::t_8f2e0334e3eaf5 1-18,28-43,45-54,59-69,71-83,86-97,107-108,110-114,132,141-168
+  s_49753d72552aac::t_7979b3caa14419 102-103,106,109
+  s_49753d72552aac::t_9604be7c5dda3a 115
+  s_49753d72552aac::t_8db56c385bc70e 137-138
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/PillLabelTest.kt
+  s_49753d72552aac::t_611bfba03e3c96 110
+  s_49753d72552aac::t_e1cd2c1f02282f 1-63,66-109,111-139
+  s_49753d72552aac::t_ba12281dcdb201 64-65
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PillLabel.kt
+  s_49753d72552aac::t_8a727bce454938 1-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "51fdfa65938c8d6584a207546f96039d7ef92383",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
