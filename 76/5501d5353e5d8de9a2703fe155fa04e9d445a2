@@ -1,0 +1,47 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_49753d72552aac::t_c72f951c753a1a 333-336
+  s_49753d72552aac::t_6f427a1ef3df0e 24
+  s_49753d72552aac::t_759c6ce3ae5df7 265-271
+  s_49753d72552aac::t_bcfd77eaf24a0a 108-140
+  s_49753d72552aac::t_c7075e147567f3 272
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistryNavTest.kt
+  s_49753d72552aac::t_8436b1cd596553 604-607
+  s_49753d72552aac::t_6144b8a98f18c6 327-443
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_49753d72552aac::t_14a05cac721a49 217-219,222-232
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_49753d72552aac::t_ebafc9c4641bac 105
+  s_49753d72552aac::t_0da466f71db3fd 158,165-169,172
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageLabels.kt
+  s_49753d72552aac::t_1c4484df4c82fc 95-109
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModelOpenTabsTest.kt
+  s_49753d72552aac::t_3c77d960b1d28c 318-414
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/agentcenter/AgentCenterPage.kt
+  s_49753d72552aac::t_94b5bd87946d25 62-80
+  s_49753d72552aac::t_9e79f277229c27 9,12
+  s_49753d72552aac::t_35365047a7bf28 23
+  s_49753d72552aac::t_a5343a9ad1f2cb 40-42
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_49753d72552aac::t_1fbeb5729ca73d 442-445
+  s_49753d72552aac::t_5f7ec7dea925bb 234-242
+  s_49753d72552aac::t_a6ae1f279be904 578-586
+  s_49753d72552aac::t_b45c3f8758bce1 446-453
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeContent.kt
+  s_49753d72552aac::t_649b755d0a8cbe 23-25,34-38,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "765501d5353e5d8de9a2703fe155fa04e9d445a2",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
