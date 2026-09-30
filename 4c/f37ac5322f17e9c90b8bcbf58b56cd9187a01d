@@ -1,0 +1,41 @@
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellOutputPanelWiringGuardTest.kt
+  s_49753d72552aac::t_940a6042739448 8-9
+  s_49753d72552aac::t_f8f6e0015370e6 176
+  s_49753d72552aac::t_c817f2535bbacb 173,180-187
+  s_49753d72552aac::t_b04aef306cb20d 188-234,237,239-253,255,263-314
+  s_49753d72552aac::t_0e23165167357b 235-236,238
+  s_49753d72552aac::t_c04149717b8019 254,256-262
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_49753d72552aac::t_9c8278a3840c65 66-70
+  s_49753d72552aac::t_d34765f8a1f950 65
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_49753d72552aac::t_b3fd013ee89b21 104-110
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_49753d72552aac::t_28e859a73ffa13 79-82,85-88
+  s_49753d72552aac::t_ae4c2e264ef708 114-115
+  s_49753d72552aac::t_0e568a33ec0564 42
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_49753d72552aac::t_29bd41c616ac25 11-12
+  s_49753d72552aac::t_25ff5932279a4d 182-217,220-221,226-238
+  s_49753d72552aac::t_ca5f6c7e8c9585 14
+  s_49753d72552aac::t_0b02244009944c 37
+  s_49753d72552aac::t_6f3f989ffca442 218-219,222-225
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/OutputHeightDivider.kt
+  s_49753d72552aac::t_93837c2ad709be 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4cf37ac5322f17e9c90b8bcbf58b56cd9187a01d",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

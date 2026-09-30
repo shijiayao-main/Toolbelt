@@ -1,0 +1,33 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/MarkdownTableBlock.kt
+  s_49753d72552aac::t_b4e475074e5906 1-4,6-7,9-24,30-56,59-65,68-77,80-92,94-97
+  s_49753d72552aac::t_ff7e8134326d93 5,8,25-29,57-58,66-67,78-79,93
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/evidence/EvidenceModels.kt
+  s_49753d72552aac::t_566cc4c1eeb000 171-174,241-255,264
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/MarkdownTableBlockTest.kt
+  s_49753d72552aac::t_eb5a1fe6f549a8 1-75
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_49753d72552aac::t_566cc4c1eeb000 64,718-725
+  s_49753d72552aac::t_f98e349f141ba5 726-727
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/evidence/EvidenceModelsTest.kt
+  s_49753d72552aac::t_566cc4c1eeb000 177,259-296
+  s_49753d72552aac::t_9549b3c30f1dad 297
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchReportPanelRenderGuardTest.kt
+  s_49753d72552aac::t_566cc4c1eeb000 16,32-40
+  s_49753d72552aac::t_c7ce2c0c65d9cf 41-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8f783367d21719bf57a15e9e9d8100f8517089d6",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
