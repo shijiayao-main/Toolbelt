@@ -1,0 +1,19 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/AppHostGuardTest.kt
+  s_49753d72552aac::t_259da5ee3c4f42 177-184,186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "866b4d1e2a96bd13e6e3a3b48be10cba910618a2",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
