@@ -1,0 +1,44 @@
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/evidence/EvidenceModelsTest.kt
+  s_49753d72552aac::t_8da811792a3c19 62-105
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_49753d72552aac::t_904fd0c7d3f7bb 94-95
+  s_49753d72552aac::t_3eaa526598b93e 133-134,136,138-147,161-162,164-165,167-168
+  s_49753d72552aac::t_c51ef8d987e05a 163,166
+  s_49753d72552aac::t_d217f1d5444faa 55-56
+  s_49753d72552aac::t_9461e6cc1a99eb 42
+  s_49753d72552aac::t_76a75656554166 135,137
+  s_49753d72552aac::t_1917c48f76bd5e 250-255
+  s_49753d72552aac::t_4d54c640ba1fe8 98-99
+  s_49753d72552aac::t_530e062a705295 169-170
+  s_49753d72552aac::t_120ffcbc6c516c 249
+  s_49753d72552aac::t_ded541b97aa3a3 256
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/evidence/EvidenceModels.kt
+  s_49753d72552aac::t_4adba3f45ea625 58-75,93-119
+  s_49753d72552aac::t_0f6f2c4656f73c 120-121
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_49753d72552aac::t_2781229e37e010 42,46
+  s_49753d72552aac::t_3818428dd0f394 214
+  s_49753d72552aac::t_fea1872700220b 219-220,222-223
+  s_49753d72552aac::t_a15c5fb9b1eed8 159-160,162-163
+  s_49753d72552aac::t_a2e1ffe935dd97 170-173
+  s_49753d72552aac::t_e3d3153a3880dc 107-108,114-118
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/EvidenceTimelineOffsetTest.kt
+  s_49753d72552aac::t_ed6d45bbdd9db2 77-106
+  s_49753d72552aac::t_21eae756c92ae3 4,8,11-12,26-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fe529597692b0aff8b515960c79f1d0d80c43bf3",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
