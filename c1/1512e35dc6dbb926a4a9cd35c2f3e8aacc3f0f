@@ -1,0 +1,88 @@
+docs/core/theme.md
+  s_49753d72552aac::t_90f7936df1f1b2 287
+  s_49753d72552aac::t_0704fe0345a911 265-266,273-277
+  s_49753d72552aac::t_36fa74439a90e1 278
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  s_49753d72552aac::t_d51e46134e413a 72,162,188
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_49753d72552aac::t_126cf6361d7069 129-157
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_49753d72552aac::t_308c4055f55c28 21,28-31,33-36
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TonalCard.kt
+  s_49753d72552aac::t_1ba9e7fcdd27a9 36-43,63-64
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapes.kt
+  s_49753d72552aac::t_5874fb78c37a71 40-48
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/EasyToolboxColors.kt
+  s_49753d72552aac::t_ad5dcb2cb195fb 21-24,56-58,93-95
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/HoverActions.kt
+  s_49753d72552aac::t_c547a5aba3334c 65-69
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_49753d72552aac::t_b4a457725adbb5 160-167
+  s_49753d72552aac::t_d7f1a2b071a54d 26
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/StatusBanner.kt
+  s_49753d72552aac::t_0aced71bfcc1c3 30,73-74,76,79-80
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterPage.kt
+  s_49753d72552aac::t_d51e46134e413a 44
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ChatComposer.kt
+  s_49753d72552aac::t_9322d32b3cf09a 140
+  s_49753d72552aac::t_e29f400f2509d3 141
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ChatEntryRow.kt
+  s_49753d72552aac::t_9322d32b3cf09a 101
+  s_49753d72552aac::t_e5902beb3e0b64 102
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  s_49753d72552aac::t_f357dddb82ec4b 60
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposePage.kt
+  s_49753d72552aac::t_d51e46134e413a 85
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_49753d72552aac::t_f357dddb82ec4b 154
+  s_49753d72552aac::t_14fe469d699158 467
+  s_49753d72552aac::t_138bbbaa1fa99f 665
+  s_49753d72552aac::t_dad98272feca29 22-31,83-92,94-95,896-899
+  s_49753d72552aac::t_ca8eb078294878 93
+  s_49753d72552aac::t_1fe2872e32f196 372-373,465-466,514-535,669,671-672
+  s_49753d72552aac::t_2c35dcda784329 124-129,301-371,374
+  s_49753d72552aac::t_546fe031da0b35 654,663-664,666
+  s_49753d72552aac::t_e4da225b0cd6d3 156
+  s_49753d72552aac::t_95cee5c5d243ab 375
+docs/ui-style-guide.md
+  s_49753d72552aac::t_4dd9b1a22bb851 1088-1089,1096-1099
+  s_49753d72552aac::t_90f7936df1f1b2 1094
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DesktopTypography.kt
+  s_49753d72552aac::t_b9ed1361f67173 72-81
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_49753d72552aac::t_90049f153c6f8c 769-770,866,868
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/xlog/XLogDecoderPage.kt
+  s_49753d72552aac::t_d51e46134e413a 80
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_49753d72552aac::t_e4da225b0cd6d3 297
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_49753d72552aac::t_d51e46134e413a 416
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppContextMenu.kt
+  s_49753d72552aac::t_9c55d6bbe25ccb 79,82
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColors.kt
+  s_49753d72552aac::t_02041079294f8f 41-44,95-100
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  s_49753d72552aac::t_c61c1a12968c9d 246,251
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TaskCard.kt
+  s_49753d72552aac::t_ebc51706caadab 106
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ToolCallCard.kt
+  s_49753d72552aac::t_cfd7bd6711a244 141
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_49753d72552aac::t_d60ea90767603b 470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c11512e35dc6dbb926a4a9cd35c2f3e8aacc3f0f",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
