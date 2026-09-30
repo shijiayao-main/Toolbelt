@@ -1,0 +1,36 @@
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDetectingTest.kt
+  s_49753d72552aac::t_71653e7edaf5c0 33-39
+  s_49753d72552aac::t_30a5fceb52930d 3
+  s_49753d72552aac::t_d5db0186d51b9c 16
+  s_49753d72552aac::t_03a5f938fcefc1 176-184,191-193,196-200
+  s_49753d72552aac::t_c4e54afdb3538d 1-2,4-15,17-32,40-175,185-190,194-195,201-277
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_49753d72552aac::t_0bae7140f48b98 279
+  s_49753d72552aac::t_879bcb4704ba08 329-331,337
+  s_49753d72552aac::t_3f501af6a52243 250-251
+  s_49753d72552aac::t_88232d6ae1dc88 452-455,460-464
+  s_49753d72552aac::t_0f7d10e439ebc3 396-398
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModel.kt
+  s_49753d72552aac::t_083ca43fd4f178 139-142,144-164,166-186
+  s_49753d72552aac::t_f61b588ad3efc0 121-122,126
+  s_49753d72552aac::t_be193b97108c61 42-51
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDetectingWiringGuardTest.kt
+  s_49753d72552aac::t_2288eea09fe956 1-70,72-100
+  s_49753d72552aac::t_9f36052fbac545 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9551309ebdecfca883e22468e07f097e22d1539f",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
