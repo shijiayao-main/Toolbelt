@@ -1,0 +1,46 @@
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmServiceTest.kt
+  s_49753d72552aac::t_c446d9d548f3b8 757
+  s_49753d72552aac::t_5f8f5bce94037a 634-756,758-821
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmService.kt
+  s_49753d72552aac::t_19cdfd63720eac 94
+  s_49753d72552aac::t_c9c9f3f0b98d02 396-404
+  s_49753d72552aac::t_a55fb098181289 80-93
+  s_49753d72552aac::t_8554cceef6d3f4 288,290,299
+  s_49753d72552aac::t_2e9f2f436c703b 265-275,279-287,289,291-298,300-306,308-310
+  s_49753d72552aac::t_5fb8dabdc47ec6 253
+  s_49753d72552aac::t_93131140886936 307
+  s_49753d72552aac::t_3140c5f36fd101 203,206-212,217-223
+  s_49753d72552aac::t_c8eabd3c98d14e 126-141
+  s_49753d72552aac::t_1ddb9d2128e756 371
+  s_49753d72552aac::t_449a8c2505346b 112-125
+  s_49753d72552aac::t_9d3255d4741299 142,405
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/Bridge.kt
+  s_49753d72552aac::t_0a0f4ab277c8ff 445-447
+  s_49753d72552aac::t_24ba1129e8b80c 139-143,145
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_49753d72552aac::t_8d5aeea2206415 743-744,746
+  s_49753d72552aac::t_2a7b6d9e9b99af 750-753,757,765-766,768,771
+  s_49753d72552aac::t_3697868765d2dc 689-692,694-695,704,741-742,745,747-749,754-756,758-764,767,769-770,772-780
+  s_49753d72552aac::t_818426fb750bf0 1040-1041,1044-1046,1048-1050
+  s_49753d72552aac::t_8557a6029461b2 279-281,283
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeLifecycleTest.kt
+  s_49753d72552aac::t_79fbe02e01ccc9 871-893,895-896,898,900,903-926,928-932
+  s_49753d72552aac::t_75cb876570ca6a 927
+  s_49753d72552aac::t_c4dc753c8359bb 894,897,899,901-902
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f3fe735d60232b19e5eb378363ac2deba93643a2",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
