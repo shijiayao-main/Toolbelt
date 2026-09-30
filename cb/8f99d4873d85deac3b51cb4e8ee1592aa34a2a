@@ -1,0 +1,25 @@
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDevicePollingTest.kt
+  s_49753d72552aac::t_832dea3b54c910 1-169
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModel.kt
+  s_49753d72552aac::t_4d064f3944c0de 18,23
+  s_49753d72552aac::t_4b8dbf5436a2e5 102-111,115
+  s_49753d72552aac::t_a0daadbe35ee7a 112-114,116-117
+  s_49753d72552aac::t_40ecbe0ce47a8d 193-194
+  s_49753d72552aac::t_da6f5eb2dd529b 195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb8f99d4873d85deac3b51cb4e8ee1592aa34a2a",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
