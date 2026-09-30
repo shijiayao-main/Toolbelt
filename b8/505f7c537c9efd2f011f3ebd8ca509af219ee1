@@ -1,0 +1,30 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/SpaceMemberPanelTest.kt
+  s_49753d72552aac::t_69beddc9955ed3 1-174
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/SpaceBar.kt
+  s_49753d72552aac::t_58745b7a311e81 378-380,407-419,557
+  s_49753d72552aac::t_d2fca4dfa2e07c 156-176
+  s_49753d72552aac::t_b05b1182deabc0 619-628
+  s_49753d72552aac::t_95d02a0bd0a712 652-654
+  s_49753d72552aac::t_4f83016e9e72ea 657-659
+  s_49753d72552aac::t_9141becd0ad5d2 106-107
+  s_49753d72552aac::t_deb1b1ebf4ee9c 559,692-699
+  s_49753d72552aac::t_3d5818b3b4186a 420,451-556,558,560,655-656
+  s_49753d72552aac::t_9e112855f0e9f4 589-591
+  s_49753d72552aac::t_193f590a7ba667 561,592,700
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b8505f7c537c9efd2f011f3ebd8ca509af219ee1",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
