@@ -1,0 +1,22 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabsTest.kt
+  s_49753d72552aac::t_6c7df5d8a7bc8c 100-139
+  s_49753d72552aac::t_f57ad31bc7bb5b 3,5
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_49753d72552aac::t_33e17894209f28 165-168,170,175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4b35276b02d4079a168943702f2090c24bda310c",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
