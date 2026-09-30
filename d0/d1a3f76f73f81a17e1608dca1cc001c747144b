@@ -1,0 +1,30 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageReportTest.kt
+  s_49753d72552aac::t_a8c2c3c17c3e7a 83-86
+  s_49753d72552aac::t_8f925fa25a95c4 82,92
+  s_49753d72552aac::t_4378103aa680e7 105-106,108-109
+  s_49753d72552aac::t_e1293c11366821 1-81,87-91,93-104,107,110-168
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageReport.kt
+  s_49753d72552aac::t_8211a54e6e4cb1 225-241
+  s_49753d72552aac::t_d7569cdb22f2d2 157-158,173,179-185,187-205,208-213
+  s_49753d72552aac::t_7d451a81a0f090 133-138,145-150,178,186,206-207,214-215
+  s_49753d72552aac::t_b7d05de11eb1b8 44-45,47-49,52-57,59,65-66
+  s_49753d72552aac::t_b7ab01091ad205 76-77,80-81,83-84,120-128
+  s_49753d72552aac::t_9dd300d1da11b0 9,24,31,33,36
+  s_49753d72552aac::t_b3c92f82669793 216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d0d1a3f76f73f81a17e1608dca1cc001c747144b",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
