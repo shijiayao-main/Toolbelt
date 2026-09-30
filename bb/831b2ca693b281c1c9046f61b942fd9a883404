@@ -1,0 +1,25 @@
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchPrefillTest.kt
+  s_49753d72552aac::t_8580f828bcae92 3,46-49
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchViewModelAiRefreshTest.kt
+  s_49753d72552aac::t_8580f828bcae92 4,53-57
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchPipelineMultiFileToastTest.kt
+  s_49753d72552aac::t_8580f828bcae92 4,49-52
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSwitchConfirmTest.kt
+  s_49753d72552aac::t_8580f828bcae92 52-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bb831b2ca693b281c1c9046f61b942fd9a883404",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
