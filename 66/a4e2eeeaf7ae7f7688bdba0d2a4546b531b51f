@@ -1,0 +1,40 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/Bridge.kt
+  s_49753d72552aac::t_fba7b42e12ac2a 929-931
+  s_49753d72552aac::t_16462715b146c1 138-144
+  s_49753d72552aac::t_497dbefef46ec3 444-446
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/CardJson.kt
+  s_49753d72552aac::t_8f207c35ecb6b2 111-135
+  s_49753d72552aac::t_b046ea5691ec9f 110
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmServiceTest.kt
+  s_49753d72552aac::t_2895bd1a133374 540-633
+  s_49753d72552aac::t_972b6d1cc299d4 9
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/BridgeAssembler.kt
+  s_49753d72552aac::t_6f9865c4a7aa3c 278-282
+  s_49753d72552aac::t_63d296f6dab25d 1062-1064
+  s_49753d72552aac::t_2f2ce2834ffd0c 999-1008
+  s_49753d72552aac::t_7b7e5d5162a09d 688-739
+  s_49753d72552aac::t_03255f12ee0cc1 740
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/confirm/ConfirmService.kt
+  s_49753d72552aac::t_c17a5eb844a358 202-206,211-217
+  s_49753d72552aac::t_cb733868a32b73 9
+  s_49753d72552aac::t_425dc8072f73f1 66-70,72-95
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeLifecycleTest.kt
+  s_49753d72552aac::t_005c64910f920b 799-870
+  s_49753d72552aac::t_57363123171852 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "66a4e2eeeaf7ae7f7688bdba0d2a4546b531b51f",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
