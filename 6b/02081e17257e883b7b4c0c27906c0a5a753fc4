@@ -1,0 +1,23 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/StatusHostCloseIconGuardTest.kt
+  s_49753d72552aac::t_f0bef0d8552a52 1-68
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/StatusHost.kt
+  s_49753d72552aac::t_99b5edc35fafdc 157-163
+  s_49753d72552aac::t_2e2fe4d21d0b5c 38,40
+  s_49753d72552aac::t_db0a285546d626 154-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6b02081e17257e883b7b4c0c27906c0a5a753fc4",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
