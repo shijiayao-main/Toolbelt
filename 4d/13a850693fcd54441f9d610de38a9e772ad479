@@ -1,0 +1,36 @@
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpRunRegistry.kt
+  s_49753d72552aac::t_cbd298b78d8592 81-90,98
+  s_49753d72552aac::t_032c4c2851f1b4 7
+  s_49753d72552aac::t_e4ca5ca608a270 114,116-119,121,126,128-131,133,141,148
+  s_49753d72552aac::t_92f4a4c5cf0436 80
+feature-mcp/build.gradle.kts
+  s_49753d72552aac::t_687662d0ad5ff1 26-31
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposeViewModel.kt
+  s_49753d72552aac::t_801d74f011c91c 10,13-14
+  s_49753d72552aac::t_92470b7d2e8486 144-155
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpRunRegistryTest.kt
+  s_49753d72552aac::t_1a648596b52183 14,55-131
+  s_49753d72552aac::t_9d65a880e5c87a 132
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposeViewModelActiveRunsTest.kt
+  s_49753d72552aac::t_36d60ddcfa1c8f 58,65,70,78,85,95
+  s_49753d72552aac::t_b444f3ccb8ff86 1-57,59-64,66-69,71-77,79-84,86-94,96-102
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposePage.kt
+  s_49753d72552aac::t_66e27b9afa2f9c 50-51
+  s_49753d72552aac::t_7b3fd254f5850d 106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4d13a850693fcd54441f9d610de38a9e772ad479",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
