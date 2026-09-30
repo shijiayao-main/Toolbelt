@@ -1,0 +1,41 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_49753d72552aac::t_bc3cdcf9fb383d 139-141
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/status/BridgeStatusPanel.kt
+  s_49753d72552aac::t_682c0e7e97a257 66-67
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_49753d72552aac::t_a544f67b103af8 316-317
+  s_49753d72552aac::t_35be1e05f7fc8a 325
+  s_49753d72552aac::t_f37d56c5d19f1b 234-235
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_49753d72552aac::t_5a23aeebba642a 76-77
+  s_49753d72552aac::t_9b7e42bc9424c7 239,293,370
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SectionCard.kt
+  s_49753d72552aac::t_a76f985d5db64c 51-52,62-63
+  s_49753d72552aac::t_f721f6c47d8111 82-83,85,92-97
+  s_49753d72552aac::t_9451e6f740d342 153-154,156
+  s_49753d72552aac::t_81b8be175dbd31 169-170
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  s_49753d72552aac::t_ce96cfaf0bd16a 156-157,161
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/TonalCardShapeGuardTest.kt
+  s_49753d72552aac::t_6365be9bf4f843 6
+  s_49753d72552aac::t_06f67a7cd34a0f 85
+  s_49753d72552aac::t_a2b8b876109c28 1-5,7-84,86-167
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TonalCard.kt
+  s_49753d72552aac::t_094c8416d39631 30,45-52,57-59,74-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a495aa6bb6659f13fb0110d5f4e5b3d627abec09",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
