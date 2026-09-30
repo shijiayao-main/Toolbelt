@@ -1,0 +1,31 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ColorPickerDialog.kt
+  s_49753d72552aac::t_ea5af274f1b723 141
+docs/core/theme.md
+  s_49753d72552aac::t_389a037792f63e 51,53,57-64
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_49753d72552aac::t_ea5af274f1b723 219-221
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpec.kt
+  s_49753d72552aac::t_538c4807e78453 23,25-43,45
+  s_49753d72552aac::t_f0a7ed49a0a9bc 87-91
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpecTest.kt
+  s_49753d72552aac::t_78b0b5f870af6e 118-119
+  s_49753d72552aac::t_5935bac84b5521 75-77,85,92,95-96
+  s_49753d72552aac::t_8e2fe0457a9907 14-18,20,22-23,39-45
+  s_49753d72552aac::t_c021503c3346a0 107-117,120-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "07943ca59472a045bd3b86f3ed6c5d3ed2be1e26",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
