@@ -1,0 +1,42 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_49753d72552aac::t_2aeff31b41343d 45
+  s_49753d72552aac::t_b5c937c3364506 252-255,258
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_49753d72552aac::t_2e3c8c9ae5095a 47
+  s_49753d72552aac::t_a060554edd2924 284-285,289
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SearchField.kt
+  s_49753d72552aac::t_5d4fd2c3c66054 4,8-9,22,26-27,40-41,44-46,50-52,54-58,62-64,66,68-69,74-79,101,106,112,124,134,137-147,161,167-168,170-174
+  s_49753d72552aac::t_dfcf04f1e4e3e3 1-3,5-7,10-14,16-17,19-21,23-25,28-39,42-43,47-49,53,59-61,65,67,70-73,80-100,102-105,107-111,113-123,125-133,135-136,148-160,162-166,169,175-180
+  s_49753d72552aac::t_1b70ad8a8bba9e 15,18
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_49753d72552aac::t_c3ffec27e170f8 15
+  s_49753d72552aac::t_046baedc7f79a0 59
+  s_49753d72552aac::t_a557f900f3e4c2 307-309,315-316
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  s_49753d72552aac::t_107ec3c0be9e5a 38
+  s_49753d72552aac::t_d13dbfe77c4112 200,203-204
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/SearchFieldGuardTest.kt
+  s_49753d72552aac::t_4b08798dc419e9 1-23,29-134,169-172,174,177,179-187,190-213,215-303,306-307
+  s_49753d72552aac::t_f7db8e95e472ff 214
+  s_49753d72552aac::t_d9d5712c7cf54c 24-28
+  s_49753d72552aac::t_5417564969a63f 135-168
+  s_49753d72552aac::t_be65cd7848cbd5 304-305
+  s_49753d72552aac::t_6f972a4b26be82 173
+  s_49753d72552aac::t_cb3e5e16e3efae 175-176,178,188-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "232db40d6ed08cf14e6f983f62811228488d7521",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
