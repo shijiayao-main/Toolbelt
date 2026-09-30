@@ -1,0 +1,25 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugViewModel.kt
+  s_49753d72552aac::t_9bd9f655b2002f 243-248
+  s_49753d72552aac::t_81b683bf53c2b7 312
+  s_49753d72552aac::t_20874be560e517 39-45
+  s_49753d72552aac::t_de6876f2c705c9 38
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugViewModelTest.kt
+  s_49753d72552aac::t_a0ed6c2465c928 198-201,203-207,213,225,227-230,238-241
+  s_49753d72552aac::t_7f1db014fe7145 194-197,202,208-212,214-224,226,231-237,242-249
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "dd2ab5918495b5ec58a057872bda65f1dc316f4f",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
