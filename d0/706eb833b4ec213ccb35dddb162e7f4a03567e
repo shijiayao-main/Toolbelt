@@ -1,0 +1,23 @@
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposeViewModel.kt
+  s_49753d72552aac::t_96b8910a7e1695 9-10
+  s_49753d72552aac::t_7a338f1b3d79f0 160-162,170-181
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposeViewModelLogStampTest.kt
+  s_49753d72552aac::t_881a48de6d0905 1-27,31-49,51-95,97-109,111-113,115-116,118-125,139-141
+  s_49753d72552aac::t_93d5693116b5b1 28-30,50,96,110,114,117,126-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d0706eb833b4ec213ccb35dddb162e7f4a03567e",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
