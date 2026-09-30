@@ -1,0 +1,38 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/decor/DashedBox.kt
+  s_49753d72552aac::t_734942df661648 46,48-49,51,57-58
+  s_49753d72552aac::t_4f5a7d0cb246ce 7,10
+  s_49753d72552aac::t_bb6ca36b479226 1-6,8-9,11-45,47,53-56,59-63
+  s_49753d72552aac::t_ef8a3b72fb59e7 50,52
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/DashedBoxSceneGuardTest.kt
+  s_49753d72552aac::t_9689279decbced 110,113-115,123,127-129
+  s_49753d72552aac::t_0d8ba129d5eeed 122,124
+  s_49753d72552aac::t_f6f08b334bbb34 133-138,146
+  s_49753d72552aac::t_d590fcbf66a598 1-109,111-112,116-121,125-126,130-132,139-145,147-148
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColorsTest.kt
+  s_49753d72552aac::t_a52dc2c87053f3 1-69
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_49753d72552aac::t_7f8e91ea0e282d 936-943
+  s_49753d72552aac::t_c9aa3132fa41b4 341-349,352,355-357,363-365,376
+  s_49753d72552aac::t_0f23bb89f6d360 30-31
+  s_49753d72552aac::t_f53957c6555877 557-573
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColors.kt
+  s_49753d72552aac::t_9b3defd8cb9575 46-55
+  s_49753d72552aac::t_3cbb79742bb2a5 112-114
+  s_49753d72552aac::t_aa39f77522925a 18-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "82936668a170b79511dad5e63fbab55068897146",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
