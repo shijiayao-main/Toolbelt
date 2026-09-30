@@ -1,0 +1,38 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugViewModel.kt
+  s_49753d72552aac::t_841f4bd7d133af 100-107
+  s_49753d72552aac::t_5b8ef3b983eb59 266-269
+  s_49753d72552aac::t_b23dd49f1e2253 353
+  s_49753d72552aac::t_43b3bcd0ab6e4e 244-260
+  s_49753d72552aac::t_61b4695e112bfb 261-262
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/InteractiveShell.kt
+  s_49753d72552aac::t_7fe15dd6e0e287 85-86,89-90,92
+  s_49753d72552aac::t_31f8f0c30d7660 138-141
+  s_49753d72552aac::t_916521c1937b9d 29-31,39-40,43-48
+  s_49753d72552aac::t_25100dd782c52f 87-88,91
+  s_49753d72552aac::t_d23a02d04b1f44 93
+  s_49753d72552aac::t_e2425403fd11d3 35-37
+  s_49753d72552aac::t_8625fdaca9dbee 12
+  s_49753d72552aac::t_29702690647ef2 41-42
+  s_49753d72552aac::t_f28baf9289260a 55-56
+  s_49753d72552aac::t_0315d8ea03e856 38
+  s_49753d72552aac::t_592ad889569143 49
+  s_49753d72552aac::t_aedce0b6710081 94
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugViewModelTest.kt
+  s_49753d72552aac::t_31e498054a6ca6 121-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "12d4e67fce4ccbc16477887af5db3ddb17c58780",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
