@@ -1,0 +1,33 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_49753d72552aac::t_8646387b8ede6c 167
+  s_49753d72552aac::t_273b9148c5b265 318-329
+  s_49753d72552aac::t_c6848c7ec19021 147-154,157-158,160-166,168-169
+  s_49753d72552aac::t_a0f0396944d5c6 353-363
+  s_49753d72552aac::t_d1859f9bdaa1ed 26
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsPanel.kt
+  s_49753d72552aac::t_09e2e6d5555dfd 117,126,130
+  s_49753d72552aac::t_3daea0aec4fb0b 107-110,116,118-119,121-125,127-129,131,153-156,160-161
+  s_49753d72552aac::t_871071573deb0d 152,157-159
+  s_49753d72552aac::t_802ff83bdf8fa8 132
+  s_49753d72552aac::t_148adc67842e01 739-757
+  s_49753d72552aac::t_9de88e9aa5af48 56-57
+  s_49753d72552aac::t_e74f224295d2b3 162,758
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsReadFailureTest.kt
+  s_49753d72552aac::t_f84681c6e50a39 1-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ed3679cb1dba519224666894207895d7a61c64d5",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
