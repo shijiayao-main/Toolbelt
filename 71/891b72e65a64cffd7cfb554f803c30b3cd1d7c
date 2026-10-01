@@ -1,0 +1,32 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/SettingsPageCopyGuardTest.kt
+  s_49753d72552aac::t_5c5eb7bed06693 21
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SettingsTwoPane.kt
+  s_49753d72552aac::t_fd530c3c381a19 15
+  s_49753d72552aac::t_3e9d5138157d79 1-14,16-143
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/SettingsTwoPaneTest.kt
+  s_49753d72552aac::t_1a6be5c3bc6348 5
+  s_49753d72552aac::t_7523c5e625952d 126-127,129-135
+  s_49753d72552aac::t_b14a608be0d77b 1-4,6-125,128,136-138,140-143,151-152,154-156,162-222
+  s_49753d72552aac::t_90b931718403e5 139,144-150,153,157-161
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_49753d72552aac::t_2ce617be914c4c 83-106,109-127,129-136,138-140,143-153,156-164,166-169,171-187,192-195,197-215,217-227,230-271,273,275-280,282-292,294-310,313-316,325-326,329-330
+  s_49753d72552aac::t_a582c77a5c4d02 52-53
+  s_49753d72552aac::t_99f2fc4e19091f 228
+  s_49753d72552aac::t_05d92771a0f235 317-324,327-328
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "71891b72e65a64cffd7cfb554f803c30b3cd1d7c",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
