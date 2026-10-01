@@ -1,0 +1,32 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_49753d72552aac::t_b672b0188ab8d2 580-583,592,603-607
+  s_49753d72552aac::t_bc57f661881e05 10
+  s_49753d72552aac::t_f9bd86ef1dcaca 459-468,470-473,475-476,486-499,504-541
+  s_49753d72552aac::t_6e529fa44b8802 109-114
+  s_49753d72552aac::t_d2bb932a9c71e6 251
+  s_49753d72552aac::t_2df297a74bbac7 40
+  s_49753d72552aac::t_4b599bcbf005c0 115-119
+  s_49753d72552aac::t_9280c6f3e410eb 154,156-159
+  s_49753d72552aac::t_ec4d354aa22109 542
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_49753d72552aac::t_8d202dca5def7f 268-273
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchReportPanelRenderGuardTest.kt
+  s_49753d72552aac::t_bcca3f3aa6f589 237-269
+  s_49753d72552aac::t_bb0ff4e35afc7b 32-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4d27143d0759fe0e2d106355a5191deaef1d6ffd",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
