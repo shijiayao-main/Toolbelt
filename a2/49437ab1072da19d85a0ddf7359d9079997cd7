@@ -1,0 +1,32 @@
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchReportPanelRenderGuardTest.kt
+  s_49753d72552aac::t_236862167eded1 38-39
+  s_49753d72552aac::t_792e249577466d 346-377
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_49753d72552aac::t_657fc68c12b548 354-363,365-379
+  s_49753d72552aac::t_8cb8d6a56f838b 302-304
+  s_49753d72552aac::t_0eb30ae6419377 10
+  s_49753d72552aac::t_272da6dc39ffbe 6
+  s_49753d72552aac::t_4eb075597bb40e 230-233
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_49753d72552aac::t_ba4a6db40b2a66 139-144
+  s_49753d72552aac::t_2b3032cf3c4b5f 483-490,492,523-527
+  s_49753d72552aac::t_cf75b2f31368a9 363
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PathConfirmCard.kt
+  s_49753d72552aac::t_aaadade86c4525 3,12-13,33-36,43,48-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a249437ab1072da19d85a0ddf7359d9079997cd7",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
