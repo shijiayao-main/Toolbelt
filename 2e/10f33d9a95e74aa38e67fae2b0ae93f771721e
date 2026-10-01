@@ -1,0 +1,19 @@
+feature-logkit/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterViewModelTest.kt
+  s_49753d72552aac::t_281a34eb463596 4-5,59-60,65-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2e10f33d9a95e74aa38e67fae2b0ae93f771721e",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
