@@ -1,0 +1,32 @@
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposeViewModelToolFamilyTest.kt
+  s_49753d72552aac::t_3990e59175d8aa 1-87
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposePage.kt
+  s_49753d72552aac::t_296137ae61a68c 52
+  s_49753d72552aac::t_8843a39e0c7cc0 220,222-227,232-235,237-239,241-260,263-267
+feature-mcp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposePageGuardTest.kt
+  s_49753d72552aac::t_951611917835d5 136-156
+  s_49753d72552aac::t_db5133ab3c9766 23-25
+  s_49753d72552aac::t_98141277328920 157-158
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposeViewModel.kt
+  s_49753d72552aac::t_7c54fadde07c93 19-42
+  s_49753d72552aac::t_b0fde6befafb69 110,113-120
+  s_49753d72552aac::t_95bb040a0a6d93 84,86-88
+  s_49753d72552aac::t_c628faebbc8de6 73,78
+  s_49753d72552aac::t_7b37a435013694 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "733ec8204125f9fa7f8a8d2d708fa6da6428cd2a",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
