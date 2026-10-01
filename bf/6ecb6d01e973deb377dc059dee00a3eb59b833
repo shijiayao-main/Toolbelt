@@ -1,0 +1,35 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_49753d72552aac::t_1b70cbfb17b529 28-32,46
+  s_49753d72552aac::t_72f6a94a1eb937 81
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPageGuardTest.kt
+  s_49753d72552aac::t_965eac261b91da 1-4,7-11,14-28,31-42,70-94
+  s_49753d72552aac::t_e38a5902d9cff7 45-69
+  s_49753d72552aac::t_7872cd458cb928 5
+  s_49753d72552aac::t_1927f4116f2bc3 6
+  s_49753d72552aac::t_1b243a2e6ddacb 43-44
+  s_49753d72552aac::t_c78619d4e439c1 29-30
+  s_49753d72552aac::t_2223e3a5e66bce 12-13
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextFieldTest.kt
+  s_49753d72552aac::t_852158fc9eb7d8 60-72,98-107
+  s_49753d72552aac::t_92a3eb2c4950f5 1-59,73-97,108-132
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_49753d72552aac::t_3525c9b0b2e4cf 28
+  s_49753d72552aac::t_80bfdaa40abbdd 50
+  s_49753d72552aac::t_4b07c7b0ed3c41 158-162,167,169-184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bf6ecb6d01e973deb377dc059dee00a3eb59b833",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
