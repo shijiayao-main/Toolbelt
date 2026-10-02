@@ -1,0 +1,30 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_49753d72552aac::t_3e995e1131c875 460-464,471-475
+  s_49753d72552aac::t_9d54654585b3fb 446-459,465-470
+  s_49753d72552aac::t_3d91ee31f6a858 305-308
+  s_49753d72552aac::t_9fc3c09d8ce7c3 25
+  s_49753d72552aac::t_8b53e8e53f4af6 294-304,333-337,359-363,382-384,387,415-417,420
+  s_49753d72552aac::t_136e081a0521bf 476
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillKbSearchFilterGuardTest.kt
+  s_49753d72552aac::t_4ca2310b98576a 109,113,117,128,132
+  s_49753d72552aac::t_21b58f213b519f 85,87
+  s_49753d72552aac::t_c54ddb6158838e 1-35,37-74,79,81-84,86,88-108,110-112,114-116,118-127,129-131,133-243
+  s_49753d72552aac::t_226996a0900f31 36
+  s_49753d72552aac::t_a10999e2f25534 75-78,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "12f8cf1259b8293fac203814d1035fc72e625851",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
