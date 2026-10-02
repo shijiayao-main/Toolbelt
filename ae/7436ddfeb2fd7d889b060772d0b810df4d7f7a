@@ -1,0 +1,25 @@
+feature-quest/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowRecentCardGuardTest.kt
+  s_49753d72552aac::t_8ef7f478e15580 1-216
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_49753d72552aac::t_443b0791f943f7 133-139
+  s_49753d72552aac::t_34719ca201638c 48
+  s_49753d72552aac::t_6c6ee58e231212 38
+  s_49753d72552aac::t_67a6d54ddf7cc7 61-63
+  s_49753d72552aac::t_01b901fddd9be2 282-287,360-482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ae7436ddfeb2fd7d889b060772d0b810df4d7f7a",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
