@@ -1,0 +1,32 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SectionCard.kt
+  s_49753d72552aac::t_032cae351a95c9 51-54
+  s_49753d72552aac::t_13a1f61e659e2e 120-123
+  s_49753d72552aac::t_c6dc1f3ae13e7e 75-84,92-93
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/LbGuardQuickSetupTest.kt
+  s_49753d72552aac::t_19b27271ea4361 9-10
+  s_49753d72552aac::t_2b2b00b096ba76 22-25
+  s_49753d72552aac::t_4067d97c87f58e 74-124
+  s_49753d72552aac::t_78683c79281e15 157
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_49753d72552aac::t_d8de5e661de162 507-538
+  s_49753d72552aac::t_b7fb90d7476458 199-208
+  s_49753d72552aac::t_0f0b212dff7e58 131-134
+  s_49753d72552aac::t_f4c36a218716d6 462-463
+  s_49753d72552aac::t_49739e69b3a964 254-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b5acb7f895efcfbb0ed3d77282f24029edeea9ba",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
