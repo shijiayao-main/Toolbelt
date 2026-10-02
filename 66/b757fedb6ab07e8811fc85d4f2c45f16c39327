@@ -1,0 +1,24 @@
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceSegmentFollowGuardTest.kt
+  s_49753d72552aac::t_eb03280984269b 32,35
+  s_49753d72552aac::t_63267e44adc61f 1-31,33-34,36-58
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_49753d72552aac::t_3b3b6ed70c5539 352-353,355,357,370-373
+  s_49753d72552aac::t_112afbe5b0e2a8 28
+  s_49753d72552aac::t_d43dde2f148714 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "66b757fedb6ab07e8811fc85d4f2c45f16c39327",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
