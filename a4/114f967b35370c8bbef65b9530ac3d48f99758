@@ -1,0 +1,26 @@
+docs/index.md
+  s_49753d72552aac::t_5dc27beb18b205 128
+  s_49753d72552aac::t_bc3dc98bc5fbb7 41
+  s_49753d72552aac::t_f7528d23f75757 89
+  s_49753d72552aac::t_a011765e541a26 44
+  s_49753d72552aac::t_8543d698a6ad3d 105-109
+  s_49753d72552aac::t_a13f1b9e138c1d 121-122
+docs/pages/ai-settings.md
+  s_49753d72552aac::t_e05fbfa1fe99b1 1-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a4114f967b35370c8bbef65b9530ac3d48f99758",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
