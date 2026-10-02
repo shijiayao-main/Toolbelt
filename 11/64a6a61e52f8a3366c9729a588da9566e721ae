@@ -1,0 +1,23 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHelpCard.kt
+  s_49753d72552aac::t_7f5264343625fd 43
+  s_49753d72552aac::t_631cbb2c5df359 196-201
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHubTest.kt
+  s_49753d72552aac::t_480101e0c7ba28 295-296
+  s_49753d72552aac::t_04ef363781bbb4 312-332
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1164a6a61e52f8a3366c9729a588da9566e721ae",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
