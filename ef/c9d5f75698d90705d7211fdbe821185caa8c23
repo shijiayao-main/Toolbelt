@@ -1,0 +1,29 @@
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/TaskErrorHintTest.kt
+  s_49753d72552aac::t_baca51a3d9758e 45-57
+  s_49753d72552aac::t_c121429ee6d296 6
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LbGuardCopyDriftTest.kt
+  s_49753d72552aac::t_7c64b5957dc689 1-119
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_49753d72552aac::t_4932be318576d0 259
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/TaskErrorHint.kt
+  s_49753d72552aac::t_fc65f250e99219 136
+  s_49753d72552aac::t_367436dc432b33 51
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/security/BridgeSecurityCardLogic.kt
+  s_49753d72552aac::t_1183a352005335 114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "efc9d5f75698d90705d7211fdbe821185caa8c23",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
