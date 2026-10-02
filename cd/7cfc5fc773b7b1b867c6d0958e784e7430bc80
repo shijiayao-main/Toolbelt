@@ -1,0 +1,23 @@
+feature-quest/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowRecentCardGuardTest.kt
+  s_49753d72552aac::t_0e3081e558c247 105-129
+  s_49753d72552aac::t_73078623104482 3
+  s_49753d72552aac::t_7f066c56106f0d 130-131
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_49753d72552aac::t_81fc37bde27c1d 294-297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cd7cfc5fc773b7b1b867c6d0958e784e7430bc80",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
