@@ -1,0 +1,26 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_49753d72552aac::t_62330dc9e28bcd 196-198
+  s_49753d72552aac::t_240556f8318766 344,370,390,423
+  s_49753d72552aac::t_1abc3ea80709b5 13
+  s_49753d72552aac::t_3062b4e00bdf46 453-475
+  s_49753d72552aac::t_6edb1a1659e3f7 8
+  s_49753d72552aac::t_4ae24a5b03669c 294-295
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillLoadingEmptyStateGuardTest.kt
+  s_49753d72552aac::t_d5df48bcc32460 1-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7758c7d99c9c6e61fa83e047c41f8d0a36a91d57",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
