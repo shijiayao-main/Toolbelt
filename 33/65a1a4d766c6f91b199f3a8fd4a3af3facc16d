@@ -1,0 +1,25 @@
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/TodoBoardUnifyGuardTest.kt
+  s_49753d72552aac::t_201d4b7dbcb499 1-110
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ChatEntryRow.kt
+  s_49753d72552aac::t_de83b2c128aa91 153-156,158-162,164-176
+  s_49753d72552aac::t_6b3793cef351d5 25
+  s_49753d72552aac::t_5052deca5b1115 35
+  s_49753d72552aac::t_bfb6eff4ed9e62 53
+  s_49753d72552aac::t_3ae0aefc102a66 157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3365a1a4d766c6f91b199f3a8fd4a3af3facc16d",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
