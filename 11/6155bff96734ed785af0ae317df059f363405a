@@ -1,0 +1,24 @@
+feature-timestamp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/NowTimeCardCollapseWiringGuardTest.kt
+  s_49753d72552aac::t_f09d0d2a6a0fee 1-109
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  s_49753d72552aac::t_c224426933dc43 167-172,175-201
+  s_49753d72552aac::t_5d2343cfde8c4b 80-89
+  s_49753d72552aac::t_8e73b6755ae01d 55-58
+  s_49753d72552aac::t_98cd2b15596cec 22-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "116155bff96734ed785af0ae317df059f363405a",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
