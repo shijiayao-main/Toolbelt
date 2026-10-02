@@ -1,0 +1,35 @@
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/LbGuardTaskDetailTest.kt
+  s_49753d72552aac::t_b6660edd39bfe9 1-73
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsPanel.kt
+  s_49753d72552aac::t_32ca6277ce973b 133
+  s_49753d72552aac::t_ed5c29c265233b 214-222
+  s_49753d72552aac::t_fd11154ace2ad4 106-111,123-125,128-132
+  s_49753d72552aac::t_aa100a2f17799b 245-247,255-301,303-304,309-313
+  s_49753d72552aac::t_bce9f2a54b1580 904-906
+  s_49753d72552aac::t_cdb7b2b850a026 248-254,302,305-308
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_49753d72552aac::t_7361a1d4623342 418-419
+  s_49753d72552aac::t_4f036bf8532ede 318-322
+  s_49753d72552aac::t_6fc5004631577c 137-140
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_49753d72552aac::t_774e5dd3a5ebbb 20-21
+  s_49753d72552aac::t_a73eb37b3613ac 346-365
+  s_49753d72552aac::t_e9c2ea21bf6841 934-936,939
+  s_49753d72552aac::t_f10e2126f251ab 138,140-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "516c3cc496e0e67686f749cc3e424e3ef46dea63",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
