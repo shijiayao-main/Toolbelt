@@ -1,0 +1,40 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  s_49753d72552aac::t_6331c0aa1bf359 261-263,265-268,295-328
+  s_49753d72552aac::t_7ef0e6bec00390 44-46
+  s_49753d72552aac::t_d5ec07313c727c 189-192,194-195
+  s_49753d72552aac::t_a5eec18f8c39b0 92
+  s_49753d72552aac::t_919e8e98cbe0e5 64-75
+  s_49753d72552aac::t_42fbb8ba75e207 264
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LBGuardLogConsoleTest.kt
+  s_49753d72552aac::t_4153b5c5ed86c6 1-2,4-166
+  s_49753d72552aac::t_0fe5d5c7a3d5fc 3
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitLogic.kt
+  s_49753d72552aac::t_948ca9ed46b6c1 45-66
+  s_49753d72552aac::t_e8467f14aa658a 22-27
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_49753d72552aac::t_83623f5c1cec68 288-296,301-302,311
+  s_49753d72552aac::t_a65a880898d2a5 90-92
+  s_49753d72552aac::t_8c9d7ade2cfe1d 616-637
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitLogicTest.kt
+  s_49753d72552aac::t_0286066b9800ca 245-257
+  s_49753d72552aac::t_8dab6036d396ab 223
+  s_49753d72552aac::t_370f529b139f34 6
+  s_49753d72552aac::t_97f41d7a5fba45 218-222,224-244
+  s_49753d72552aac::t_db476c3b9fce6d 35,40-75,80-81,83-87,89,91-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "23f72275d78db10061cecc84d9a1d63e464db3d9",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
