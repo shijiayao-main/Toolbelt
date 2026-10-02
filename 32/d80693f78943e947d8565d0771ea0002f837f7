@@ -1,0 +1,22 @@
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_49753d72552aac::t_e2785974ef7803 266-269,271
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellOutputPanelNamingGuardTest.kt
+  s_49753d72552aac::t_38956ec0d31ab0 1-63,65-69
+  s_49753d72552aac::t_c18c6235b8c6a2 64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "32d80693f78943e947d8565d0771ea0002f837f7",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
