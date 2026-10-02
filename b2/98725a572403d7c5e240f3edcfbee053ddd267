@@ -1,0 +1,29 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_49753d72552aac::t_c008725aece715 74-75
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/P5FieldGroupsTest.kt
+  s_49753d72552aac::t_298e99aee7c6ab 47-49,52-66,73,80,82-97
+  s_49753d72552aac::t_89a973e47a5261 17-20
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/P5FieldGroups.kt
+  s_49753d72552aac::t_8d49da32493077 62-71,82-84
+  s_49753d72552aac::t_438cc9f077d0bd 28-30,32
+  s_49753d72552aac::t_d87b0d7e62fb22 195-196
+  s_49753d72552aac::t_bc71b404dbcaa8 15,17-18,21
+  s_49753d72552aac::t_3954f7548552f1 159
+  s_49753d72552aac::t_256b274b3aecc9 61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b298725a572403d7c5e240f3edcfbee053ddd267",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
