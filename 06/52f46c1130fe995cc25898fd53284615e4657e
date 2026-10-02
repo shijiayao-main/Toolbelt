@@ -1,0 +1,63 @@
+docs/pages/lark-bridge.md
+  s_49753d72552aac::t_785918f5407613 420
+  s_49753d72552aac::t_339d4882901c6a 285
+  s_49753d72552aac::t_2ef53edba80468 289
+  s_49753d72552aac::t_9d97ec2b30a5a6 284
+  s_49753d72552aac::t_e62d96e27b6e1b 281
+docs/ui-style-guide.md
+  s_49753d72552aac::t_02c73d509ef836 292
+  s_49753d72552aac::t_57c4fe7c87fe95 1138
+docs/pages/shell-tools.md
+  s_49753d72552aac::t_d17ab970b7ba7a 26
+  s_49753d72552aac::t_25ef30f4a5c285 69-72,75-81
+  s_49753d72552aac::t_a8a27c8c88d774 24
+  s_49753d72552aac::t_7fc13fb6325158 14
+  s_49753d72552aac::t_541e881c0c5803 322-325
+  s_49753d72552aac::t_13df91c0b381fe 326
+docs/index.md
+  s_49753d72552aac::t_36d545b4210fe0 116
+  s_49753d72552aac::t_71e4db0656f0b7 138
+docs/pages/settings.md
+  s_49753d72552aac::t_229cf49b53b151 68
+docs/architecture.md
+  s_49753d72552aac::t_6603ca55beb979 305,308-310,313-314
+docs/core/theme.md
+  s_49753d72552aac::t_7bc84b92bcb29d 133-137
+  s_49753d72552aac::t_e272f247cb379d 263-265
+  s_49753d72552aac::t_d2a9ef9595c497 294
+  s_49753d72552aac::t_40a76d6e5c3699 324-328
+  s_49753d72552aac::t_7f4713c91785f7 416
+  s_49753d72552aac::t_0c4b5e4f79b05e 160
+  s_49753d72552aac::t_75f952c8440593 268
+docs/pages/voice.md
+  s_49753d72552aac::t_eb4b4333fde6af 129-134
+  s_49753d72552aac::t_1b9cc97d2c6ac9 117-119
+  s_49753d72552aac::t_c9738263c5526f 79-85
+docs/pages/quest.md
+  s_49753d72552aac::t_1f91e11bd3555e 4,9-14
+  s_49753d72552aac::t_76304f4ca006b5 25
+  s_49753d72552aac::t_bd26843385a9fd 62
+  s_49753d72552aac::t_f65aa8e0997c7a 144
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_49753d72552aac::t_9f032d4da85046 703-704
+docs/core/viewmodel.md
+  s_49753d72552aac::t_337c91a877f5bb 58,61-62
+docs/pages/debug.md
+  s_49753d72552aac::t_f38c730f654b2d 3,5,9,11-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0652f46c1130fe995cc25898fd53284615e4657e",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
