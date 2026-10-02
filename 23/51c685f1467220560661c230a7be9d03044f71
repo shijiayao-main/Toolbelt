@@ -1,0 +1,28 @@
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillAppButtonGuardTest.kt
+  s_49753d72552aac::t_2af1310464a3a6 45-47,50
+  s_49753d72552aac::t_2beeae842f30a5 1-44,48-49,51-206
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_49753d72552aac::t_e06e016f82a9c9 255
+  s_49753d72552aac::t_1dc3f205c2d0a2 152,154-159
+  s_49753d72552aac::t_8612f2c06e1215 609-616
+  s_49753d72552aac::t_e68497bbd6fc5c 244-249,251
+  s_49753d72552aac::t_ef9b49871eb441 749-750,752-763
+  s_49753d72552aac::t_06377985c4fbc5 668-674
+  s_49753d72552aac::t_85dcb930f13b0b 559-565
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2351c685f1467220560661c230a7be9d03044f71",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
