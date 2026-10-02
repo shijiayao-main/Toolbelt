@@ -1,0 +1,22 @@
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/RenameDialogEnterGuardTest.kt
+  s_49753d72552aac::t_472a7f769ae192 1-85
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/RenameDialog.kt
+  s_49753d72552aac::t_9b9008f9c6ae73 3,14-15,22-26
+  s_49753d72552aac::t_6b65849f0d3977 45-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9c689045f5101a5af188798a3d6b680aab725491",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
