@@ -1,0 +1,30 @@
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchReportPanelRenderGuardTest.kt
+  s_49753d72552aac::t_b25ee2f8061aea 458-482
+  s_49753d72552aac::t_c51aecd8d4eae5 50-51
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_dcccfffc18befb::t_8fe20bdcbaefa8 80-82,85-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "25b06708b73148fb63743f85e349cb0a43ec3400",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_dcccfffc18befb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-ad5134633881b0b78",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
