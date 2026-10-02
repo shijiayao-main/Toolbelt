@@ -1,0 +1,31 @@
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceModelDownloadGuardTest.kt
+  s_49753d72552aac::t_86e32a9abc0875 1-41,45-117
+  s_49753d72552aac::t_eaabca12f5ac86 42-44
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceViewModel.kt
+  s_49753d72552aac::t_47ecb87b54785c 160-169,172-193
+  s_49753d72552aac::t_9f3f99990c58a7 218-233
+  s_49753d72552aac::t_2e5a0bcf9cb494 234-235
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_49753d72552aac::t_044f5f1bcfe552 249-272,275-283
+  s_49753d72552aac::t_dad24d0b5e0ad3 273-274
+  s_49753d72552aac::t_fda6ccd786190a 414-438,441
+  s_49753d72552aac::t_85e8989f03f84d 439-440
+  s_49753d72552aac::t_f92d2ba96f4737 293,302
+  s_49753d72552aac::t_eb7e206ba1d27a 442
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "44a222f1ff354e7c75c220d0ff827670702eeb18",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
