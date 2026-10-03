@@ -1,0 +1,30 @@
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillViewModel.kt
+  s_eeb627b3d281e0::t_2bb102f2a0243a 143-144,413-416,420-422
+  s_eeb627b3d281e0::t_7b024f266faac7 423
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_eeb627b3d281e0::t_33754dd23df9f6 234-240,302-307,316-321
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_eeb627b3d281e0::t_2bb102f2a0243a 91-92,104-112
+  s_eeb627b3d281e0::t_a1b779894bedf3 245-251,253,703-711
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillAppButtonGuardTest.kt
+  s_eeb627b3d281e0::t_87d6af0bef60a6 80-82,85,87-88
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_eeb627b3d281e0::t_30fae8e61751f4 667-683
+  s_eeb627b3d281e0::t_c4d3cf0c958e33 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "836a7f79f000d489ba4321c0a5ed4698da916ebb",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
