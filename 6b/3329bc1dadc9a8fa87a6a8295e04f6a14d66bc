@@ -1,0 +1,52 @@
+docs/index.md
+  s_49753d72552aac::t_77a44b85e384f1 42
+  s_49753d72552aac::t_29a23c4088e0ff 138
+docs/core/theme.md
+  s_49753d72552aac::t_2c12216de7ed1b 420
+  s_49753d72552aac::t_32048ffe3e2f2f 181-182
+  s_49753d72552aac::t_8e58e3bae1a150 122-124
+  s_49753d72552aac::t_20ea466c7549c7 138-141
+docs/pages/navigation.md
+  s_49753d72552aac::t_15d120d0aca4a5 73
+  s_49753d72552aac::t_6b90a3a8e0889f 308-310
+  s_49753d72552aac::t_df92053cf7c73c 197
+  s_49753d72552aac::t_358c2aa9c94a32 110-113,115-120
+  s_49753d72552aac::t_ab16ad09ccbe98 143-145
+  s_49753d72552aac::t_6ac6efb8eeb535 244
+docs/ui-style-guide.md
+  s_49753d72552aac::t_62abcb6b73935c 189
+  s_49753d72552aac::t_537a3b801261d6 779
+  s_49753d72552aac::t_c7d7145568e6b4 150-152
+  s_49753d72552aac::t_0412dea0d7510a 868-874
+  s_49753d72552aac::t_c0e0d02af65680 229
+  s_49753d72552aac::t_b48be235c469f6 1117-1120
+docs/pages/log-workbench.md
+  s_49753d72552aac::t_58659f81f141cf 68-72
+  s_49753d72552aac::t_8d6fbf51e04498 41-42
+  s_49753d72552aac::t_fc65e0907a2bb2 7,9,11
+  s_49753d72552aac::t_6145b60325a8f9 103
+  s_49753d72552aac::t_209e4b3b4ee427 27,29-31,33-37
+  s_49753d72552aac::t_7968fd95460bff 40
+  s_49753d72552aac::t_bde28f056107da 8
+  s_49753d72552aac::t_bd83621e6ed6d8 54-55
+  s_49753d72552aac::t_90f028549205b7 84,87-89,92,94-95,98-99
+  s_49753d72552aac::t_d046a33ff43a97 100
+docs/core/data.md
+  s_49753d72552aac::t_10f9e4776f9171 83-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6b3329bc1dadc9a8fa87a6a8295e04f6a14d66bc",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

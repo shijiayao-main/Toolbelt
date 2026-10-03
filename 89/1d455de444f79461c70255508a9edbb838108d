@@ -1,0 +1,19 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/LogTaskTools.kt
+  s_49753d72552aac::t_23ea143fab2c51 321
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "891d455de444f79461c70255508a9edbb838108d",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
