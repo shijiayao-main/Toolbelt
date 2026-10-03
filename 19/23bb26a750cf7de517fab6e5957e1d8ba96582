@@ -1,0 +1,33 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_eeb627b3d281e0::t_596a05c9f36cfd 118-120
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_eeb627b3d281e0::t_023c5c6727ed25 3-4,6-9
+  s_eeb627b3d281e0::t_b78585da299aa9 462-465,493-504,509-512,514-515
+  s_eeb627b3d281e0::t_653858940a79eb 5
+  s_eeb627b3d281e0::t_438474349ef551 170,178,186,458,513
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/LbGuardUsageStatsTest.kt
+  s_eeb627b3d281e0::t_530bb3bc57d50a 27-39
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_eeb627b3d281e0::t_596a05c9f36cfd 340-341
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_eeb627b3d281e0::t_596a05c9f36cfd 137
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsPanel.kt
+  s_eeb627b3d281e0::t_90751b221381bb 332-336,414-421
+  s_eeb627b3d281e0::t_a876bc0dbf6e9d 756-759,762-776,778,783,786-793,795-805,807-810,813,816-823
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1923bb26a750cf7de517fab6e5957e1d8ba96582",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
