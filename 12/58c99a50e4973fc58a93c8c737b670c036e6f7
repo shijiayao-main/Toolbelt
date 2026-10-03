@@ -1,0 +1,31 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_eeb627b3d281e0::t_07c62ea0fca377 145,149-169,171-175,178-184
+  s_eeb627b3d281e0::t_a0f6525af1975f 102-106
+ui/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/TodoBoardPanelTest.kt
+  s_eeb627b3d281e0::t_8889acea8e7890 65-68,73
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_eeb627b3d281e0::t_5fa27a5af47c4b 181-182,187-193
+  s_eeb627b3d281e0::t_87d28cb4777d36 194
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_eeb627b3d281e0::t_28456717409b68 27-28
+  s_eeb627b3d281e0::t_4f40dbdfb12e5d 282-290,357-362,365,404-411,420-427
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/TodoBoardPanel.kt
+  s_eeb627b3d281e0::t_0675f04bab2bc3 63-75
+  s_eeb627b3d281e0::t_d1d0c4f1939ff1 7,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1258c99a50e4973fc58a93c8c737b670c036e6f7",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
