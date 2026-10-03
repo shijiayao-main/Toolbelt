@@ -1,0 +1,40 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ChoiceField.kt
+  s_eeb627b3d281e0::t_617532e1530edb 37,52
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/MultiChoiceField.kt
+  s_eeb627b3d281e0::t_617532e1530edb 31,45
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ScaledNumberField.kt
+  s_eeb627b3d281e0::t_b785a0e94745f1 38,59
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_eeb627b3d281e0::t_7fbd1c43e552f9 137-139
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/SpaceBar.kt
+  s_eeb627b3d281e0::t_6b4dd7f2f822f1 608-613,617,623-627
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TagsField.kt
+  s_eeb627b3d281e0::t_617532e1530edb 55,82
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_eeb627b3d281e0::t_c593facf361ae0 36,64
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/ConfigFieldRenderer.kt
+  s_eeb627b3d281e0::t_7fbd1c43e552f9 785-787
+  s_eeb627b3d281e0::t_805bc434fead30 678,751,768,889,910-911,921
+  s_eeb627b3d281e0::t_794c3ef40ea8b7 750,752-753,766-767,769-770,779-784,788-810
+  s_eeb627b3d281e0::t_afeddfa4cdf0ba 694,705,715-719,721
+  s_eeb627b3d281e0::t_705106666ac014 593-599,623-624,634-635,640,648,658,667,670
+  s_eeb627b3d281e0::t_6dc85e802d73cf 811
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  s_eeb627b3d281e0::t_7e898b4464946c 242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c2bb786e23e94cde8f791efd46075e825a1b3709",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
