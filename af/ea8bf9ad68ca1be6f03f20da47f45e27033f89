@@ -1,0 +1,23 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/BotCapabilityCard.kt
+  s_eeb627b3d281e0::t_10ffc3820f5ca2 15,455
+  s_eeb627b3d281e0::t_faedd2167ac91c 443-449,451-454,456-462,467,469-489,492-495,497,499,501,504-508
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_eeb627b3d281e0::t_034ac0cc2e3c70 704,706
+  s_eeb627b3d281e0::t_b87cffbcb403da 684-687,690-693,695-703,705,707-710
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "afea8bf9ad68ca1be6f03f20da47f45e27033f89",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
