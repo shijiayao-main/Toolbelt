@@ -1,0 +1,32 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_49753d72552aac::t_f8771240061c2a 41-44
+  s_49753d72552aac::t_fc732b1e973550 168-170,172,175,177-179
+  s_49753d72552aac::t_06c016f0ee45b3 58-62
+  s_49753d72552aac::t_2066af09cf4a26 103-105,107,130-131,134-141,143-167
+  s_49753d72552aac::t_4c75a9a3d81111 132-133,142,171,173-174,176
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TaskCard.kt
+  s_49753d72552aac::t_ed07cadfe77b1c 185,199
+  s_49753d72552aac::t_58b68c75ce50ad 101-104
+  s_49753d72552aac::t_398787189c89a2 98-100
+  s_49753d72552aac::t_6ae0b9566bd853 209-253
+  s_49753d72552aac::t_9caeb646f86410 5,17-18,25-27,39-42
+  s_49753d72552aac::t_918062daab01a7 74-81
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/TaskCardOverflowMenuGuardTest.kt
+  s_49753d72552aac::t_bfe6d902609a9b 1-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f3042c5a2781577113256fc4d01f553e6c727e92",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

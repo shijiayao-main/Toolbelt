@@ -1,0 +1,27 @@
+docs/pages/logkit-tools.md
+  s_49753d72552aac::t_dc57cf9720767f 1-167
+docs/pages/navigation.md
+  s_49753d72552aac::t_a705088b568b56 112-117
+docs/ui-style-guide.md
+  s_49753d72552aac::t_0b50f741c2aa66 292
+  s_49753d72552aac::t_bbe55fb22ef1b5 358-362,376,378,383-410
+  s_49753d72552aac::t_b9808341b57502 1045
+  s_49753d72552aac::t_d343c32a74e7cb 877-886
+  s_49753d72552aac::t_273a20c5997293 411
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "69bb76048c7e280f22ce074255487db2b9080f37",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

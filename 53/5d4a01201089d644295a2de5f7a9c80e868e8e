@@ -1,0 +1,32 @@
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/xlog/XLogDecoderPage.kt
+  s_49753d72552aac::t_6de0cb586182bc 67
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/LogKitContributions.kt
+  s_49753d72552aac::t_14802dd81ef8b1 104
+  s_49753d72552aac::t_97c2970c6bec35 114
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterViewModel.kt
+  s_49753d72552aac::t_b4d75b8cb7a413 91
+feature-logkit/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/LogKitParamCopyGuardTest.kt
+  s_49753d72552aac::t_bdeb6baea29406 1-183,196-206
+  s_49753d72552aac::t_af994fabf62bd4 184-195
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterPage.kt
+  s_49753d72552aac::t_b9322a0a6ed43d 63-65,69-70
+  s_49753d72552aac::t_253b95c6821c3e 20-21
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logkit/LogKitConfigStore.kt
+  s_49753d72552aac::t_d749b39fc74d2e 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "535d4a01201089d644295a2de5f7a9c80e868e8e",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}

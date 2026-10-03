@@ -1,0 +1,25 @@
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsImportClipboardPrefillGuardTest.kt
+  s_49753d72552aac::t_a30197586ac134 1-94
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/list/custom/ShellToolsGroupDialogs.kt
+  s_49753d72552aac::t_374fbe942c348a 173-177,186-192
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_49753d72552aac::t_95193e0f99cc28 300
+  s_49753d72552aac::t_5564bc9027b344 189
+  s_49753d72552aac::t_da17fe439d62c5 178-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7243d5d36dfa8b878a33d746740e1068b11530ab",
+  "prompts": {},
+  "sessions": {
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
