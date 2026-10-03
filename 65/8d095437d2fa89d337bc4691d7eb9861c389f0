@@ -1,0 +1,37 @@
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_eeb627b3d281e0::t_67d14ecab94797 8,13,1058-1064,1070
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/StatusBanner.kt
+  s_eeb627b3d281e0::t_02ba29f4d92336 55-56,64-65,73-74,84-85,143-147
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_eeb627b3d281e0::t_f94c88efb2accd 681-683
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_eeb627b3d281e0::t_96d81a6e21c359 245-248,252
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillAppButtonGuardTest.kt
+  s_eeb627b3d281e0::t_8a5a60a564c410 80-83
+.zcodeignore
+  s_6dd8085c43b636::t_b46ab2e1755dd6 1-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "658d095437d2fa89d337bc4691d7eb9861c389f0",
+  "prompts": {},
+  "sessions": {
+    "s_6dd8085c43b636": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a9f73f6eda76d806c",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
