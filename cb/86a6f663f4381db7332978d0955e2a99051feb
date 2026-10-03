@@ -1,0 +1,43 @@
+feature-mcp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/mcp/McpExposePage.kt
+  s_eeb627b3d281e0::t_d10f903f96e1bc 312-318,321,326
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ChoiceField.kt
+  s_eeb627b3d281e0::t_e01c08ce4376f1 12,76-82
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_eeb627b3d281e0::t_f235cd06b68074 678-679,682,684
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/output/ShellOutputPanel.kt
+  s_eeb627b3d281e0::t_d2a1cfc0e20274 110-114,118-121,413
+  s_eeb627b3d281e0::t_bab0844d352563 589-591
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppSwitchRow.kt
+  s_eeb627b3d281e0::t_a9140e7baa957e 3-5,8,13-16,20,24-29,33-35,37,82,101
+  s_eeb627b3d281e0::t_810ddaad9eaaa0 115-116,124-126
+  s_eeb627b3d281e0::t_2c4bec7e32ddd1 94-98,100,102-105,107-112,114,117-118,122-123,127-128
+  s_eeb627b3d281e0::t_4d6f27ae2ead70 99,106,113,119-121
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/MultiChoiceField.kt
+  s_eeb627b3d281e0::t_d671e33d4a8c6b 9,57-63
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_eeb627b3d281e0::t_d10f903f96e1bc 101-103
+  s_eeb627b3d281e0::t_675f20c3001214 221-222,246-247,257-258
+  s_eeb627b3d281e0::t_b17e23ae4b5e4a 104-117
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/SettingsPageCopyGuardTest.kt
+  s_eeb627b3d281e0::t_840c147316d843 149
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_eeb627b3d281e0::t_82fa9491ddfa9e 176-180
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TonalCard.kt
+  s_eeb627b3d281e0::t_b4d6766fce350c 13-17,19,22,26-27,74-103,105-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cb86a6f663f4381db7332978d0955e2a99051feb",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
