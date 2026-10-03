@@ -1,0 +1,21 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_eeb627b3d281e0::t_bf5eff7032a797 247-249,251,256-257,274,276,281-282,311-313,316-317
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_eeb627b3d281e0::t_442e78083cb831 78-82,87-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ab38242d29585885d415d9c23c37e201fa90e1f9",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
