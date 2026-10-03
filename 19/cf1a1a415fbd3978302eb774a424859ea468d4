@@ -1,0 +1,83 @@
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/glass/GlassMaterials.kt
+  s_eeb627b3d281e0::t_eae816c39d3dea 266
+  s_eeb627b3d281e0::t_2ce07f46551573 204-207,212-214
+  s_eeb627b3d281e0::t_320d15fbc8ed34 151-153,159-161,166,171-173,176-181
+  s_eeb627b3d281e0::t_df1657c9b51739 284
+  s_eeb627b3d281e0::t_65d44e05486b51 20
+  s_eeb627b3d281e0::t_0c2d76558f8447 26
+  s_eeb627b3d281e0::t_4c457398c2753e 156
+  s_eeb627b3d281e0::t_ef6067a4f5d592 293-294,297
+  s_eeb627b3d281e0::t_7fffc6356d223e 234-240,242-243,245-247,249-257,262-265,270,274,279-283,285-289
+  s_eeb627b3d281e0::t_970157dab3e6e6 244
+  s_eeb627b3d281e0::t_2a1634f970ba9f 169
+  s_eeb627b3d281e0::t_bc1ae3057bb895 25,248,258-261,269,300
+  s_eeb627b3d281e0::t_5879aa761bf014 210
+  s_eeb627b3d281e0::t_bc503964105411 182,290
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppTitleBar.kt
+  s_eeb627b3d281e0::t_853828c581207a 36
+  s_eeb627b3d281e0::t_3892f55c97f296 152-153,158-159,162
+  s_eeb627b3d281e0::t_f646948e2e552c 48
+  s_eeb627b3d281e0::t_09d4563b11785f 252
+  s_eeb627b3d281e0::t_39f62e6349e7dc 188-201,206
+  s_eeb627b3d281e0::t_b36716c13c5d0d 60-67,69-71,74-75
+  s_eeb627b3d281e0::t_ab569359744560 35
+  s_eeb627b3d281e0::t_59047538169076 98-100
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AlphaTest.kt
+  s_eeb627b3d281e0::t_2bf8805e66c83d 31-36
+  s_eeb627b3d281e0::t_b96e741412e4c2 62-70
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_eeb627b3d281e0::t_1d1cdbda3dc784 53,56-57
+  s_eeb627b3d281e0::t_3e54298b971786 131
+  s_eeb627b3d281e0::t_9303f27f4981a3 86-89,92,98-104,114-116,118
+  s_eeb627b3d281e0::t_e7340d3e79c95e 27-36
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/GlassColorTest.kt
+  s_eeb627b3d281e0::t_310f86809d4277 11,13-23,43-44,46,51,54-62,64-69,71-72,94,98,101-104
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  s_eeb627b3d281e0::t_841634f77be0d1 155-158
+  s_eeb627b3d281e0::t_624bd69393cf10 68-73
+  s_eeb627b3d281e0::t_78412cc9f12181 86-89
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColors.kt
+  s_eeb627b3d281e0::t_bb730debc38f51 79-82,86
+  s_eeb627b3d281e0::t_ca5b4259893640 97-100
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_eeb627b3d281e0::t_d387c48351d0bd 97-102,104
+  s_eeb627b3d281e0::t_4f894b66a505aa 322-325,331,336
+  s_eeb627b3d281e0::t_cfee336101869e 61-67
+  s_eeb627b3d281e0::t_f204010be80971 150-151
+  s_eeb627b3d281e0::t_8e5a45a278a867 37
+  s_eeb627b3d281e0::t_95452b9db4015a 50
+  s_eeb627b3d281e0::t_3bf2eed3674bc5 10
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpecTest.kt
+  s_eeb627b3d281e0::t_53c521e947b4d3 110-111
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/EasyToolboxColors.kt
+  s_eeb627b3d281e0::t_a6e87ec2f9dd4d 54-56,59-61
+  s_eeb627b3d281e0::t_3b54fdd9116b8d 98-100
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_eeb627b3d281e0::t_8e061d3723c743 103-104
+  s_eeb627b3d281e0::t_442c2539520e00 47-51,53-55
+  s_eeb627b3d281e0::t_16778b1e817065 78-81,83,85-86,88-92,94-95,97-98,100-101
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_eeb627b3d281e0::t_a3cfeebc622aa6 372
+  s_eeb627b3d281e0::t_807162daa365e6 374,377-378,380-381
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpec.kt
+  s_eeb627b3d281e0::t_699362292e6fc5 70-76
+  s_eeb627b3d281e0::t_1f5f8c4e37b6ab 10-16
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  s_eeb627b3d281e0::t_682f1fae997ba0 135-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "19cf1a1a415fbd3978302eb774a424859ea468d4",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
