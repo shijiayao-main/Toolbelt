@@ -1,0 +1,43 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/BotCapabilityCard.kt
+  s_eeb627b3d281e0::t_2cd72ba748c3aa 470-472
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/status/BridgeStatusPanel.kt
+  s_eeb627b3d281e0::t_118c54832c7a65 129-137,181
+  s_eeb627b3d281e0::t_147fe8b4f4fe96 138,176-180,182
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  s_eeb627b3d281e0::t_5ab8ae6e76dbc7 3,412-415
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/stats/UsageStatsPanel.kt
+  s_eeb627b3d281e0::t_d9c917b01f4496 336-338,421-422
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  s_eeb627b3d281e0::t_09bba0eacd8dbc 168-171,179,189
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_eeb627b3d281e0::t_6dc1d34ea544c0 119-121
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_eeb627b3d281e0::t_e419db51d209f3 781-784,786-790
+  s_eeb627b3d281e0::t_2fe61b9c8726f2 785
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_eeb627b3d281e0::t_b159ca3b289ddf 211-213
+feature-archive/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/archive/ArchiveViewModel.kt
+  s_eeb627b3d281e0::t_0fc9331fa3302a 168-177
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/EmptyStateView.kt
+  s_eeb627b3d281e0::t_2b3ad798219870 3-4
+  s_eeb627b3d281e0::t_fbd996184579d3 46-52,89-98,100,102,105
+  s_eeb627b3d281e0::t_48142d4f3e9772 11
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  s_eeb627b3d281e0::t_f978f64fe4fa21 695-704
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8ef3d131652857037301b8e497c5cacc2f947b65",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
