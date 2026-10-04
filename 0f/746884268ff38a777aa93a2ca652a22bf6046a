@@ -1,0 +1,62 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/Timestamps.kt
+  s_eeb627b3d281e0::t_0084cd09dcb830 97-98
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/UiArchitectureGuardTest.kt
+  s_eeb627b3d281e0::t_f86943bcab736a 187
+feature-logkit/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterPageWiringGuardTest.kt
+  s_eeb627b3d281e0::t_f86943bcab736a 140-141,143-144
+  s_eeb627b3d281e0::t_7df69cab59248c 145
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/history/ShellHistoryPanel.kt
+  s_eeb627b3d281e0::t_b9e6ec31585bd2 396-435
+  s_eeb627b3d281e0::t_b4a7f57e1b7bb3 447-515
+  s_eeb627b3d281e0::t_5c3af5542c30dc 3-4
+  s_eeb627b3d281e0::t_9868ab9b8e309a 7-9
+  s_eeb627b3d281e0::t_9b68c8253e48d5 5
+  s_eeb627b3d281e0::t_a41fb0974a9986 6
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_eeb627b3d281e0::t_f5f5f5a4446408 82-98,103-109
+  s_eeb627b3d281e0::t_6aa36404b8dbd8 3-8
+  s_eeb627b3d281e0::t_c7ecfdf3e490d4 11
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterPage.kt
+  s_eeb627b3d281e0::t_1fff798500fd5e 40,67-68
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  s_eeb627b3d281e0::t_5a5e10c2f6070e 161-162
+  s_eeb627b3d281e0::t_1c3e8e65257a27 207,213-218
+  s_eeb627b3d281e0::t_feb8a91cbc4028 295,299,303-310,312
+  s_eeb627b3d281e0::t_ff2b536152c95f 219
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_eeb627b3d281e0::t_42037689c82c5f 118-120
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/EmptyStateView.kt
+  s_eeb627b3d281e0::t_42037689c82c5f 52
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterViewModel.kt
+  s_eeb627b3d281e0::t_1fff798500fd5e 50-53,79-81
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  s_eeb627b3d281e0::t_75f1f7d8193d7b 125-127,136-137,157-158
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TaskCard.kt
+  s_eeb627b3d281e0::t_ed66e9cf3c8a2e 217-219
+feature-timestamp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampConverterTest.kt
+  s_eeb627b3d281e0::t_378106df6ba04d 117,119
+  s_eeb627b3d281e0::t_fb67b1e95d529a 113-115
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellChainPreviewGuardTest.kt
+  s_eeb627b3d281e0::t_ff2c9d21b24987 112-114,117-123
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  s_eeb627b3d281e0::t_619663e23a0286 5-7
+  s_eeb627b3d281e0::t_77750a35490296 3,758-759,761
+  s_eeb627b3d281e0::t_c33d6d03eaeffd 4,767-768,772,774,789
+  s_eeb627b3d281e0::t_d64f0ac944c335 731-733,738,740-747,749,753-754,756-757,760,762-766,769-771,773,775-784,786-787,792,795-796
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0f746884268ff38a777aa93a2ca652a22bf6046a",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
