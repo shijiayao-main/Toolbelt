@@ -1,0 +1,53 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColors.kt
+  s_eeb627b3d281e0::t_60103f688b660b 34-35
+  s_eeb627b3d281e0::t_3c54c405e2df22 100-104,106,108,110-112
+  s_eeb627b3d281e0::t_e78b2e3a219eab 97
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/ChoiceField.kt
+  s_eeb627b3d281e0::t_c0986ca305bcb5 55-64
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_eeb627b3d281e0::t_a14a1a03b488b6 67-71
+  s_eeb627b3d281e0::t_1c59e8466835c5 7,16
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/StatusBanner.kt
+  s_eeb627b3d281e0::t_4063cee0fe09fd 69-70
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/KbdText.kt
+  s_eeb627b3d281e0::t_c9c14d0ca1d44a 1-9,11-29,32-33,35-47
+  s_eeb627b3d281e0::t_82cfe65f2bf5e4 10
+  s_eeb627b3d281e0::t_f5e618d40c5417 30-31,34
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ToolCallCard.kt
+  s_eeb627b3d281e0::t_0c5540f4d5554f 34
+  s_eeb627b3d281e0::t_15d91f3a29c5cf 76-79
+  s_eeb627b3d281e0::t_7ab1458933e3b7 80
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/RenameDialog.kt
+  s_eeb627b3d281e0::t_41d3963380f3cb 6,18,63-65,67-72
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/EasyToolboxColors.kt
+  s_eeb627b3d281e0::t_96f4d22a7063dd 25-33
+  s_eeb627b3d281e0::t_9555821601baac 67-70,110-113
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppSwitchRow.kt
+  s_eeb627b3d281e0::t_eaa289ffdbafb1 113-115
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/chat/ActivityChip.kt
+  s_eeb627b3d281e0::t_04f521063faf0b 25
+  s_eeb627b3d281e0::t_77dafa3bb7dcb8 43-44,46
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/CopyButton.kt
+  s_eeb627b3d281e0::t_81ce452a393909 111-113,128-136
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_eeb627b3d281e0::t_58042824544773 131-133
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PathConfirmCard.kt
+  s_eeb627b3d281e0::t_4063cee0fe09fd 95-96
+  s_eeb627b3d281e0::t_a99395f5e1c8e8 124-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e11c866b144736734d4ace51899630cffa4d8102",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
