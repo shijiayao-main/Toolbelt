@@ -1,0 +1,310 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/LaunchCommand.kt
+  s_22f4192666b404::t_ef5d1d41eab342 59
+  s_22f4192666b404::t_4a999c8fe2eae9 40
+  s_22f4192666b404::t_c935769eb377da 6,12
+  s_22f4192666b404::t_be6eaf3eedab4b 32
+  s_22f4192666b404::t_15fab2b7a7ff88 20,27
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/StaleFilter.kt
+  s_22f4192666b404::t_8f6a3e4eba564d 1-2
+  s_22f4192666b404::t_28a16fb87b85f5 41
+  s_22f4192666b404::t_3e9f29d2877bc3 17
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/WorkspacePolicy.kt
+  s_22f4192666b404::t_7225248bba0a5f 38
+  s_22f4192666b404::t_0fac550a36c66c 66
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/ChatLanes.kt
+  s_22f4192666b404::t_663fb5447097dc 1-2
+  s_22f4192666b404::t_4707610ba7c3cd 46
+  s_22f4192666b404::t_2e0bdf7cc62204 92
+  s_22f4192666b404::t_7d45586d860c56 164
+  s_22f4192666b404::t_069b6d66710dab 83
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/EnvAllowlist.kt
+  s_22f4192666b404::t_3838d324ffe307 31
+  s_22f4192666b404::t_798074d735c38f 48
+  s_22f4192666b404::t_78c2c8fcdf1a94 4,8-9
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/ReferencedMessageResolver.kt
+  s_22f4192666b404::t_c820c7d53b4d84 297
+  s_22f4192666b404::t_240509a79bffc2 266
+  s_22f4192666b404::t_d07aa26d8fc60a 133,136,139
+  s_22f4192666b404::t_5f35d717335f65 325
+  s_22f4192666b404::t_62a73fc2d61f9d 178
+  s_22f4192666b404::t_b40665acde1dc1 202
+  s_22f4192666b404::t_e021fbba990709 192
+  s_22f4192666b404::t_888bbb1b8b2a41 530
+  s_22f4192666b404::t_6c261b2dbe26be 43
+  s_22f4192666b404::t_d2df305a3cdd0d 394
+  s_22f4192666b404::t_83f805f070aa09 19,26,32-33,38-39
+  s_22f4192666b404::t_5052dc6a977d11 451
+  s_22f4192666b404::t_6d8b1cd4c20763 454
+  s_22f4192666b404::t_840217a3c4e7a7 438
+  s_22f4192666b404::t_284dfa04cefca4 494
+  s_22f4192666b404::t_d71bb9b0f25de6 85
+  s_22f4192666b404::t_8ea706b627cbc1 240,242,245,248,250,252
+  s_22f4192666b404::t_19e7a1edc5a87b 396
+  s_22f4192666b404::t_554e1f80f9b520 93,104
+  s_22f4192666b404::t_4c7d903259441c 350,352
+  s_22f4192666b404::t_3aab6abaf8780f 1,4-5
+  s_22f4192666b404::t_eee5be783f8926 127
+  s_22f4192666b404::t_4f525434a30d64 511,514
+  s_22f4192666b404::t_d6dbe5d8dde850 50
+  s_22f4192666b404::t_3cf76d7d36bfc6 62
+  s_22f4192666b404::t_4dce455c6d5c00 230
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/HandlerOutcome.kt
+  s_22f4192666b404::t_1a4f67f035bc41 200-201
+  s_22f4192666b404::t_8edf73aabf36b7 163
+  s_22f4192666b404::t_92c158064f626d 209
+  s_22f4192666b404::t_b90c774e77b7fd 190
+  s_22f4192666b404::t_33b44a240b2a0c 175
+  s_22f4192666b404::t_0f739b49fdfaa1 110
+  s_22f4192666b404::t_1b86d8f5419907 1-2,8-9,14,24,26-28,31-32,35,38,41,48,55-56,66,72,77,83,92
+  s_22f4192666b404::t_a2d3075ee0e3de 182
+  s_22f4192666b404::t_5b20b42204c383 113
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/PolicyGate.kt
+  s_22f4192666b404::t_f3f7d577d2ed41 121
+  s_22f4192666b404::t_ae8c36e490217a 72-73,77
+  s_22f4192666b404::t_90d7c1262bbc3b 1-4,6-7
+  s_22f4192666b404::t_b53c38b1683f77 44,48,53,59-61
+  s_22f4192666b404::t_272175153630d5 37
+  s_22f4192666b404::t_85af1fbf2c815e 21,27,31
+  s_22f4192666b404::t_963941e46df7a2 126,130-131
+  s_22f4192666b404::t_0bc6e9f78973c3 147
+  s_22f4192666b404::t_c66572173faf69 137,141
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/CardJson.kt
+  s_22f4192666b404::t_7fa6c776d4a192 61,64
+  s_22f4192666b404::t_0ba9af74ec7cce 1,5
+  s_22f4192666b404::t_ca99c3e7507241 85
+  s_22f4192666b404::t_f27f5a08775975 111,113
+  s_22f4192666b404::t_2faa1565ac628a 13
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/DownloadStore.kt
+  s_22f4192666b404::t_1ed828b9cebd92 252-253
+  s_22f4192666b404::t_6992fe6a207018 64
+  s_22f4192666b404::t_344b96e6d96ed6 82
+  s_22f4192666b404::t_3cd8069c90d52b 102-103,106-107
+  s_22f4192666b404::t_465d4d66deb207 1,6
+  s_22f4192666b404::t_c64121092b2235 33,36-37
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/PipelineRouter.kt
+  s_22f4192666b404::t_874cf304935072 21
+  s_22f4192666b404::t_3be962ee0ab0e8 55
+  s_22f4192666b404::t_989be52d2e05b9 27,30
+  s_22f4192666b404::t_7d0f6654145028 1-3
+  s_22f4192666b404::t_9e1d098345a05a 76
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/RequestContext.kt
+  s_22f4192666b404::t_99b4a0a94a98f6 1
+  s_22f4192666b404::t_78360245b042e1 57
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/UnsupportedKindNotice.kt
+  s_22f4192666b404::t_208655b390d2ce 5-6
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/ProgressSink.kt
+  s_22f4192666b404::t_29c5e732e020c6 12,14
+  s_22f4192666b404::t_b4b2f57389ffc9 29
+  s_22f4192666b404::t_72557e131f4d9c 129
+  s_22f4192666b404::t_2ef3063f6481ad 73
+  s_22f4192666b404::t_8d60ec475fc403 55
+  s_22f4192666b404::t_b342f1a0f029d9 1
+  s_22f4192666b404::t_8041ba42c7b26d 136-139
+  s_22f4192666b404::t_00a800d2397529 41
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/MessageHandler.kt
+  s_22f4192666b404::t_6dac924fdd5a6e 119
+  s_22f4192666b404::t_8f57f45969cba6 1-2
+  s_22f4192666b404::t_4d40054d604201 105,112
+  s_22f4192666b404::t_392be1c297c77c 99
+  s_22f4192666b404::t_657bcb5ac88d60 12-13,18
+  s_22f4192666b404::t_549176b35f335b 88
+  s_22f4192666b404::t_2ab9df6811d5b7 28,30,32
+  s_22f4192666b404::t_ed2b0db7551714 43,49,51,56
+  s_22f4192666b404::t_9150c768b5a71e 77
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/PipelineSnapshot.kt
+  s_22f4192666b404::t_f1aded5ed69b4f 36
+  s_22f4192666b404::t_4ca9c2b9d4017d 176
+  s_22f4192666b404::t_ba12bd72294353 56-57
+  s_22f4192666b404::t_aa3f89bf514870 20,22
+  s_22f4192666b404::t_91dbeed994562a 94,96-97,100
+  s_22f4192666b404::t_9c479fefac8fcc 1-2
+  s_22f4192666b404::t_3502bc0125508f 114
+  s_22f4192666b404::t_9badb44835a33d 163
+  s_22f4192666b404::t_873421f78f729f 129,132
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/InboundQueue.kt
+  s_22f4192666b404::t_545c80869b03c1 45
+  s_22f4192666b404::t_3bce245f1dfae6 15,17,21,26-28
+  s_22f4192666b404::t_33e45355a64d65 76
+  s_22f4192666b404::t_8ab0fbf21bde92 1-3
+  s_22f4192666b404::t_6d3aa618214a66 86
+  s_22f4192666b404::t_4537b7df2d0bb8 60
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/MessageDeduper.kt
+  s_22f4192666b404::t_ac3f2d86597b88 58,64
+  s_22f4192666b404::t_bc4bdca428c281 19
+  s_22f4192666b404::t_4b500cc9d8a33d 1-3
+  s_22f4192666b404::t_9089ff24e1abbb 121
+  s_22f4192666b404::t_8123204fe043c5 25
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/EventIntake.kt
+  s_22f4192666b404::t_8c6e4d3c3ff2a7 112
+  s_22f4192666b404::t_80796deec264cc 155
+  s_22f4192666b404::t_a88f612f1d3325 202,206,211,213
+  s_22f4192666b404::t_bd5b65d74cf6fe 23
+  s_22f4192666b404::t_f7defbc8352029 1-2
+  s_22f4192666b404::t_79648262b20425 185
+  s_22f4192666b404::t_24e800476975b5 48,52,54
+  s_22f4192666b404::t_acef5d05d7ea18 77
+  s_22f4192666b404::t_e3f986b24d7f9a 120-121,126,128,130
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/dispatch/BridgeDispatchers.kt
+  s_22f4192666b404::t_c19671306af5ba 18,25-26,29
+  s_22f4192666b404::t_e1d9f72f6ab204 47
+  s_22f4192666b404::t_2dd7c7b32c2fa4 1-3
+  s_22f4192666b404::t_850e4283e11fc7 60,63
+  s_22f4192666b404::t_e536adc83ee3f2 101,107
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/DispatchPayload.kt
+  s_22f4192666b404::t_4021f3d41e0724 38,40,42,44,47,52,58,65,67
+  s_22f4192666b404::t_67d1991f86e7c1 25,27
+  s_22f4192666b404::t_308b15f099216d 1-2
+  s_22f4192666b404::t_709ae19716ee5c 12,16
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/PipelineCounters.kt
+  s_22f4192666b404::t_52a51bf2d16780 112
+  s_22f4192666b404::t_2ea6741d25b838 97
+  s_22f4192666b404::t_402d15b86169d5 79
+  s_22f4192666b404::t_903f6a548cfee1 320
+  s_22f4192666b404::t_3d5810854adee3 145
+  s_22f4192666b404::t_c78b3bfbd115c1 1
+  s_22f4192666b404::t_749a056a7c48a7 8
+  s_22f4192666b404::t_3a3fac737f742c 109
+  s_22f4192666b404::t_a7d52b0e96ac83 100
+  s_22f4192666b404::t_2a33b7e238ae36 64
+  s_22f4192666b404::t_dbb84d5d5776c3 118
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/NativeChatSurface.kt
+  s_22f4192666b404::t_cdb734fb2bb540 1,7,12
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/SingleInstanceLock.kt
+  s_22f4192666b404::t_1cf887816c91df 26
+  s_22f4192666b404::t_b4a73450a467e6 1
+  s_22f4192666b404::t_2d2b8880ee561d 45,47
+  s_22f4192666b404::t_9cf4ded9594f88 39,43
+  s_22f4192666b404::t_250a34a9631fd8 65
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/exec/IdleWatchdogTest.kt
+  s_22f4192666b404::t_71caeeb182bf8b 89-90
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/SensitiveFilePolicy.kt
+  s_22f4192666b404::t_5528ff60998223 6
+  s_22f4192666b404::t_07dbf11f943125 159
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/RateGovernor.kt
+  s_22f4192666b404::t_0e1609c6ad2219 1-2,4
+  s_22f4192666b404::t_9a69b56c3b844f 29
+  s_22f4192666b404::t_8f097ab65148ab 22
+  s_22f4192666b404::t_75cecc3058237e 46
+  s_22f4192666b404::t_de740e52bb5a41 72
+  s_22f4192666b404::t_cad65e25bf8f81 37,42
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/HandlerKinds.kt
+  s_22f4192666b404::t_0a86395a50f27c 39
+  s_22f4192666b404::t_e3b0146dbcd4b1 45
+  s_22f4192666b404::t_aa113f86eef674 14,18
+  s_22f4192666b404::t_48a1f8ac074b15 30
+  s_22f4192666b404::t_3b8aa92b39707b 1-3
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/ProgramLauncher.kt
+  s_22f4192666b404::t_3898169b7a8af4 255,257,260
+  s_22f4192666b404::t_783025ead99816 142
+  s_22f4192666b404::t_0896a9d181e2af 50
+  s_22f4192666b404::t_8a823c6cf16bd7 125-126
+  s_22f4192666b404::t_21bfe64dd91996 61,64
+  s_22f4192666b404::t_c150e4c605426a 106-107,111-112
+  s_22f4192666b404::t_30eb36a49971a6 297,300,307-308,313
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/CardReplyLedger.kt
+  s_22f4192666b404::t_307084ddebd632 50
+  s_22f4192666b404::t_4f5e55635d9793 86
+  s_22f4192666b404::t_48d21ebc880bf3 123
+  s_22f4192666b404::t_080fc417d1b791 24,27,32
+  s_22f4192666b404::t_6b09fe0e411b85 1,7-8,10
+  s_22f4192666b404::t_ad74982da7a819 68
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/PreprocessPipeline.kt
+  s_22f4192666b404::t_5d397b26ee27a6 105
+  s_22f4192666b404::t_443cde595cf0ee 1
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/AccessControl.kt
+  s_22f4192666b404::t_fd95ab542a1f96 118
+  s_22f4192666b404::t_4de62088f39a69 161
+  s_22f4192666b404::t_16b82946e29fa8 64,67,74
+  s_22f4192666b404::t_5bb14999d3c517 101,105
+  s_22f4192666b404::t_4fafe70d4367a4 14,16-17,24,29-38,41,43,47,49,53
+  s_22f4192666b404::t_ca557bd18a33d7 1-4,6-7
+  s_22f4192666b404::t_6161130829f8fd 130,135,137,142
+  s_22f4192666b404::t_494c808c929ecd 84
+  s_22f4192666b404::t_22ef09953b8ce6 122
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/SyntheticGateway.kt
+  s_22f4192666b404::t_c9513b7185a1f6 57,60,63,66,69,72
+  s_22f4192666b404::t_0986d006d38354 241
+  s_22f4192666b404::t_57c63b4aa15b02 614
+  s_22f4192666b404::t_e825fc5233d9bb 179
+  s_22f4192666b404::t_dad4a2b7d99bdc 363,366
+  s_22f4192666b404::t_0d460f98893266 516
+  s_22f4192666b404::t_539a9a4d845d79 165
+  s_22f4192666b404::t_1014a354ad165f 426
+  s_22f4192666b404::t_51a9657909cbcd 612
+  s_22f4192666b404::t_066765a0eb5006 175-178
+  s_22f4192666b404::t_8c92d7e52350c7 121
+  s_22f4192666b404::t_6de05bd14c8aaf 354
+  s_22f4192666b404::t_01df5211581536 418
+  s_22f4192666b404::t_58e2520de8013f 200
+  s_22f4192666b404::t_7c19deafc4ca97 335
+  s_22f4192666b404::t_1fc5c0f4293013 490
+  s_22f4192666b404::t_9de3a1335411da 483
+  s_22f4192666b404::t_87557b6fbb6200 1-2
+  s_22f4192666b404::t_c6f400e6a1195a 581
+  s_22f4192666b404::t_ab9b6ad6d3aef1 568
+  s_22f4192666b404::t_c4bb103aa53069 152,154,156
+  s_22f4192666b404::t_429f6e2be2ba4c 328
+  s_22f4192666b404::t_37e33929289a33 78-79
+  s_22f4192666b404::t_7c23996cb32970 633
+  s_22f4192666b404::t_b6bec83760aeaf 513
+  s_22f4192666b404::t_16adb351e26485 565
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/Admission.kt
+  s_22f4192666b404::t_74a88cd90f3da3 1,26,29,55-56,62,94,170,180,183,214,229,233,256,260,274,294,296,298,308,328,355,357,359-360,387,405,504-507,521
+  s_22f4192666b404::t_a649dd0fa168b1 51
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/DownloadCardSession.kt
+  s_22f4192666b404::t_b7aee8a5d0ab1d 187
+  s_22f4192666b404::t_4ba015959e1ab4 1
+  s_22f4192666b404::t_4860da77ff5ad9 193
+  s_22f4192666b404::t_7cf0f876169516 21,24
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/FileRegistry.kt
+  s_22f4192666b404::t_5ae6fc857e90ae 19
+  s_22f4192666b404::t_ddc1dac5d582cd 1,4
+  s_22f4192666b404::t_4ae2bebc6976d2 79
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/exec/ProcessRegistry.kt
+  s_22f4192666b404::t_22c3a74c2fcce0 8,14,20-21
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/pipeline/ReplySink.kt
+  s_22f4192666b404::t_be0c8ffcb66993 263
+  s_22f4192666b404::t_f7efcafe7d8dff 274-277
+  s_22f4192666b404::t_fc9be16e0222f6 1-3
+  s_22f4192666b404::t_f87876345045df 43
+  s_22f4192666b404::t_760e3ccac48ed7 126
+  s_22f4192666b404::t_ec9749eb6b854e 63
+  s_22f4192666b404::t_8f31af135bd875 232
+  s_22f4192666b404::t_bb335f0ce67cea 140,142
+  s_22f4192666b404::t_f1d14684b33acb 109
+  s_22f4192666b404::t_009bfef72c4a84 176
+  s_22f4192666b404::t_f16487263cc106 80-81,86
+  s_22f4192666b404::t_a223a4405478df 97
+  s_22f4192666b404::t_1dd04d9b3680c9 123
+  s_22f4192666b404::t_f8d63febc172e0 160
+  s_22f4192666b404::t_c9650e1a1896cc 21,23
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/files/DownloadPolicy.kt
+  s_22f4192666b404::t_2073b7508e74b1 59,61-65,67,69-74,76
+  s_22f4192666b404::t_5854d18a0d342b 13,19
+  s_22f4192666b404::t_7fa3c98aacef55 53
+  s_22f4192666b404::t_86177f03719754 108
+  s_22f4192666b404::t_781d45c4a7e96e 141
+  s_22f4192666b404::t_1a9b680ff46257 160,165,167,169
+  s_22f4192666b404::t_95cbc1c465a34a 95
+  s_22f4192666b404::t_ffc73c46873072 132
+  s_22f4192666b404::t_ed11a5b0d81013 27,29
+  s_22f4192666b404::t_08c2af8506a0c3 1-2,4
+  s_22f4192666b404::t_403e4c2bee4b05 190,196
+  s_22f4192666b404::t_376c5ab46de23c 174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b1914d5b0b181f7f97ad5a3e0b1eaeab7b1eb6b7",
+  "prompts": {},
+  "sessions": {
+    "s_22f4192666b404": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "942e3809-d01e-4720-88e5-bdb2c94d1bd7",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
