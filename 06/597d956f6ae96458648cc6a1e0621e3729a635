@@ -1,0 +1,49 @@
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_eeb627b3d281e0::t_7c3150fb936c0e 730-732,734
+  s_eeb627b3d281e0::t_9184ca42fbddf1 48
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillSession.kt
+  s_eeb627b3d281e0::t_9a1a843686b749 232-236
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoicePage.kt
+  s_eeb627b3d281e0::t_c19d4ee83c0520 101-102
+  s_eeb627b3d281e0::t_209d7cccf773c2 134-136
+  s_eeb627b3d281e0::t_baf56865ff9238 23
+  s_eeb627b3d281e0::t_dadd2b0ada4d43 274-287,304-307,310-315
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_eeb627b3d281e0::t_659c1957445c48 61-66,88-95
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/VoiceModelDownloadGuardTest.kt
+  s_eeb627b3d281e0::t_93a6308c61889e 54-57
+  s_eeb627b3d281e0::t_ce37f1d5e736b3 58
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/distill/DistillPage.kt
+  s_eeb627b3d281e0::t_0287070803a873 845
+  s_eeb627b3d281e0::t_7b57bd55bf0131 14
+  s_eeb627b3d281e0::t_3444faa010a513 354-365,650-654
+  s_eeb627b3d281e0::t_6fc706b0744e14 855-858,863,865-868,870
+  s_eeb627b3d281e0::t_e5eedf09f6f18b 864
+  s_eeb627b3d281e0::t_630c7e6d35b063 689-692
+  s_eeb627b3d281e0::t_7db9c0fca276f8 39
+  s_eeb627b3d281e0::t_9a1a843686b749 712,720-727
+  s_eeb627b3d281e0::t_66a107f021224d 816,820-822
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskPageTemplate.kt
+  s_eeb627b3d281e0::t_a9ada28ab60daa 93
+  s_eeb627b3d281e0::t_659c1957445c48 49-50,65,78
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/SpaceBar.kt
+  s_eeb627b3d281e0::t_d6d9dcf0fc356d 5-7,479-480,482,485,489,774-792
+  s_eeb627b3d281e0::t_c917422c17e2aa 142-145,150-159,163,165-170
+  s_eeb627b3d281e0::t_8f1fa5bee733e5 793
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "06597d956f6ae96458648cc6a1e0621e3729a635",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
