@@ -1,0 +1,320 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducer.kt
+  s_22f4192666b404::t_938d931b6da5ad 38
+  s_22f4192666b404::t_9f81cb9a11e0d7 163
+  s_22f4192666b404::t_7589823d9130d0 14
+  s_22f4192666b404::t_9c6fce6feb7fc5 219
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStore.kt
+  s_22f4192666b404::t_e3e7f208da0a42 54
+  s_22f4192666b404::t_1f0875e9cac1cd 76
+  s_22f4192666b404::t_889451b294f12d 26-27
+  s_22f4192666b404::t_1ff1b73a0b0674 117
+  s_22f4192666b404::t_3114d9853b3ea0 160
+  s_22f4192666b404::t_fa740f2abeeaa6 138
+  s_22f4192666b404::t_5e602d190d8a07 100
+  s_22f4192666b404::t_c4465b6db9b7ff 84
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/log/GlobalUncaughtExceptionHandler.kt
+  s_22f4192666b404::t_55190ca5c1046c 4
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/TodoTools.kt
+  s_22f4192666b404::t_0ff0ed98479786 12
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AskUserTool.kt
+  s_22f4192666b404::t_0ff0ed98479786 10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatModels.kt
+  s_22f4192666b404::t_b1043d5e150bc8 6,86
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmEndpointUrls.kt
+  s_22f4192666b404::t_0ff0ed98479786 6
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpec.kt
+  s_22f4192666b404::t_adacfc9ca36ad1 61-63
+  s_22f4192666b404::t_b90535374cf2bd 31
+  s_22f4192666b404::t_29ff8bc29cc1b9 11-12
+  s_22f4192666b404::t_63fc10ac2d3851 41-44
+  s_22f4192666b404::t_db91b34b5a0d05 111
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DecryptTools.kt
+  s_22f4192666b404::t_0ff0ed98479786 31
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/InteractiveShell.kt
+  s_22f4192666b404::t_59d193bf59a2df 61
+  s_22f4192666b404::t_8a328dd784890a 40,44
+  s_22f4192666b404::t_380584e482be07 86
+  s_22f4192666b404::t_1ef76732d9e5cf 138
+  s_22f4192666b404::t_1385b868f62b78 29
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ToolPage.kt
+  s_22f4192666b404::t_5b61eabd53126e 4-5,7,9,11,26,34
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/media/AudioTranscoder.kt
+  s_22f4192666b404::t_55190ca5c1046c 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/evidence/EvidenceModels.kt
+  s_22f4192666b404::t_98e5f8657503d4 255
+  s_22f4192666b404::t_66b010fe8265b8 261,264
+  s_22f4192666b404::t_cff2db6de6dcd3 122
+  s_22f4192666b404::t_870e32030f36cb 151
+  s_22f4192666b404::t_c3b62c6da9686d 94
+  s_22f4192666b404::t_b8bea88c822653 6
+  s_22f4192666b404::t_e3c6e0f4451851 375
+  s_22f4192666b404::t_f7534161d8c893 154
+  s_22f4192666b404::t_7b66a39cb88722 183,188,190
+  s_22f4192666b404::t_2dc7bb511c3cc4 206
+  s_22f4192666b404::t_a4393b81fff1e6 348
+  s_22f4192666b404::t_9336662ad17067 253
+  s_22f4192666b404::t_569bf2318fdf14 56,59
+  s_22f4192666b404::t_ee63aff1a01ca8 291
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/SidePanelContribution.kt
+  s_22f4192666b404::t_55190ca5c1046c 15
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolNavModels.kt
+  s_22f4192666b404::t_55190ca5c1046c 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/FileTools.kt
+  s_22f4192666b404::t_0ff0ed98479786 11
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/GoSettingsHook.kt
+  s_22f4192666b404::t_55190ca5c1046c 4
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/BomStripper.kt
+  s_22f4192666b404::t_ac6576a1515fd0 6
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/LogTaskTools.kt
+  s_22f4192666b404::t_0ff0ed98479786 23
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/runtime/CapabilitySnapshot.kt
+  s_22f4192666b404::t_55190ca5c1046c 3
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/buffer/FileBuffer.kt
+  s_22f4192666b404::t_a5ab06121ba9f8 14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/AgentToolMiddleware.kt
+  s_22f4192666b404::t_b1043d5e150bc8 7,14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/Database.kt
+  s_22f4192666b404::t_5318d2c193e3e2 11
+  s_22f4192666b404::t_e7454168a572c6 73
+  s_22f4192666b404::t_194902df91647b 33
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/QuestStore.kt
+  s_22f4192666b404::t_2cda0a13fba474 16
+  s_22f4192666b404::t_5cb0d58ce0e9f7 98
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/MemoryTools.kt
+  s_22f4192666b404::t_b1043d5e150bc8 11,29
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/LedgerMigrator.kt
+  s_22f4192666b404::t_d2399f30ec30f6 12,15-16
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/log/LogbackHelper.kt
+  s_22f4192666b404::t_b1043d5e150bc8 47,52
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/CommentGuardTest.kt
+  s_22f4192666b404::t_6b3f95804deb03 53-55
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/SurfaceColors.kt
+  s_22f4192666b404::t_f4b4e4cc48d24c 117
+  s_22f4192666b404::t_e688a25646f30d 99-102
+  s_22f4192666b404::t_be1fa545b68181 111
+  s_22f4192666b404::t_d3251623e5823d 44
+  s_22f4192666b404::t_f913edfa09d2c1 53,118
+  s_22f4192666b404::t_032d0fb959e23a 34
+  s_22f4192666b404::t_ff09c278e42774 19
+  s_22f4192666b404::t_ea92fde11a9d16 108-109
+  s_22f4192666b404::t_653f9e2625c653 9
+  s_22f4192666b404::t_b6dc0f9456ecec 54
+  s_22f4192666b404::t_e1d4915a6f64f4 49,51
+  s_22f4192666b404::t_15e177647552f1 74-77,79-80,82-83
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_22f4192666b404::t_e911d2e6b1f563 375,378
+  s_22f4192666b404::t_018e075162edbc 33
+  s_22f4192666b404::t_ab39fedbc46d88 80
+  s_22f4192666b404::t_2ede38c9772302 217,219
+  s_22f4192666b404::t_547378d722974c 230
+  s_22f4192666b404::t_cba073abba51a0 238
+  s_22f4192666b404::t_c118adaa14af8c 246,249,252,255,258,262,265,268,271
+  s_22f4192666b404::t_2ed0e7989fad3b 276
+  s_22f4192666b404::t_f072827f7c5ef2 204
+  s_22f4192666b404::t_326a43a834f630 349,356-357
+  s_22f4192666b404::t_90c1b47d68c926 173
+  s_22f4192666b404::t_962b4d23f10492 69,72
+  s_22f4192666b404::t_314c38f01b3d81 144
+  s_22f4192666b404::t_232025cd0523ac 322,324,327,331
+  s_22f4192666b404::t_adec1990f6372f 61
+  s_22f4192666b404::t_93fb1da312588f 410
+  s_22f4192666b404::t_9e8573a2635930 86
+  s_22f4192666b404::t_c380459c64f948 97,100
+  s_22f4192666b404::t_0e860a3c712d36 299
+  s_22f4192666b404::t_c499bdf9da9a8d 132,135,138
+  s_22f4192666b404::t_8a5d1c3fbce1fd 390
+  s_22f4192666b404::t_b221a229207242 164
+  s_22f4192666b404::t_11a08ca57e2470 114,117,123,126
+  s_22f4192666b404::t_082bec175b63fb 420,423
+  s_22f4192666b404::t_1f04455e5d4745 29
+  s_22f4192666b404::t_5bdc6731abbbe8 337
+  s_22f4192666b404::t_85d87db711d7e6 370
+  s_22f4192666b404::t_62b0dd54824892 16,21
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgePack.kt
+  s_22f4192666b404::t_0b47abeb73b35a 11
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ToolResult.kt
+  s_22f4192666b404::t_0ff0ed98479786 7
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  s_22f4192666b404::t_37c1bac7446a63 79
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ToolExecutionContext.kt
+  s_22f4192666b404::t_71075fcad449f4 144
+  s_22f4192666b404::t_993b558e065a35 18
+  s_22f4192666b404::t_fa2ff8e529b121 158
+  s_22f4192666b404::t_baa2b16e28c28e 27
+  s_22f4192666b404::t_def57dcc077046 6
+  s_22f4192666b404::t_c39f603703271b 57
+  s_22f4192666b404::t_27f9d63888aeb6 151
+  s_22f4192666b404::t_24fb4b68bbdcf1 41
+  s_22f4192666b404::t_883e9f027f7af0 68
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SessionLedger.kt
+  s_22f4192666b404::t_45e66fe9df2e51 16
+  s_22f4192666b404::t_7f451c4dfdb751 28
+  s_22f4192666b404::t_8bf27a51f21041 35
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/EasyToolboxColors.kt
+  s_22f4192666b404::t_926c7b2455470a 53
+  s_22f4192666b404::t_119a8bce876d1a 21,23
+  s_22f4192666b404::t_f0d3f0877f5cb9 113
+  s_22f4192666b404::t_f5aab55bbd8381 93,97,99,102
+  s_22f4192666b404::t_a3497ca37e658a 26-29,60-61,72-73
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/runtime/StatusSignals.kt
+  s_22f4192666b404::t_38e48e1ba995cc 91
+  s_22f4192666b404::t_b5611f36f2f614 19
+  s_22f4192666b404::t_67f1529a53e953 27
+  s_22f4192666b404::t_9a2aa49af2532b 39
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_22f4192666b404::t_e08ea67967eb63 85
+  s_22f4192666b404::t_5363517d4de2e5 115-116
+  s_22f4192666b404::t_24a9eeac9f279d 51,53-54
+  s_22f4192666b404::t_5564e270bac52d 152-153,156,158
+  s_22f4192666b404::t_249b3cc5f3b8dc 96,98-99
+  s_22f4192666b404::t_9cb0f48589e09f 28-30
+  s_22f4192666b404::t_49a85ae7afb7a7 83,87-89
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/AiEnabledSignal.kt
+  s_22f4192666b404::t_55190ca5c1046c 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AgentToolCatalog.kt
+  s_22f4192666b404::t_b1043d5e150bc8 10,165
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/OutputCapMiddleware.kt
+  s_22f4192666b404::t_0ff0ed98479786 11
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ParamCommands.kt
+  s_22f4192666b404::t_8e2f523f1c58ea 14
+  s_22f4192666b404::t_f25a8f57529800 19
+  s_22f4192666b404::t_6b3ee6be76b0d7 24,27,29
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/RunStore.kt
+  s_22f4192666b404::t_0b47abeb73b35a 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/SimpleShell.kt
+  s_22f4192666b404::t_579d3cd9dadfdd 18
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/entity/JResult.kt
+  s_22f4192666b404::t_0ae449b79c6323 10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Alpha.kt
+  s_22f4192666b404::t_9b9f86a91cd677 117,120,123,129,132
+  s_22f4192666b404::t_eb4a1f7ce2d1b4 109
+  s_22f4192666b404::t_6fdf28c1dc0c54 90,92,95
+  s_22f4192666b404::t_bda1d9c499b480 59
+  s_22f4192666b404::t_ed28982fb5c806 22
+  s_22f4192666b404::t_85b7aab37f7a13 48-51
+  s_22f4192666b404::t_85720edccffffc 135
+  s_22f4192666b404::t_aa6ef87cb35cd7 70-71
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogAgentPromptPresets.kt
+  s_22f4192666b404::t_92e8b0319ca277 4,7,11-13,24
+  s_22f4192666b404::t_659269d86feac1 120
+  s_22f4192666b404::t_a2cb89748496ed 140
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DistillTools.kt
+  s_22f4192666b404::t_3c61909e34f018 8,10,15-16,19
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeMdImporter.kt
+  s_22f4192666b404::t_0b47abeb73b35a 6
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogUserStyleMap.kt
+  s_22f4192666b404::t_0ff0ed98479786 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/SourceRootsMap.kt
+  s_22f4192666b404::t_0ff0ed98479786 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeRepository.kt
+  s_22f4192666b404::t_0b47abeb73b35a 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AskUserModels.kt
+  s_22f4192666b404::t_01d1ab1bfd8a14 13
+  s_22f4192666b404::t_eeb4b46ab4141b 79
+  s_22f4192666b404::t_8068ad5c2c9b94 86
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageGroup.kt
+  s_22f4192666b404::t_55190ca5c1046c 4
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/FileUtils.kt
+  s_22f4192666b404::t_ac6576a1515fd0 31,49
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/DesktopUtils.kt
+  s_22f4192666b404::t_ac6576a1515fd0 27
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolPageRegistration.kt
+  s_22f4192666b404::t_20eb701f6f61ff 17-20
+  s_22f4192666b404::t_b036d16aa7445f 39
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SqliteChatHistoryProvider.kt
+  s_22f4192666b404::t_6586fd000188af 13
+  s_22f4192666b404::t_84725bec578ef1 133
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/workbench/DeepAnalyzeHook.kt
+  s_22f4192666b404::t_b1043d5e150bc8 4,14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/GoAiSettingsHook.kt
+  s_22f4192666b404::t_55190ca5c1046c 4
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/MemoryManager.kt
+  s_22f4192666b404::t_0ff0ed98479786 6
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/StreamingShell.kt
+  s_22f4192666b404::t_0dd528f801424f 77
+  s_22f4192666b404::t_aeb248a192d0ac 59
+  s_22f4192666b404::t_212369bf207219 84-85
+  s_22f4192666b404::t_9cd97e1bde68a4 17
+  s_22f4192666b404::t_2a5db4e8a29026 151
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/runtime/AppHost.kt
+  s_22f4192666b404::t_55190ca5c1046c 14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/ShellCommandBuilder.kt
+  s_22f4192666b404::t_53986b4ab60e67 31
+  s_22f4192666b404::t_96b879e0e9aa76 49
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/KoogDistillPrompts.kt
+  s_22f4192666b404::t_0ff0ed98479786 12
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/ForensicTools.kt
+  s_22f4192666b404::t_0ff0ed98479786 12
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DesktopTypography.kt
+  s_22f4192666b404::t_a1e5cbf27feca6 10
+  s_22f4192666b404::t_fd3801f4311a82 73
+  s_22f4192666b404::t_1ebf86eeb83be4 79-80,83
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_22f4192666b404::t_bb0e061abb260f 86
+  s_22f4192666b404::t_16de1b8b2425ba 57,62-63
+  s_22f4192666b404::t_063e7daf13b2e4 42
+  s_22f4192666b404::t_a9302595ade802 24-25
+  s_22f4192666b404::t_8bab6696d3ba96 43,47
+  s_22f4192666b404::t_1a5be490795b08 72,77-80
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SessionStore.kt
+  s_22f4192666b404::t_6004a2b357cf5e 6,12
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/AnalyzeLogTool.kt
+  s_22f4192666b404::t_0ff0ed98479786 15
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/KnowledgeTools.kt
+  s_22f4192666b404::t_0ff0ed98479786 14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/SpaceAttribution.kt
+  s_22f4192666b404::t_55190ca5c1046c 10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/TimestampTool.kt
+  s_22f4192666b404::t_0ff0ed98479786 10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/GoReportHook.kt
+  s_22f4192666b404::t_55190ca5c1046c 4
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/ToolUsageSignal.kt
+  s_22f4192666b404::t_55190ca5c1046c 8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/shelltools/AdbCommandRewriter.kt
+  s_22f4192666b404::t_55190ca5c1046c 6
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/Timestamps.kt
+  s_22f4192666b404::t_8025d12b3c07b9 29-31
+  s_22f4192666b404::t_9146587dedfdf4 9
+  s_22f4192666b404::t_bec58f371b97bd 41
+  s_22f4192666b404::t_8015ccbe4e65c9 93
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SpaceStore.kt
+  s_22f4192666b404::t_e1a2e633126064 8,10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/SqliteSessionStore.kt
+  s_22f4192666b404::t_0b47abeb73b35a 16
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/runtime/AppLifecycleParticipant.kt
+  s_22f4192666b404::t_55190ca5c1046c 2
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppShapes.kt
+  s_22f4192666b404::t_140ec1eeebce86 40,42-43,46
+  s_22f4192666b404::t_09a30549def614 14
+  s_22f4192666b404::t_8e77c3d0778845 23,25
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/CardStyles.kt
+  s_22f4192666b404::t_f780af9c8a0831 10-13,23,28
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/JsonContentTypeFixHttpClient.kt
+  s_22f4192666b404::t_0ff0ed98479786 10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/KoogToolLoop.kt
+  s_22f4192666b404::t_391ebc94e4420a 50
+  s_22f4192666b404::t_1b9ca6237f69ae 1
+  s_22f4192666b404::t_e26baff6d79034 25-26
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/navigation/CommandActions.kt
+  s_22f4192666b404::t_b1043d5e150bc8 4,12
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/FileSniffer.kt
+  s_22f4192666b404::t_0ff0ed98479786 15
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/LocalDataManager.kt
+  s_22f4192666b404::t_ac6576a1515fd0 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a851288e0f40a86c65bd3eaf6ab71fb90d1a231d",
+  "prompts": {},
+  "sessions": {
+    "s_22f4192666b404": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "942e3809-d01e-4720-88e5-bdb2c94d1bd7",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
