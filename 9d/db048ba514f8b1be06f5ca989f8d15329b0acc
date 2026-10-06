@@ -1,0 +1,19 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/BotCapabilityCard.kt
+  s_22f4192666b404::t_af66a946e3ec06 660-663,665-668
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9ddb048ba514f8b1be06f5ca989f8d15329b0acc",
+  "prompts": {},
+  "sessions": {
+    "s_22f4192666b404": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "942e3809-d01e-4720-88e5-bdb2c94d1bd7",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
