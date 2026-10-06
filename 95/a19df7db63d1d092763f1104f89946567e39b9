@@ -1,0 +1,284 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  s_22f4192666b404::t_b38bb3bc00f423 42,48,52,59,86,109,130-131,133,143,146,163,170-172,196,208,233
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageLabels.kt
+  s_22f4192666b404::t_234e5b7ad81553 6,44,59,74
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/tools/ToolsPage.kt
+  s_22f4192666b404::t_a043675b0c20fd 105-108
+  s_22f4192666b404::t_0b0aed5ad0c98f 79
+  s_22f4192666b404::t_5739f03cdedeca 33,36-37,45-46,50,57,62-64,67
+  s_22f4192666b404::t_b8dbfa02a66167 136-138
+  s_22f4192666b404::t_cb5a993c8b6d2e 125
+  s_22f4192666b404::t_ddb82624223a77 96
+  s_22f4192666b404::t_0376f7eb2082c4 158,162-163
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  s_22f4192666b404::t_60cb5789f0ecbc 60,64,72,123,128,181,198,206-207,229,277-280,288-289,306,318,323,389,391
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/PageUsageTracker.kt
+  s_22f4192666b404::t_95ed7264f12c25 12,14,21,27,33
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ColorPickerDialog.kt
+  s_22f4192666b404::t_0d0a589be932b3 141
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  s_22f4192666b404::t_869f86b0e211a2 462,469
+  s_22f4192666b404::t_0a77c8cfff229f 646
+  s_22f4192666b404::t_740f7d3da1f087 130
+  s_22f4192666b404::t_e98e768ebcd3dd 891
+  s_22f4192666b404::t_0ce63c186dd9c9 487
+  s_22f4192666b404::t_d1eda5dea06ecf 992
+  s_22f4192666b404::t_6fca956d219edf 352
+  s_22f4192666b404::t_9a2e07d207d9f5 457-460,641-644,1165
+  s_49753d72552aac::t_379c93b86249a5 975-976,978-980,982-988
+  s_22f4192666b404::t_1ea75e1f0ad0f8 300-301
+  s_22f4192666b404::t_bef3d2936f3fda 943-944,953
+  s_22f4192666b404::t_dcd89746022950 575,577
+  s_22f4192666b404::t_2119bb8ea93ec3 261
+  s_22f4192666b404::t_332de49536ba38 389
+  s_22f4192666b404::t_57d8605e0db4a9 165
+  s_22f4192666b404::t_135cb9444aa00d 370
+  s_22f4192666b404::t_d5e9a9e263fa2f 729
+  s_49753d72552aac::t_4bedc03a97e8cb 266,275-276,278-290
+  s_22f4192666b404::t_422694ea0a2bb3 704
+  s_22f4192666b404::t_86fee69fe72c76 1057
+  s_49753d72552aac::t_cf11f474b2c354 277
+  s_22f4192666b404::t_31d02802ab5144 1098
+  s_49753d72552aac::t_9fdea54a56328b 50
+  s_22f4192666b404::t_57c66ad337d81e 832,837-839
+  s_22f4192666b404::t_7eb2e2df6fdc32 551
+  s_49753d72552aac::t_dd4737eb4b9ee1 600
+  s_22f4192666b404::t_b715b783cde255 1131
+  s_22f4192666b404::t_f21afcd6a294be 1023,1030-1031
+  s_22f4192666b404::t_706a5857f4830d 791-794
+  s_22f4192666b404::t_d944330bf8e8fa 919,922
+  s_22f4192666b404::t_e3d912ea340cab 318,320
+  s_22f4192666b404::t_d941e0876a3fd7 150
+  s_22f4192666b404::t_bf59ffb7f43893 1148,1150
+  s_22f4192666b404::t_4fe08e92c83feb 408
+  s_22f4192666b404::t_fd0fdd6f18c40c 274
+  s_49753d72552aac::t_4fc38ee7262756 594-596,599,607,616-618
+  s_22f4192666b404::t_03b6e9f70f733a 593,597-598,977,981
+  s_22f4192666b404::t_2bfe8cbe79bad9 1114-1115
+  s_22f4192666b404::t_97bfb375ad5e2a 70,73-74,82-83,85-86,89,93,96,98,102
+  s_22f4192666b404::t_abb722b47428ad 690
+  s_22f4192666b404::t_b8caf92fb53396 231-232
+  s_22f4192666b404::t_5546b37bc9c01b 240
+  s_22f4192666b404::t_cbffe6e22f571e 619,989
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHelpCard.kt
+  s_22f4192666b404::t_aaf95613f1bfd4 50,52,75,81,140,185
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  s_22f4192666b404::t_0406010b24bf15 147,155-156
+  s_22f4192666b404::t_b5ab106772efd2 192-193
+  s_22f4192666b404::t_178211b496e196 126,130
+  s_22f4192666b404::t_404dc013e8811d 248,250
+  s_22f4192666b404::t_a13d20526288f8 86,91,93
+  s_22f4192666b404::t_1ad7942418ca40 42,49,53,68,70-71
+  s_22f4192666b404::t_792cddd7778fb5 239
+  s_22f4192666b404::t_29e5c4a58c65d6 213-214,216-217
+  s_22f4192666b404::t_ad195493f1cf70 297
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_22f4192666b404::t_a18a05ddeb7cc6 390
+  s_22f4192666b404::t_e0c7e1d758d511 453,455
+  s_22f4192666b404::t_13e50e6964d707 133-135,137-138
+  s_22f4192666b404::t_b92a9dae0061b6 647
+  s_22f4192666b404::t_3aec113b0d0e25 191-192
+  s_22f4192666b404::t_466f72bac54ab9 489,498
+  s_22f4192666b404::t_df97781bc9b67c 507-508,513
+  s_22f4192666b404::t_73bbf102ef1f18 356
+  s_22f4192666b404::t_798811db9071b4 593-596
+  s_22f4192666b404::t_e93e16d93f6e5b 329,334
+  s_22f4192666b404::t_d837832480bff4 115
+  s_22f4192666b404::t_9c3c0efb3d0851 268
+  s_22f4192666b404::t_ab80d855104dad 627,629
+  s_22f4192666b404::t_02800b79325d9f 347
+  s_22f4192666b404::t_3a3bf6c244e257 605
+  s_22f4192666b404::t_8447fff1175900 422,429
+  s_22f4192666b404::t_f94a11d2c68a1d 565
+  s_22f4192666b404::t_0d0f5688df463c 292
+  s_22f4192666b404::t_0843ccabd01bd9 371,373-374
+  s_22f4192666b404::t_1e91810d759baa 69,78-79,84-85,87-88
+  s_22f4192666b404::t_f575c1a3e0a4d1 109-110
+  s_22f4192666b404::t_5a7845afacec22 287
+  s_22f4192666b404::t_0cb2e0685cba23 468-469,472-473,480
+  s_22f4192666b404::t_afe1e17222fddd 177
+  s_22f4192666b404::t_5aa0a1882a2592 241-242,247,250
+  s_22f4192666b404::t_d20486941129fd 307
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/AppViewModel.kt
+  s_22f4192666b404::t_79ac679f797a54 138,145,156,160-161
+  s_22f4192666b404::t_90a267e73f289b 37,41
+  s_22f4192666b404::t_1f32ea3a6a9287 209
+  s_22f4192666b404::t_c6193dd7f3a8c9 258-260,262-265,268,272
+  s_22f4192666b404::t_de199f41ecf321 171
+  s_22f4192666b404::t_25038f03264d8f 196
+  s_22f4192666b404::t_48513f811fe5f6 182
+  s_22f4192666b404::t_caa834a12c36f0 400
+  s_22f4192666b404::t_daaab24bfc06fa 193
+  s_22f4192666b404::t_92b0ca8a5cdb67 414-416
+  s_22f4192666b404::t_c9ee6e8d0ae34d 322,326,330,336,340
+  s_22f4192666b404::t_f8ca0ccbe28fde 349,351,360
+  s_22f4192666b404::t_9f287311498db6 52,57,70-71
+  s_22f4192666b404::t_e7668ed45a4c02 79,85,90,95,100,108,122-123,128-129
+  s_22f4192666b404::t_f8e7aabc1b9c71 216,220,225,230
+  s_22f4192666b404::t_570e2e214bcb4c 285
+  s_22f4192666b404::t_a204d701639013 276
+  s_22f4192666b404::t_c1b2b399d72efe 446
+  s_22f4192666b404::t_29256bbd03372a 430
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/StatusHost.kt
+  s_22f4192666b404::t_84e50f5b874dd0 45,54,59,67-69,82,98,122,182,184
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHome.kt
+  s_22f4192666b404::t_4e0a92fa28ae96 76
+  s_22f4192666b404::t_c8ead56ab5e7de 74,84,87,92-93,96
+  s_22f4192666b404::t_8aebd037121b62 247,260
+  s_22f4192666b404::t_ee835c0d8a3a7b 130,137-138,145,149-150
+  s_22f4192666b404::t_7603a18b472acb 222
+  s_22f4192666b404::t_348ccd5d632eb3 121
+  s_22f4192666b404::t_6aad5b40ae9d52 47,51,54-55,58,61
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/App.kt
+  s_22f4192666b404::t_a6d77eb83151a2 89-91,98,105-106
+  s_22f4192666b404::t_3aed7270a71b3d 123-124,133
+  s_22f4192666b404::t_82822b353ce4db 73-76,78
+  s_22f4192666b404::t_5131c8ac3658ab 267-268
+  s_22f4192666b404::t_ad1ecd8c051e47 201-203,214,218
+  s_22f4192666b404::t_5624bf6c3f1e78 186
+  s_22f4192666b404::t_a4e952609d9492 236
+  s_22f4192666b404::t_d5d106a9eeb61d 179
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  s_22f4192666b404::t_93ade1cb18251d 66,69,82-85,102,337
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/NavVisibility.kt
+  s_22f4192666b404::t_0d0a589be932b3 19
+  s_22f4192666b404::t_a03fd17c0e0ace 61
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/tools/ToolsConfigStore.kt
+  s_22f4192666b404::t_90a26387cec241 6
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ParamCommandCatalog.kt
+  s_22f4192666b404::t_100a001ff39371 29,118-119,144,275
+  s_22f4192666b404::t_a03fd17c0e0ace 74,77,214
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/agentcenter/AgentCenterPage.kt
+  s_22f4192666b404::t_480427131a21d4 26,28,33-34,37-39,48-50,54
+  s_22f4192666b404::t_f3eb06a38e8a7a 104
+  s_22f4192666b404::t_3d4cf807b7aa4a 75,78
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/initializer/AiToolsRestoreInitializer.kt
+  s_22f4192666b404::t_0d0a589be932b3 15-16
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppTitleBar.kt
+  s_22f4192666b404::t_9d794f88eef907 53,61-62,97-98,101,152-153,167,171,188,196
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/SpaceBar.kt
+  s_22f4192666b404::t_22ad31229b8f6e 643
+  s_22f4192666b404::t_f3a7ccd27a8cb8 532-534
+  s_22f4192666b404::t_2885963f19fcd3 318,320-321
+  s_22f4192666b404::t_26e54851b8209f 95
+  s_22f4192666b404::t_6443a1c5f74a48 458
+  s_22f4192666b404::t_3cac5b3625c48d 98
+  s_22f4192666b404::t_dbaaccbef069fc 259
+  s_22f4192666b404::t_f4983c62ea2fbb 66-67,69-70,73-74,78-81,83,86
+  s_22f4192666b404::t_f23f500e853643 140,148
+  s_22f4192666b404::t_fb83c2ade064b6 639
+  s_22f4192666b404::t_7fa17296af0078 613,618
+  s_22f4192666b404::t_ec40ec79afa183 708
+  s_22f4192666b404::t_b98e619119ff40 487
+  s_22f4192666b404::t_3f9031596aaf7b 690
+  s_22f4192666b404::t_ce471a7a35cd78 472-473,480
+  s_22f4192666b404::t_0db217e4324819 742,745
+  s_22f4192666b404::t_d9a4de8693150c 586
+  s_22f4192666b404::t_4463c936e2104b 241
+  s_22f4192666b404::t_c4c316ad1ed8c1 662
+  s_22f4192666b404::t_499892b725b8fd 763-764
+  s_22f4192666b404::t_eb6c3030d247ff 491
+  s_22f4192666b404::t_7122ac88dffaf9 417,420,424-425
+  s_22f4192666b404::t_0fac052f535578 205-209
+  s_22f4192666b404::t_7aec4b19fa4f67 702
+  s_22f4192666b404::t_32ba80460b917a 267
+  s_22f4192666b404::t_9e5a8926873029 557,563
+  s_22f4192666b404::t_7cb61283214f54 585
+  s_22f4192666b404::t_e9780d5b2370cd 187,190
+  s_22f4192666b404::t_a00ce9a436f119 749
+  s_22f4192666b404::t_b24f8b291e8435 327,333,336-337
+  s_22f4192666b404::t_68289ecf3cb8c9 304,308-309
+  s_22f4192666b404::t_60638ff4362105 112,115,118-119,123
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeContent.kt
+  s_22f4192666b404::t_84fb0689a0ad02 11,14-15,17,19,30
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageReport.kt
+  s_22f4192666b404::t_574f51a62c7d60 151,154,156,158,160
+  s_22f4192666b404::t_35f32be506ce38 290,293-294
+  s_22f4192666b404::t_f18d878f1f9969 300
+  s_22f4192666b404::t_453b20db52b151 335
+  s_22f4192666b404::t_a5fb9f33215b31 122
+  s_22f4192666b404::t_105e73b77b9a08 94
+  s_22f4192666b404::t_ec9253f01b09ca 81
+  s_22f4192666b404::t_dc89f4f0306f38 135
+  s_22f4192666b404::t_cec4aee20fd771 182
+  s_22f4192666b404::t_afe5f96981eac6 356,359-360
+  s_22f4192666b404::t_4912efacb36031 51,72,74
+  s_22f4192666b404::t_eee4ac958dc747 243
+  s_22f4192666b404::t_e15d25f08f1cb9 321
+  s_22f4192666b404::t_738cb9f03bb23c 219,227,234
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/OnboardingCard.kt
+  s_22f4192666b404::t_61de6218c5e45b 43,65,67-68,89-90
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PageHomeMenu.kt
+  s_22f4192666b404::t_30acff4628e0ac 321
+  s_22f4192666b404::t_7bebd02ac99f91 331
+  s_22f4192666b404::t_c763405417bb6f 341
+  s_22f4192666b404::t_76c2fd3c00c88d 180
+  s_22f4192666b404::t_b9681e751df429 56-57,60,65,67-69,73,75
+  s_22f4192666b404::t_f67530c6b876c4 95
+  s_22f4192666b404::t_4b0f7f6b330ddf 300,302-303
+  s_22f4192666b404::t_a0b349358a49b3 92,94,101-102,104,106,108
+  s_22f4192666b404::t_7cadd29a0470a7 128
+  s_22f4192666b404::t_a76387713ca631 279
+  s_22f4192666b404::t_a473d69301f1a1 139,141-143,145
+  s_22f4192666b404::t_36626c9189b3c9 207
+  s_22f4192666b404::t_8d0535db2dabd5 195,197
+  s_22f4192666b404::t_f6d122867572bb 254-255
+  s_22f4192666b404::t_d461baeff64784 237
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/HotkeyHub.kt
+  s_22f4192666b404::t_6a732af5e5097c 34,86,88,106,144,162-163,170
+  s_22f4192666b404::t_0cef02a650fabc 114
+  s_22f4192666b404::t_eb438f937e7472 79
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppWindowScope.kt
+  s_22f4192666b404::t_c43a3d6ab0f9c9 7
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteEmptyState.kt
+  s_22f4192666b404::t_c43a3d6ab0f9c9 27-29
+  s_22f4192666b404::t_0d0a589be932b3 16
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPaletteFrecencyTest.kt
+  s_22f4192666b404::t_05e835fbb2fa80 185-186,201,203
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/EasyDataManager.kt
+  s_22f4192666b404::t_778a0ce7c48c79 158-159
+  s_22f4192666b404::t_6ae782f631dc68 29,39,44-45,92,99,111-112,119,121
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteHud.kt
+  s_22f4192666b404::t_abd38cc04ed9f6 25,29,34-36,73,121
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugViewModel.kt
+  s_22f4192666b404::t_c18e1ff18b3511 28,35,42,58,88,99,105,188,198,222,238,259,291,294,321,340,359-360
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_22f4192666b404::t_a03fd17c0e0ace 58,62,179,210
+  s_22f4192666b404::t_9ef6e303192ec7 50,69,76-78,80,91-92,96,99,110,125,131-132,134,136,157,160,165,183,185,224,227,234
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/UndecoratedResizeOverlay.kt
+  s_22f4192666b404::t_c43a3d6ab0f9c9 29
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/ToolPageRegistry.kt
+  s_22f4192666b404::t_a03fd17c0e0ace 143
+  s_22f4192666b404::t_1aa1b2b6d9df47 145,147,149,151
+  s_22f4192666b404::t_e628b1743d971b 69,82,200
+  s_22f4192666b404::t_16ff7728f71361 162-163
+  s_22f4192666b404::t_90563bcb968529 196
+  s_22f4192666b404::t_2c4506017022e1 32-33,35-36,42,51,53-54
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteParamForm.kt
+  s_22f4192666b404::t_0ad8a0a95b6bdd 112
+  s_22f4192666b404::t_02ad3f9882393b 35,41,46-47,102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "95a19df7db63d1d092763f1104f89946567e39b9",
+  "prompts": {},
+  "sessions": {
+    "s_22f4192666b404": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "942e3809-d01e-4720-88e5-bdb2c94d1bd7",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_49753d72552aac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02bb7491-3e8f-4920-9342-2cf7d13888e3",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
