@@ -1,0 +1,60 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_eeb627b3d281e0::t_efc19220b129f5 163-165
+  s_eeb627b3d281e0::t_9decaf7cbc199c 264-266
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/filesplit/FileSplitterPage.kt
+  s_eeb627b3d281e0::t_a55ea07e4b12c9 52-54,56-65,67-74
+  s_eeb627b3d281e0::t_9decaf7cbc199c 66
+  s_eeb627b3d281e0::t_74d122d03dc09d 5-9,13-15,17
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/task/TaskListSection.kt
+  s_eeb627b3d281e0::t_ad50660cb3245a 162-165
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  s_eeb627b3d281e0::t_86bf782325b8ae 11
+  s_eeb627b3d281e0::t_80c2a7dbda8f98 408-411,413-424
+  s_eeb627b3d281e0::t_8f27431817778f 176-178,180,182-203,206-208
+  s_eeb627b3d281e0::t_663af2621f9d93 264-267,269,271-279
+  s_eeb627b3d281e0::t_dbbda85d72aa61 243-246,248-258
+  s_eeb627b3d281e0::t_f56fe42d63d762 356-359,361-372
+  s_eeb627b3d281e0::t_154a7e11c26c56 121-123,127
+  s_eeb627b3d281e0::t_62ea7df19a6e3f 209-214,217,219-228,230-240
+  s_eeb627b3d281e0::t_d9d5c36ddd90b4 55
+  s_eeb627b3d281e0::t_84481ab119bff6 157-160,162-171
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/PageSettings.kt
+  s_eeb627b3d281e0::t_f952a8994e5ffe 116-117,122
+  s_eeb627b3d281e0::t_1e752c4c90d52f 290-291,296
+  s_eeb627b3d281e0::t_6c542bb76cb6ba 245-246,258
+  s_eeb627b3d281e0::t_183a439bc68c5d 599-605,607-626,628-630
+  s_eeb627b3d281e0::t_4a0a974d819d16 13
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/EmptyStateView.kt
+  s_eeb627b3d281e0::t_ad50660cb3245a 59-64,80-86
+feature-timestamp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/timestamp/TimestampPage.kt
+  s_eeb627b3d281e0::t_564e827d76dcae 100-104
+  s_eeb627b3d281e0::t_d0a5bb3cf22954 212-214,216,223,226-227,229
+  s_eeb627b3d281e0::t_3f5192c080b58f 128-134
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SectionCard.kt
+  s_eeb627b3d281e0::t_96accbd2906710 90-95,144
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/CommitTextField.kt
+  s_eeb627b3d281e0::t_8665a4026ef601 16
+  s_eeb627b3d281e0::t_a55ea07e4b12c9 126-130,170-171
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DesktopTypography.kt
+  s_eeb627b3d281e0::t_ba15f656fbb94c 81-82
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  s_eeb627b3d281e0::t_fab1139d5ad4d4 135-137
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TaskCard.kt
+  s_eeb627b3d281e0::t_7d54f6dd0fa09e 315-317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ab0bfbb0df0baf949139c017757dcdcf88ca3149",
+  "prompts": {},
+  "sessions": {
+    "s_eeb627b3d281e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e6c1078-439a-41b0-bc9f-c9732ae90765",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
