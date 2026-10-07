@@ -1,0 +1,53 @@
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/KnowledgeBase.kt
+  s_22f4192666b404::t_d22789d29788b7 23-29
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PillLabel.kt
+  s_22f4192666b404::t_81afde3380f48e 18-20,22-25
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/interactions/SubmitKey.kt
+  s_22f4192666b404::t_cba03919be33f5 12
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiToolsToggle.kt
+  s_22f4192666b404::t_8ba9ede65cf712 11-12,14-19
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Glass.kt
+  s_22f4192666b404::t_dada88d186a31b 15-16,18-22
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SearchField.kt
+  s_22f4192666b404::t_a3a111f7e4c7d5 35-38
+  s_22f4192666b404::t_c13999a044948d 40
+  s_22f4192666b404::t_2d37dd5e55a743 39
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/Bridge.kt
+  s_22f4192666b404::t_431c530eb2f61f 706-709
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/decor/DashedBox.kt
+  s_22f4192666b404::t_b924e1eb8d126c 18-19,26
+  s_22f4192666b404::t_7970b28aa13239 24-25
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Motion.kt
+  s_22f4192666b404::t_9db83cec169cdd 6-7,9-14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  s_22f4192666b404::t_4e61cbbe8ed7bf 7,9-10
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Breakpoints.kt
+  s_22f4192666b404::t_5ccb652c1c2b79 7-11
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DesktopTypography.kt
+  s_22f4192666b404::t_36718c75baa642 10-13,15-17
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_22f4192666b404::t_3df2faf69a462b 716
+  s_22f4192666b404::t_79306701a5b58e 712-713,715,717-719
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/OnboardingCard.kt
+  s_22f4192666b404::t_1378a16604a6a4 43,45-50
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/StatusBanner.kt
+  s_22f4192666b404::t_f39810bf794d01 22,31-32
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  s_22f4192666b404::t_5e0c427a495971 354,356-361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "867d0f761d8c89c3da81e8559937e0ad038d3f4e",
+  "prompts": {},
+  "sessions": {
+    "s_22f4192666b404": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "942e3809-d01e-4720-88e5-bdb2c94d1bd7",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
