@@ -1,0 +1,30 @@
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatCaptureEngine.kt
+  h_7dc1bf3887130d 79-81,208-210,218,221-340,473-475,540,703,850-851,859-862,868,870-875
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatPanel.kt
+  h_7dc1bf3887130d 92-93,613-616,633-638,650,653-655,685-688
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatQueryParser.kt
+  h_7dc1bf3887130d 36,40,51-53,58
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatCaptureEngineTest.kt
+  h_7dc1bf3887130d 37-40,799-855
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatConsoleFoldTrackerTest.kt
+  h_7dc1bf3887130d 1-167
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/LiveTranscribe.kt
+  h_7dc1bf3887130d 78-83,117-123,152,172-173
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/LiveTranscribeTest.kt
+  h_7dc1bf3887130d 116
+log-tools/src/main/kotlin/com/jiaoay/log/LogStatsAnalyzer.kt
+  h_7dc1bf3887130d 102-104,117
+log-tools/src/main/kotlin/com/jiaoay/log/LogViewer.kt
+  h_7dc1bf3887130d 114-132,148,216-218,231,233,253-256,270,272
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "142e9d66dbd6a1d061b7c8d0ad422fadf2f0f0ac",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
