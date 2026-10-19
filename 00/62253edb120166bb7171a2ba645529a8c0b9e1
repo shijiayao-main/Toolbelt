@@ -1,0 +1,40 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducer.kt
+  h_7dc1bf3887130d 7,29-36,49-52,85-88,98-100,103,120-121,127,240-304
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducerStreamingWindowTest.kt
+  h_7dc1bf3887130d 1-242
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  h_7dc1bf3887130d 14,116-117,250-251,255,270,373-374,530-586
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSession.kt
+  h_7dc1bf3887130d 110-112,440-445
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSessionTest.kt
+  h_7dc1bf3887130d 15,17,69,73,76,84-114
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDecoder.kt
+  h_7dc1bf3887130d 23,26,83-85,87-89,118-120,208-209,226-229,239,241,264-265,311-342,344-349,355-356,358-362,365,370-372,380,382-389,399-402,404-407,409,411-415,420,427
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastEngine.kt
+  h_7dc1bf3887130d 496-498
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastFrameView.kt
+  h_7dc1bf3887130d 232-235,246-269
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDecoderTest.kt
+  h_7dc1bf3887130d 11,14-18,114-159
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastFrameBitmapPoolTest.kt
+  h_7dc1bf3887130d 15-18,20-22,55-58,61,64-75,80,86-99,102-129,146-150,152-153,174,178,181-184,188-191,193-208
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStore.kt
+  h_7dc1bf3887130d 60-77,133,138-141,201-204,206,208-209,252-302
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStoreProgressThrottleTest.kt
+  h_7dc1bf3887130d 1-189
+log-tools/src/main/kotlin/com/jiaoay/log/LogViewer.kt
+  h_7dc1bf3887130d 13-15,51-65,78-81,105-114,121-122,328-333,335-350,357-367,369,372,374-376,382,412,416
+log-tools/src/test/kotlin/com/jiaoay/log/LogViewerTest.kt
+  h_7dc1bf3887130d 5,18,493-613
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0062253edb120166bb7171a2ba645529a8c0b9e1",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
