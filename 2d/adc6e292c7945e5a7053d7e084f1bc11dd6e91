@@ -1,0 +1,24 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  h_7dc1bf3887130d 53,60-63
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ForeignLinkerIsolationTest.kt
+  h_7dc1bf3887130d 1-101
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/system/NativeAllocatorTuner.kt
+  h_7dc1bf3887130d 1-89
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/system/NativeAllocatorTunerTest.kt
+  h_7dc1bf3887130d 1-36
+docs/core/native-memory.md
+  h_7dc1bf3887130d 1-47
+docs/index.md
+  h_7dc1bf3887130d 38,128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2dadc6e292c7945e5a7053d7e084f1bc11dd6e91",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
