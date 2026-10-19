@@ -1,0 +1,156 @@
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  h_7dc1bf3887130d 53,60-63
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ForeignLinkerIsolationTest.kt
+  h_7dc1bf3887130d 1-101
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/system/NativeAllocatorTuner.kt
+  h_7dc1bf3887130d 1-89
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/system/NativeAllocatorTunerTest.kt
+  h_7dc1bf3887130d 1-36
+docs/core/native-memory.md
+  h_7dc1bf3887130d 1-47
+docs/index.md
+  h_7dc1bf3887130d 38,128
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatCaptureEngine.kt
+  h_7dc1bf3887130d 79-81,208-210,218,221-340,473-475,540,703,850-851,859-862,868,870-875
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatPanel.kt
+  h_7dc1bf3887130d 17-18,94-95,106,249-250,252,389,391,416,418,616-619,636-641,653,656-658,688-691
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatQueryParser.kt
+  h_7dc1bf3887130d 36,40,51-53,58
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatCaptureEngineTest.kt
+  h_7dc1bf3887130d 37-40,799-855
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatConsoleFoldTrackerTest.kt
+  h_7dc1bf3887130d 1-167
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/LiveTranscribe.kt
+  h_7dc1bf3887130d 78-83,117-123,152,172-173
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/LiveTranscribeTest.kt
+  h_7dc1bf3887130d 116
+log-tools/src/main/kotlin/com/jiaoay/log/LogStatsAnalyzer.kt
+  h_7dc1bf3887130d 102-104,117
+log-tools/src/main/kotlin/com/jiaoay/log/LogViewer.kt
+  h_7dc1bf3887130d 13-15,51-65,78-81,105-114,121-122,143-161,177,245-247,260,262,282-285,299,301,328-333,335-350,357-367,369,372,374-376,382,412,416
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducer.kt
+  h_7dc1bf3887130d 7,29-36,49-52,85-88,98-100,103,120-121,127,240-304
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducerStreamingWindowTest.kt
+  h_7dc1bf3887130d 1-242
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/LogWorkbenchPage.kt
+  h_7dc1bf3887130d 14,116-117,250-251,255,270,351-356,370-373,382-383,458-459,462-470,543-599,900-904,1061,1068
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSession.kt
+  h_7dc1bf3887130d 110-112,440-445
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSessionTest.kt
+  h_7dc1bf3887130d 15,17,69,73,76,84-114
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDecoder.kt
+  h_7dc1bf3887130d 23,26,83-85,87-89,118-120,208-209,226-229,239,241,264-265,311-342,344-349,355-356,358-362,365,370-372,380,382-389,399-402,404-407,409,411-415,420,427
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastEngine.kt
+  h_7dc1bf3887130d 496-498
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastFrameView.kt
+  h_7dc1bf3887130d 21,29,224-238,249-252,263-286,548-617
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDecoderTest.kt
+  h_7dc1bf3887130d 11,14-18,114-159
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastFrameBitmapPoolTest.kt
+  h_7dc1bf3887130d 15-18,20-22,55-58,61,64-75,80,86-99,102-129,146-150,152-153,174,178,181-184,188-191,193-208
+feature-voice/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStore.kt
+  h_7dc1bf3887130d 60-77,133,138-141,201-204,206,208-209,252-302
+feature-voice/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/voice/ModelStoreProgressThrottleTest.kt
+  h_7dc1bf3887130d 1-189
+log-tools/src/test/kotlin/com/jiaoay/log/LogViewerTest.kt
+  h_7dc1bf3887130d 5,18,493-613
+AGENTS.md
+  h_7dc1bf3887130d 143
+docs/manual/device-obs.md
+  h_7dc1bf3887130d 40,83-91
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindow.kt
+  h_7dc1bf3887130d 32,306-307,319-321,373-374,421-422,467-468,667-670,676,702-703,755-756,820-833,834-835,836-857,960-961
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindowContentTest.kt
+  h_7dc1bf3887130d 773-776
+combo_brief.md
+  h_7dc1bf3887130d 1-58
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/AppStatusBar.kt
+  h_7dc1bf3887130d 5,106-112,138-142,160-164,325-327,354,367
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/debug/ShellDebugPage.kt
+  h_7dc1bf3887130d 4,342
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutPanel.kt
+  h_7dc1bf3887130d 12,16,18,20,29,37,54-57,64,84-93,154-156,162-164,343-387,397-468,495,617-623,655-660,680-683,689-694,707-712,736-774
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModel.kt
+  h_7dc1bf3887130d 5,13,133-174,200-204,222-230,284-294,308-312,319,323-332,343-345,412-434,437-438,441-513,524,542
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceObsPage.kt
+  h_7dc1bf3887130d 52-53,338-382,478-495
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/LayoutDiagramPane.kt
+  h_7dc1bf3887130d 1-459
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/PerfPanel.kt
+  h_7dc1bf3887130d 693,701-702,704
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/CommandPalette.kt
+  h_7dc1bf3887130d 5,8,478-482,557-562,567-573,792
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/OnboardingCard.kt
+  h_7dc1bf3887130d 26,224
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteEntries.kt
+  h_7dc1bf3887130d 7-8,227,461
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteHud.kt
+  h_7dc1bf3887130d 10,24,160,194,206,228
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/PaletteParamForm.kt
+  h_7dc1bf3887130d 5-6,59,98-102
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/home/WorkspaceTabs.kt
+  h_7dc1bf3887130d 10,18,97-99
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/ImageThemeCard.kt
+  h_7dc1bf3887130d 159,216
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutDiagramTest.kt
+  h_7dc1bf3887130d 1-219
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutLightUpTest.kt
+  h_7dc1bf3887130d 11,207-263
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModelTest.kt
+  h_7dc1bf3887130d 43-46,144,163,267-280,691-920,932-948
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsDecoder.kt
+  h_7dc1bf3887130d 214-217,253,257-273,292,296-309
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsModels.kt
+  h_7dc1bf3887130d 59-60,63-69
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/Dimens.kt
+  h_7dc1bf3887130d 234-247
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsDecoderTest.kt
+  h_7dc1bf3887130d 21-23,89-160
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsFixtures.kt
+  h_7dc1bf3887130d 90-111
+docs/core/theme.md
+  h_7dc1bf3887130d 494-502
+docs/reports/2026-10-19-layout-inspector-node-view-design.md
+  h_7dc1bf3887130d 1-472
+docs/reports/2026-10-19-ui-hover-shape-and-resize-audit.md
+  h_7dc1bf3887130d 1-166
+docs/ui-style-guide.md
+  h_7dc1bf3887130d 664-665
+expert_team_state.md
+  h_7dc1bf3887130d 1-75
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/ModelCatalogList.kt
+  h_7dc1bf3887130d 6,20,60-64
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgePage.kt
+  h_7dc1bf3887130d 32,481-482
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/field/FieldRow.kt
+  h_7dc1bf3887130d 411
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/log/LogConsolePanel.kt
+  h_7dc1bf3887130d 8-9,85,206-208,211
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/status/ConfigCheckPanel.kt
+  h_7dc1bf3887130d 11,73
+feature-quest/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/quest/FlowPage.kt
+  h_7dc1bf3887130d 5,208-212,435-439
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastLayoutHighlight.kt
+  h_7dc1bf3887130d 1-48
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastLayoutHighlightTest.kt
+  h_7dc1bf3887130d 1-119
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  h_7dc1bf3887130d 53,151-153,156
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/AppButton.kt
+  h_7dc1bf3887130d 15,58,72-73,76
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/FileDropZone.kt
+  h_7dc1bf3887130d 6,205
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/evidence/EvidenceTimeline.kt
+  h_7dc1bf3887130d 7,564
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "80ae361d95a5934bb1c8c16e6b076fd753712258",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
