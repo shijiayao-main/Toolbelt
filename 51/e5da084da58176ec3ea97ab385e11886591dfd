@@ -1,0 +1,20 @@
+AGENTS.md
+  h_7dc1bf3887130d 143
+docs/manual/device-obs.md
+  h_7dc1bf3887130d 40
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindow.kt
+  h_7dc1bf3887130d 305-306,318-320,372-373,420-421,466-467,813-848
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindowContentTest.kt
+  h_7dc1bf3887130d 773-776
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "51e5da084da58176ec3ea97ab385e11886591dfd",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
