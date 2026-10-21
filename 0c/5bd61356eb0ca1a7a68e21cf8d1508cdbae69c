@@ -1,0 +1,66 @@
+docs/architecture.md
+  s_49c9fdaaab2c94::t_4f00d3271c7f72 299-303,317,320,335
+.zcode/expert-team/testinfra/expert_team_state.md
+  h_7dc1bf3887130d 1-44
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFileBrowserPanel.kt
+  h_7dc1bf3887130d 197-198,275,327,652-654
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutPanel.kt
+  h_7dc1bf3887130d 13-14,232-234,477-486,488-492,522,608-610,661-665
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackagePanel.kt
+  h_7dc1bf3887130d 127-128,459,552-571,573-588,743
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/ReproRecord.kt
+  h_7dc1bf3887130d 289-291
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/SegmentedGapGuardTest.kt
+  h_7dc1bf3887130d 67-68,84
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceObsHeaderLayoutGuardTest.kt
+  h_7dc1bf3887130d 1-74
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/DimensTest.kt
+  h_7dc1bf3887130d 81-82
+docs/core/theme.md
+  h_7dc1bf3887130d 430
+docs/reports/2026-10-19-ui-hover-shape-and-resize-audit.md
+  h_7dc1bf3887130d 3-48
+docs/ui-style-guide.md
+  h_7dc1bf3887130d 334
+feature-ai/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPage.kt
+  h_7dc1bf3887130d 692-695
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsPageAdaptSceneGuardTest.kt
+  h_7dc1bf3887130d 25-26,91-94,107,109-110,113-114
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/OperationBar.kt
+  h_7dc1bf3887130d 12,165-168
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/cockpit/CockpitPanel.kt
+  h_7dc1bf3887130d 950-980
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/status/BridgeStatusPanel.kt
+  h_7dc1bf3887130d 325-327
+feature-logkit/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logtag/LogTagFilterPage.kt
+  h_7dc1bf3887130d 327-328,331
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchReportPanel.kt
+  h_7dc1bf3887130d 409-410,413
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/PageScaffold.kt
+  h_7dc1bf3887130d 51-54,124-127,129,131-132,134
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/TaskCard.kt
+  h_7dc1bf3887130d 166-169
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/device/DeviceStatusBar.kt
+  h_7dc1bf3887130d 157-161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0c5bd61356eb0ca1a7a68e21cf8d1508cdbae69c",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_49c9fdaaab2c94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64043207-f4bb-4524-84b6-95d90d11a213",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
