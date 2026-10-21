@@ -1,0 +1,19 @@
+docs/architecture.md
+  s_49c9fdaaab2c94::t_4f00d3271c7f72 299-303,317,320,335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5e49e2b1b414afb9b593b4fc106a312235342888",
+  "prompts": {},
+  "sessions": {
+    "s_49c9fdaaab2c94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64043207-f4bb-4524-84b6-95d90d11a213",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
