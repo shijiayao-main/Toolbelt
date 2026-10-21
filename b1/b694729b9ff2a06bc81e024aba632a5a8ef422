@@ -1,0 +1,35 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/home/StructureBandConsumersGuardTest.kt
+  s_49c9fdaaab2c94::t_19733e866da302 14
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppThemeSpec.kt
+  s_49c9fdaaab2c94::t_4921a368234206 35,69,201-202,336-337,405,407-408,410-412,419-420,425,449,452-457,460,462-463,468-469,472-473,481,493,508,511,523-525,532,536,545-547,564,566,581-582,588,592,597,600-601,605-607,616,669,672-674,703,706-707,710,712,714,717,721,745,748,750-752,754-756,758-759,761-763,789,792-795,816,890,912-913,916,918,947,956,994,996,1033,1076,1136-1137,1161,1164-1166,1168-1169,1172-1173,1177,1179,1191,1196,1199-1200,1203-1204,1206,1208,1213-1214,1235,1247,1251-1253,1255,1264-1267,1278,1282-1294
+docs/core/theme.md
+  s_6c2d75ce2e3ec8::t_8a5763a7972ddd 65-69,72,114,124,128-139,150,153-154,156-157,181,188,194,204,210-216,219,225-227,235,237-238,246,258,260-261,264,266,272,276-279,281,284
+docs/pages/settings.md
+  s_6c2d75ce2e3ec8::t_bd4a2819a481d4 42-44,46,49,54
+github-public-audit-report.md
+  s_49c9fdaaab2c94::t_d2f9438e8c2862 1,3-5,7-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b1b694729b9ff2a06bc81e024aba632a5a8ef422",
+  "prompts": {},
+  "sessions": {
+    "s_49c9fdaaab2c94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64043207-f4bb-4524-84b6-95d90d11a213",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_6c2d75ce2e3ec8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2bafe95-674a-42e0-98cb-22fb75969b28",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
