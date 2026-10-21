@@ -1,0 +1,14 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageViewModelTest.kt
+  h_7dc1bf3887130d 224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d74a9fb37829d527c79966b7b539c00033e25b6a",
+  "prompts": {},
+  "humans": {
+    "h_7dc1bf3887130d": {
+      "author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
