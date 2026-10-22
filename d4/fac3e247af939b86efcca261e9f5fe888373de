@@ -1,0 +1,21 @@
+docs/reports/2026-10-21-storage-location-audit.md
+  s_49c9fdaaab2c94::t_1df4ff5455b2ab 1-380
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSession.kt
+  s_49c9fdaaab2c94::t_a5971d965416af 71-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d4fac3e247af939b86efcca261e9f5fe888373de",
+  "prompts": {},
+  "sessions": {
+    "s_49c9fdaaab2c94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64043207-f4bb-4524-84b6-95d90d11a213",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
