@@ -1,0 +1,51 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/JsonContentTypeFixHttpClient.kt
+  s_49c9fdaaab2c94::t_0ab6be0953d234 1-92
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmEndpointUrls.kt
+  s_49c9fdaaab2c94::t_938c2572ffd787 1-45
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/JsonContentTypeFixHttpClientTest.kt
+  s_49c9fdaaab2c94::t_51fe3e05deda61 1-137
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmEndpointUrlsTest.kt
+  s_49c9fdaaab2c94::t_203476ecbb0bec 1-58
+docs/reports/2026-10-11-large-file-refactor-and-audit.md
+  s_49c9fdaaab2c94::t_b55fe89f2a1021 1-213
+docs/reports/2026-10-12-scrcpy-integration-feasibility.md
+  s_49c9fdaaab2c94::t_5dbad9ea8b0958 1-365
+docs/reports/2026-10-14-heartbeat-charter-ruling.md
+  s_49c9fdaaab2c94::t_6ee9c7d879b0ea 1-101
+docs/reports/2026-10-20-testinfra-investigation.md
+  s_49c9fdaaab2c94::t_00a01f13c248a7 1-262
+docs/reports/2026-10-21-storage-location-audit.md
+  s_49c9fdaaab2c94::t_de1b5a36c712fc 1-380
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/AiSettingsViewModelTest.kt
+  s_49c9fdaaab2c94::t_c2b5b05798012b 1-572
+feature-ai/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/ai/LlmModelCatalogTest.kt
+  s_49c9fdaaab2c94::t_2375d25c959392 1-77
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchSession.kt
+  s_49c9fdaaab2c94::t_057733a490576f 1-458
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/config/ShellToolsConfigParserTest.kt
+  s_49c9fdaaab2c94::t_0f68ab66ce1c87 1-154
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/design.md
+  s_49c9fdaaab2c94::t_91b1179e4586d0 1-49
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/gateway-contract.md
+  s_49c9fdaaab2c94::t_80f8a015df897b 1-2820
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/spike-findings.md
+  s_49c9fdaaab2c94::t_dc0d92780de05d 1-1388
+openspec/changes/archive/2026-09-19-distill-knowledge-engine/design.md
+  s_49c9fdaaab2c94::t_1cba0959370bf6 1-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ba2e27034580203ee02a4d10dd2b687f6765c9e4",
+  "prompts": {},
+  "sessions": {
+    "s_49c9fdaaab2c94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64043207-f4bb-4524-84b6-95d90d11a213",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
