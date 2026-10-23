@@ -1,0 +1,106 @@
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/proposal.md
+  s_8ac2912e7e722a::t_a3c0764e27be9d 5
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModel.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 146
+  s_8ac2912e7e722a::t_2536b435573b3e 476
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindowController.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 15
+docs/manual/base64-extractor.md
+  s_8ac2912e7e722a::t_2536b435573b3e 3
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsDecoder.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 9
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsModels.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 19
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/WebTools.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 62
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DevToolsTest.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 24
+  s_8ac2912e7e722a::t_1edb2b6b4e07e1 69
+openspec/specs/copy-rewording/spec.md
+  s_8ac2912e7e722a::t_d27d2729f2f12d 5-7,11-14,16-20,25,31
+  s_8ac2912e7e722a::t_559cfa9684fec9 4
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/tools/base64/Base64ExtractorEngineTest.kt
+  s_8ac2912e7e722a::t_e90dea8defe64c 104
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/CommentGuardTest.kt
+  s_8ac2912e7e722a::t_89914c736f1b96 120-121
+  s_8ac2912e7e722a::t_68dbb24f9d0cfd 957
+  s_8ac2912e7e722a::t_1deae762b55773 974
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/agent/ChatSessionReducer.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 15
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/StartupProber.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 33
+docs/manual/index.md
+  s_8ac2912e7e722a::t_2536b435573b3e 30
+gradle/libs.versions.toml
+  s_8ac2912e7e722a::t_eb208d209d613b 54
+  s_8ac2912e7e722a::t_263afd19690430 55
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/GuardTestSupport.kt
+  s_8ac2912e7e722a::t_b0542a4af6be17 6
+docs/core/shell.md
+  s_8ac2912e7e722a::t_d60e259c021062 193
+feature-screencast/src/jvmDiag/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/diag/RealWindowDiagMain.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 52
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastKeymap.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 28
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutPanel.kt
+  s_8ac2912e7e722a::t_2536b435573b3e 458
+AGENTS.md
+  s_8ac2912e7e722a::t_0ae4b641ef42df 138
+  s_8ac2912e7e722a::t_f70d6cbe64d6e4 68
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScrcpyProtocol.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 6
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastEngineE2eRunner.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 39
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/proposal.md
+  s_8ac2912e7e722a::t_a3c0764e27be9d 5
+openspec/changes/archive/2026-09-10-remove-bridge-dead-code/design.md
+  s_8ac2912e7e722a::t_a3c0764e27be9d 5
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsFixtures.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 11
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/koog/BridgeToolRegistry.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 369
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/BridgeConfig.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 229
+test-fixtures/build.gradle.kts
+  s_8ac2912e7e722a::t_2a3069ab593d1c 1
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScrcpyControlProtocol.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 14
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastControlE2eRunner.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 28
+docs/manual/log-workbench.md
+  s_8ac2912e7e722a::t_2536b435573b3e 7
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/TestSharedFakes.kt
+  s_8ac2912e7e722a::t_19146682be2082 7
+docs/architecture.md
+  s_8ac2912e7e722a::t_a078a95d0f5410 332
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DevTools.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 23
+docs/manual/device-obs.md
+  s_8ac2912e7e722a::t_2536b435573b3e 85,99
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScrcpySpikeRunner.kt
+  s_8ac2912e7e722a::t_4e0836653826b2 48-49
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindow.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 153,199
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceLayoutModels.kt
+  s_8ac2912e7e722a::t_6dbd71177b6ba3 37
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/SurfacePaintKeepAlive.kt
+  s_8ac2912e7e722a::t_2fa1661782f562 20
+openspec/changes/archive/2026-09-10-govern-split-packages/proposal.md
+  s_8ac2912e7e722a::t_a3c0764e27be9d 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "10585245b4504842a916f54ee64fbe69c5f17282",
+  "prompts": {},
+  "sessions": {
+    "s_8ac2912e7e722a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "255afa2b-b181-45bc-b757-0cfb7228869a",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
