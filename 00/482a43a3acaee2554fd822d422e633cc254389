@@ -1,0 +1,21 @@
+.gitignore
+  s_8ac2912e7e722a::t_0b3df6581eab61 33-34
+  s_8ac2912e7e722a::t_fdb68748054864 57-59
+  s_8ac2912e7e722a::t_c799a18b4364ec 52-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "00482a43a3acaee2554fd822d422e633cc254389",
+  "prompts": {},
+  "sessions": {
+    "s_8ac2912e7e722a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "255afa2b-b181-45bc-b757-0cfb7228869a",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
