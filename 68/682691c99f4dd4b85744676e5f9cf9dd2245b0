@@ -1,0 +1,188 @@
+openspec/changes/archive/2026-09-20-log-workbench/proposal.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 17
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/spike-findings.md
+  s_8ac2912e7e722a::t_97163bed666974 6,9,1355
+  s_8ac2912e7e722a::t_3f2ef4d529678d 1356
+openspec/changes/archive/2026-09-19-distill-knowledge-engine/tasks.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 15
+  s_8ac2912e7e722a::t_97163bed666974 38
+openspec/changes/archive/2026-09-20-mcp-expose/design.md
+  s_8ac2912e7e722a::t_97163bed666974 5
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModelTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 1125,1130
+openspec/changes/archive/2026-09-20-add-flow-page/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 6
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/design.md
+  s_8ac2912e7e722a::t_97163bed666974 66
+openspec/changes/archive/2026-09-12-config-tier-split/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 18
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 37
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LegacyConfigImporterTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 121
+openspec/changes/archive/2026-09-21-add-voice-live-recording-vad/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 5
+openspec/changes/archive/2026-09-20-voice-transcribe/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 25,28
+openspec/changes/archive/2026-09-12-agent-artifact-return/proposal.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 24
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeEngineTest.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 50,72,83,91-92,96,106,114,118,122,140,155,163,165,167,174-175,186,189,192-193,208,217,219,260,264-266,320
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/KnowledgeSearchCasesToolTest.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 35,40,44,58,74,81,84-85,120,126,136,139,144,158
+docs/compatibility-audit-20260916.html
+  s_8ac2912e7e722a::t_475381ce931e0b 1367
+openspec/changes/archive/2026-09-19-distill-knowledge-engine/proposal.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 5
+openspec/changes/archive/2026-09-20-add-flow-capabilities/design.md
+  s_8ac2912e7e722a::t_97163bed666974 80
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/proposal.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 17
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageViewModelTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 110,120,154-155,222,225,231,292,342,358,362,367,412,423-424,434,441,449,457,463,484,494,525,557,580,601,605,633,643,684,726,778-779,821,842,863,891,919,924,928-929,935-936,951,968,971,1145,1160
+  s_8ac2912e7e722a::t_66fb18891c2d89 221
+  s_8ac2912e7e722a::t_01c601cb47daf3 121-122
+  s_8ac2912e7e722a::t_00d1953743d2f3 224
+openspec/changes/archive/2026-09-20-add-distill-output-viewer/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 7
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageBadgeSceneGuardTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 65
+  s_8ac2912e7e722a::t_18bbe7762189b8 69-70,141-142,201-202
+openspec/changes/archive/2026-09-19-distill-knowledge-engine/specs/knowledge-import/spec.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 47
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 15
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceApkInstallerTest.kt
+  s_8ac2912e7e722a::t_d43338775b663a 122-123
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageDiffSceneGuardTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 54
+  s_8ac2912e7e722a::t_18bbe7762189b8 58-59,67-68,76-77
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFilePullProductSceneGuardTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 63
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceObsSubpageSceneGuardTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 93-94,102-103,111,113
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 89
+  s_8ac2912e7e722a::t_d43338775b663a 115-117
+openspec/changes/archive/2026-09-10-ui-last-mile-and-docs-truth/design.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 45
+openspec/changes/archive/2026-09-20-add-flow-page/design.md
+  s_8ac2912e7e722a::t_97163bed666974 3
+docs/manual/device-obs.md
+  s_8ac2912e7e722a::t_851143cb4f36ee 74
+openspec/changes/archive/2026-09-20-add-flow-capabilities/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 34
+openspec/changes/archive/2026-09-20-mcp-expose/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 5
+openspec/changes/archive/2026-09-10-closeout-legacy-and-docs-truth/design.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 23
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastWindowDropPushTest.kt
+  s_8ac2912e7e722a::t_d43338775b663a 725-726
+openspec/changes/archive/2026-09-20-log-workbench/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 47-48,55
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/KnowledgeTools.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 71,157,206,250,309
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/config-domain-spec.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 975-976,1047,1239,1304,1306,1361
+openspec/changes/archive/2026-09-12-artifact-cap-default-and-rejected-audit/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 18
+openspec/changes/archive/2026-09-20-mcp-expose/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 31,44
+openspec/changes/archive/2026-09-19-distill-knowledge-engine/design.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 5
+  s_8ac2912e7e722a::t_97163bed666974 13
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DevicePackageBrowserTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 39,45,62,64-65,69,76,97,154,156,160,171,174,183,188,221,250,344,347,356,358,362
+  s_8ac2912e7e722a::t_01c601cb47daf3 161-162,363
+  s_8ac2912e7e722a::t_d43338775b663a 67,70-71,158,169,173,219,360
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/HANDOFF.md
+  s_8ac2912e7e722a::t_97163bed666974 5,13
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/cli/VerboseConsoleLevelTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 1
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutDiagramTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 226-228,231
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/behavior-contract.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 738,1310,1529,1546,1577
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/handler/HandlerGateAndWeightTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 3,325
+openspec/changes/archive/2026-09-12-agent-artifact-return/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 37
+  s_8ac2912e7e722a::t_3f2ef4d529678d 36
+openspec/changes/archive/2026-09-12-single-card-no-rotation/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 29
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsFixtures.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 229,234,252
+openspec/changes/archive/2026-09-20-add-flow-ask-user-and-flows-schema/design.md
+  s_8ac2912e7e722a::t_97163bed666974 3
+docs/pages/lark-bridge.md
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 1263
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsDecoderTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 217,226,433,435
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/Flows.sq
+  s_8ac2912e7e722a::t_dbe7f0ee80bc97 2
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/RejectDiagnosticsMaskingTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 1
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeLifecycleTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 5
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/PerfParsersTest.kt
+  s_8ac2912e7e722a::t_18bbe7762189b8 54-55,205
+openspec/changes/archive/2026-09-12-unify-process-encoding/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 26
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeMdImporter.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 164,175
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportSearchAcceptTest.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 30,35
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeConcurrencyContractTest.kt
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 2
+core/src/commonMain/sqldelight/com/jiaoay/easy_dev_toolbox/core/data/db/3.sqm
+  s_8ac2912e7e722a::t_475381ce931e0b 3
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgePack.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 20
+openspec/changes/archive/2026-09-12-fix-windows-usability/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 34
+feature-screencast/build.gradle.kts
+  s_8ac2912e7e722a::t_475381ce931e0b 68
+openspec/changes/archive/2026-09-20-add-flow-capabilities/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 7,42
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 5
+openspec/changes/archive/2026-09-20-add-flow-ask-user-and-flows-schema/proposal.md
+  s_8ac2912e7e722a::t_97163bed666974 5,8
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KnowledgeRepository.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 41
+openspec/changes/archive/2026-09-12-conclusion-reply-anchor/tasks.md
+  s_8ac2912e7e722a::t_97163bed666974 22
+feature-larkbridge/build.gradle.kts
+  s_8ac2912e7e722a::t_475381ce931e0b 32
+feature-quest/build.gradle.kts
+  s_8ac2912e7e722a::t_475381ce931e0b 8
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/exec/SensitiveFilePolicyTextTest.kt
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 207
+openspec/specs/knowledge-import/spec.md
+  s_8ac2912e7e722a::t_69d9481f2aa4f9 15
+  s_8ac2912e7e722a::t_3f2ef4d529678d 47
+openspec/changes/archive/2026-09-20-log-workbench/design.md
+  s_8ac2912e7e722a::t_3f2ef4d529678d 3,55
+  s_8ac2912e7e722a::t_97163bed666974 79
+openspec/changes/archive/2026-09-10-rewrite-lark-bridge/gateway-contract.md
+  s_8ac2912e7e722a::t_f67fd0c9dae11b 2300,2411,2582,2585,2607-2608
+  s_8ac2912e7e722a::t_4b502104fa91ec 2299,2304,2393,2599,2639
+  s_8ac2912e7e722a::t_3f2ef4d529678d 17,2008,2025,2032,2045,2112,2621,2687
+  s_8ac2912e7e722a::t_a3ba93eef5769f 2097,2593
+  s_8ac2912e7e722a::t_244b74168f2639 2578,2583
+  s_8ac2912e7e722a::t_62a980cdee649a 2591
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "68682691c99f4dd4b85744676e5f9cf9dd2245b0",
+  "prompts": {},
+  "sessions": {
+    "s_8ac2912e7e722a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "255afa2b-b181-45bc-b757-0cfb7228869a",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
