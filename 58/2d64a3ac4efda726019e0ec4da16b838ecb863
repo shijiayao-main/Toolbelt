@@ -1,0 +1,21 @@
+NOTICE
+  s_8ac2912e7e722a::t_526a1c846072ad 10-28,33-37
+composeApp/build.gradle.kts
+  s_8ac2912e7e722a::t_dc8d1df0a1c6b3 94-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "582d64a3ac4efda726019e0ec4da16b838ecb863",
+  "prompts": {},
+  "sessions": {
+    "s_8ac2912e7e722a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "255afa2b-b181-45bc-b757-0cfb7228869a",
+        "model": "glm-5.3"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
