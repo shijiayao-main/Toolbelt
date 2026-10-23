@@ -1,0 +1,60 @@
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchViewModel.kt
+  s_46e9c29589da72::t_885f4a38bfb901 519-520
+  s_46e9c29589da72::t_a33a2d647e28c9 13
+  s_46e9c29589da72::t_f5b2d9ee8da7a2 671-672
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/ReportExporter.kt
+  s_46e9c29589da72::t_0efae945daccf2 159,165-166,171-193
+  s_46e9c29589da72::t_7cac7e0514ae1f 194
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/FileTools.kt
+  s_46e9c29589da72::t_de974a39ff873d 86-100,102,105,112,115,119
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/evidence/EvidenceModels.kt
+  s_46e9c29589da72::t_9a245983748143 487-509
+  s_46e9c29589da72::t_947cba07a0e33e 486
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/tools/hash/HashChecksumPanel.kt
+  s_46e9c29589da72::t_bc682b03760f81 30-31,33
+  s_46e9c29589da72::t_b0a0982d18430e 233-235
+  s_46e9c29589da72::t_1f654d6edd96dd 14
+  s_46e9c29589da72::t_1345c36f7168dd 82-106
+feature-logworkbench/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/ReportExporterTest.kt
+  s_46e9c29589da72::t_97b8a35c872c6c 606-673
+  s_46e9c29589da72::t_7152105ad1684d 6
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatCaptureEngineTest.kt
+  s_46e9c29589da72::t_18620f09d0986d 97-108
+  s_46e9c29589da72::t_dea74fc67146ae 18
+  s_46e9c29589da72::t_a8c38385899623 96,109-110
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/ImagePreviewBudgetTest.kt
+  s_46e9c29589da72::t_ffe8276526b8ab 1-59,67-90
+  s_46e9c29589da72::t_d8e6e8c34f6853 60-66
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/theme/AppTheme.kt
+  s_46e9c29589da72::t_3951439efa788e 180-191
+  s_46e9c29589da72::t_1ba9d60e289a6d 13
+  s_46e9c29589da72::t_738ed2c29729b7 48-49,51,53,55-59
+  s_46e9c29589da72::t_ad05bf325c6c79 44-47,50,52,54,60-66
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatCaptureEngine.kt
+  s_46e9c29589da72::t_44d4d5f5dd5640 26-27
+  s_46e9c29589da72::t_c0a96559f2cab1 431-433,763-767
+  s_46e9c29589da72::t_4a8cc9c5e78066 422-430,478
+  s_46e9c29589da72::t_2ddaf3e189cf1c 754-758
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFileBrowserPanel.kt
+  s_46e9c29589da72::t_75333ac1cf32d6 549,551,559-561,570-578,584,593-630
+  s_46e9c29589da72::t_83c442b3710b46 631
+feature-logworkbench/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logworkbench/WorkbenchReportPanel.kt
+  s_46e9c29589da72::t_ef7993f6ef77e6 618-619,622-624
+  s_46e9c29589da72::t_350853d985edfd 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02eef604c8403bf061ece0457e88bc041f1757bc",
+  "prompts": {},
+  "sessions": {
+    "s_46e9c29589da72": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "427f1d9a-1019-4379-b09f-943733670993",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
