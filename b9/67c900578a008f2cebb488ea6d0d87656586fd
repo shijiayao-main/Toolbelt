@@ -1,0 +1,68 @@
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/ConfigRepository.kt
+  s_46e9c29589da72::t_0c10d65959125a 161-162,165
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/SimpleShell.kt
+  s_46e9c29589da72::t_773729c368a29e 52
+  s_46e9c29589da72::t_c4b5fbe61c3b25 33-34,37,41
+  s_46e9c29589da72::t_d40e36fdbb66de 51,53-54
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModel.kt
+  s_46e9c29589da72::t_b5a6a371a5eea5 636
+  s_46e9c29589da72::t_07a3ce22b25105 633-635,637-639,649
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/ProcessTreeKillerTest.kt
+  s_46e9c29589da72::t_c48a5a0ff2e97f 1-16,18-44,46-48,51-60
+  s_46e9c29589da72::t_0780d43be51da6 17,45,49-50
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/ProcessTreeKiller.kt
+  s_46e9c29589da72::t_3f5c88b2d5e1ec 1-29,32,34-75
+  s_46e9c29589da72::t_70e4d16765a703 30-31,33
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/ShellCommandBuilder.kt
+  s_46e9c29589da72::t_e4f7caf8a5bc12 50-84
+  s_46e9c29589da72::t_50f7ccaaa5b66b 3
+  s_46e9c29589da72::t_5498e48e88bb7b 49
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/SecretFilePermissions.kt
+  s_46e9c29589da72::t_c49fd1a61772e5 1-2,4-12,16-29,31-32,34-41,45-49
+  s_46e9c29589da72::t_6e70aa17940c79 3,13-15,30,33,42-44
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/InteractiveShell.kt
+  s_46e9c29589da72::t_c62e341cbd11f1 153-154
+  s_46e9c29589da72::t_a4f9a639a953bb 80
+  s_46e9c29589da72::t_60d4aa7f0902bf 64-67,70
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/LarkBridgeViewModelTest.kt
+  s_46e9c29589da72::t_8abcf216789a0b 753-754,757-782
+  s_46e9c29589da72::t_79491efe4a1f51 755-756
+  s_46e9c29589da72::t_bb50c5aa29956e 39
+  s_46e9c29589da72::t_34734831e1af0c 837-842
+  s_46e9c29589da72::t_72e54d3fbf70a2 836
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/system/SysOutputSanitizer.kt
+  s_46e9c29589da72::t_5a5f1a83ba8bf4 86
+  s_46e9c29589da72::t_35a80034187184 87-88,90-93,99,101,103-120,123-129,131-162,165-167,169-178
+  s_46e9c29589da72::t_f14dfb7738350f 83-85,89,94-98,100,102,121-122,130,163,168
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/system/ArgvProcessRunner.kt
+  s_46e9c29589da72::t_cdeca60fed285b 169-172,174
+  s_46e9c29589da72::t_04acd0f8b1bdf7 3
+feature-larkbridge/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/BridgeStore.kt
+  s_46e9c29589da72::t_b439709acf9179 176-179,181-189
+  s_46e9c29589da72::t_88cd359969dfba 180
+  s_46e9c29589da72::t_e1bbdc8cfb7a0d 270-274
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/StreamingShell.kt
+  s_46e9c29589da72::t_ee63034469dba4 30-31,33-34,37
+  s_46e9c29589da72::t_62478340d8b08e 218
+  s_46e9c29589da72::t_56aa5de83dc918 219-220
+  s_46e9c29589da72::t_8b4d1a5b9afe0a 32
+  s_46e9c29589da72::t_665fcbde6e4c0e 103-104,110,119
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/system/SysOutputSanitizerTest.kt
+  s_46e9c29589da72::t_df9df819c4cc59 244-290
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b967c900578a008f2cebb488ea6d0d87656586fd",
+  "prompts": {},
+  "sessions": {
+    "s_46e9c29589da72": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "427f1d9a-1019-4379-b09f-943733670993",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
