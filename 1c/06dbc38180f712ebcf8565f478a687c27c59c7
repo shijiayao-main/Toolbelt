@@ -1,0 +1,97 @@
+feature-voice/build.gradle.kts
+  s_46e9c29589da72::t_b76b043d2f65af 59,61-65,68-78,82-84
+  s_46e9c29589da72::t_6ebfae72713dc2 43-51,80-81
+  s_46e9c29589da72::t_a1c8aa01be6b6c 17-20
+  s_46e9c29589da72::t_2f51b953f4e292 53-58,60,67
+  s_46e9c29589da72::t_63dc06376ae3d3 34-42,52,66,79,85
+  s_46e9c29589da72::t_7d247edabaad64 152-153,155
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceWindowViewsInspector.kt
+  s_46e9c29589da72::t_b7c8097a021f83 19
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DevicePackageActions.kt
+  s_46e9c29589da72::t_970b6cac6fb553 73
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportCliTest.kt
+  s_46e9c29589da72::t_7509b9085a49be 120-127
+  s_46e9c29589da72::t_c48888294af89a 1-119,128-169
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceHotPathBudgetTest.kt
+  s_46e9c29589da72::t_ea38650c6d9865 63
+  s_46e9c29589da72::t_6267a91c2d8d58 91
+  s_46e9c29589da72::t_02c103279ddae9 64
+  s_46e9c29589da72::t_85fd69075d380d 1-14,16-50,52-53,56-60,62,65-78,80-81,84-86,89,92-94
+  s_46e9c29589da72::t_75378951288ef3 51
+  s_46e9c29589da72::t_990643c5bc2858 90
+  s_46e9c29589da72::t_8fe14a80cef7ad 15
+  s_46e9c29589da72::t_9cbfdcc52675fc 82
+  s_46e9c29589da72::t_a1a15d34319756 79
+  s_46e9c29589da72::t_d33261ef818228 54
+  s_46e9c29589da72::t_aee25173c1853f 55,61,83,87-88
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceShellSupport.kt
+  s_46e9c29589da72::t_a2d3e0563b2e5a 1-30
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastRecorder.kt
+  s_46e9c29589da72::t_035753a5c0aecb 280-284,288,292-294,296-297
+  s_46e9c29589da72::t_ef39a1990249a5 289
+log-tools/src/test/kotlin/com/jiaoay/log/LogHotPathBudgetTest.kt
+  s_46e9c29589da72::t_babcd3b333af61 107
+  s_46e9c29589da72::t_9995d5b64d44a7 42
+  s_46e9c29589da72::t_849a374c656dae 108
+  s_46e9c29589da72::t_a3e791310fe5de 53,77,102
+  s_46e9c29589da72::t_58bed6bd79f781 64
+  s_46e9c29589da72::t_0570879a3bf02c 56,80
+  s_46e9c29589da72::t_9e9902e82e1699 28
+  s_46e9c29589da72::t_6f227ac695195c 88
+  s_46e9c29589da72::t_4b984dde5d9b8c 16
+  s_46e9c29589da72::t_1066db732a9784 1-15,17-27,29-41,43-52,54-55,58-63,65-67,69-76,78-79,82-87,89-91,93-101,103-106,109-111
+  s_46e9c29589da72::t_655d923ad4d688 68,92
+  s_46e9c29589da72::t_4aedc090e4b576 81
+  s_46e9c29589da72::t_e86753a70c7b77 57
+docs/architecture.md
+  s_46e9c29589da72::t_0ef59d86f5d938 320
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportCli.kt
+  s_46e9c29589da72::t_6bd96b33ee5337 68
+  s_46e9c29589da72::t_c83fffed66e6bf 86,114
+  s_46e9c29589da72::t_41b833c5a4b8a6 7,9-11,13-21,23-36,39-41,57-59,63-64,66,69-85,87,92-93,97-105,107-112,115,121,130,151
+  s_46e9c29589da72::t_5f12996e1e6b11 37-38
+  s_46e9c29589da72::t_705b4416f55444 42-51,60-62
+  s_46e9c29589da72::t_74f9a88cadd11b 52-56,65
+  s_46e9c29589da72::t_f3ea84509473c9 116,118-120,125-128,131,140,149
+  s_46e9c29589da72::t_912925ddea2fcc 89-91,94-96
+  s_46e9c29589da72::t_f8771148cfe576 4
+docs/core/native-memory.md
+  s_46e9c29589da72::t_e39d1c4bb72c00 34
+docs/pages/voice.md
+  s_46e9c29589da72::t_0fd07669241c16 44-45
+  s_46e9c29589da72::t_479f0a34d9ff35 42-43,46-47
+gradle/libs.versions.toml
+  s_46e9c29589da72::t_a51475f460b741 59,61-62
+  s_46e9c29589da72::t_9d0b62e53add02 135-137
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDecoder.kt
+  s_46e9c29589da72::t_b7004485b54300 444-445
+  s_46e9c29589da72::t_fbb442184c74b6 17
+  s_46e9c29589da72::t_05ce0c25d57b2a 442,446-459,471
+  s_46e9c29589da72::t_c3da9e35b34483 462-464,470,474-476,478-479
+  s_46e9c29589da72::t_2568b7a8a2ad8b 460,465-466
+  s_46e9c29589da72::t_c6c51e4185855d 461
+feature-screencast/build.gradle.kts
+  s_46e9c29589da72::t_f98f60f5750930 7-10
+  s_46e9c29589da72::t_a6543422bac3eb 39-41,45,47
+  s_46e9c29589da72::t_a2f686a71ee73a 5-6,11-23
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/ShellCommandBuilderTest.kt
+  s_46e9c29589da72::t_ce09288cb2b139 80-115
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/db/KbImportMain.kt
+  s_46e9c29589da72::t_8d4b6d5ed98649 3,6-9,11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1c06dbc38180f712ebcf8565f478a687c27c59c7",
+  "prompts": {},
+  "sessions": {
+    "s_46e9c29589da72": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "427f1d9a-1019-4379-b09f-943733670993",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
