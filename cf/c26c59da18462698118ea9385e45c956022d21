@@ -1,0 +1,23 @@
+docs/core/native-memory.md
+  s_54388c1d52ba8c::t_07ad7dbd0aeb9f 5
+  s_54388c1d52ba8c::t_969747e85be194 20
+  s_54388c1d52ba8c::t_85194a2df2227a 41
+.gitignore
+  s_54388c1d52ba8c::t_a2fbe95fc5625d 63-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cfc26c59da18462698118ea9385e45c956022d21",
+  "prompts": {},
+  "sessions": {
+    "s_54388c1d52ba8c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4ea92171-30ca-495f-8568-136853fb4062",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
