@@ -1,0 +1,41 @@
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/pipeline/DispatchAgentRouteTest.kt
+  s_91548e0ce7b6f2::t_8598a8f7ce841f 10-11,17
+  s_91548e0ce7b6f2::t_f406cef4c2f726 27-29,54,59-60,64,66-70,82,106,119,122,127,141,155,178,223,246
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/ConfigMigrationsTest.kt
+  s_91548e0ce7b6f2::t_b071243ebc134b 506-507,510-513,758-764,779-780,783-784
+  s_91548e0ce7b6f2::t_a7a8864b42b029 15,21-23,27,30,36,39,79,90,130,141,184,189,201,212,220,244,246,259,312,462,469,503,584,657,683,710,718,741,756,802
+  s_91548e0ce7b6f2::t_1c14792c08e013 540
+  s_91548e0ce7b6f2::t_78f55375bbcff1 514,516,518-539,541-556
+  s_91548e0ce7b6f2::t_21d18477ecca83 517
+  s_91548e0ce7b6f2::t_d97af316e4baf6 515
+lark-bridge/src/main/kotlin/com/jiaoay/lark/bridge/config/ConfigMigrations.kt
+  s_91548e0ce7b6f2::t_221e0b8bf13cb6 495
+feature-larkbridge/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/larkbridge/security/BridgeSecurityCardLogicTest.kt
+  s_91548e0ce7b6f2::t_ec924f1bdc604e 71,79,82,89
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeLifecycleTest.kt
+  s_91548e0ce7b6f2::t_bc852bba1f049f 317,321,329-333,341
+  s_91548e0ce7b6f2::t_909f4f027d55fe 467-472
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/BridgeAssemblerParityTest.kt
+  s_91548e0ce7b6f2::t_174114935dacb3 786
+  s_91548e0ce7b6f2::t_9a254e7d132660 72
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/cli/HandleEventCommandTest.kt
+  s_91548e0ce7b6f2::t_53466fa65aabc3 113,142-150,179,181,208-211
+lark-bridge/src/test/kotlin/com/jiaoay/lark/bridge/config/BridgeConfigRoundTripTest.kt
+  s_91548e0ce7b6f2::t_929866a389c3e0 39-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bd78beab2fa73cabd6f809796bdeb92c23e64c17",
+  "prompts": {},
+  "sessions": {
+    "s_91548e0ce7b6f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc7d56b4-9c4c-4a52-81d3-cd7ac9d901d1",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
