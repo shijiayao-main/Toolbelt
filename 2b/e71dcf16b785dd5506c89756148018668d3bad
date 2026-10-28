@@ -1,0 +1,21 @@
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/runtime/CapabilitySnapshot.kt
+  s_91548e0ce7b6f2::t_7911407b0585af 7
+  s_91548e0ce7b6f2::t_bc9f4d278323a7 14
+  s_91548e0ce7b6f2::t_de939efbe54c22 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2be71dcf16b785dd5506c89756148018668d3bad",
+  "prompts": {},
+  "sessions": {
+    "s_91548e0ce7b6f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc7d56b4-9c4c-4a52-81d3-cd7ac9d901d1",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
