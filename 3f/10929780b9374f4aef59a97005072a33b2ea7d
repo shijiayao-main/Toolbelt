@@ -1,0 +1,80 @@
+docs/manual/lark-bridge.md
+  s_91548e0ce7b6f2::t_86f10fb033c4ec 57-62
+  s_91548e0ce7b6f2::t_843601229b2507 79-80,85,93,103-104,145
+docs/pages/lark-bridge.md
+  s_91548e0ce7b6f2::t_56c71c29a21c97 489
+  s_91548e0ce7b6f2::t_34d9ad82fb8d90 91
+  s_91548e0ce7b6f2::t_6a61c9d1f9482b 114
+  s_91548e0ce7b6f2::t_3ccc2fb63412ef 178,180
+  s_91548e0ce7b6f2::t_57ce7884f41c74 382
+  s_91548e0ce7b6f2::t_d36e711862e339 540-542
+  s_91548e0ce7b6f2::t_2104378be7e2ed 1073,1126,1169,1178,1212-1213,1215
+  s_91548e0ce7b6f2::t_6406537979e969 408,1036
+  s_91548e0ce7b6f2::t_be7d8e42687256 529
+  s_91548e0ce7b6f2::t_371956609b2131 958-959
+  s_91548e0ce7b6f2::t_2d4c20a756bfff 115
+  s_91548e0ce7b6f2::t_bb45dd71d0dc75 310,1110
+  s_91548e0ce7b6f2::t_d62a9bdda0a3cf 400
+  s_91548e0ce7b6f2::t_fd37269ce43dc4 609,611
+  s_91548e0ce7b6f2::t_695453969acdc4 34
+  s_91548e0ce7b6f2::t_064e9bed413b70 97,530
+  s_91548e0ce7b6f2::t_f18431437d965d 241-242
+  s_91548e0ce7b6f2::t_ec87f3b63ca37a 383
+  s_91548e0ce7b6f2::t_d89e2eabda0b6b 999
+  s_91548e0ce7b6f2::t_6ec46c67cd35f9 163-164
+  s_91548e0ce7b6f2::t_662d99b3269163 93,95,100
+  s_91548e0ce7b6f2::t_0f3642b7b56b75 62,64,69-79
+  s_91548e0ce7b6f2::t_b4948737fd8399 226
+  s_91548e0ce7b6f2::t_10e5b49a1cab89 724
+  s_91548e0ce7b6f2::t_8b5efb66061efa 227
+  s_91548e0ce7b6f2::t_6d85641f7cdcb0 538
+  s_91548e0ce7b6f2::t_db1cbd660577a0 118
+  s_91548e0ce7b6f2::t_9cf2a915b40c3e 613
+  s_91548e0ce7b6f2::t_e250bc6f746d1f 134,141,148,150
+  s_91548e0ce7b6f2::t_96c52d73facc16 23-24,27,29-32,35-36
+  s_91548e0ce7b6f2::t_23718d89f40cdd 48,54,56,60
+  s_91548e0ce7b6f2::t_71b9a2d84ff371 201-216,218-225,228-231
+  s_91548e0ce7b6f2::t_46e2b9d2960d79 384
+  s_91548e0ce7b6f2::t_e6ed4aab827daa 260
+  s_91548e0ce7b6f2::t_c355620fc81093 287
+  s_91548e0ce7b6f2::t_a972be5ae1f5f9 532
+  s_91548e0ce7b6f2::t_9c7bb4b21687ce 500
+  s_91548e0ce7b6f2::t_e1d86bb4a251d1 217
+  s_91548e0ce7b6f2::t_12139ae98f12b7 1219,1225,1229-1231
+  s_91548e0ce7b6f2::t_fee0edaeb7e81c 420,424,426,431
+  s_91548e0ce7b6f2::t_912278fb4084f1 401
+  s_91548e0ce7b6f2::t_8365eecb5c0dd5 11-13
+  s_91548e0ce7b6f2::t_f2d0714dc06476 576-577
+  s_91548e0ce7b6f2::t_28d8cd5df1b749 531,543
+  s_91548e0ce7b6f2::t_6237bd477c0144 243
+  s_91548e0ce7b6f2::t_2c45b796a578d8 533-537,539
+  s_91548e0ce7b6f2::t_d9a6c8ab3cd8f0 61,80,432
+docs/manual/ai-settings.md
+  s_91548e0ce7b6f2::t_ea9e6c6fc8d96d 44
+docs/index.md
+  s_91548e0ce7b6f2::t_0dd1a713840a59 37,45,100,103,106-108
+  s_91548e0ce7b6f2::t_b4d59aa1307236 137,160
+docs/core/agent-tools.md
+  s_91548e0ce7b6f2::t_7f732738f252ea 7,38,77-79
+docs/architecture.md
+  s_91548e0ce7b6f2::t_46915d436a1906 221
+  s_91548e0ce7b6f2::t_96b3fffa0aacb3 62,64-67
+  s_91548e0ce7b6f2::t_fa94b81b2121b3 216-217
+  s_91548e0ce7b6f2::t_edc143c9846318 31,33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f10929780b9374f4aef59a97005072a33b2ea7d",
+  "prompts": {},
+  "sessions": {
+    "s_91548e0ce7b6f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc7d56b4-9c4c-4a52-81d3-cd7ac9d901d1",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
