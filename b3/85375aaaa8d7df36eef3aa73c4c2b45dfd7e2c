@@ -1,0 +1,61 @@
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastWindowDropPushTest.kt
+  s_83761dd83f571d::t_837209f09c89c3 84
+  s_83761dd83f571d::t_546c75cf47947f 219-220,228,230
+  s_83761dd83f571d::t_8e9cb812930493 165-166,174,177
+  s_83761dd83f571d::t_8ceaf0bc2e6efa 275,283,323,331,370
+  s_83761dd83f571d::t_50d18e2c532722 272,281,320,329,359,368
+  s_83761dd83f571d::t_bec08b848499e4 273,321,360
+  s_83761dd83f571d::t_16c9bc4bc79d05 710
+  s_83761dd83f571d::t_5302729880de59 12-14
+  s_83761dd83f571d::t_21789159f6b329 25,67-68,70,73,83,86-87,89,168,171,178,180,222,225,231,278,284,326,332,362,365,371
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindowContentTest.kt
+  s_83761dd83f571d::t_837209f09c89c3 1080
+  s_83761dd83f571d::t_7622b47a1384ab 1038,1040,1048,1050,1054,1056,1124,1126
+  s_83761dd83f571d::t_70205049520053 1134-1135,1137,1140
+  s_83761dd83f571d::t_f4edc54b09482e 1068-1069,1071,1074,1077,1081,1083
+  s_83761dd83f571d::t_721fc3c9e8bdd4 3
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastTestSupport.kt
+  s_83761dd83f571d::t_b9c78b773133aa 1-11
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatViewModelTest.kt
+  s_83761dd83f571d::t_96c8e37535158d 37,99-100
+  s_83761dd83f571d::t_78f955758f88ef 9
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastWindowDropPush.kt
+  s_83761dd83f571d::t_04e022ee0b5af1 114-115,117-126
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceMonitor.kt
+  s_83761dd83f571d::t_02ad4a7a6b944e 88-93,95
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatPanelSceneGuardTest.kt
+  s_57160ce6e571a6::t_4c2f57b139dc39 202-203
+  s_83761dd83f571d::t_78f955758f88ef 20
+  s_83761dd83f571d::t_96c8e37535158d 44
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDeviceDelegationTest.kt
+  s_83761dd83f571d::t_d2b1dd75457ee0 19
+  s_83761dd83f571d::t_549aba1889a934 107-111
+  s_83761dd83f571d::t_67be34a8c1400c 52,57-60
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatArmFeaturePresetTest.kt
+  s_83761dd83f571d::t_78f955758f88ef 6
+  s_83761dd83f571d::t_96c8e37535158d 30,99-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b385375aaaa8d7df36eef3aa73c4c2b45dfd7e2c",
+  "prompts": {},
+  "sessions": {
+    "s_57160ce6e571a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f144ecb-e873-49d6-b76c-3b219affe9c4",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_83761dd83f571d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd69a498-5ad9-4c7f-83c9-52cea0f86c19",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
