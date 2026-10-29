@@ -1,0 +1,30 @@
+docs/manual/lark-bridge.md
+  s_57160ce6e571a6::t_f2416054798db8 13,18-19,58,94-95,116,137
+  s_57160ce6e571a6::t_993f1315fe8b1d 57
+docs/pages/lark-bridge.md
+  s_57160ce6e571a6::t_eafdcdbd162be8 48,53,56-57,60,62,64-67,69-71,77-84
+  s_57160ce6e571a6::t_68f9109e5b0802 432,463,589
+  s_57160ce6e571a6::t_bef4f7b767e53a 88-101,105,117,129-130,612
+  s_57160ce6e571a6::t_76bacff3519277 102-104,106-116
+  s_57160ce6e571a6::t_c97c492af13412 239,256-258,262,264,292,431,580
+  s_57160ce6e571a6::t_a8a22962f4332e 118-128
+  s_57160ce6e571a6::t_308bfbb0300780 456,475,1155,1172-1173,1264,1267
+  s_57160ce6e571a6::t_2c1860b7d48b3d 588
+  s_57160ce6e571a6::t_5147d66e426a8f 131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6b8e4acc2529363f2b045edc96a2a5b76df042bb",
+  "prompts": {},
+  "sessions": {
+    "s_57160ce6e571a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f144ecb-e873-49d6-b76c-3b219affe9c4",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
