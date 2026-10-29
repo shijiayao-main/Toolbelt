@@ -1,0 +1,212 @@
+-- 知识库引擎四表（P3-A4，2026-09-19）
+-- 设计输入：E4/G2 调研裁定「结构化表 + 定向查询为主，向量检索不做」+ P4 知识迁移
+-- 目标形态（ai-config/knowledge-base 的 TAG_REGISTRY/决策树/黄金样本/文档四类知识）。
+
+-- ① TAG 反查表（TAG_REGISTRY.md 结构化迁移目标）：TAG → 文档映射 + 别名变体 + 超长TAG标注。
+-- 🔴 主键 (tag, repo, doc_name)：TAG_REGISTRY 的登记语义是「跨文档共享的 TAG 在每个提及
+--    它的文档行都登记」（反查时才能找全所有相关文档）——同 (tag, repo) 天然多行。
+CREATE TABLE tag_registry (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    tag TEXT NOT NULL,
+    repo TEXT NOT NULL,               -- 所属仓库（docs/<repo> 分节语义）
+    doc_name TEXT NOT NULL,           -- 关联知识文档名（TAG_REGISTRY 主映射第一列）
+    module TEXT,                      -- 功能域分组（从文档路径派生：system/carcontrol/...；NULL = 别名行）
+    aliases TEXT,                     -- 别名/变体/前缀形态列表（JSON 数组；「别名与变体」节）
+    truncated_tag TEXT,              -- 实际落盘形式（>23 字符截断后；NULL = 无截断）
+    note TEXT,                        -- 备注（「别名与变体」节的说明列——坑位说明）
+    UNIQUE(tag, repo, doc_name)
+);
+
+insertTag:
+INSERT INTO tag_registry(tag, repo, doc_name, module, aliases, truncated_tag, note)
+VALUES (?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(tag, repo, doc_name) DO UPDATE SET
+    module = excluded.module,
+    aliases = excluded.aliases,
+    truncated_tag = excluded.truncated_tag,
+    note = excluded.note;
+
+tagsByRepo:
+SELECT * FROM tag_registry WHERE repo = ? ORDER BY tag;
+
+-- 定向查询主入口：精确 TAG / 别名 / 截断形式三路命中（前缀剥离变体由 repository 层展开）
+lookupTag:
+SELECT * FROM tag_registry
+WHERE repo = :repo AND (tag = :tag OR truncated_tag = :tag OR aliases LIKE :aliasPattern ESCAPE '\')
+LIMIT :limit;
+
+-- 跨仓变体（repo 未知/全域反查）
+lookupTagAll:
+SELECT * FROM tag_registry
+WHERE tag = :tag OR truncated_tag = :tag OR aliases LIKE :aliasPattern ESCAPE '\'
+LIMIT :limit;
+
+deleteTagsByRepo:
+DELETE FROM tag_registry WHERE repo = ?;
+
+-- 单条删除（管理面逐行删除——UNIQUE(tag, repo, doc_name) 复合键）
+deleteTag:
+DELETE FROM tag_registry WHERE tag = ? AND repo = ? AND doc_name = ?;
+
+countTags:
+SELECT COUNT(*) FROM tag_registry;
+
+-- ② 决策树节点（知识文档「核心方法决策树」段的结构化目标）
+CREATE TABLE decision_nodes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo TEXT NOT NULL,
+    method TEXT NOT NULL,             -- 核心方法名（决策树入口）
+    node_key TEXT NOT NULL,           -- 节点标识（树内唯一键——路径/条件组合）
+    parent_key TEXT,                  -- 父节点（NULL = 根；树结构经此还原）
+    condition TEXT NOT NULL,          -- 到达本节点的判定条件（边上的问题）
+    action TEXT NOT NULL,             -- 命中本节点的动作/结论
+    doc_name TEXT,                    -- 证据文档（溯源）
+    UNIQUE(repo, method, node_key)
+);
+
+insertDecisionNode:
+INSERT INTO decision_nodes(repo, method, node_key, parent_key, condition, action, doc_name)
+VALUES (?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(repo, method, node_key) DO UPDATE SET
+    parent_key = excluded.parent_key,
+    condition = excluded.condition,
+    action = excluded.action,
+    doc_name = excluded.doc_name;
+
+decisionTree:
+SELECT * FROM decision_nodes WHERE repo = ? AND method = ? ORDER BY id;
+
+-- 决策树方法枚举（工作台树选择面）
+distinctMethods:
+SELECT DISTINCT method FROM decision_nodes WHERE repo = ? ORDER BY method;
+
+-- 决策树全量（按仓库；KnowledgePack 导入导出转储面）
+decisionNodesByRepo:
+SELECT * FROM decision_nodes WHERE repo = ? ORDER BY method, id;
+
+deleteDecisionNodesByRepo:
+DELETE FROM decision_nodes WHERE repo = ?;
+
+-- ③ 黄金样本（UPGRADE_LOG 复发案例 + log-helper-fix-review 的验证锚：
+-- 迁移防走样 + 未来回归测试的断言真源）
+CREATE TABLE golden_samples (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo TEXT NOT NULL,
+    title TEXT NOT NULL,              -- 案例名（一句话症状）
+    symptom TEXT NOT NULL,            -- 症状/表现
+    root_cause TEXT NOT NULL,         -- 根因
+    fix_summary TEXT NOT NULL,       -- 修复要点
+    evidence_log TEXT,                -- 证据日志片段（复现/断言锚）
+    tags TEXT,                        -- 相关 TAG 列表（JSON 数组）
+    created_at INTEGER NOT NULL,
+    UNIQUE(repo, title)
+);
+
+insertGoldenSample:
+INSERT INTO golden_samples(repo, title, symptom, root_cause, fix_summary, evidence_log, tags, created_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(repo, title) DO UPDATE SET
+    symptom = excluded.symptom,
+    root_cause = excluded.root_cause,
+    fix_summary = excluded.fix_summary,
+    evidence_log = excluded.evidence_log,
+    tags = excluded.tags;
+
+goldenSamplesByRepo:
+SELECT * FROM golden_samples WHERE repo = ? ORDER BY created_at DESC;
+
+-- 症状关键词定向检索（LIKE 全词包含；语义模糊研判归 agent，检索只做精确路由）。
+-- tags 命中 = JSON 定界符口径：tagPattern 形如 %"词"%（repository 经 encodeList 单源
+-- 构造）——词被 JSON 引号包夹 ⇒ 命中 = 词与某 tag 元素整串相等，防「黑屏」误中
+-- 「不黑屏」类词边界误命中。
+searchGoldenSamples:
+SELECT * FROM golden_samples
+WHERE repo = :repo AND (symptom LIKE :pattern ESCAPE '\' OR root_cause LIKE :pattern ESCAPE '\' OR fix_summary LIKE :pattern ESCAPE '\' OR tags LIKE :tagPattern ESCAPE '\')
+ORDER BY created_at DESC
+LIMIT :limit;
+
+deleteGoldenSamplesByRepo:
+DELETE FROM golden_samples WHERE repo = ?;
+
+-- 单条删除（管理面——UNIQUE(repo, title) 复合键）
+deleteGoldenSample:
+DELETE FROM golden_samples WHERE repo = ? AND title = ?;
+
+-- 同名存在性判定（单条存案 upsert 的覆盖回执依据——(repo, title) 复合键精确计数）
+goldenSampleCountByTitle:
+SELECT COUNT(*) FROM golden_samples WHERE repo = ? AND title = ?;
+
+-- ④ 知识文档（docs/<repo>/<doc>.md 的结构化形态）：正文入库（body）——「文档渐进披露」
+-- 由 knowledge.search（索引面：title/summary）+ knowledge.read（正文面：body）两级实现；
+-- KnowledgePack 导入导出即纯表格转储，无文件同步/路径围栏问题。
+CREATE TABLE knowledge_docs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo TEXT NOT NULL,
+    name TEXT NOT NULL,               -- 文档名（TAG_REGISTRY 主映射第一列，含 repo 前缀）
+    title TEXT NOT NULL,              -- 人读标题
+    summary TEXT NOT NULL,            -- 一句话摘要（LOG_ANALYSE_INDEX 索引行语义）
+    body TEXT NOT NULL,               -- Markdown 正文（渐进披露第二级：knowledge.read 读取）
+    updated_at INTEGER NOT NULL,
+    UNIQUE(repo, name)
+);
+
+insertDoc:
+INSERT INTO knowledge_docs(repo, name, title, summary, body, updated_at)
+VALUES (?, ?, ?, ?, ?, ?)
+ON CONFLICT(repo, name) DO UPDATE SET
+    title = excluded.title,
+    summary = excluded.summary,
+    body = excluded.body,
+    updated_at = excluded.updated_at;
+
+docsByRepo:
+SELECT * FROM knowledge_docs WHERE repo = ? ORDER BY name;
+
+-- 正文读取（knowledge.read：repo + name 精确定位）
+docByName:
+SELECT * FROM knowledge_docs WHERE repo = :repo AND name = :name;
+
+-- 索引定向检索（标题/摘要词包含）
+searchDocs:
+SELECT * FROM knowledge_docs
+WHERE repo = :repo AND (title LIKE :pattern ESCAPE '\' OR summary LIKE :pattern ESCAPE '\')
+ORDER BY updated_at DESC
+LIMIT :limit;
+
+deleteDocsByRepo:
+DELETE FROM knowledge_docs WHERE repo = ?;
+
+countDocs:
+SELECT COUNT(*) FROM knowledge_docs;
+
+-- 全库清空（KnowledgePack 导入前的整包替换语义）。
+-- 🔴 拆四条单语句命名查询（2026-09-19 deleteSessionCascade 同款坑）：SQLDelight 多语句
+--    命名查询经 executeAsOne 只执行首条——同事务由 KnowledgeRepository.transaction 承载。
+clearTags:
+DELETE FROM tag_registry;
+
+clearDecisionNodes:
+DELETE FROM decision_nodes;
+
+clearGoldenSamples:
+DELETE FROM golden_samples;
+
+clearDocs:
+DELETE FROM knowledge_docs;
+
+-- repo 清单（search_knowledge 的「有哪些仓库」面 + 管理面）。四表 UNION：空库时
+-- 四表都空 ⇒ 零 repo；任一表有数据 ⇒ repo 出现（docs 缺位但 TAG 已导入的中间态可表达）。
+allRepos:
+SELECT DISTINCT repo FROM tag_registry
+UNION SELECT DISTINCT repo FROM decision_nodes
+UNION SELECT DISTINCT repo FROM golden_samples
+UNION SELECT DISTINCT repo FROM knowledge_docs
+ORDER BY repo;
+
+-- 库统计（管理面/导入验收）
+knowledgeStats:
+SELECT
+    (SELECT COUNT(*) FROM tag_registry) AS tags,
+    (SELECT COUNT(*) FROM decision_nodes) AS decisions,
+    (SELECT COUNT(*) FROM golden_samples) AS samples,
+    (SELECT COUNT(*) FROM knowledge_docs) AS docs;

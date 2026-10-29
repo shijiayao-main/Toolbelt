@@ -1,0 +1,96 @@
+CREATE TABLE messages (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    session_id TEXT NOT NULL REFERENCES sessions(id),
+    seq INTEGER NOT NULL,
+    role TEXT NOT NULL,
+    content TEXT NOT NULL,
+    tool_name TEXT,
+    tool_observation TEXT,
+    entry_id TEXT,
+    state TEXT,
+    attachments TEXT,
+    artifacts TEXT,
+    error_kind TEXT,
+    title TEXT,
+    detail TEXT,
+    created_at INTEGER NOT NULL,
+    UNIQUE(session_id, seq)
+);
+
+-- 幂等 upsert：同会话同 entry_id 覆写（工具卡 RUNNING→终态回填路径——UNIQUE(session_id, seq)
+-- 冲突时更新既有行的可变面；seq 冲突 = 同一会话内同一逻辑位的终态回填）
+upsertMessage:
+INSERT INTO messages(session_id, seq, role, content, tool_name, tool_observation, entry_id, state, attachments, artifacts, error_kind, title, detail, created_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(session_id, seq) DO UPDATE SET
+    role = excluded.role,
+    content = excluded.content,
+    tool_name = excluded.tool_name,
+    tool_observation = excluded.tool_observation,
+    entry_id = excluded.entry_id,
+    state = excluded.state,
+    attachments = excluded.attachments,
+    artifacts = excluded.artifacts,
+    error_kind = excluded.error_kind,
+    title = excluded.title,
+    detail = excluded.detail;
+
+insertMessage:
+INSERT INTO messages(session_id, seq, role, content, tool_name, tool_observation, entry_id, state, attachments, artifacts, error_kind, title, detail, created_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+
+messagesForSession:
+SELECT * FROM messages WHERE session_id = ? ORDER BY seq ASC;
+
+lastMessagesForSession:
+SELECT * FROM messages WHERE session_id = ? ORDER BY seq DESC LIMIT :limit;
+
+countMessagesForSession:
+SELECT COUNT(*) FROM messages WHERE session_id = ?;
+
+deleteMessagesForSession:
+DELETE FROM messages WHERE session_id = ?;
+
+-- 会话删除级联（SQLite 外键无 ON DELETE CASCADE——显式两步：先消息后会话）
+deleteSessionCascade:
+DELETE FROM messages WHERE session_id = :sessionId;
+
+-- FTS5 全文检索（消息内容 + 工具观察面；内容表触发器同步——插入即索引，无需重灌）
+CREATE VIRTUAL TABLE messages_fts USING fts5(
+    content,
+    tool_observation,
+    content='messages',
+    content_rowid='id'
+);
+
+-- FTS 同步触发器（标准 external-content 三件套）
+CREATE TRIGGER messages_ai AFTER INSERT ON messages BEGIN
+    INSERT INTO messages_fts(rowid, content, tool_observation)
+    VALUES (new.id, new.content, new.tool_observation);
+END;
+
+CREATE TRIGGER messages_ad AFTER DELETE ON messages BEGIN
+    INSERT INTO messages_fts(messages_fts, rowid, content, tool_observation)
+    VALUES ('delete', old.id, old.content, old.tool_observation);
+END;
+
+CREATE TRIGGER messages_au AFTER UPDATE ON messages BEGIN
+    INSERT INTO messages_fts(messages_fts, rowid, content, tool_observation)
+    VALUES ('delete', old.id, old.content, old.tool_observation);
+    INSERT INTO messages_fts(rowid, content, tool_observation)
+    VALUES (new.id, new.content, new.tool_observation);
+END;
+
+searchMessages:
+SELECT m.* FROM messages m
+JOIN messages_fts f ON m.id = f.rowid
+WHERE messages_fts MATCH :query
+ORDER BY rank
+LIMIT :limit;
+
+searchMessagesInSession:
+SELECT m.* FROM messages m
+JOIN messages_fts f ON m.id = f.rowid
+WHERE messages_fts MATCH :query AND m.session_id = :sessionId
+ORDER BY rank
+LIMIT :limit;

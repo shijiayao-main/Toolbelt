@@ -1,0 +1,4 @@
+schema: spec-driven
+created: 2026-09-10
+skip_specs: true
+goal: 清理 5 项架构治理遗留（rewrite-lark-bridge 归档、composeApp core.data 迁移、分档表对账、SKILL 映射表、视觉验收）+ docs-sync 复核知识库

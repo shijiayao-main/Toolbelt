@@ -1,0 +1,221 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+  workflow_dispatch:
+    inputs:
+      release_notes:
+        description: 'Release Notes'
+        required: false
+        default: 'Auto-generated release from GitHub Actions.'
+
+env:
+  DEFAULT_RELEASE_NOTES: "Auto-generated release from GitHub Actions."
+
+permissions:
+  contents: write
+
+jobs:
+  test-gate:
+    # 发布前置测试门禁（linux 单点起步——矩阵范围可后续扩）：tag 发布前强制全模块真实跑测，
+    # 任一红即阻断四平台打包，截断「假绿 × 零门禁」断链（此前 release 只打包不经任何测试）。
+    # --rerun-tasks --no-build-cache：防 build cache 假绿（扫盘守护的被扫源码不进 cache key）。
+    # test-retry 插件随 CI 环境变量启用重试（maxRetries=2，convention 统一配置）：吸收已知
+    # 负载敏感 flake；重试转绿默认不 fail 构建（XML 内逐次离散记录，可作 flaky 测量起点）。
+    # -x :feature-logworkbench:jvmTest：该模块两个用例依赖本机未入 git 的概念稿/本地 db
+    # （AGENTS.md「已知 flaky 与良性红登记」节在册的环境性预存失败），CI 上必红——
+    # 环境依赖收口后移除本排除恢复全量。
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup JDK 25
+        uses: actions/setup-java@v5
+        with:
+          java-version: '25'
+          # zulu 仅是 setup-java 的 JAVA_HOME fallback；真实构建工具链（含 jpackage
+          # 内置运行时）由 gradle-daemon-jvm.properties 锁定的 JBR 25 自动下载。
+          distribution: 'zulu'
+          cache: 'gradle'
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+        shell: bash
+
+      # SceneGuard 像素守护依赖中文文本真实渲染（换行/带高/着色计数断言）；
+      # 托管 runner 默认无 CJK 字体，豆腐块回退会令渲染几何漂移 → 守护集体假红。
+      - name: Install CJK fonts for SceneGuard pixel tests
+        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+        shell: bash
+
+      - name: Run test gate
+        shell: bash
+        # 任务名双写：KMP 模块用 jvmTest、纯 JVM lib 模块用 test——只写 test 时空跑
+        # （test 聚合不含任何 KMP 模块，dry-run 实证），gate 会形同虚设。
+        run: ./gradlew jvmTest test --rerun-tasks --no-build-cache --stacktrace -x :feature-logworkbench:jvmTest
+
+      # Gradle 控制台对测试失败只给「断言行号」不给断言消息/计数——远程归因的唯一
+      # 真源是各模块 build/reports 与 test-results（XML 含完整 failure message）。
+      - name: Upload test reports on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-reports
+          path: |
+            **/build/reports/tests/**
+            **/build/test-results/**
+          if-no-files-found: ignore
+
+  build-and-package:
+    needs: [test-gate]
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-latest
+            platform: windows-x86_64
+          - os: ubuntu-latest
+            platform: linux-x86_64
+          - os: macos-15-intel
+            platform: macos-x86_64
+          - os: macos-latest
+            platform: macos-arm64
+    runs-on: ${{ matrix.os }}
+    name: Build ${{ matrix.platform }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Install WiX Toolset via Chocolatey
+        if: runner.os == 'Windows'
+        run: choco install wixtoolset -y --no-progress
+        shell: cmd
+
+      - name: Setup JDK 25
+        uses: actions/setup-java@v5
+        with:
+          java-version: '25'
+          # zulu 仅是 setup-java 的 JAVA_HOME fallback；真实构建工具链（含 jpackage
+          # 内置运行时）由 gradle-daemon-jvm.properties 锁定的 JBR 25 自动下载。
+          # setup-java 的 jetbrains distribution 只覆盖 LTS（11/17/21…），无 25，
+          # 故此处与 daemon JDK 不一致是有意的、非隐患。
+          distribution: 'zulu'
+          cache: 'gradle'
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+        shell: bash
+
+      - name: Resolve package version
+        # 仅 v* tag 触发时写入 APP_VERSION（tag 名剥去前缀 v）；workflow_dispatch
+        # 触发时 GITHUB_REF_NAME 是分支名，不写该变量——Package 步骤的
+        # ${APP_VERSION:+...} 对未设变量展开为空，走 build 脚本回退版本。
+        # 🔴 shell: bash 必须显式——Windows 上 run step 缺省 shell 是 pwsh，
+        #    bash 语法（if [[ ]]）会被 PowerShell 解析报 Missing '(' 直接挂
+        #    （v0.2.0 windows job 实败真因；此前误判为 runner 环境抖动，重跑必挂非偶发）。
+        shell: bash
+        run: |
+          if [[ "$GITHUB_REF_NAME" == v* ]]; then
+            echo "APP_VERSION=${GITHUB_REF_NAME#v}" >> "$GITHUB_ENV"
+          fi
+
+      - name: Validate mac version major is not zero
+        # 🔴 macOS jpackage 拒绝 0 开头版本号（Mac Application Image bundler 校验
+        #    "The first number in an app-version cannot be zero or negative"）——
+        #    v0.2.0/v0.2.1 mac 双平台 10 分钟构建后秒挂在 jpackage 的实败真因（stderr
+        #    经诊断通道取得）；Linux deb/Windows MSI 无此限制。0.x 版本线 mac 永远不可发。
+        #    本预检 fail-fast 人话报错（省 10 分钟 jlink 后才挂），根治 = 版本线升 1.0.0 起。
+        if: runner.os == 'macOS' && env.APP_VERSION != ''
+        shell: bash
+        run: |
+          MAJOR="${APP_VERSION%%.*}"
+          if [[ "$MAJOR" -eq 0 ]]; then
+            echo "::error::macOS jpackage 拒绝 0 开头版本号（APP_VERSION=$APP_VERSION）——mac 发布须从 v1.0.0 起打 tag"
+            exit 1
+          fi
+
+      - name: Package Release Distribution
+        # 🔴 2026-09-17：--debug 让单 job 日志膨胀到 243MB（v0.1.2 mac 失败时下载不动），
+        #    降为 --info --stacktrace：报错信息完整度不丢，日志回到 MB 级可直接下载诊断。
+        shell: bash
+        run: >-
+          ./gradlew :composeApp:packageReleaseDistributionForCurrentOS --info --stacktrace
+          ${APP_VERSION:+-PpackageVersion=$APP_VERSION}
+
+      - name: Dump jpackage logs on failure
+        # v0.2.0 mac 双平台（macOS 15/26 两镜像、双架构同形态）挂在 createReleaseDistributable：
+        # jpackage 0.7s 即退 exit 1，compose 插件把 jpackage 的 stdout/stderr 重定向进
+        # build/compose/logs/（CI 日志只余空行 + err 路径），不落本通道则失败永远只有退出码
+        # 没有真因。jlink/参数/bundleID/版本/图标均已逐项核过合法——根因判定须凭此 stderr。
+        if: failure()
+        shell: bash
+        run: |
+          echo "===== jpackage stdout/stderr logs ====="
+          find composeApp/build/compose/logs -type f \( -name "*-out.txt" -o -name "*-err.txt" \) -print -exec cat {} \; 2>/dev/null \
+            || echo "(no jpackage logs found)"
+          echo "===== jpackage args files ====="
+          find composeApp/build/compose/tmp -type f -name "*.args.txt" -print -exec cat {} \; 2>/dev/null \
+            || echo "(no args files found)"
+
+      - name: Upload failure diagnostics
+        if: failure()
+        uses: actions/upload-artifact@v6
+        with:
+          name: failure-diagnostics-${{ matrix.platform }}
+          path: |
+            composeApp/build/compose/logs/
+            composeApp/build/compose/tmp/
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Rename and Prepare Artifacts
+        shell: bash
+        run: |
+          OUT_DIR="composeApp/build/compose/binaries/main-release"
+          mkdir -p ./ready-to-upload
+
+          if [ "${{ matrix.os }}" = "windows-latest" ]; then
+            mv $OUT_DIR/msi/*.msi ./ready-to-upload/Toolbelt-${{ matrix.platform }}.msi
+
+          elif [ "${{ matrix.os }}" = "ubuntu-latest" ]; then
+            mv $OUT_DIR/deb/*.deb ./ready-to-upload/Toolbelt-${{ matrix.platform }}.deb
+
+          else
+            mv $OUT_DIR/dmg/*.dmg ./ready-to-upload/Toolbelt-${{ matrix.platform }}.dmg
+          fi
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v6
+        with:
+          name: artifacts-${{ matrix.platform }}
+          path: ./ready-to-upload/*
+          retention-days: 1
+
+  release:
+    needs: [build-and-package]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download All Artifacts
+        uses: actions/download-artifact@v7
+        with:
+          path: ./release-artifacts
+          pattern: artifacts-*
+          merge-multiple: true
+
+      - name: Create GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          generateReleaseNotes: false
+          artifactErrorsFailBuild: true
+          artifacts: './release-artifacts/*'
+          body: ${{ github.event.inputs.release_notes || env.DEFAULT_RELEASE_NOTES }}
+          tag: ${{ github.ref_name }}
+          name: Toolbelt ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+

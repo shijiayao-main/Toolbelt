@@ -1,0 +1,9 @@
+# 行尾与二进制属性：防 Windows 贡献者 autocrlf=true 把脚本/源码检出为 CRLF。
+# gradlew 在 CRLF 下执行报错（Gradle wrapper 经典坑），bat 恰相反须 CRLF。
+* text=auto eol=lf
+*.bat text eol=crlf
+*.png binary
+*.icns binary
+*.ico binary
+*.jar binary
+*.xwd binary

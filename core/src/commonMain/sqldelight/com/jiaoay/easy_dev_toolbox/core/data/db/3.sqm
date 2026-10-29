@@ -1,0 +1,12 @@
+-- 2026-09-20 Quest 域 change 1（openspec add-flow-ask-user-and-flows-schema design D4）：
+-- 流程表（agent 主动交互流程的持久元数据）。flow 对象 = 可续 agent 对话会话——
+-- 维护者裁定「历史流程 = 可继续上下文的历史对话」，非作业非模板，故不含 status 列。
+-- capabilities 为能力 id JSON 数组串（空数组 = 通用对话）。
+-- id 三层同 key：flows.id = messages.session_id = chat_history.conversation_id。
+CREATE TABLE flows (
+    id TEXT NOT NULL PRIMARY KEY,
+    title TEXT NOT NULL,
+    capabilities TEXT NOT NULL,
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+);

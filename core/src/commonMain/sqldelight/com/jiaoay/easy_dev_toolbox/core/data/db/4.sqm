@@ -1,0 +1,16 @@
+-- 2026-09-22 调查工作台重设计 S1：调查空间表（融合案 D「调查空间」聚合根）。
+-- space = 一次调查的聚合容器：文件 + 会话（flows）+ 产物（runs）引用集。
+-- 🔴 聚合根只存引用不拥有成员：空间删除不级联删 flows/runs 成员行
+-- （对照 flows→messages 三层同 key 拥有级联——spaces 是引用列表语义）。
+-- status 为归档态字符串枚举（active/archived，解码兜底）；三列成员为 JSON 数组串
+-- （对齐 flows.capabilities 先例）。列面与 Spaces.sq 逐字一致（Flows.sq↔3.sqm 配对样板）。
+CREATE TABLE spaces (
+    id TEXT NOT NULL PRIMARY KEY,
+    title TEXT NOT NULL,
+    status TEXT NOT NULL,
+    file_paths TEXT NOT NULL,
+    flow_ids TEXT NOT NULL,
+    run_ids TEXT NOT NULL,
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+);

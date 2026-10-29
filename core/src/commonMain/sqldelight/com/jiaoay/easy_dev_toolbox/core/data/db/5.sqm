@@ -1,0 +1,12 @@
+-- v5 存量库增 run 级查看器书签表（查看器书签 runs 持久化）。存量库不重建——
+-- 本迁移在原库上增表，零依赖顺序问题（新表无外键——run 删除的级联清理由
+-- RunStore.delete 事务承载，不在库层约束）。列面与 RunBookmarks.sq 逐字一致
+-- （Flows.sq↔3.sqm 配对样板）。
+CREATE TABLE run_bookmarks (
+    run_id TEXT NOT NULL,                    -- 所属 run（runs.id——书签生命周期随 run）
+    file_path TEXT NOT NULL,                 -- 书签所在文件绝对路径
+    line_number INTEGER NOT NULL,            -- 1 基行号（查看器行号口径）
+    line_fingerprint TEXT NOT NULL,          -- 行首时间戳指纹（恢复时校验行文一致才复用，漂移拒绝）
+    created_at INTEGER NOT NULL,
+    PRIMARY KEY (run_id, file_path, line_number)
+);

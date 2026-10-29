@@ -1,0 +1,47 @@
+-- 2026-09-19 P3-D：知识库引擎四表（tag_registry / decision_nodes / golden_samples /
+-- knowledge_docs）。存量 v1 库（P3-C 桥接持久化已在写 chat_history）不重建——本迁移
+-- 在原库上增表；四表间无外键（repo 是逻辑关联），迁移零依赖顺序问题。
+CREATE TABLE tag_registry (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    tag TEXT NOT NULL,
+    repo TEXT NOT NULL,
+    doc_name TEXT NOT NULL,
+    module TEXT,
+    aliases TEXT,
+    truncated_tag TEXT,
+    note TEXT,
+    UNIQUE(tag, repo, doc_name)
+);
+CREATE TABLE decision_nodes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo TEXT NOT NULL,
+    method TEXT NOT NULL,
+    node_key TEXT NOT NULL,
+    parent_key TEXT,
+    condition TEXT NOT NULL,
+    action TEXT NOT NULL,
+    doc_name TEXT,
+    UNIQUE(repo, method, node_key)
+);
+CREATE TABLE golden_samples (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo TEXT NOT NULL,
+    title TEXT NOT NULL,
+    symptom TEXT NOT NULL,
+    root_cause TEXT NOT NULL,
+    fix_summary TEXT NOT NULL,
+    evidence_log TEXT,
+    tags TEXT,
+    created_at INTEGER NOT NULL,
+    UNIQUE(repo, title)
+);
+CREATE TABLE knowledge_docs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo TEXT NOT NULL,
+    name TEXT NOT NULL,
+    title TEXT NOT NULL,
+    summary TEXT NOT NULL,
+    body TEXT NOT NULL,
+    updated_at INTEGER NOT NULL,
+    UNIQUE(repo, name)
+);

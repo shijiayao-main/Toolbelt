@@ -1,0 +1,55 @@
+-- 日志工作台 run 表（P4-C2，openspec log-workbench 任务组 1——design D2）。
+-- run 对象 = 一次日志分析的元数据（输入参数/状态/报告路径）；时间线条目复用
+-- messages 表（per-run sessionId = runs.id），本表只承载结构化 run 元数据——
+-- 侦察裁定 sessions 表（仅 id/title/tombstone）加列不可行，run 元数据另立专表。
+-- log_files 为 JSON 数组串（多文件分析）；status ∈ running/completed/aborted/failed。
+-- report_path 为 run 专属目录下的报告 md 绝对路径（应用数据目录内，禁落源码仓库）。
+CREATE TABLE runs (
+    id TEXT NOT NULL PRIMARY KEY,             -- runId（同时是 messages 的 session_id——时间线一一对应）
+    title TEXT NOT NULL,                      -- run 标题（默认从首文件名+时间点派生；管理面可重命名）
+    log_files TEXT NOT NULL,                 -- 输入日志文件绝对路径列表（JSON 数组）
+    target_time TEXT,                         -- 问题时间点（yyyy-MM-dd_HH:mm:ss.SSS；null = 未定时间点分析）
+    range_minutes INTEGER,                    -- 时间过滤 ± 窗口（分钟；null = 未跑时间过滤）
+    status TEXT NOT NULL,                     -- running / completed / aborted / failed
+    report_path TEXT,                         -- 报告 md 路径（null = 尚未生成）
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+);
+
+insertRun:
+INSERT INTO runs(id, title, log_files, target_time, range_minutes, status, report_path, created_at, updated_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(id) DO UPDATE SET
+    title = excluded.title,
+    log_files = excluded.log_files,
+    target_time = excluded.target_time,
+    range_minutes = excluded.range_minutes,
+    status = excluded.status,
+    report_path = excluded.report_path,
+    updated_at = excluded.updated_at;
+
+allRuns:
+SELECT * FROM runs ORDER BY updated_at DESC;
+
+runById:
+SELECT * FROM runs WHERE id = :id;
+
+updateRunStatus:
+UPDATE runs SET status = :status, updated_at = :updatedAt WHERE id = :id;
+
+updateRunReport:
+UPDATE runs SET report_path = :reportPath, updated_at = :updatedAt WHERE id = :id;
+
+renameRun:
+UPDATE runs SET title = :title, updated_at = :updatedAt WHERE id = :id;
+
+-- 🔴 单语句纪律（deleteSessionCascade 同款坑）：SQLDelight 多语句命名查询只执行首条——
+-- 级联删除必须拆单语句，由 RunStore 事务承载。
+deleteRunMessages:
+DELETE FROM messages WHERE session_id = :id;
+
+deleteRun:
+DELETE FROM runs WHERE id = :id;
+
+countRuns:
+SELECT COUNT(*) FROM runs;

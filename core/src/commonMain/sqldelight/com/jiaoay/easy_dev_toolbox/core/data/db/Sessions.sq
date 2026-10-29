@@ -1,0 +1,57 @@
+CREATE TABLE sessions (
+    id TEXT NOT NULL PRIMARY KEY,
+    title TEXT NOT NULL,
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL,
+    tombstone INTEGER NOT NULL DEFAULT 0
+);
+
+insertSession:
+INSERT INTO sessions(id, title, created_at, updated_at, tombstone)
+VALUES (?, ?, ?, ?, 0);
+
+upsertSession:
+INSERT INTO sessions(id, title, created_at, updated_at, tombstone)
+VALUES (?, ?, ?, ?, 0)
+ON CONFLICT(id) DO UPDATE SET
+    title = excluded.title,
+    updated_at = excluded.updated_at,
+    tombstone = 0;
+
+touchSession:
+UPDATE sessions SET updated_at = ? WHERE id = ?;
+
+markTombstone:
+UPDATE sessions SET tombstone = 1, updated_at = ? WHERE id = ?;
+
+-- 活会话倒序（最近优先；墓碑行不出现）
+activeSessions:
+SELECT * FROM sessions WHERE tombstone = 0 ORDER BY updated_at DESC;
+
+sessionById:
+SELECT * FROM sessions WHERE id = ? AND tombstone = 0;
+
+latestSession:
+SELECT * FROM sessions WHERE tombstone = 0 ORDER BY updated_at DESC LIMIT 1;
+
+deleteSession:
+DELETE FROM sessions WHERE id = ?;
+
+-- 会话删除级联（外键阻止裸删——先删消息再删会话；两条语句在同一事务由调用方保证）
+deleteSessionCascade:
+DELETE FROM messages WHERE session_id = :sessionId;
+DELETE FROM sessions WHERE id = :sessionId;
+
+deleteAllSessions:
+DELETE FROM sessions;
+
+countSessions:
+SELECT COUNT(*) FROM sessions WHERE tombstone = 0;
+
+-- 会话管理面（P3-A1）
+renameSession:
+UPDATE sessions SET title = :title, updated_at = :updatedAt WHERE id = :id;
+
+deleteAllActiveSessions:
+DELETE FROM messages WHERE session_id IN (SELECT id FROM sessions WHERE tombstone = 0);
+DELETE FROM sessions WHERE tombstone = 0;

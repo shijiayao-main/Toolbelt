@@ -1,0 +1,48 @@
+-- 流程域 flow 表（Quest 域 change 1，openspec add-flow-ask-user-and-flows-schema——design D4）。
+-- flow 对象 = 一段可续 agent 对话会话的持久元数据（agent 主动交互的流程对象）；维护者裁定
+-- 「历史流程 = 可继续上下文的历史对话」——非作业非模板，故 🔴 不含 status 列（流程
+-- 永可续，运行态是会话运行时非持久元数据；对照 runs 表是有终态的作业故有 status）。
+-- capabilities 为能力 id 的 JSON 数组串（空数组 = 通用对话——隐式第三能力）。
+-- id 三层同 key：flows.id = messages.session_id = chat_history.conversation_id
+-- （ChatMemory 续跑语义的锚——QuestStore.delete 级联清理三店）。
+CREATE TABLE flows (
+    id TEXT NOT NULL PRIMARY KEY,             -- flowId（messages.session_id / chat_history.conversation_id 同 key）
+    title TEXT NOT NULL,                      -- 流程标题（首条用户消息截 80 字派生；管理面可重命名）
+    capabilities TEXT NOT NULL,               -- 能力 id 列表（JSON 数组串；空数组 = 通用对话）
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+);
+
+insertFlow:
+INSERT INTO flows(id, title, capabilities, created_at, updated_at)
+VALUES (?, ?, ?, ?, ?)
+ON CONFLICT(id) DO UPDATE SET
+    title = excluded.title,
+    capabilities = excluded.capabilities,
+    updated_at = excluded.updated_at;
+
+allFlows:
+SELECT * FROM flows ORDER BY updated_at DESC;
+
+flowById:
+SELECT * FROM flows WHERE id = :id;
+
+touchFlow:
+UPDATE flows SET updated_at = :updatedAt WHERE id = :id;
+
+renameFlow:
+UPDATE flows SET title = :title, updated_at = :updatedAt WHERE id = :id;
+
+-- 🔴 单语句纪律（Runs.sq deleteRunMessages 同款坑）：SQLDelight 多语句命名查询只执行
+-- 首条——级联删除拆单语句，由 QuestStore 事务承载（flows + messages + sessions）。
+deleteFlowMessages:
+DELETE FROM messages WHERE session_id = :id;
+
+deleteFlowSessions:
+DELETE FROM sessions WHERE id = :id;
+
+deleteFlow:
+DELETE FROM flows WHERE id = :id;
+
+countFlows:
+SELECT COUNT(*) FROM flows;

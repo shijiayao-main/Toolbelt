@@ -1,0 +1,3 @@
+schema: spec-driven
+created: 2026-09-05
+goal: 让 Windows 中文系统上 lark-bridge 桥接链路可用：配置可保存、agent 可拉起、运行时确认自检可通过

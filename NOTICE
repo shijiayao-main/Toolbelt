@@ -1,0 +1,51 @@
+Toolbelt
+Copyright 2026 shijiayao
+
+This product includes third-party software:
+
+- scrcpy-server v5.0.1 (bundled binary, feature-screencast/src/jvmMain/resources/scrcpy/)
+  Copyright (c) Genymobile, licensed under the Apache License, Version 2.0.
+  Source: https://github.com/Genymobile/scrcpy
+
+- Android platform-tools adb v37.0.1 (bundled binary, adb-core resources; the
+  Windows build also ships AdbWinApi.dll and AdbWinUsbApi.dll)
+  Android Debug Bridge is part of the Android Open Source Project and is
+  licensed under the Apache License, Version 2.0; the NOTICE.txt from the
+  official platform-tools archive is released alongside the executable into
+  the user data directory (adb/v<version>/NOTICE.txt).
+  Only adb and its Windows DLL dependencies are redistributed — the archive's
+  mke2fs / make_f2fs helpers (e2fsprogs / f2fs-tools, GPL-family licenses) are
+  deliberately excluded.
+  Source: https://android.googlesource.com/platform/packages/modules/adb/
+  Binaries: https://dl.google.com/android/repository/platform-tools_r37.0.1-{win,linux,darwin}.zip
+  On the Apache-2.0 terms, the license text is available at
+  https://www.apache.org/licenses/LICENSE-2.0.
+
+- FFmpeg native libraries (LGPL 2.1-or-later build), bundled inside the
+  org.bytedeco:ffmpeg 8.1.2-1.5.14 platform jar and extracted into the
+  application runtime at install time by the jpackage distribution.
+  Components: libavcodec, libavformat, libavutil, libswscale, libswresample,
+  libavfilter, libavdevice. This is the default (non-GPL) build: the x264/x265
+  encoders are NOT included.
+  Source: https://github.com/bytedeco/javacpp-presets/tree/master/ffmpeg
+  (upstream FFmpeg source: https://ffmpeg.org, LGPL compilation)
+  LGPL compliance: the LGPL license text is shipped with this distribution;
+  the libraries are unmodified binaries loaded via JNI, and equivalent
+  builds can be regenerated from the upstream javacpp-presets project.
+
+- sherpa-onnx v1.13.8 (Apache-2.0), bundled as jars downloaded at build time
+  from the upstream GitHub release (feature-voice/libs, sha256-pinned).
+  Copyright (c) 2022-2024 k2-fsa contributors.
+  Source: https://github.com/k2-fsa/sherpa-onnx
+  On the Apache-2.0 terms, the license text is available at
+  https://www.apache.org/licenses/LICENSE-2.0.
+
+Third-party dependencies declared in gradle/libs.versions.toml (Compose
+Multiplatform, Kotlin coroutines/serialization, SQLDelight, the official
+Lark/Feishu OpenAPI SDK, clikt, kotlinx-datetime) are distributed under
+their own licenses; they are consumed as binary dependencies from public
+repositories. Where a dependency's runtime jar is included in the
+installed application, its license continues to apply per its terms.
+
+The full LICENSE (Apache License, Version 2.0) of this project is shipped
+with every distribution package alongside this NOTICE.

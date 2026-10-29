@@ -1,0 +1,4 @@
+schema: spec-driven
+created: 2026-09-10
+skip_specs: true
+goal: 删除 :lark-bridge 死机制与零引用死代码（TaskActivity 全链、HotBus/BridgeEventBus、4 个死方法、drainAwareConnection），零行为变化

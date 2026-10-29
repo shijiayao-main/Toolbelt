@@ -1,0 +1,4 @@
+schema: spec-driven
+created: 2026-09-05
+goal: 消除 Windows 中文系统（JDK17 打包态默认 GBK）下 MCP stdio、agent 输出、Shell 管道、log-tools
+  文件读写、logback 日志的乱码风险

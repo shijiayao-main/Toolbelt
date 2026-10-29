@@ -1,0 +1,215 @@
+[
+  {
+    "type": 0,
+    "name": "设备管理",
+    "body": [
+      {
+        "type": 1,
+        "name": "查看设备",
+        "showOutput": true,
+        "body": {
+          "type": 0,
+          "value": "adb devices -l",
+          "desc": "列出已连接的设备"
+        }
+      },
+      {
+        "type": 1,
+        "name": "重启设备",
+        "body": {
+          "type": 0,
+          "value": "adb reboot",
+          "desc": "冷重启到系统"
+        }
+      },
+      {
+        "type": 1,
+        "name": "重启模式",
+        "body": {
+          "type": 1,
+          "name": "重启模式",
+          "list": [
+            {
+              "name": "Recovery",
+              "value": "adb reboot recovery",
+              "desc": "重启到 Recovery"
+            },
+            {
+              "name": "Fastboot",
+              "value": "adb reboot bootloader",
+              "desc": "重启到 Bootloader"
+            },
+            {
+              "name": "System",
+              "value": "adb reboot",
+              "desc": "重启到系统"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "连接无线设备",
+        "body": {
+          "type": 2,
+          "name": "连接无线设备",
+          "value": "adb connect {host}:{port}",
+          "list": [
+            {
+              "name": "host",
+              "desc": "设备 IP 地址"
+            },
+            {
+              "name": "port",
+              "desc": "端口，无线调试默认 5555"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "name": "应用调试",
+    "body": [
+      {
+        "type": 1,
+        "name": "启动 Activity",
+        "showOutput": true,
+        "body": {
+          "type": 2,
+          "name": "启动 Activity",
+          "value": "adb shell am start -n {package}/{activity}",
+          "list": [
+            {
+              "name": "package",
+              "desc": "包名，如 com.example.app"
+            },
+            {
+              "name": "activity",
+              "desc": "Activity 类名，如 .MainActivity"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "强制停止应用",
+        "body": {
+          "type": 2,
+          "name": "强制停止应用",
+          "value": "adb shell am force-stop {package}",
+          "list": [
+            {
+              "name": "package",
+              "desc": "应用包名"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "清除应用数据",
+        "body": {
+          "type": 2,
+          "name": "清除应用数据",
+          "value": "adb shell pm clear {package}",
+          "list": [
+            {
+              "name": "package",
+              "desc": "应用包名"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "按包名杀进程",
+        "body": {
+          "type": 2,
+          "name": "按包名杀进程",
+          "value": "adb shell \"kill -9 $(pidof {packageName})\"",
+          "list": [
+            {
+              "name": "packageName",
+              "desc": "应用包名"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "清除数据并启动",
+        "showOutput": true,
+        "body": {
+          "type": 3,
+          "name": "清除数据并启动",
+          "list": [
+            "am force-stop com.example.app",
+            "pm clear com.example.app",
+            "am start -n com.example.app/.MainActivity"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "name": "文件与截图",
+    "body": [
+      {
+        "type": 1,
+        "name": "截图到本地",
+        "body": {
+          "type": 2,
+          "name": "截图到本地",
+          "value": "adb shell screencap -p /sdcard/{name}.png && adb pull /sdcard/{name}.png ./{name}.png && adb shell rm /sdcard/{name}.png",
+          "list": [
+            {
+              "name": "name",
+              "desc": "截图文件名(不含扩展名)"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "推送文件到设备",
+        "body": {
+          "type": 2,
+          "name": "推送文件到设备",
+          "value": "adb push {localPath} {devicePath}",
+          "list": [
+            {
+              "name": "localPath",
+              "desc": "本地文件路径"
+            },
+            {
+              "name": "devicePath",
+              "desc": "设备目标路径"
+            }
+          ]
+        }
+      },
+      {
+        "type": 1,
+        "name": "从设备拉取文件",
+        "body": {
+          "type": 2,
+          "name": "从设备拉取文件",
+          "value": "adb pull {devicePath} {localPath}",
+          "list": [
+            {
+              "name": "devicePath",
+              "desc": "设备文件路径"
+            },
+            {
+              "name": "localPath",
+              "desc": "本地目标路径"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

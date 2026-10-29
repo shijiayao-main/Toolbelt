@@ -1,0 +1,85 @@
+*.iml
+.kotlin
+.gradle
+.qoder
+**/build/
+xcuserdata
+!src/**/build/
+local.properties
+.idea
+.DS_Store
+captures
+.externalNativeBuild
+.cxx
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+node_modules/
+openspec/changes/*
+!openspec/changes/archive/
+arms_cache/
+# 批 7：手册构建产物（真源 docs/manual/，syncManualToResources 同步生成，不入库）
+feature-larkbridge/src/jvmMain/resources/manual/
+# sherpa-onnx jar 出库（2026-09-20）：libs 下 jar 不入库，缺 jar 时构建期由
+# :feature-voice 的 downloadSherpaJars 任务自动下载（sha256 校验）。来历与手动
+# 补齐方式见 feature-voice/libs/README.md；jar 曾整体入库，历史已手术剥离。
+feature-voice/libs/*.jar
+feature-voice/libs/*.part
+
+# 内置 adb 二进制（构建期由 :adb-core 的 prepareBundledAdb 从官方 platform-tools
+# 下载解出，只取 adb / Windows 两个 DLL / NOTICE.txt）。不入库：十余 MB 平台件、
+# 且官方对旧版本化链接有清理机制，入库会变成一份无法追溯来源的死文件。
+# 手动补齐方式见 core/libs/adb/README.md。
+adb-core/src/main/resources/adb/
+adb-core/build/adb-download/
+# ZCode 会话计划产物（plan mode 生成，会话级工件不入库——.zcode/commands 与 skills 是项目工具保留入库）
+.zcode/plans/
+# ZCode 编排配方（单仓硬编码施工配方，含内部流程叙事，不入库；本机留档）
+.zcode/workflows/
+# clikt 源码对照副本（2026-10-06 发现被误入库 62 文件——第三方源码以 Maven 依赖为准，
+# 本目录只是会话级解包对照工件，不入库）
+.clikt_tmp/
+
+# UI 验收截图取证目录（XTest 管线产物，临时不入库——基线快照归 docs/reports/snapshots/）
+out/
+
+# 主题设计验收截图取证目录（历史留档目录，本机留档；结论已沉淀进 docs/core/theme.md）
+design-proposals/eva-initiator-theme/verify/
+
+# Python 字节码缓存（.claude/skills 脚本运行副产物，生成物不入库）
+__pycache__/
+
+# openspec 归档区本地留档目录（历史留档语义，不入库）
+openspec/changes/archive/2026-09-21-reword-remove-vehicle-terms/
+
+# 本地审计产物，不入库（内容会随时间失效，真源结论已沉淀进知识库）
+github-public-audit-report.md
+opensource-recheck-report.md
+
+# Python 虚拟环境（venv 自带 .gitignore 兜底，此处显式登记防误入库）
+.venv/
+
+# AI skill 镜像目录（.claude/skills 是规范副本、.zcode/skills 符号链接指向它；此镜像树无消费者，不入库）
+.agents/skills/
+
+# 一次性分析产物（会话级评审/裁决/取证报告，不入库——
+# 关键结论已由引用它的知识库页内联自足（如 docs/core/native-memory.md），本机留档）
+docs/reports/
+
+# 无许可第三方 skill 包（上游 vendored 产物，未附 license 文件——保留本机使用，
+# 不随仓分发；项目自有 skill 与带 Apache-2.0 LICENSE 的 ui-styling 继续入库）
+.claude/skills/ui-ux-pro-max/
+.claude/skills/design/
+.claude/skills/design-system/
+.claude/skills/brand/
+.claude/skills/slides/
+.claude/skills/banner-design/
+
+# 历史兼容性审计快照（结论已随代码演进失效，本机留档）
+docs/compatibility-audit-*.html
+
+# AI 工具本机配置（个人权限白名单，防新克隆环境误提交）
+.claude/settings.local.json

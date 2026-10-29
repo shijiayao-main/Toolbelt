@@ -1,0 +1,49 @@
+-- 调查空间域 spaces 表（调查工作台重设计 S1——融合案 D「调查空间」聚合根）。
+-- space 对象 = 一次调查的聚合容器：文件 + 会话（flows）+ 产物（runs）引用集。
+-- 🔴 聚合根只存引用不拥有成员：成员表（flows/runs）自治，空间删除**不级联**删成员行
+-- （对照 flows→messages 是三层同 key 的拥有级联——spaces 的 file_paths/flow_ids/run_ids
+-- 是 JSON 引用列表，成员游离后引用失效无害，重新聚合即可）。
+-- status 为归档态字符串枚举（active/archived；解码兜底——未知值落 active，前向兼容）。
+-- file_paths/flow_ids/run_ids 为 JSON 数组串（对齐 flows.capabilities 先例）。
+CREATE TABLE spaces (
+    id TEXT NOT NULL PRIMARY KEY,             -- spaceId
+    title TEXT NOT NULL,                      -- 空间标题（如「车型X · ANR 调查」；管理面可重命名）
+    status TEXT NOT NULL,                      -- 归档态（active/archived；字符串枚举+解码兜底）
+    file_paths TEXT NOT NULL,                 -- 成员文件路径列表（JSON 数组串）
+    flow_ids TEXT NOT NULL,                   -- 成员会话 id 列表（JSON 数组串；引用 flows.id）
+    run_ids TEXT NOT NULL,                    -- 成员产物 run id 列表（JSON 数组串；引用 runs.id）
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+);
+
+insertSpace:
+INSERT INTO spaces(id, title, status, file_paths, flow_ids, run_ids, created_at, updated_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(id) DO UPDATE SET
+    title = excluded.title,
+    status = excluded.status,
+    file_paths = excluded.file_paths,
+    flow_ids = excluded.flow_ids,
+    run_ids = excluded.run_ids,
+    updated_at = excluded.updated_at;
+
+allSpaces:
+SELECT * FROM spaces ORDER BY updated_at DESC;
+
+spaceById:
+SELECT * FROM spaces WHERE id = :id;
+
+touchSpace:
+UPDATE spaces SET updated_at = :updatedAt WHERE id = :id;
+
+renameSpace:
+UPDATE spaces SET title = :title, updated_at = :updatedAt WHERE id = :id;
+
+setStatus:
+UPDATE spaces SET status = :status, updated_at = :updatedAt WHERE id = :id;
+
+deleteSpace:
+DELETE FROM spaces WHERE id = :id;
+
+countSpaces:
+SELECT COUNT(*) FROM spaces;

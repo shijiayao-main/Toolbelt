@@ -1,0 +1,150 @@
+[versions]
+androidx-lifecycle = "2.11.0"
+composeHotReload = "1.2.0"
+composeMultiplatform = "1.12.1"
+junit = "4.13.2"
+kotlin = "2.4.21"
+kotlinx-coroutines = "1.11.0"
+material3 = "1.12.0-alpha03"
+jetbrainsKotlinJvm = "2.4.21"
+logging-jvm = "8.0.4"
+androidx-datastore-version = "1.2.1"
+logback-classic = "1.6.5"
+clikt = "5.1.0"
+kotlinx-serialization-json = "1.11.0"
+materialkolor = "5.0.1"
+shadow = "9.6.1"
+testRetry = "1.6.6"
+bouncycastle = "1.86"
+zstdJni = "1.5.7-23"
+# 批 9 Tier 1：PKZip 规范分卷（.z01 族，分段标记 + 跨段中央目录）与 7z 容器解码。
+# 🔴 推翻「零第三方压缩库」原则的显式决策：7z/LZMA 与跨段 zip 中央目录手工实现不现实，
+#    commons-compress 是 Apache 标准件（与 log-tools 的手工 zip/tar 零冲突——只进 :feature-archive）。
+commonsCompress = "1.28.0"
+# 批 9 Tier 1：commons-compress 1.28 不再传递 xz——7z/LZMA 解码的运行时必需件，显式声明
+xzJava = "1.12"
+# 批 9b：Material Symbols（Google 当前图标集；material-icons-extended 已 deprecated 不再新增）。
+# CMP Desktop 唯一 KMP 实现是 dev.vicart 字体形态（ttf 可变字体渲染，非 ImageVector）。
+composeMaterialSymbols = "1.1.6"
+oapi-sdk = "2.8.6"
+koog = "1.3.0"
+# 批 7：rag-vector 是 beta 版本线（rag-base/embeddings-base 均 stable）——知识库检索件
+koog-rag = "1.3.0-beta"
+# 2026-09-14 用户身份链批：头像加载（coil3 桌面 KMP 线）——只进 :ui 的 widget/AvatarImage.kt（架构铁律：图片库零四处引入）
+coil3 = "3.6.3"
+# 🔴 ktor 3.3.3 与 koog 传递链对齐钉住（koog 传递 ktor 全为 3.3.3；:ui 不消费 koog ⇒ 显式声明）。
+#    与下方 ktor-sdk 3.5.2（MCP 外放线）两线并存：Gradle 解析把两线共同件升到 3.5.2，
+#    :ui 的 coil3 ktor-client 实际对 3.5.2 core 运行——是否统一两线属后续决策，此处登记现状。
+ktor = "3.3.3"
+# 2026-09-19 P1-A2 存储层（agent 会话/记忆 DB 化）：xerial sqlite-jdbc（Koog 官方 sql 模块同款驱动，
+# FTS5 已编译进默认 native）+ SQLDelight（类型安全 SQL 生成，均 Java 8 字节码，宿主 jvm25 合规）
+sqlite-jdbc = "3.53.4.0"
+sqldelight = "2.4.1"
+# 2026-09-20 P5 MCP 外放：官方 Kotlin SDK（Maven Central 最新 0.15.0；KMP JVM 11+ 产物，宿主 jvm25 可吃）。
+# 🔴 SDK POM 的 ktor-server-* 全部 scope=runtime（含 ktor-server-core）——编译期引用 Ktor 类型
+#    （embeddedServer/Application）必须显式声明，且版本须 ≥ SDK 传递版 3.5.1；本仓 ktor 线既有 3.3.3
+#    只在 :ui 消费（图片库），此处独立 3.5.2 对齐 SDK（3.5.2 ≥ 传递版 3.5.1），避免降级拉扯。
+mcp-sdk = "0.15.0"
+ktor-sdk = "3.5.2"
+# 2026-09-23 液态玻璃重设计批 1（P0）：Haze 2.0（Compose Multiplatform 毛玻璃/液态玻璃库，
+# Desktop JVM 完整支持，Maven Central stable）。坐标仅两件：haze（core）+ haze-glass
+# （GlassStyle 折射 API）；haze-blur 纯磨砂线不用，haze-glass-material3 不用（tint 自家派生单一真源）。
+# 🔴 依赖只挂 :ui（GlassMaterials.kt 全仓唯一 import 面——复刻 coil3 单点落点先例）。
+haze = "2.0.1"
+# scrcpy 投屏集成（可行性裁定：JavaCV 解码链——桌面 JVM 吃 scrcpy 裸 H.264 流必须自带解码库
+# （skia Image.makeFromEncoded 只吃 JPEG/PNG 等封装格式），推翻「仓内零媒体解码库」现状的显式决策。
+# 许可结论（executor 亲查 artifacts，非转述）：
+# - javacv/javacpp 1.5.14 POM <licenses> = Apache-2.0（javacv POM 另列 GPLv2/GPLv2+classpath 两条，
+#   来自 optional=true 的 jogl/gluegen/jocl/gdx 传递件——默认不解析，exclude 后彻底缺席）；
+# - ffmpeg 8.1.2-1.5.14 POM 无 <licenses> 节（grep 计数 0），许可随捆绑二进制：以 linux-x86_64 jar
+#   亲查 unzip 只捆绑 LGPL 组件集（libavcodec/avformat/avutil/swscale/swresample/avfilter/avdevice
+#   + JNI 壳 + VA-API/DRM 辅助），x264/x265/xvid 计数 0 = 非 GPL 构建；其余平台 classifier 由同一
+#   Bytedeco 构建矩阵产出、preset 集相同，随包分发前须按平台 jar 复核同样的组件集；jar 内无 LICENSE/NOTICE 文件，
+#   LGPL 义务（许可文本/来源声明/可替换性）在依赖进 main 运行时的打包批次落分发文档；
+# - 🔴 classifier 恒锁默认非 -gpl（-gpl 由 javacpp.platform.extension=-gpl 激活，捆绑 x264 即 GPL），
+#   禁 -gpl 与 x264；录屏重编码需求出现（需 x264）须重新过许可评审；
+# - javacv POM 传递 13 个 org.bytedeco 无关 preset（opencv/openblas/tesseract/flycapture/
+#   libdc1394/libfreenect(2)/librealsense(2)/videoinput/artoolkitplus/flandmark/leptonica，均
+#   compile scope）——引用处 exclude(group = "org.bytedeco") 全排除 + 显式声明 javacpp/ffmpeg 三件；
+# - 版本线 1.5.14（可行性报告实测锚定 1.5.12；Bytedeco 自 1.5.13 起 ffmpeg 配套同跳 8.x——
+#   7.1.1-1.5.14 不存在，javacv/javacpp/ffmpeg 三件版本恒须同线）；
+# - jdeps 亲查（module-info 剥离、--print-module-deps --ignore-missing-deps --multi-release 21）：
+#   三件并集 = java.base,java.desktop,java.logging,java.management,jdk.unsupported——净新增仅
+#   java.desktop（javacv Java2D 转换链）；1.5.14 复测与 1.5.12 输出一致（javacv 打印中的
+#   gluegen.rt/jogl.all 为 optional 传递件引用，运行时不解析，取有效子集）；
+#   composeApp nativeDistributions modules 已按此并集声明，升线后零变化。
+javacv = "1.5.14"
+ffmpegBytedeco = "8.1.2-1.5.14"
+
+[libraries]
+kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
+kotlin-testJunit = { module = "org.jetbrains.kotlin:kotlin-test-junit", version.ref = "kotlin" }
+junit = { module = "junit:junit", version.ref = "junit" }
+androidx-lifecycle-viewmodelCompose = { module = "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose", version.ref = "androidx-lifecycle" }
+androidx-lifecycle-runtimeCompose = { module = "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose", version.ref = "androidx-lifecycle" }
+compose-runtime = { module = "org.jetbrains.compose.runtime:runtime", version.ref = "composeMultiplatform" }
+compose-foundation = { module = "org.jetbrains.compose.foundation:foundation", version.ref = "composeMultiplatform" }
+compose-material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "material3" }
+compose-ui = { module = "org.jetbrains.compose.ui:ui", version.ref = "composeMultiplatform" }
+compose-uiTest = { module = "org.jetbrains.compose.ui:ui-test", version.ref = "composeMultiplatform" }
+compose-components-resources = { module = "org.jetbrains.compose.components:components-resources", version.ref = "composeMultiplatform" }
+compose-uiToolingPreview = { module = "org.jetbrains.compose.ui:ui-tooling-preview", version.ref = "composeMultiplatform" }
+kotlinx-coroutinesSwing = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-swing", version.ref = "kotlinx-coroutines" }
+kotlin-logging-jvm = { module = "io.github.oshai:kotlin-logging-jvm", version.ref = "logging-jvm" }
+androidx-datastore = { group = "androidx.datastore", name = "datastore", version.ref = "androidx-datastore-version" }
+androidx-datastore-preferences = { group = "androidx.datastore", name = "datastore-preferences", version.ref = "androidx-datastore-version" }
+logback-classic = { group = "ch.qos.logback", name = "logback-classic", version.ref = "logback-classic" }
+kotlinx-coroutinesCore = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinx-coroutines" }
+kotlinx-coroutinesTest = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "kotlinx-coroutines" }
+kotlinx-serializationJson = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinx-serialization-json" }
+material-kolor = { module = "com.materialkolor:material-kolor", version.ref = "materialkolor" }
+clikt = { module = "com.github.ajalt.clikt:clikt", version.ref = "clikt" }
+bouncycastle = { module = "org.bouncycastle:bcprov-jdk18on", version.ref = "bouncycastle" }
+commons-compress = { module = "org.apache.commons:commons-compress", version.ref = "commonsCompress" }
+xz-java = { module = "org.tukaani:xz", version.ref = "xzJava" }
+compose-material-symbols = { module = "dev.vicart:compose-material-symbols", version.ref = "composeMaterialSymbols" }
+zstd-jni = { module = "com.github.luben:zstd-jni", version.ref = "zstdJni" }
+oapi-sdk = { module = "com.larksuite.oapi:oapi-sdk", version.ref = "oapi-sdk" }
+koog-agentsCore = { module = "ai.koog:agents-core", version.ref = "koog" }
+koog-agentsFeaturesEventHandler = { module = "ai.koog:agents-features-event-handler", version.ref = "koog" }
+# 批 6：ChatMemory 特性（多轮上下文：ChatHistoryProvider + windowSize 预处理器）——桥接调度 agent 的会话历史
+koog-agentsFeaturesMemory = { module = "ai.koog:agents-features-memory", version.ref = "koog" }
+koog-httpClientJava = { module = "ai.koog:http-client-java", version.ref = "koog" }
+# 批 7：知识库（RAG）链——embeddings-llm（stable：LLMEmbedder 把 LLMClient 适配成 Embedder）
+# + rag-vector（beta：EmbeddingStorage + InMemoryVectorStorageBackend + SimilaritySearchRequest）
+koog-embeddingsLlm = { module = "ai.koog:embeddings-llm", version.ref = "koog" }
+koog-ragVector = { module = "ai.koog:rag-vector", version.ref = "koog-rag" }
+koog-ragVectorJvm = { module = "ai.koog:rag-vector-jvm", version.ref = "koog-rag" }
+# 2026-09-14 用户身份链批：头像加载三件（coil-compose 主体 + coil-network-ktor3 网络引擎 + ktor-client-cio 传输层）
+coil-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coil3" }
+coil-network-ktor3 = { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "coil3" }
+ktor-client-cio = { module = "io.ktor:ktor-client-cio", version.ref = "ktor" }
+sqlite-jdbc = { module = "org.xerial:sqlite-jdbc", version.ref = "sqlite-jdbc" }
+sqldelight-runtime = { module = "app.cash.sqldelight:runtime", version.ref = "sqldelight" }
+sqldelight-coroutines = { module = "app.cash.sqldelight:coroutines-extensions-jvm", version.ref = "sqldelight" }
+sqldelight-driver-jvm = { module = "app.cash.sqldelight:sqlite-driver", version.ref = "sqldelight" }
+# 2026-09-20 P5 MCP 外放：SDK + Ktor 显式声明（🔴 SDK 不传递 Ktor 引擎/编译期件——见 versions 节注释）
+mcp-sdk-server = { module = "io.modelcontextprotocol:kotlin-sdk-server", version.ref = "mcp-sdk" }
+ktor-server-cio-sdk = { module = "io.ktor:ktor-server-cio", version.ref = "ktor-sdk" }
+ktor-server-core-sdk = { module = "io.ktor:ktor-server-core", version.ref = "ktor-sdk" }
+# 2026-09-23 液态玻璃批 1：haze core（状态捕获/BackpropInput）+ glass（GlassStyle 折射材质）
+haze-core = { module = "dev.chrisbanes.haze:haze", version.ref = "haze" }
+haze-glass = { module = "dev.chrisbanes.haze:haze-glass", version.ref = "haze" }
+# scrcpy 投屏 spike：JavaCV 坐标登记（javacv 引用处因 exclude 需带 lambda 走 String 记法，
+# 版本统一引 versions 节；javacpp/ffmpeg 以 catalog accessor 直挂）。
+# 平台 classifier jar（ffmpeg/javacpp 的 native）版本目录不支持 classifier 字段，
+# 由引用处 build 脚本按 "org.bytedeco:<m>:<v>:<构建机 classifier>" 直写（版本同引 version catalog；
+# classifier 随构建 OS/arch 计算，见 feature-screencast/build.gradle.kts）。
+javacpp-core = { module = "org.bytedeco:javacpp", version.ref = "javacv" }
+ffmpeg-binding = { module = "org.bytedeco:ffmpeg", version.ref = "ffmpegBytedeco" }
+
+[plugins]
+sqldelight = { id = "app.cash.sqldelight", version.ref = "sqldelight" }
+composeHotReload = { id = "org.jetbrains.compose.hot-reload", version.ref = "composeHotReload" }
+composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "composeMultiplatform" }
+composeCompiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+jetbrainsKotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
+kotlinSerialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+gradleupShadow = { id = "com.gradleup.shadow", version.ref = "shadow" }
+testRetry = { id = "org.gradle.test-retry", version.ref = "testRetry" }

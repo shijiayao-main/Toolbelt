@@ -1,0 +1,28 @@
+-- run 级查看器书签表：书签行号 + 行首时间戳指纹双锚载荷。
+-- 独立表而非 runs 加列——书签非 run 核心字段（一 run 多文件、一文件多签），
+-- 列污染 RunStore 行面；行文校验（指纹比对复用/漂移拒绝）单源在查看器
+-- 编排层（:ui LogViewerStateHolder），本表只存取不校验。
+-- 行号 1 基（与 log.view / 查看器呈现口径同基）；file_path 为产物文件绝对路径。
+CREATE TABLE run_bookmarks (
+    run_id TEXT NOT NULL,                    -- 所属 run（runs.id——书签生命周期随 run）
+    file_path TEXT NOT NULL,                 -- 书签所在文件绝对路径
+    line_number INTEGER NOT NULL,            -- 1 基行号（查看器行号口径）
+    line_fingerprint TEXT NOT NULL,          -- 行首时间戳指纹（恢复时校验行文一致才复用，漂移拒绝）
+    created_at INTEGER NOT NULL,
+    PRIMARY KEY (run_id, file_path, line_number)
+);
+
+-- 幂等插入（同键覆写无害——快照写入前恒先清空该 (run, file) 既有行）
+insertBookmark:
+INSERT INTO run_bookmarks(run_id, file_path, line_number, line_fingerprint, created_at)
+VALUES (?, ?, ?, ?, ?)
+ON CONFLICT(run_id, file_path, line_number) DO NOTHING;
+
+deleteBookmarksForFile:
+DELETE FROM run_bookmarks WHERE run_id = :runId AND file_path = :filePath;
+
+deleteBookmarksForRun:
+DELETE FROM run_bookmarks WHERE run_id = :runId;
+
+bookmarksForFile:
+SELECT * FROM run_bookmarks WHERE run_id = :runId AND file_path = :filePath ORDER BY line_number ASC;
