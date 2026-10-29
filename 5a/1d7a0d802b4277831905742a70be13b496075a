@@ -1,0 +1,602 @@
+core/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DevToolsTest.kt
+  s_83761dd83f571d::t_a8f0c3e52d8836 3
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastWindowDropPushTest.kt
+  s_83761dd83f571d::t_924763a4145d09 3-11
+  s_83761dd83f571d::t_3407044a06da68 691
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/main.kt
+  s_83761dd83f571d::t_2dbf1af61441fc 125-128
+  s_83761dd83f571d::t_8c5ea80cca4ad1 88
+  s_83761dd83f571d::t_ad2de3d4d4fb5a 41
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/PerfChart.kt
+  s_83761dd83f571d::t_952f3a19452bf1 15-16
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceFileModels.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-61
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatViewModelTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 35-36
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceFilePuller.kt
+  s_83761dd83f571d::t_a349101ebe1645 14,103
+  s_83761dd83f571d::t_582d8e4a92ecf3 126
+  s_83761dd83f571d::t_1d553edb699eaa 394
+  s_83761dd83f571d::t_7595b19d6f633d 404
+  s_83761dd83f571d::t_8213ec525690b2 405
+  s_83761dd83f571d::t_c5199ccca11eff 406
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-13,15-34,36,40,42-45,47-102,104-121,124-125,127-234,236-237,240-290,292-293,296-393,395-403,407-441
+  s_83761dd83f571d::t_50448ed21143b7 239,295
+  s_57160ce6e571a6::t_adbe42fea43607 238,294
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_12d0cd847f544b 235,291
+  s_83761dd83f571d::t_e29f39e2ffb04c 35,37-39,41,46,122-123
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutLightUpTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 10-12
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsPage.kt
+  s_83761dd83f571d::t_952f3a19452bf1 51
+docs/index.md
+  s_57160ce6e571a6::t_70a5041e14f7ec 105-106,108-109
+  s_83761dd83f571d::t_8c9ce678746a56 129
+  s_83761dd83f571d::t_33d8ab4439b14e 86
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFileBrowserPanel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 55-60
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastKeymap.kt
+  s_83761dd83f571d::t_952f3a19452bf1 4
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/device/DeviceStatusBar.kt
+  s_83761dd83f571d::t_120b3e59d9e047 22
+  s_83761dd83f571d::t_95a72c2cc11324 127-136
+  s_83761dd83f571d::t_365d3675b222c1 72-78
+  s_83761dd83f571d::t_27eacb1588be15 21
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/system/ArgvProcessRunner.kt
+  s_83761dd83f571d::t_4525beb836c130 99-107
+docs/core/device.md
+  s_83761dd83f571d::t_cc849dcbe34319 1-101
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/PerfSamplerTest.kt
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_e2cdfa65c48cc4 29-51,124,176-442,480,521-535,587-590
+  s_57160ce6e571a6::t_9aad6c8dd45890 91
+  s_83761dd83f571d::t_4b30bf1260dd80 119
+  s_83761dd83f571d::t_5d598a09925663 52,125,443,481,581
+  s_83761dd83f571d::t_13a833dc5f6e52 1-2
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DevicePackageModels.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-49
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/ReproRecordOrchestratorTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 6-7
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsDecoderTest.kt
+  s_83761dd83f571d::t_00a8ec63de2773 3-7
+  s_83761dd83f571d::t_5a6bae28380be8 1
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/LlmConfigStore.kt
+  s_9d657190b61297::t_9c9843dba0eddf 6
+  s_9d657190b61297::t_b02f20ff5d61fc 152-159
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/LayoutDiagramPane.kt
+  s_83761dd83f571d::t_952f3a19452bf1 46-47
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceFileBrowser.kt
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-14,16-29,32-42,45-46,48-76,79-112,114-122,124-131,133-134,136-152,155-160
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_8213ec525690b2 123,135
+  s_83761dd83f571d::t_7595b19d6f633d 113,132
+  s_83761dd83f571d::t_50448ed21143b7 44,47,78
+  s_83761dd83f571d::t_a349101ebe1645 15
+  s_83761dd83f571d::t_350e9beda8a953 153-154
+  s_83761dd83f571d::t_582d8e4a92ecf3 30-31
+  s_83761dd83f571d::t_12d0cd847f544b 43,77
+feature-shelltools/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModelDeviceDelegationTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 19-21
+NOTICE
+  s_83761dd83f571d::t_6a13d86a6a12f2 10-23
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/extensions/ShellCommandBuilder.kt
+  s_83761dd83f571d::t_8029636842c1e4 124-134,137-143
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceWirelessConnectorTest.kt
+  s_83761dd83f571d::t_5d598a09925663 50,303
+  s_83761dd83f571d::t_dcf4e2651dd155 3,110,115,185
+  s_83761dd83f571d::t_e2cdfa65c48cc4 27-49,109,114,142-180,197-300,372-394
+  s_83761dd83f571d::t_4846f17d18fa6a 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceFilePusherTest.kt
+  s_83761dd83f571d::t_7b0456bb14c5b7 117-118,253,290-291,298-299,312-313,330-331
+  s_83761dd83f571d::t_3eaf6a2c6ceaab 135-226,254,270-288,328
+  s_83761dd83f571d::t_5d598a09925663 120,256,293,303,317,333
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_50111e56712404 1-2
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/PerfPanel.kt
+  s_83761dd83f571d::t_924763a4145d09 46-52
+  s_83761dd83f571d::t_3407044a06da68 105,124,132,147,582,696
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsModels.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-142
+adb-core/src/main/kotlin/com/jiaoay/toolbelt/adb/AdbPlatform.kt
+  s_83761dd83f571d::t_cd3c69b2897f85 33,35
+  s_83761dd83f571d::t_60dcc6400c20ec 1-32,34,36-44
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/PerfPanelSceneGuardTest.kt
+  s_83761dd83f571d::t_bb2484ad8b7c1c 20
+  s_83761dd83f571d::t_1d168a4c96b0d6 146,245
+  s_83761dd83f571d::t_3407044a06da68 166,171,181
+  s_83761dd83f571d::t_e32e4c7f0d3261 37,156-157,259-260
+  s_83761dd83f571d::t_ad456a80b4744f 76
+  s_83761dd83f571d::t_ca25f94c72db06 144-145,243-244
+  s_83761dd83f571d::t_924763a4145d09 12-19
+  s_83761dd83f571d::t_8d0593c47ab71f 11
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/PollingScopeCancelGuardTest.kt
+  s_57160ce6e571a6::t_8538af56f1f165 106-110,192-195
+  s_83761dd83f571d::t_7e061ce54dfdc5 199,201,203
+adb-core/src/test/kotlin/com/jiaoay/toolbelt/adb/AdbBinaryReleaserTest.kt
+  s_83761dd83f571d::t_430a616b388101 1-44,61-134,136-208
+  s_83761dd83f571d::t_d115ce5143dbc1 45-60
+  s_83761dd83f571d::t_1b1cb7cd28d98e 135
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceModels.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-23
+feature-shelltools/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/shelltools/ShellToolsViewModel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 25-30
+  s_83761dd83f571d::t_c3e33c211cbb33 77
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFileBrowserViewModel.kt
+  s_83761dd83f571d::t_3205a887722a15 246-247
+  s_83761dd83f571d::t_952f3a19452bf1 19-30
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceFilePullerTest.kt
+  s_83761dd83f571d::t_7f7ca4ba56bf3c 85-86,193-201
+  s_83761dd83f571d::t_3eaf6a2c6ceaab 83,94-173,211-390
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_5d598a09925663 88
+  s_83761dd83f571d::t_836ad7e5df404e 1-2
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFileBrowserViewModelTest.kt
+  s_83761dd83f571d::t_3fe8c67cb0d5ef 3-4
+  s_83761dd83f571d::t_d73c7465aa3bc4 324,358,378,597,646,686,725,775,808,1103,1152,1184,1214,1284,1327,1434,1440,1559,1610
+  s_83761dd83f571d::t_89e42f236498e2 1561
+  s_83761dd83f571d::t_c6691fa33b190d 1281,1324,1431,1437,1556,1607
+  s_83761dd83f571d::t_d51c4d0685724f 12
+  s_83761dd83f571d::t_11321e44789989 13,594
+  s_83761dd83f571d::t_952f3a19452bf1 27-40
+adb-core/src/main/kotlin/com/jiaoay/toolbelt/adb/AdbEndpointResolver.kt
+  s_83761dd83f571d::t_3bdcd08082fff5 1-60
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/ScanSurfaceSelfCheckTest.kt
+  s_83761dd83f571d::t_cf682896655e09 46,49-50
+device-core/build.gradle.kts
+  s_83761dd83f571d::t_f99796c7ce9cd2 1-19
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/ReproRecord.kt
+  s_83761dd83f571d::t_952f3a19452bf1 34-37
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DevicePackageBrowser.kt
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_c5199ccca11eff 125,135,149
+  s_83761dd83f571d::t_fc8118e704073f 13
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-11,14-28,31-43,45,47-59,61-94,97-120,122-123,126-130,132-133,136-144,146-147,150-154
+  s_83761dd83f571d::t_582d8e4a92ecf3 29-30
+  s_83761dd83f571d::t_a349101ebe1645 12
+  s_83761dd83f571d::t_7595b19d6f633d 121,131,145
+  s_83761dd83f571d::t_8213ec525690b2 124,134,148
+  s_83761dd83f571d::t_50448ed21143b7 46,60,96
+  s_83761dd83f571d::t_12d0cd847f544b 44,95
+adb-core/src/test/kotlin/com/jiaoay/toolbelt/adb/AdbCommandRewriterTest.kt
+  s_83761dd83f571d::t_d9fb9600a70771 21
+  s_83761dd83f571d::t_0dd8110424e04e 1-20,22-165
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatViewModel.kt
+  s_83761dd83f571d::t_3407044a06da68 59
+  s_83761dd83f571d::t_924763a4145d09 8-9
+  s_83761dd83f571d::t_6f2390fb88dc99 7,73
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceMonitorDetectingTest.kt
+  s_83761dd83f571d::t_4e7ac3a059428c 155,184-207,281
+  s_83761dd83f571d::t_4d1c78775e5184 67-76,119
+  s_83761dd83f571d::t_40e625a9f5d295 126-142,177,224,263
+  s_83761dd83f571d::t_f01794f4fe8745 88-98,107,163,217,254,285
+  s_83761dd83f571d::t_863f7dc212451e 227,243-244,261,268-278,282
+  s_83761dd83f571d::t_819898aba5df38 1,279
+adb-core/src/test/kotlin/com/jiaoay/toolbelt/adb/AdbPlatformTest.kt
+  s_83761dd83f571d::t_ce33f526455ae0 1-42
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/DeviceStatusBarSceneGuardTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 19-20
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageDiffSceneGuardTest.kt
+  s_83761dd83f571d::t_bb2484ad8b7c1c 7
+  s_83761dd83f571d::t_d522f6fff789fa 154
+  s_83761dd83f571d::t_952f3a19452bf1 23-25
+  s_83761dd83f571d::t_8d0593c47ab71f 22,100
+  s_83761dd83f571d::t_e32e4c7f0d3261 26,128-129
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceMonitorParsingTest.kt
+  s_83761dd83f571d::t_9b4e8da86ab21f 21-83
+  s_83761dd83f571d::t_c8230809323f30 1
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastRuntime.kt
+  s_83761dd83f571d::t_6f2390fb88dc99 4,51
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastKeymapTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 15
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackagePanel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 51-54
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceMonitorParser.kt
+  s_83761dd83f571d::t_20b3d785c284c0 57-62
+  s_83761dd83f571d::t_5818edf20836f1 81
+  s_83761dd83f571d::t_dd47a907d08dc8 56
+  s_83761dd83f571d::t_7371877828deca 46-48
+  s_83761dd83f571d::t_4ee4383767309c 1-45,49-55,63-80,82-92
+core/build.gradle.kts
+  s_83761dd83f571d::t_77b08bda0be31f 42-48
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatPanelSceneGuardTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 42-43
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/data/FileUtils.kt
+  s_83761dd83f571d::t_002e470ceb81fd 29
+  s_83761dd83f571d::t_171d3d6ab0fcdd 139-143
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceLayoutModels.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-113
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsInspectorTest.kt
+  s_57160ce6e571a6::t_9aad6c8dd45890 100,134,148,161,174,184,199,216,224,234,246
+  s_83761dd83f571d::t_ff0969593a9a6b 4-5
+  s_83761dd83f571d::t_e2cdfa65c48cc4 13-29,58-99,101-109,135,151-156,164-169,175,191,200,217-223,225,235,247-250
+  s_83761dd83f571d::t_5d598a09925663 30
+  s_83761dd83f571d::t_00a8ec63de2773 3
+  s_83761dd83f571d::t_26b0a723c3d4f8 1-2
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceHub.kt
+  s_83761dd83f571d::t_1c02a255b6880e 1-11,13-14,16-20,22-107,118-131
+  s_83761dd83f571d::t_ed5fa1c7035009 21
+  s_83761dd83f571d::t_618a1bff0b3368 109-110,114-115
+  s_83761dd83f571d::t_b174b61739e0e1 12,15
+  s_83761dd83f571d::t_dd0af8c58238f5 108,111-113,116-117
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModelTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 19-27
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageBadgeSceneGuardTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 28-38
+  s_83761dd83f571d::t_bb2484ad8b7c1c 9
+  s_83761dd83f571d::t_8d0593c47ab71f 27,95
+  s_83761dd83f571d::t_e32e4c7f0d3261 39,117-118
+  s_83761dd83f571d::t_d522f6fff789fa 40
+  s_83761dd83f571d::t_a6283912538c54 161,166-167
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageViewModelTest.kt
+  s_83761dd83f571d::t_3fe8c67cb0d5ef 3-5
+  s_83761dd83f571d::t_952f3a19452bf1 24-41
+  s_83761dd83f571d::t_d73c7465aa3bc4 801
+  s_83761dd83f571d::t_f289e2436cdbbd 42
+  s_83761dd83f571d::t_8d0593c47ab71f 23,738
+  s_83761dd83f571d::t_3f0d1d076b0ed2 790,798-799,803
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceTestSupport.kt
+  s_83761dd83f571d::t_869f85c3bd6eeb 1-16
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceShellSupport.kt
+  s_83761dd83f571d::t_5ebefbe6f6fb64 1-5,9,11,17
+  s_83761dd83f571d::t_a344be15979306 6-8,10,13-16,18-29
+  s_83761dd83f571d::t_8213ec525690b2 12
+  s_83761dd83f571d::t_c0c27c558c818e 30-35
+adb-core/src/main/kotlin/com/jiaoay/toolbelt/adb/AdbCommandRewriter.kt
+  s_83761dd83f571d::t_5d740bc241c7d6 1-34,40-83
+  s_83761dd83f571d::t_b8f096c1a89841 35-39
+feature-logcat/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatPanel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 70
+AGENTS.md
+  s_83761dd83f571d::t_cb40e43745c95a 14-16
+  s_83761dd83f571d::t_50f1e6e210883e 111
+adb-core/src/main/kotlin/com/jiaoay/toolbelt/adb/AdbBinaryReleaser.kt
+  s_83761dd83f571d::t_a95622ac7a49e3 74-77,84,90,93,96-107
+  s_83761dd83f571d::t_ff99b51a357ea3 260-270
+  s_83761dd83f571d::t_dfb476da8d7c34 1-73,78-83,85-89,91-92,94-95,108-114,117,120-140,142-183,191-192,194-195,199,201,204-243,247-259,271-297
+  s_83761dd83f571d::t_43e41980460ddb 115-116,118-119
+  s_83761dd83f571d::t_00fc9acfb2fccf 245
+  s_83761dd83f571d::t_c8ad19563edd2d 141
+  s_83761dd83f571d::t_e7ffbd6bf15b90 184-190,193,196-198,200,202-203
+  s_83761dd83f571d::t_f2e6c0e6644d6a 244,246
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/DeviceConfigStore.kt
+  s_83761dd83f571d::t_0e2d1e92b9c6b1 17,26-35,37-49
+feature-logcat/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/logcat/LogcatArmFeaturePresetTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 28-29
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastTestFakes.kt
+  s_83761dd83f571d::t_952f3a19452bf1 22-23
+docs/architecture.md
+  s_83761dd83f571d::t_c3ab5b7ca8a455 103-112
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceFileBrowserTest.kt
+  s_83761dd83f571d::t_57f2966ca074b0 39-40,45-49,64,80-87,97-99,108-110,118-124,140-144,156-160,169,179-183
+  s_57160ce6e571a6::t_9aad6c8dd45890 44,59,72,96,107,117,139,155,168,178
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_7f7ca4ba56bf3c 11-22,60
+  s_83761dd83f571d::t_5d598a09925663 23,129
+  s_83761dd83f571d::t_b40f9035135ac8 1-2
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/KeyEventInjectorTest.kt
+  s_83761dd83f571d::t_ff0969593a9a6b 6-7
+  s_83761dd83f571d::t_5d598a09925663 53,69,226
+  s_83761dd83f571d::t_dcf4e2651dd155 114
+  s_57160ce6e571a6::t_9aad6c8dd45890 176
+  s_83761dd83f571d::t_e2cdfa65c48cc4 30-52,65-68,89-113,121-136,183-224,294-474
+  s_83761dd83f571d::t_00a8ec63de2773 3-5
+  s_83761dd83f571d::t_4b6831ffee148b 1-2
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceLayoutParsers.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-139
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/PerfSampler.kt
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-21,24-81,84-87,89-270,272-302,304-305,307-440,442,444-450,452-462,464-488,490-491,493-494,496-497,499-510,512-531
+  s_83761dd83f571d::t_614cf8d211e231 492
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_fc8118e704073f 23
+  s_83761dd83f571d::t_582d8e4a92ecf3 82-83,271,303,306,498
+  s_83761dd83f571d::t_8eb7eea53fa6e2 511
+  s_83761dd83f571d::t_531f26be1dd84b 441
+  s_83761dd83f571d::t_c5199ccca11eff 443,451,463,495
+  s_83761dd83f571d::t_21bbd46648b4f5 88
+  s_83761dd83f571d::t_a349101ebe1645 22,489
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceMonitorPollingTest.kt
+  s_83761dd83f571d::t_4e7ac3a059428c 119,127,155,168,180
+  s_83761dd83f571d::t_0a28529f307083 112,123,163,176
+  s_83761dd83f571d::t_deff7d7979c9c7 47-72,107,135
+  s_83761dd83f571d::t_270c286a33d385 1
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastPanel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 25
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/AppHostGuardTest.kt
+  s_83761dd83f571d::t_cf265714945f99 173-177
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceFilePusher.kt
+  s_83761dd83f571d::t_a349101ebe1645 12,83
+  s_83761dd83f571d::t_c5199ccca11eff 282
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-11,13-32,38,40-43,45-82,84-106,109-110,112-203,205-206,209-265,267-279,283-313
+  s_83761dd83f571d::t_31c94ff634cd07 281
+  s_83761dd83f571d::t_7595b19d6f633d 280
+  s_83761dd83f571d::t_582d8e4a92ecf3 111
+  s_83761dd83f571d::t_50448ed21143b7 208
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_e29f39e2ffb04c 33-37,39,44,107-108
+  s_83761dd83f571d::t_12d0cd847f544b 204
+  s_57160ce6e571a6::t_adbe42fea43607 207
+  s_83761dd83f571d::t_1d553edb699eaa 266
+adb-core/build.gradle.kts
+  s_83761dd83f571d::t_88ee6ae32c30ab 132
+  s_83761dd83f571d::t_3c7ebcd2d39d89 101
+  s_83761dd83f571d::t_246346518de541 220-230
+  s_83761dd83f571d::t_e08be6ee0c1cca 86
+  s_83761dd83f571d::t_3a1a25d62f57b0 1-85,87-100,102-120,126-131,133-219,231-243
+  s_83761dd83f571d::t_63e7d82d5c585c 121-125
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindow.kt
+  s_83761dd83f571d::t_8ca5ace39ac763 475-481
+  s_83761dd83f571d::t_3407044a06da68 390,400
+  s_83761dd83f571d::t_924763a4145d09 80-82
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastPanelDetachedTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 35
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/host/initializer/BundledAdbWarmupInitializer.kt
+  s_83761dd83f571d::t_3037c27e100218 1-17,19-52
+  s_83761dd83f571d::t_dd47a907d08dc8 18
+adb-core/src/test/kotlin/com/jiaoay/toolbelt/adb/AdbEndpointResolverTest.kt
+  s_83761dd83f571d::t_8df98908e282e1 1-136
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceMonitor.kt
+  s_83761dd83f571d::t_062d3d413aef81 1-113,115-163,168-250
+  s_83761dd83f571d::t_7cac84ab530644 114
+  s_83761dd83f571d::t_eb5b697231ba75 164-167
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceLayoutInspector.kt
+  s_83761dd83f571d::t_8213ec525690b2 116
+  s_83761dd83f571d::t_7595b19d6f633d 113
+  s_83761dd83f571d::t_50448ed21143b7 46
+  s_83761dd83f571d::t_c5199ccca11eff 117
+  s_83761dd83f571d::t_a349101ebe1645 14
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-13,15-31,34-44,47-112,114-115,118-122
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_582d8e4a92ecf3 32-33
+  s_83761dd83f571d::t_12d0cd847f544b 45
+settings.gradle.kts
+  s_83761dd83f571d::t_3de8ba2b6f7602 38
+  s_83761dd83f571d::t_15ee6515bfc523 39
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastEngine.kt
+  s_83761dd83f571d::t_3407044a06da68 704
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/AdbServerShutdownParticipant.kt
+  s_83761dd83f571d::t_51cc9c034b7895 9
+  s_83761dd83f571d::t_45b020826849d4 1-7,10-16,20-22,26-29,32-45,55-65
+  s_83761dd83f571d::t_7521552e9d0b6b 8,17-19,23-25,30-31,50,54
+  s_83761dd83f571d::t_b13e2ed3760d7b 46-48
+  s_83761dd83f571d::t_c629a468704f81 49,51-53
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/PerfSampleModels.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-164
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutPanel.kt
+  s_83761dd83f571d::t_3205a887722a15 198-199
+  s_83761dd83f571d::t_952f3a19452bf1 60-68
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceMonitorSelectionTest.kt
+  s_83761dd83f571d::t_5d598a09925663 48
+  s_83761dd83f571d::t_0a28529f307083 47
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_beeaa8cf733f90 1-2
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/settings/AdbPathSetting.kt
+  s_83761dd83f571d::t_cb6884ef8940a4 59
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/AndroidKeyCodes.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-395
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DevicePackageParsers.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-170
+core/libs/adb/README.md
+  s_83761dd83f571d::t_b80dd22248619b 1-57
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/PerfCsvExportTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 11-13
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastViewModelTest.kt
+  s_83761dd83f571d::t_924763a4145d09 3
+  s_83761dd83f571d::t_3407044a06da68 108-109,146-147,259-260
+.gitignore
+  s_83761dd83f571d::t_5e428342f30ce4 31-37
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/arch/LarkSdkIsolationTest.kt
+  s_83761dd83f571d::t_7d31b71ab966dc 612
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceLayoutInspectorTest.kt
+  s_83761dd83f571d::t_5d598a09925663 27
+  s_83761dd83f571d::t_7b0456bb14c5b7 11-26,52-82,141-149,151-184
+  s_57160ce6e571a6::t_9aad6c8dd45890 140,150
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_923eeb1cd90263 1-2
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/device/SystemAdbProcessRunner.kt
+  s_83761dd83f571d::t_ed5fa1c7035009 9,31-41
+  s_83761dd83f571d::t_edecb05b47ff4b 1-8,10-30,42-56
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutDiagramTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 13-15
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastWindowDropPush.kt
+  s_83761dd83f571d::t_952f3a19452bf1 11-13
+  s_83761dd83f571d::t_c3e33c211cbb33 114-115,118-124
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/AdbProcessRunner.kt
+  s_83761dd83f571d::t_91d858a6da9d1b 41-43,45,54-55,61,63-71
+  s_83761dd83f571d::t_46cf89fee62a2c 1-31,33-40,44,46-53,56-60,72-86
+  s_83761dd83f571d::t_b247905b96f3ce 32
+  s_83761dd83f571d::t_dd47cd05a198e0 62
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastPanelSceneGuardTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 37
+core/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/core/llm/tools/DevTools.kt
+  s_83761dd83f571d::t_ed5fa1c7035009 6
+feature-screencast/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastViewModel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 15-16
+  s_83761dd83f571d::t_6f2390fb88dc99 6,143
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/PerfCsvExporter.kt
+  s_83761dd83f571d::t_f1d8a4c66a8284 1-29,32-33,48-94
+  s_83761dd83f571d::t_f48525b6d70cf0 30-31,35,38-39,46-47
+  s_83761dd83f571d::t_45370da21632d4 34,36-37,40-45
+ui/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/widget/device/DeviceSelectDialog.kt
+  s_83761dd83f571d::t_ce196b52cf57fc 24
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceFileParsers.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-171
+feature-screencast/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/screencast/ScreencastDetachedWindowContentTest.kt
+  s_83761dd83f571d::t_924763a4145d09 18
+  s_83761dd83f571d::t_3407044a06da68 1067,1072,1074,1129
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceObsSubpageSceneGuardTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 37-46
+  s_83761dd83f571d::t_8c4befc77ef248 10,288,296,339-340,363-364,394-395,425,483-484,614-615,636-637,686-687
+  s_83761dd83f571d::t_43c2a98a4f7423 36,47,221,279-280,292-293,300-301
+  s_83761dd83f571d::t_0ecc78913d93b5 48,485-486,517-518,567-568
+  s_83761dd83f571d::t_01e6a4f64bad2b 431-437
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsInspector.kt
+  s_83761dd83f571d::t_a349101ebe1645 16
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_fc8118e704073f 20,22
+  s_83761dd83f571d::t_582d8e4a92ecf3 38-39
+  s_83761dd83f571d::t_c5199ccca11eff 142,155,166
+  s_83761dd83f571d::t_12d0cd847f544b 51
+  s_83761dd83f571d::t_31c94ff634cd07 153-154
+  s_83761dd83f571d::t_8213ec525690b2 141,165
+  s_83761dd83f571d::t_7595b19d6f633d 138,152,162
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-15,17-19,21,23-37,40-50,52,54-68,70-96,98-137,139-140,143-151,156-161,163-164,167-171
+  s_83761dd83f571d::t_50448ed21143b7 53,69,97
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceObsHeaderLayoutGuardTest.kt
+  s_83761dd83f571d::t_952f3a19452bf1 12
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceWirelessConnector.kt
+  s_83761dd83f571d::t_b8f6a181494b12 82
+  s_83761dd83f571d::t_a349101ebe1645 66,128
+  s_83761dd83f571d::t_12d0cd847f544b 106
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-65,67-79,83-105,108-113,115-127,129,131,133-142,144-156,158-185,187,189-198,200-301,304-305,308-309,312-316,319-321,323-326
+  s_83761dd83f571d::t_8eb7eea53fa6e2 107,130,322
+  s_83761dd83f571d::t_582d8e4a92ecf3 80-81,114
+  s_83761dd83f571d::t_c5199ccca11eff 132,143,157,188,199,302-303,306-307,310-311,317-318
+  s_83761dd83f571d::t_876018569ea2fe 186
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceApkInstallerTest.kt
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_3eaf6a2c6ceaab 91
+  s_83761dd83f571d::t_5d598a09925663 66,95-292
+  s_83761dd83f571d::t_57f2966ca074b0 93-94
+  s_83761dd83f571d::t_f645a1af322c33 1-2
+adb-core/src/main/kotlin/com/jiaoay/toolbelt/adb/AdbEndpoint.kt
+  s_83761dd83f571d::t_4684929a1a4fce 1-17,25-44
+  s_83761dd83f571d::t_424fbef7754bda 18-24
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceApkInstaller.kt
+  s_57160ce6e571a6::t_adbe42fea43607 149
+  s_83761dd83f571d::t_12d0cd847f544b 146
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-15,18-26,28-37,43,45-48,50-82,84-100,105-145,147-148,151-280,284-293
+  s_83761dd83f571d::t_c5199ccca11eff 283
+  s_83761dd83f571d::t_50448ed21143b7 150
+  s_83761dd83f571d::t_e29f39e2ffb04c 38-42,44,49,101-102
+  s_83761dd83f571d::t_582d8e4a92ecf3 104
+  s_83761dd83f571d::t_8d0aed83476a63 103,281-282
+  s_83761dd83f571d::t_a349101ebe1645 16-17
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_fc8118e704073f 27,83
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/TestSupport.kt
+  s_83761dd83f571d::t_46c5b3f1662b8e 28-31
+  s_83761dd83f571d::t_0cec6770ec2d03 1-2,7-17
+  s_83761dd83f571d::t_4bce40b423ee14 18-27,32-34
+  s_83761dd83f571d::t_dcf4e2651dd155 6
+  s_83761dd83f571d::t_cae134ee648bce 3-5
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DevicePackageViewModel.kt
+  s_83761dd83f571d::t_3205a887722a15 363
+  s_83761dd83f571d::t_8b1b269b97adf1 6
+  s_83761dd83f571d::t_952f3a19452bf1 15-16,18-25
+  s_83761dd83f571d::t_1a790fbdec27f9 17
+  s_83761dd83f571d::t_da1551e7c984d0 362
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/KeyPadPanel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 54-60
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/KeyEventInjector.kt
+  s_83761dd83f571d::t_582d8e4a92ecf3 152-153,251,280,306,319
+  s_83761dd83f571d::t_21bbd46648b4f5 317-318
+  s_83761dd83f571d::t_7595b19d6f633d 372
+  s_83761dd83f571d::t_c5199ccca11eff 376
+  s_83761dd83f571d::t_12d0cd847f544b 255,302
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+  s_83761dd83f571d::t_b8f6a181494b12 154,257,303
+  s_83761dd83f571d::t_a349101ebe1645 113,316
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-112,114-151,155-250,252-254,256,258-279,281-301,304-305,307-315,320-371,373-375,377-381,383-384
+  s_83761dd83f571d::t_8eb7eea53fa6e2 382
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceObsPage.kt
+  s_83761dd83f571d::t_a0c2b592cf2cb7 156
+  s_83761dd83f571d::t_924763a4145d09 30,32-34,37-43
+  s_83761dd83f571d::t_3205a887722a15 136-137
+  s_83761dd83f571d::t_b7b582a18ccf9e 245
+  s_83761dd83f571d::t_3407044a06da68 468
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/PerfChartMappingTest.kt
+  s_83761dd83f571d::t_3407044a06da68 238,245,252,254-255,265
+  s_83761dd83f571d::t_924763a4145d09 3-6
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/PerfParsers.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-276
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceFilePullProductSceneGuardTest.kt
+  s_83761dd83f571d::t_3fe8c67cb0d5ef 9-11
+  s_83761dd83f571d::t_952f3a19452bf1 28-36
+  s_83761dd83f571d::t_43c2a98a4f7423 176
+  s_83761dd83f571d::t_c6691fa33b190d 173
+  s_83761dd83f571d::t_89e42f236498e2 37,102-103
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsDecoder.kt
+  s_83761dd83f571d::t_7bf414ac7bcbc9 1-422
+device-core/src/main/kotlin/com/jiaoay/toolbelt/device/DevicePackageActions.kt
+  s_83761dd83f571d::t_a349101ebe1645 42,208
+  s_83761dd83f571d::t_582d8e4a92ecf3 56,59,216-217,262
+  s_83761dd83f571d::t_1d553edb699eaa 167
+  s_83761dd83f571d::t_c5199ccca11eff 178,283,293,303
+  s_83761dd83f571d::t_31c94ff634cd07 246,250,257
+  s_83761dd83f571d::t_36a37d5944a9b9 1-4,6-41,43-55,61-70,73-166,168-173,175-176,179-207,210-215,219-228,231-245,247-249,251-256,258-261,263-278,280-281,284-288,290-291,294-298,300-301,304-308
+  s_83761dd83f571d::t_b8f6a181494b12 60,218
+  s_83761dd83f571d::t_531f26be1dd84b 57-58
+  s_83761dd83f571d::t_50448ed21143b7 72,230
+  s_83761dd83f571d::t_7595b19d6f633d 174,279,289,299
+  s_83761dd83f571d::t_fc8118e704073f 209
+  s_83761dd83f571d::t_12d0cd847f544b 71,229
+  s_83761dd83f571d::t_8213ec525690b2 177,282,292,302
+  s_83761dd83f571d::t_74fe0e33fafba4 5
+composeApp/src/jvmMain/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModel.kt
+  s_83761dd83f571d::t_952f3a19452bf1 13-20
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DevicePackageBrowserTest.kt
+  s_83761dd83f571d::t_e2cdfa65c48cc4 13-30,51-90,239-246,264,272-279,287-289,304-306,315-317,326-329,345-349,357,372,382,392-396
+  s_57160ce6e571a6::t_9aad6c8dd45890 232,263,271,286,297,314,325,344,356,371,381,391
+  s_83761dd83f571d::t_5d598a09925663 31,334
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_c74443eacfefa4 1-2
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/KeyPadPanelSceneGuardTest.kt
+  s_83761dd83f571d::t_1d168a4c96b0d6 77,85
+  s_83761dd83f571d::t_bb2484ad8b7c1c 7
+  s_83761dd83f571d::t_ca25f94c72db06 26,75-76,83-84
+  s_83761dd83f571d::t_952f3a19452bf1 20-25
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DevicePackageActionsTest.kt
+  s_83761dd83f571d::t_ff0969593a9a6b 3-4
+  s_83761dd83f571d::t_5d598a09925663 42-89,94-97
+  s_57160ce6e571a6::t_9aad6c8dd45890 160,179,190,201,352,369,380,394
+  s_83761dd83f571d::t_da3b44b3b21ef4 13,91,100,161-166,180,191,202,362,370,381-384,395-399
+  s_83761dd83f571d::t_b0fc713e46ec87 1-2
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/AndroidKeyCodesTest.kt
+  s_83761dd83f571d::t_d260fd0293dcd4 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceFileParsersTest.kt
+  s_83761dd83f571d::t_59df64a0ac01fe 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceHotPathBudgetTest.kt
+  s_83761dd83f571d::t_32c3ac58537d41 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceLayoutParsersTest.kt
+  s_83761dd83f571d::t_7f5a87ec4095db 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsFixtures.kt
+  s_83761dd83f571d::t_981bcb0cccdf81 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/PerfCsvExporterTest.kt
+  s_83761dd83f571d::t_cc8b9398b5d81d 1
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/PerfParsersTest.kt
+  s_83761dd83f571d::t_56c0991c9bf355 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a1d7a0d802b4277831905742a70be13b496075a",
+  "prompts": {},
+  "sessions": {
+    "s_57160ce6e571a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f144ecb-e873-49d6-b76c-3b219affe9c4",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_83761dd83f571d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd69a498-5ad9-4c7f-83c9-52cea0f86c19",
+        "model": "unknown"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    },
+    "s_9d657190b61297": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "80a29f52-3715-4a36-85d7-137ca0ed59eb",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
