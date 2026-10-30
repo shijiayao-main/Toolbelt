@@ -1,0 +1,27 @@
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutDiagramTest.kt
+  s_b1c036d375d485::t_25de563bed7442 224,226-228,231
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsDecoderTest.kt
+  s_b1c036d375d485::t_d455d727a64d24 53-54,60
+  s_b1c036d375d485::t_1a2a3b964ab581 83-84
+device-core/src/test/kotlin/com/jiaoay/toolbelt/device/DeviceWindowViewsFixtures.kt
+  s_b1c036d375d485::t_ee429d4b348e65 217-218,229,234
+  s_b1c036d375d485::t_54dd88ebec0aa4 284
+composeApp/src/jvmTest/kotlin/com/jiaoay/easy_dev_toolbox/page/deviceobs/DeviceLayoutViewModelTest.kt
+  s_b1c036d375d485::t_70dc6f8d5ecbd1 1125-1126,1130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a55188f3d31ed5f9b29535fab158aee50934e427",
+  "prompts": {},
+  "sessions": {
+    "s_b1c036d375d485": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b83a45b8-da37-4074-8094-4acf0c9860a4",
+        "model": "glm-5.3-NVFP4"
+      },
+      "human_author": "shijiayao <32740499+shijiayao-main@users.noreply.github.com>"
+    }
+  }
+}
